@@ -1,0 +1,1002 @@
+Project Name,Address,No. of Units,Area (sqm),Type of Area,Transacted Price ($),Nett Price($),Unit Price ($ psm),Unit Price ($ psf),Sale Date,Property Type,Tenure,Completion Date,Type of Sale,Purchaser Address Indicator,Postal District,Postal Sector,Postal Code,Planning Region,Planning Area
+COSTA DEL SOL,78 Bayshore Road  #03-21 ,1,145,Strata,1630000,-,11241,1044,03-MAR-2017,Condominium,99 Yrs From 05/05/1997,2003,Resale,HDB,16,46,469991,East Region,Bedok
+RIVERGATE,99 Robertson Quay  #37-16 ,1,341,Strata,6000000,-,17595,1635,03-MAR-2017,Apartment,Freehold,2009,Resale,Private,09,23,238258,Central Region,Singapore River
+SOL ACRES,10 Choa Chu Kang Grove  #16-27 ,1,79,Strata,701000,-,8873,824,03-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688207,West Region,Choa Chu Kang
+TREASURE CREST,50 Anchorvale Crescent  #07-04 ,1,107,Strata,782000,-,7308,679,03-MAR-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,N.A,19,54,544629,North East Region,Sengkang
+SOL ACRES,14 Choa Chu Kang Grove  #21-34 ,1,57,Strata,509000,-,8930,830,03-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688209,West Region,Choa Chu Kang
+THOMSON 800,806 Thomson Road  #10-09 ,1,130,Strata,1730000,-,13308,1236,03-MAR-2017,Condominium,Freehold,1999,Resale,HDB,11,29,298189,Central Region,Toa Payoh
+PARC RIVIERA,103 West Coast Vale  #03-18 ,1,66,Strata,865000,-,13106,1218,03-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+COCO PALMS,27 Pasir Ris Grove  #04-50 ,1,117,Strata,1370000,-,11709,1088,03-MAR-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,N.A,18,51,518073,East Region,Pasir Ris
+BALMORAL 8,8 Balmoral Road  #05-02 ,1,171,Strata,2850000,-,16667,1548,03-MAR-2017,Condominium,Freehold,2003,Resale,Private,10,25,259792,Central Region,Newton
+GRANDEUR PARK RESIDENCES,5 Bedok South Avenue 3  #02-23 ,1,117,Strata,1616020,-,13812,1283,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465463,East Region,Bedok
+AVALON,25 Anderson Road  #05-01 ,1,108,Strata,1850000,-,17130,1591,03-MAR-2017,Condominium,Freehold,1999,Resale,Private,10,25,259986,Central Region,Tanglin
+PALM GARDENS,2D Hong San Walk  #02-12 ,1,112,Strata,800000,-,7143,664,03-MAR-2017,Condominium,99 Yrs From 12/08/1996,2000,Resale,HDB,23,68,689050,West Region,Choa Chu Kang
+VUE 8 RESIDENCE,83 Pasir Ris Heights  #03-02 ,1,181,Strata,1539000,-,8503,790,03-MAR-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,Private,18,51,519283,East Region,Pasir Ris
+THE RITZ-CARLTON RESIDENCES SINGAPORE CAIRNHILL,65 Cairnhill Road  #10-02 ,1,263,Strata,9411750,-,35786,3325,03-MAR-2017,Apartment,Freehold,2011,Resale,Private,09,22,229721,Central Region,Newton
+HILLVIEW REGENCY,28 Bukit Batok East Avenue 2  #05-21 ,1,90,Strata,830000,-,9222,857,03-MAR-2017,Condominium,99 Yrs From 20/06/2000,2006,Resale,HDB,23,65,659921,West Region,Bukit Batok
+V ON SHENTON,5A Shenton Way  #46-11 ,1,44,Strata,1275660,-,28992,2693,03-MAR-2017,Apartment,99 Yrs From 29/11/2011,Uncompleted,New Sale,N.A,01,06,068814,Central Region,Downtown Core
+N.A.,223 Wolskel Road ,1,397,Land,4280000,-,10784,1002,03-MAR-2017,Semi-Detached House,Freehold,1996,Resale,Private,13,35,358008,North East Region,Serangoon
+OPERA ESTATE,27 Rienzi Street ,1,129,Land,2150000,-,16615,1544,03-MAR-2017,Terrace House,Freehold,1998,Resale,Private,15,45,456414,East Region,Bedok
+WESTWOOD RESIDENCES,190 Westwood Avenue  #11-24 ,1,107,Strata,955800,-,8933,830,03-MAR-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,N.A,22,64,648150,West Region,Jurong West
+THE AMBROSIA,108 Lorong N Telok Kurau  #04-08 ,1,106,Strata,1340000,-,12642,1174,03-MAR-2017,Apartment,Freehold,2010,Resale,Private,15,42,425262,East Region,Bedok
+WESTWOOD RESIDENCES,192 Westwood Avenue  #05-27 ,1,96,Strata,808000,-,8417,782,03-MAR-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,HDB,22,64,648151,West Region,Jurong West
+TRIBECA,60 Kim Seng Road  #05-07 ,1,127,Strata,2230000,-,17559,1631,03-MAR-2017,Condominium,Freehold,2010,Resale,HDB,09,23,239497,Central Region,Singapore River
+LEEDON RESIDENCE,24 Leedon Heights  #11-33 ,1,233,Strata,5700000,-,24464,2273,03-MAR-2017,Condominium,Freehold,2015,Resale,Private,10,26,266220,Central Region,Bukit Timah
+WANDERVALE,361 Choa Chu Kang Avenue 3  #02-21 ,1,102,Strata,830000,-,8137,756,03-MAR-2017,Executive Condominium,99 Yrs From 08/12/2014,2018,New Sale,Private,23,68,689884,West Region,Choa Chu Kang
+CAIRNHILL NINE,9 Cairnhill Road  #13-01 ,1,96,Strata,2503000,-,26073,2422,03-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,Private,09,22,229723,Central Region,Orchard
+THE VALES,83 Anchorvale Crescent  #02-27 ,1,84,Strata,734000,-,8738,812,03-MAR-2017,Executive Condominium,99 Yrs From 19/05/2014,2017,New Sale,HDB,19,54,544626,North East Region,Sengkang
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #09-42 ,1,52,Strata,814000,-,15654,1454,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465465,East Region,Bedok
+COSTA RHU,3 Rhu Cross  #13-12 ,1,153,Strata,1880000,-,12288,1142,03-MAR-2017,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437433,Central Region,Kallang
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #04-08 ,1,39,Strata,598490,-,15346,1426,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465461,East Region,Bedok
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #01-31 ,1,62,Strata,912000,-,14710,1367,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465464,East Region,Bedok
+PARC RIVIERA,101 West Coast Vale  #30-08 ,1,56,Strata,810000,-,14464,1344,03-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+LOFT@HOLLAND,151 Holland Road  #02-01 ,1,30,Strata,700000,-,23333,2168,03-MAR-2017,Apartment,Freehold,2014,Resale,Private,10,27,278580,Central Region,Bukit Timah
+HAWAII TOWER,75 Meyer Road  #05-02 ,1,208,Strata,2520000,-,12115,1126,03-MAR-2017,Condominium,Freehold,1984,Resale,Private,15,43,437901,Central Region,Marine Parade
+EAST MEADOWS,32 Tanah Merah Kechil Road  #02-18 ,1,111,Strata,1010000,-,9099,845,03-MAR-2017,Condominium,99 Yrs From 02/03/1998,2002,Resale,Private,16,46,465559,East Region,Bedok
+GRANDEUR PARK RESIDENCES,11 Bedok South Avenue 3  #08-43 ,1,53,Strata,731000,-,13792,1281,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465466,East Region,Bedok
+WANDERVALE,353 Choa Chu Kang Avenue 3  #02-07 ,1,101,Strata,814000,-,8059,749,03-MAR-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,HDB,23,68,689880,West Region,Choa Chu Kang
+PARC VERA,6 Hougang Street 32  #07-10 ,1,73,Strata,780000,-,10685,993,03-MAR-2017,Condominium,99 Yrs From 20/12/2010,2014,Resale,HDB,19,53,534039,North East Region,Hougang
+PARC RIVIERA,103 West Coast Vale  #30-13 ,1,60,Strata,861000,-,14350,1333,03-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+SEASTRAND,15 Pasir Ris Link  #03-33 ,1,66,Strata,680000,-,10303,957,03-MAR-2017,Condominium,99 Yrs From 03/01/2011,2014,Resale,Private,18,51,518182,East Region,Pasir Ris
+SOL ACRES,10 Choa Chu Kang Grove  #13-27 ,1,79,Strata,692000,-,8759,814,03-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,Private,23,68,688207,West Region,Choa Chu Kang
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #11-28 ,1,115,Strata,1679000,-,14600,1356,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465464,East Region,Bedok
+WING FONG COURT,10 Lorong 14 Geylang  #05-02 ,1,62,Strata,530000,-,8548,794,03-MAR-2017,Apartment,Freehold,1997,Resale,Private,14,39,398922,Central Region,Geylang
+GRANDEUR PARK RESIDENCES,11 Bedok South Avenue 3  #04-47 ,1,55,Strata,788610,-,14338,1332,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465466,East Region,Bedok
+CAIRNHILL NINE,9 Cairnhill Road  #17-01 ,1,96,Strata,2561000,-,26677,2478,03-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,Private,09,22,229723,Central Region,Orchard
+SUITES AT ORCHARD,38 Handy Road  #10-10 ,1,85,Strata,1600000,-,18824,1749,03-MAR-2017,Apartment,99 Yrs From 27/06/2007,2014,Resale,Private,09,22,229239,Central Region,Museum
+PRINCIPAL GARDEN,95 Prince Charles Crescent  #18-15 ,1,75,Strata,1439000,1434000,19120,1776,03-MAR-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,HDB,03,15,159027,Central Region,Bukit Merah
+THE RED HOUSE,63 East Coast Road  #02-19 ,1,67,Strata,1070000,-,15970,1484,03-MAR-2017,Apartment,99 Yrs From 06/01/2012,2016,New Sale,N.A,15,42,428776,Central Region,Marine Parade
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #04-06 ,1,51,Strata,755000,-,14804,1375,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465461,East Region,Bedok
+WATERBANK AT DAKOTA,84 Dakota Crescent  #15-28 ,1,117,Strata,1700000,-,14530,1350,03-MAR-2017,Condominium,99 Yrs From 07/12/2009,2013,Resale,HDB,14,39,399948,Central Region,Geylang
+PINE GROVE,1C Pine Grove  #05-09 ,1,163,Strata,1330000,-,8160,758,03-MAR-2017,Condominium,99 Yrs From 01/11/1984,Unknown,Resale,Private,21,59,592001,Central Region,Bukit Timah
+WESTWOOD RESIDENCES,194 Westwood Avenue  #13-31 ,1,115,Strata,1003563,-,8727,811,03-MAR-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,N.A,22,64,648152,West Region,Jurong West
+BISHAN LOFT,33 Bishan Street 11  #22-08 ,1,130,Strata,1410000,-,10846,1008,03-MAR-2017,Executive Condominium,99 Yrs From 13/12/2000,2003,Resale,Private,20,57,579820,Central Region,Bishan
+SIXTH AVENUE VILLE,43 Sixth Avenue  #01-11 ,1,147,Strata,2050000,-,13946,1296,03-MAR-2017,Condominium,Freehold,1999,Resale,HDB,10,27,276484,Central Region,Bukit Timah
+WESTWOOD RESIDENCES,188 Westwood Avenue  #04-18 ,1,115,Strata,987000,-,8583,797,03-MAR-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,Private,22,64,648149,West Region,Jurong West
+THE RITZ-CARLTON RESIDENCES SINGAPORE CAIRNHILL,65 Cairnhill Road  #10-01 ,1,263,Strata,9411750,-,35786,3325,03-MAR-2017,Apartment,Freehold,2011,Resale,Private,09,22,229721,Central Region,Newton
+GRANDEUR PARK RESIDENCES,5 Bedok South Avenue 3  #11-24 ,1,135,Strata,1929000,-,14289,1327,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465463,East Region,Bedok
+THE MEYERISE,97 Meyer Road  #06-05 ,1,81,Strata,1480000,-,18272,1697,03-MAR-2017,Condominium,Freehold,2014,Resale,Private,15,43,437918,Central Region,Marine Parade
+PRINCIPAL GARDEN,99 Prince Charles Crescent  #09-29 ,1,80,Strata,1376000,-,17200,1598,03-MAR-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,Private,03,15,159029,Central Region,Bukit Merah
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #12-33 ,1,90,Strata,1348300,-,14981,1392,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465464,East Region,Bedok
+THE ESPARIS,7A Pasir Ris Drive 4  #02-07 ,1,109,Strata,850000,-,7798,724,03-MAR-2017,Executive Condominium,99 Yrs From 21/01/2002,2005,Resale,Private,18,51,519460,East Region,Pasir Ris
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #13-27 ,1,52,Strata,862000,-,16577,1540,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465464,East Region,Bedok
+MELVILLE PARK,16 Simei Street 1  #02-13 ,1,112,Strata,770000,-,6875,639,03-MAR-2017,Condominium,99 Yrs From 01/09/1992,1996,Resale,HDB,18,52,529942,East Region,Tampines
+VALLEY PARK,479 River Valley Road  #13-02 ,1,113,Strata,1790000,-,15841,1472,03-MAR-2017,Condominium,999 Yrs From 21/06/1877,1997,Resale,HDB,10,24,248364,Central Region,Tanglin
+PARC RIVIERA,103 West Coast Vale  #26-19 ,1,56,Strata,785045,-,14019,1302,03-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+POLLEN & BLEU,17 Farrer Drive  #06-12 ,1,81,Strata,1807000,-,22309,2073,03-MAR-2017,Condominium,99 Yrs From 24/09/2012,2016,Resale,Private,10,25,259297,Central Region,Tanglin
+GRANDEUR PARK RESIDENCES,3 Bedok South Avenue 3  #04-20 ,1,83,Strata,1189000,-,14325,1331,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465462,East Region,Bedok
+21 RICHARDS,21 Richards Avenue  #03-05 ,1,38,Strata,590000,-,15526,1442,03-MAR-2017,Apartment,Freehold,2013,Resale,HDB,19,54,546430,North East Region,Hougang
+SILVERSCAPE,39 Lorong 32 Geylang  #06-04 ,1,38,Strata,540000,-,14211,1320,03-MAR-2017,Apartment,Freehold,2015,Resale,HDB,14,39,398299,Central Region,Geylang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #29-06 ,1,106,Strata,1539000,-,14519,1349,03-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #10-32 ,1,90,Strata,1258090,-,13979,1299,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465464,East Region,Bedok
+CLEMENTIWOODS CONDOMINIUM,80 West Coast Road  #03-17 ,1,129,Strata,1518000,-,11767,1093,03-MAR-2017,Condominium,99 Yrs From 07/02/2006,2010,Resale,Private,05,12,126816,West Region,Clementi
+HILLCREST VILLA,15N Hillcrest Road ,1,287,Strata,2750000,-,9582,890,03-MAR-2017,Terrace House,99 Yrs From 03/08/2006,2009,Resale,Private,11,28,286763,Central Region,Bukit Timah
+LAKEHOLMZ,88 Corporation Road  #11-18 ,1,140,Strata,1220000,-,8714,810,03-MAR-2017,Condominium,99 Yrs From 29/10/2001,2005,Resale,HDB,22,64,649823,West Region,Jurong West
+WANDERVALE,359 Choa Chu Kang Avenue 3  #01-17 ,1,102,Strata,858000,-,8412,781,03-MAR-2017,Executive Condominium,99 Yrs From 08/12/2014,2018,New Sale,HDB,23,68,689883,West Region,Choa Chu Kang
+THE WATERINA,55 Lorong 40 Geylang  #03-14 ,1,125,Strata,1600000,-,12800,1189,03-MAR-2017,Apartment,Freehold,2005,Resale,HDB,14,39,398079,Central Region,Geylang
+THE WINDSOR,7 Ontario Avenue  #03-08 ,1,206,Strata,1960000,-,9515,884,03-MAR-2017,Condominium,Freehold,1989,Resale,Private,20,57,576196,Central Region,Bishan
+THE TREVOSE,60 Trevose Crescent  #03-22 ,1,90,Strata,1260000,-,14000,1301,03-MAR-2017,Condominium,99 Yrs From 14/12/1996,2001,Resale,Private,11,29,298090,Central Region,Novena
+KINGSFORD . HILLVIEW PEAK,103 Hillview Rise  #11-18 ,1,205,Strata,1883000,-,9185,853,03-MAR-2017,Condominium,99 Yrs From 04/06/2012,2017,New Sale,Private,23,66,667982,West Region,Bukit Batok
+TREASURE CREST,54 Anchorvale Crescent  #12-15 ,1,116,Strata,894000,-,7707,716,03-MAR-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,HDB,19,54,544631,North East Region,Sengkang
+BALLOTA PARK CONDOMINIUM,164 Mariam Way  #02-04 ,1,159,Strata,1208000,-,7597,706,03-MAR-2017,Condominium,Freehold,2000,Resale,Private,17,50,507086,East Region,Pasir Ris
+THE PEAK @ CAIRNHILL I,51 Cairnhill Circle  #07-03 ,1,63,Strata,1720000,-,27302,2536,03-MAR-2017,Apartment,Freehold,2014,Resale,Private,09,22,229784,Central Region,Newton
+HERITAGE VIEW,8 Dover Rise  #18-12 ,1,122,Strata,1470000,-,12049,1119,03-MAR-2017,Condominium,99 Yrs From 12/08/1996,2000,Resale,Private,05,13,138679,Central Region,Queenstown
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #10-29 ,1,91,Strata,1380000,-,15165,1409,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465464,East Region,Bedok
+ORCHID APARTMENTS,66A Eng Neo Avenue ,1,126,Strata,1600000,-,12698,1180,03-MAR-2017,Apartment,Freehold,1977,Resale,Private,11,28,289545,Central Region,Bukit Timah
+GRANDEUR PARK RESIDENCES,7 Bedok South Avenue 3  #12-28 ,1,115,Strata,1689000,-,14687,1364,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465464,East Region,Bedok
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #03-38 ,1,62,Strata,974000,-,15710,1459,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465465,East Region,Bedok
+THE GLADES,10 Bedok Rise  #04-27 ,1,44,Strata,768000,-,17455,1622,03-MAR-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,Private,16,46,469601,East Region,Bedok
+SOPHIA HILLS,15 Mount Sophia  #03-48 ,1,95,Strata,1848000,-,19453,1807,03-MAR-2017,Condominium,99 Yrs From 10/12/2013,Uncompleted,New Sale,Private,09,22,228472,Central Region,Rochor
+BOTANNIA,33 West Coast Park  #10-36 ,1,145,Strata,1950000,-,13448,1249,03-MAR-2017,Condominium,956 Yrs From 27/05/1928,2009,Resale,Private,05,12,127651,West Region,Clementi
+RITZ REGENCY,8 Ipoh Lane  #13-01 ,1,118,Strata,1415000,-,11992,1114,03-MAR-2017,Apartment,Freehold,2009,Resale,HDB,15,43,438611,Central Region,Geylang
+LE HILL CONDOMINIUM,46 Pasir Panjang Hill  #03-02 ,1,125,Strata,1320000,-,10560,981,03-MAR-2017,Condominium,Freehold,1999,Resale,Private,05,11,118896,Central Region,Queenstown
+CASA MERAH,60 Tanah Merah Kechil Avenue  #06-20 ,1,146,Strata,1530000,-,10479,974,03-MAR-2017,Apartment,99 Yrs From 11/07/2006,2009,Resale,HDB,16,46,465529,East Region,Bedok
+SOL ACRES,10 Choa Chu Kang Grove  #06-22 ,1,97,Strata,809000,-,8340,775,03-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688207,West Region,Choa Chu Kang
+SELETARIS,511 Sembawang Road  #02-72 ,1,123,Strata,980000,-,7967,740,03-MAR-2017,Condominium,Freehold,2001,Resale,HDB,27,75,757711,North Region,Sembawang
+SOL ACRES,22 Choa Chu Kang Grove  #18-52 ,1,86,Strata,720000,-,8372,778,03-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688213,West Region,Choa Chu Kang
+ST FRANCIS COURT,90 St. Francis Road  #07-03 ,1,118,Strata,860000,-,7288,677,03-MAR-2017,Apartment,99 Yrs From 08/09/1992,1994,Resale,Private,12,32,328071,Central Region,Kallang
+POLLEN & BLEU,17 Farrer Drive  #07-12 ,1,81,Strata,1846200,-,22793,2117,03-MAR-2017,Condominium,99 Yrs From 24/09/2012,2016,Resale,HDB,10,25,259297,Central Region,Tanglin
+CYAN,6 Keng Chin Road  #03-07 ,1,135,Strata,2800000,-,20741,1927,03-MAR-2017,Condominium,Freehold,2014,Resale,Private,10,25,258709,Central Region,Tanglin
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #10-38 ,1,62,Strata,1005000,-,16210,1506,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465465,East Region,Bedok
+RIVERVALE CREST,7 Rivervale Crescent  #14-20 ,1,108,Strata,825000,-,7639,710,03-MAR-2017,Apartment,99 Yrs From 06/12/1997,2002,Resale,HDB,19,54,545085,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #09-12 ,1,66,Strata,978000,-,14818,1377,03-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE WARREN,59 Choa Chu Kang Loop  #01-51 ,1,122,Strata,1038000,-,8508,790,03-MAR-2017,Condominium,99 Yrs From 21/06/2001,2004,Resale,HDB,23,68,689686,West Region,Choa Chu Kang
+TREASURE CREST,56 Anchorvale Crescent  #07-19 ,1,100,Strata,821000,-,8210,763,03-MAR-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,N.A,19,54,544632,North East Region,Sengkang
+N.A.,9 Simon Walk ,1,163,Land,2750000,-,16830,1564,03-MAR-2017,Terrace House,Freehold,Unknown,Resale,Private,19,54,545863,North East Region,Hougang
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #04-09 ,1,39,Strata,590730,-,15147,1407,03-MAR-2017,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465461,East Region,Bedok
+SOO CHOW GARDEN,40 Soo Chow Drive ,1,283,Land,3400000,-,11997,1115,03-MAR-2017,Terrace House,Freehold,1973,Resale,Private,20,57,575545,Central Region,Bishan
+THE SEA VIEW,33 Amber Road  #09-11 ,1,131,Strata,2200000,-,16794,1560,03-MAR-2017,Condominium,Freehold,2008,Resale,HDB,15,43,439944,Central Region,Marine Parade
+TEMBELING COURT,86 Tembeling Road  #03-01 ,1,123,Strata,1330000,-,10813,1005,03-MAR-2017,Apartment,Freehold,2010,Resale,Private,15,42,423596,Central Region,Geylang
+V ON SHENTON,5A Shenton Way  #49-11 ,1,44,Strata,1305585,-,29672,2757,03-MAR-2017,Apartment,99 Yrs From 29/11/2011,Uncompleted,New Sale,N.A,01,06,068814,Central Region,Downtown Core
+REGENT GROVE,50 Choa Chu Kang North 7  #07-14 ,1,86,Strata,710000,-,8256,767,03-MAR-2017,Condominium,99 Yrs From 17/05/1997,2000,Resale,Private,23,68,689527,West Region,Choa Chu Kang
+SELETAR SPRINGS CONDOMINIUM,110 Gerald Drive  #01-50 ,1,145,Strata,1088000,-,7503,697,03-MAR-2017,Condominium,99 Yrs From 12/08/1997,2000,Resale,HDB,28,79,799036,North East Region,Hougang
+GROSVENOR VIEW,1 Lengkong Empat  #08-04 ,1,61,Strata,677000,-,11098,1031,03-MAR-2017,Condominium,Freehold,2006,Resale,HDB,14,41,417609,East Region,Bedok
+COCO PALMS,19 Pasir Ris Grove  #04-25 ,1,107,Strata,1248000,-,11664,1084,03-MAR-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518144,East Region,Pasir Ris
+PARC RIVIERA,103 West Coast Vale  #27-19 ,1,56,Strata,800000,-,14286,1327,03-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+ASPEN HEIGHTS,263 River Valley Road  #03-05 ,1,123,Strata,1930000,-,15691,1458,03-MAR-2017,Condominium,999 Yrs From 01/07/1841,1998,Resale,Private,09,23,238309,Central Region,River Valley
+INTERO,8 Leicester Road  #10-04 ,1,94,Strata,1100000,-,11702,1087,03-MAR-2017,Apartment,Freehold,2008,Resale,HDB,13,35,358841,Central Region,Toa Payoh
+HILLION RESIDENCES,10 Jelebu Road  #19-19 ,1,44,Strata,747650,-,16992,1579,03-MAR-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677672,West Region,Bukit Panjang
+THE RAINTREE,91 Bukit Drive  #08-26 ,1,88,Strata,1080000,-,12273,1140,03-MAR-2017,Condominium,99 Yrs From 01/03/2003,2008,Resale,HDB,21,58,587845,West Region,Bukit Panjang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #23-03 ,1,68,Strata,1024000,-,15059,1399,03-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+CAIRNHILL NINE,9 Cairnhill Road  #16-01 ,1,96,Strata,2546000,-,26521,2464,02-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,Private,09,22,229723,Central Region,Orchard
+THE PARC CONDOMINIUM,9 West Coast Walk  #19-18 ,1,120,Strata,1615000,-,13458,1250,02-MAR-2017,Condominium,Freehold,2010,Resale,Private,05,12,127160,West Region,Clementi
+JIA,65 Wilkie Road  #06-03 ,1,267,Strata,3075000,-,11517,1070,02-MAR-2017,Apartment,Freehold,2011,Resale,Private,09,22,228068,Central Region,Rochor
+THE VISIONAIRE,198 Canberra Drive  #05-57 ,1,89,Strata,771000,-,8663,805,02-MAR-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,Private,27,76,767961,North Region,Sembawang
+VUE 8 RESIDENCE,89 Pasir Ris Heights  #11-16 ,1,122,Strata,1250900,-,10253,953,02-MAR-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,HDB,18,51,519286,East Region,Pasir Ris
+BELLEWOODS,106 Woodlands Avenue 5  #07-14 ,1,116,Strata,997920,-,8603,799,02-MAR-2017,Executive Condominium,99 Yrs From 12/08/2013,2017,New Sale,Private,25,73,739013,North Region,Woodlands
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #28-04 ,1,59,Strata,911000,-,15441,1434,02-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+ONE BALMORAL,1 Balmoral Road  #01-02 ,1,110,Strata,2231000,-,20282,1884,02-MAR-2017,Condominium,Freehold,2016,Resale,Private,10,25,259784,Central Region,Tanglin
+BOTANNIA,29 West Coast Park  #11-11 ,1,76,Strata,1060000,-,13947,1296,02-MAR-2017,Condominium,956 Yrs From 27/05/1928,2009,Resale,HDB,05,12,127647,West Region,Clementi
+THE SANTORINI,29 Tampines Street 86  #11-29 ,1,85,Strata,963000,-,11329,1053,02-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528571,East Region,Tampines
+CAIRNHILL NINE,9 Cairnhill Road  #09-02 ,1,97,Strata,2603000,-,26835,2493,02-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,N.A,09,22,229723,Central Region,Orchard
+NORTHWAVE,105 Woodlands View  #06-10 ,1,91,Strata,720650,-,7919,736,02-MAR-2017,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737710,North Region,Woodlands
+PARC OASIS,39 Jurong East Avenue 1  #02-03 ,1,140,Strata,1180000,-,8429,783,02-MAR-2017,Condominium,99 Yrs From 01/12/1991,1994,Resale,Private,22,60,609776,West Region,Jurong East
+FERRARIA PARK CONDOMINIUM,14 Flora Drive  #04-19 ,1,146,Strata,1200000,-,8219,764,02-MAR-2017,Condominium,Freehold,2009,Resale,Private,17,50,506944,East Region,Pasir Ris
+LOYANG GARDENS,65A Jalan Loyang Besar ,1,128,Strata,1200000,-,9375,871,02-MAR-2017,Condominium,999 Yrs From 29/05/1885,1994,Resale,Private,17,50,509381,East Region,Pasir Ris
+SKYLINE RESIDENCES,612 Telok Blangah Road  #04-09 ,1,125,Strata,2230000,-,17840,1657,02-MAR-2017,Condominium,Freehold,2015,Resale,HDB,04,10,109026,Central Region,Bukit Merah
+N.A.,7 Jalan Tamban ,1,180,Land,2250000,-,12479,1159,02-MAR-2017,Terrace House,Freehold,1962,Resale,Private,15,42,428292,East Region,Bedok
+SIMEI GREEN CONDOMINIUM,9 Simei Street 4  #10-07 ,1,111,Strata,900000,-,8108,753,02-MAR-2017,Executive Condominium,99 Yrs From 14/11/1996,1999,Resale,HDB,18,52,529865,East Region,Tampines
+THE AMORE,53 Edgedale Plains  #05-01 ,1,114,Strata,937000,-,8219,764,02-MAR-2017,Executive Condominium,99 Yrs From 30/10/2013,2016,New Sale,HDB,19,82,828692,North East Region,Punggol
+MODENA,35 Simei Street 4  #03-04 ,1,153,Strata,1460000,-,9542,887,02-MAR-2017,Condominium,99 Yrs From 06/12/1997,2001,Resale,Private,18,52,529869,East Region,Tampines
+28 SHELFORD,28 Shelford Road  #01-04 ,1,111,Strata,1590000,-,14324,1331,02-MAR-2017,Apartment,Freehold,1994,Resale,Private,11,28,288422,Central Region,Bukit Timah
+KINGSFORD WATERBAY,72 Upper Serangoon View  #07-42 ,1,79,Strata,950000,-,12025,1117,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,N.A,19,53,533882,North East Region,Hougang
+PARC RIVIERA,103 West Coast Vale  #24-20 ,1,56,Strata,791000,-,14125,1312,02-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126754,West Region,Clementi
+LEEDON RESIDENCE,22 Leedon Heights  #10-31 ,1,198,Strata,4780000,-,24141,2243,02-MAR-2017,Condominium,Freehold,2015,Resale,Private,10,26,266219,Central Region,Bukit Timah
+KINGSFORD WATERBAY,74 Upper Serangoon View  #10-48 ,1,82,Strata,1037000,-,12646,1175,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533881,North East Region,Hougang
+KINGSFORD WATERBAY,70 Upper Serangoon View  #12-33 ,1,82,Strata,1044000,-,12732,1183,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533883,North East Region,Hougang
+HILLION RESIDENCES,12 Jelebu Road  #07-30 ,1,44,Strata,639400,-,14532,1350,02-MAR-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,Private,23,67,677673,West Region,Bukit Panjang
+POLLEN & BLEU,17 Farrer Drive  #05-16 ,1,112,Strata,2585700,-,23087,2145,02-MAR-2017,Condominium,99 Yrs From 24/09/2012,2016,Resale,Private,10,25,259297,Central Region,Tanglin
+BEACON HEIGHTS,8 Mar Thoma Road  #26-06 ,1,103,Strata,1000000,-,9709,902,02-MAR-2017,Condominium,999 Yrs From 02/06/1882,2012,Resale,HDB,12,32,328689,Central Region,Kallang
+MEADOWLODGE,31 Chun Tin Road  #03-10 ,1,131,Strata,1568000,-,11969,1112,02-MAR-2017,Condominium,99 Yrs From 24/10/1997,2004,Resale,HDB,21,59,599717,Central Region,Bukit Timah
+THE SANTORINI,25 Tampines Street 86  #04-21 ,1,132,Strata,1396890,-,10583,983,02-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,Private,18,52,528569,East Region,Tampines
+KINGSFORD WATERBAY,74 Upper Serangoon View  #11-48 ,1,82,Strata,1030590,-,12568,1168,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533881,North East Region,Hougang
+ST PATRICK'S LOFT,43 St. Patrick'S Road  #03-07 ,1,99,Strata,1230000,-,12424,1154,02-MAR-2017,Apartment,Freehold,2008,Resale,Private,15,42,424165,East Region,Bedok
+PARC RIVIERA,103 West Coast Vale  #24-19 ,1,56,Strata,791000,-,14125,1312,02-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126754,West Region,Clementi
+RIPPLE BAY,8 Pasir Ris Link  #06-33 ,1,45,Strata,585000,-,13000,1208,02-MAR-2017,Condominium,99 Yrs From 10/08/2011,2015,Resale,HDB,18,51,518162,East Region,Pasir Ris
+CAIRNHILL NINE,9 Cairnhill Road  #13-02 ,1,97,Strata,2663000,-,27454,2551,02-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,Private,09,22,229723,Central Region,Orchard
+HILLION RESIDENCES,12 Jelebu Road  #10-31 ,1,44,Strata,651360,-,14804,1375,02-MAR-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677673,West Region,Bukit Panjang
+BELMONDO VIEW,20 Pegu Road  #07-02 ,1,122,Strata,1400000,-,11475,1066,02-MAR-2017,Apartment,Freehold,2002,Resale,HDB,12,32,328369,Central Region,Novena
+BAYSHORE PARK,66 Bayshore Road  #16-09 ,1,87,Strata,835000,-,9598,892,02-MAR-2017,Condominium,99 Yrs From 17/03/1982,1986,Resale,HDB,16,46,469985,East Region,Bedok
+KINGSFORD WATERBAY,70 Upper Serangoon View  #11-33 ,1,82,Strata,1033000,-,12598,1170,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533883,North East Region,Hougang
+LEEDON RESIDENCE,16 Leedon Heights  #04-22 ,1,196,Strata,5020000,-,25612,2379,02-MAR-2017,Condominium,Freehold,2015,Resale,HDB,10,26,267937,Central Region,Bukit Timah
+KINGSFORD WATERBAY,78 Upper Serangoon View  #12-65 ,1,126,Strata,1554280,-,12336,1146,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,N.A,19,53,533879,North East Region,Hougang
+THE VALES,73 Anchorvale Crescent  #02-05 ,1,85,Strata,738000,-,8682,807,02-MAR-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,N.A,19,54,544661,North East Region,Sengkang
+GOODLUCK GARDEN,34 Toh Tuck Road  #01-05 ,1,175,Strata,1750000,-,10000,929,02-MAR-2017,Condominium,Freehold,1984,Resale,Private,21,59,596712,Central Region,Bukit Timah
+POLLEN & BLEU,17 Farrer Drive  #08-11 ,1,81,Strata,1638800,-,20232,1880,02-MAR-2017,Condominium,99 Yrs From 24/09/2012,2016,Resale,HDB,10,25,259297,Central Region,Tanglin
+STURDEE RESIDENCES,10 Beatty Road  #19-02 ,1,77,Strata,1280900,-,16635,1545,02-MAR-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,08,20,209955,Central Region,Kallang
+LEEDON RESIDENCE,20 Leedon Heights  #05-28 ,1,437,Strata,9388800,-,21485,1996,02-MAR-2017,Condominium,Freehold,2015,Resale,Private,10,26,266218,Central Region,Bukit Timah
+KINGSFORD WATERBAY,66 Upper Serangoon View  #09-14 ,1,63,Strata,864000,-,13714,1274,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533885,North East Region,Hougang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #29-04 ,1,59,Strata,915000,-,15508,1441,02-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+LEONIE GARDENS,25 Leonie Hill  #04-03 ,1,161,Strata,1800000,-,11180,1039,02-MAR-2017,Condominium,99 Yrs From 15/09/1990,1993,Resale,Private,09,23,239225,Central Region,River Valley
+N.A.,54E King'S Road ,1,406,Land,6300000,-,15506,1441,02-MAR-2017,Semi-Detached House,Freehold,Unknown,Resale,Private,10,26,268105,Central Region,Bukit Timah
+GEM RESIDENCES,1 Lorong 5 Toa Payoh  #22-02 ,1,63,Strata,1094000,-,17365,1613,02-MAR-2017,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,HDB,12,31,319458,Central Region,Toa Payoh
+THE BROWNSTONE,158 Canberra Drive  #04-38 ,1,86,Strata,769600,-,8949,831,02-MAR-2017,Executive Condominium,99 Yrs From 28/04/2014,2017,New Sale,Private,27,76,768083,North Region,Sembawang
+THE SANTORINI,27 Tampines Street 86  #06-22 ,1,107,Strata,1157000,-,10813,1005,02-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528570,East Region,Tampines
+PASIR RIS BEACH PARK,6 Pasir Ris Heights ,1,223,Land,1290000,-,5785,537,02-MAR-2017,Terrace House,99 Yrs From 10/07/1978,1976,Resale,HDB,18,51,519213,East Region,Pasir Ris
+PRINCIPAL GARDEN,97 Prince Charles Crescent  #11-19 ,1,45,Strata,788000,-,17511,1627,02-MAR-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,N.A,03,15,159028,Central Region,Bukit Merah
+EIGHT RIVERSUITES,6 Whampoa East  #10-09 ,1,65,Strata,1035000,-,15923,1479,02-MAR-2017,Condominium,99 Yrs From 11/07/2011,2016,Sub Sale,HDB,12,33,338519,Central Region,Kallang
+PARC ROSEWOOD,71 Rosewood Drive  #01-09 ,1,48,Strata,520000,-,10833,1006,02-MAR-2017,Condominium,99 Yrs From 07/09/2011,2014,Resale,HDB,25,73,737783,North Region,Woodlands
+PARC HAVEN,12 Lorong Limau  #01-02 ,1,97,Strata,960000,-,9897,919,02-MAR-2017,Apartment,Freehold,2004,Resale,Private,12,32,328741,Central Region,Novena
+LA CASA,58 Woodlands Drive 16  #06-19 ,1,104,Strata,820000,-,7885,732,02-MAR-2017,Executive Condominium,99 Yrs From 13/09/2004,2008,Resale,HDB,25,73,737897,North Region,Woodlands
+YEWTEE RESIDENCES,23 Choa Chu Kang North 6  #05-06 ,1,132,Strata,1190000,-,9015,838,02-MAR-2017,Apartment,99 Yrs From 03/01/2006,2008,Resale,HDB,23,68,689579,West Region,Choa Chu Kang
+KINGSFORD WATERBAY,70 Upper Serangoon View  #11-30 ,1,82,Strata,1041000,-,12695,1179,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533883,North East Region,Hougang
+AQUARIUS BY THE PARK,15 Bedok Reservoir View  #08-02 ,1,112,Strata,970000,-,8661,805,02-MAR-2017,Condominium,99 Yrs From 12/06/1996,2000,Resale,Private,16,47,478933,East Region,Bedok
+8M RESIDENCES,8 Margate Road  #12-01 ,1,72,Strata,1494724,-,20760,1929,02-MAR-2017,Apartment,Freehold,2016,New Sale,N.A,15,43,438049,Central Region,Marine Parade
+GEM RESIDENCES,1 Lorong 5 Toa Payoh  #08-01 ,1,45,Strata,760000,-,16889,1569,02-MAR-2017,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,HDB,12,31,319458,Central Region,Toa Payoh
+KINGSFORD WATERBAY,70 Upper Serangoon View  #16-33 ,1,102,Strata,1129000,-,11069,1028,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533883,North East Region,Hougang
+NORTHOAKS,32 Woodlands Crescent  #08-02 ,1,115,Strata,775000,-,6739,626,02-MAR-2017,Executive Condominium,99 Yrs From 16/12/1997,2000,Resale,Private,25,73,738087,North Region,Woodlands
+SIGNATURE AT YISHUN,21 Yishun Street 51  #09-02 ,1,110,Strata,972650,-,8842,821,02-MAR-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,HDB,27,76,768085,North Region,Yishun
+RIVERBANK @ FERNVALE,13 Fernvale Close  #17-15 ,1,88,Strata,987000,-,11216,1042,02-MAR-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,Private,28,79,797476,North East Region,Sengkang
+KERRISDALE,30 Sturdee Road  #29-05 ,1,138,Strata,1700000,-,12319,1144,02-MAR-2017,Condominium,99 Yrs From 02/04/1998,2005,Resale,HDB,08,20,207852,Central Region,Kallang
+PARC RIVIERA,101 West Coast Vale  #19-06 ,1,92,Strata,1183800,-,12867,1195,02-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+SOPHIA HILLS,23 Mount Sophia  #02-79 ,1,66,Strata,1333000,-,20197,1876,02-MAR-2017,Condominium,99 Yrs From 10/12/2013,Uncompleted,New Sale,N.A,09,22,228476,Central Region,Rochor
+PEBBLE BAY,130 Tanjong Rhu Road  #13-09 ,1,244,Strata,3900000,-,15984,1485,02-MAR-2017,Condominium,99 Yrs From 09/03/1994,1997,Resale,Private,15,43,436918,Central Region,Kallang
+CASABLANCA,29 Rosewood Drive  #04-24 ,1,111,Strata,930000,-,8378,778,02-MAR-2017,Condominium,99 Yrs From 02/10/2001,2005,Resale,Private,25,73,737921,North Region,Woodlands
+KINGSFORD WATERBAY,72 Upper Serangoon View  #15-41 ,1,82,Strata,1055000,-,12866,1195,02-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533882,North East Region,Hougang
+SIGNATURE AT YISHUN,37 Yishun Street 51  #12-35 ,1,110,Strata,934065,-,8492,789,02-MAR-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,HDB,27,76,767993,North Region,Yishun
+PARC RIVIERA,103 West Coast Vale  #35-19 ,1,56,Strata,825000,-,14732,1369,02-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+POSHGROVE EAST,333 East Coast Road  #02-09 ,1,115,Strata,1570000,-,13652,1268,01-MAR-2017,Condominium,Freehold,2008,Resale,HDB,15,42,429101,East Region,Bedok
+KINGSFORD WATERBAY,78 Upper Serangoon View  #01-67 ,1,63,Strata,843000,-,13381,1243,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533879,North East Region,Hougang
+THE LINEAR,896 Upper Bukit Timah Road  #04-32 ,1,100,Strata,905000,-,9050,841,01-MAR-2017,Apartment,999 Yrs From 02/10/1876,2006,Resale,HDB,23,67,678189,West Region,Bukit Panjang
+THE GLADES,12 Bedok Rise  #01-42 ,1,110,Strata,1486000,-,13509,1255,01-MAR-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,N.A,16,46,465407,East Region,Bedok
+PARC RIVIERA,103 West Coast Vale  #36-15 ,1,62,Strata,665000,-,10726,996,01-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+PARC LIFE,21 Sembawang Crescent  #13-03 ,1,118,Strata,1031700,1029400,8724,810,01-MAR-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,HDB,27,75,757053,North Region,Sembawang
+FOREST WOODS,9B Lorong Lew Lian  #09-14 ,1,68,Strata,1060000,-,15588,1448,01-MAR-2017,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,HDB,19,53,536496,North East Region,Serangoon
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #07-12 ,1,66,Strata,973000,-,14742,1370,01-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+ASCENTIA SKY,3 Alexandra View  #38-10 ,1,94,Strata,1400000,-,14894,1384,01-MAR-2017,Condominium,99 Yrs From 26/03/2008,2013,Resale,Private,03,15,158749,Central Region,Bukit Merah
+THOMSON GRAND,19 Sin Ming Walk  #09-09 ,1,127,Strata,1608000,-,12661,1176,01-MAR-2017,Condominium,99 Yrs From 08/02/2010,2015,Sub Sale,Private,20,57,573914,Central Region,Bishan
+THE WATERSIDE,1 Tanjong Rhu Road  #04-01 ,1,223,Strata,2950000,-,13229,1229,01-MAR-2017,Condominium,Freehold,1993,Resale,Private,15,43,436879,Central Region,Kallang
+FOREST WOODS,9A Lorong Lew Lian  #06-11 ,1,91,Strata,1354000,-,14879,1382,01-MAR-2017,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,HDB,19,53,536495,North East Region,Serangoon
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #06-13 ,1,68,Strata,982000,-,14441,1342,01-MAR-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+KINGSFORD WATERBAY,80 Upper Serangoon View  #11-73 ,1,111,Strata,1428000,-,12865,1195,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533878,North East Region,Hougang
+PARC RIVIERA,101 West Coast Vale  #32-10 ,1,66,Strata,924140,-,14002,1301,01-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+SOL ACRES,6 Choa Chu Kang Grove  #20-15 ,1,46,Strata,394000,-,8565,796,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688240,West Region,Choa Chu Kang
+POLLEN & BLEU,17 Farrer Drive  #05-12 ,1,81,Strata,1768850,-,21838,2029,01-MAR-2017,Condominium,99 Yrs From 24/09/2012,2016,Resale,Private,10,25,259297,Central Region,Tanglin
+WANDERVALE,361 Choa Chu Kang Avenue 3  #04-24 ,1,102,Strata,829000,-,8127,755,01-MAR-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,N.A,23,68,689884,West Region,Choa Chu Kang
+NAUNG RESIDENCE,1 Jalan Naung  #01-01 ,1,80,Strata,1125000,-,14063,1306,01-MAR-2017,Apartment,999 Yrs From 19/02/1883,2015,Resale,HDB,19,53,537670,North East Region,Hougang
+N.A.,114 Jalan Chempaka Kuning ,1,234,Land,550000,-,2350,218,01-MAR-2017,Terrace House,70 Yrs From 19/08/1964,Unknown,Resale,Private,16,48,489149,East Region,Bedok
+THE QUARTZ,59 Compassvale Bow  #15-19 ,1,127,Strata,1280000,-,10079,936,01-MAR-2017,Condominium,99 Yrs From 18/04/2005,2009,Resale,HDB,19,54,544988,North East Region,Sengkang
+LIV ON WILKIE,9 Wilkie Terrace  #06-08 ,1,42,Strata,968000,-,23048,2141,01-MAR-2017,Apartment,Freehold,Uncompleted,New Sale,HDB,09,22,228025,Central Region,Rochor
+N.A.,50 Lakeshore View ,1,1047,Land,21250000,-,20300,1886,01-MAR-2017,Detached House,99 Yrs From 31/08/2005,2007,Resale,Private,04,09,098525,Central Region,Southern Islands
+SOPHIA RESIDENCE,5 Sophia Road  #07-03 ,1,123,Strata,2170000,-,17642,1639,01-MAR-2017,Condominium,Freehold,2014,Resale,Private,09,22,228191,Central Region,Rochor
+SHERWOOD TOWER,3 Jalan Anak Bukit  #04-01 ,1,141,Strata,855000,-,6064,563,01-MAR-2017,Apartment,99 Yrs From 30/08/1976,1980,Resale,Private,21,58,588998,Central Region,Bukit Timah
+COSTA RHU,1 Rhu Cross  #16-03 ,1,130,Strata,1800000,-,13846,1286,01-MAR-2017,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437431,Central Region,Kallang
+V ON SHENTON,5A Shenton Way  #47-11 ,1,44,Strata,1283355,-,29167,2710,01-MAR-2017,Apartment,99 Yrs From 29/11/2011,Uncompleted,New Sale,Private,01,06,068814,Central Region,Downtown Core
+THE SANTORINI,27 Tampines Street 86  #03-22 ,1,107,Strata,1115000,-,10421,968,01-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,N.A,18,52,528570,East Region,Tampines
+THE WISTERIA,590 Yishun Ring Road  #10-06 ,1,90,Strata,979712,-,10886,1011,01-MAR-2017,Apartment,99 Yrs From 27/04/2015,Uncompleted,New Sale,HDB,27,76,768694,North Region,Yishun
+KINGSFORD WATERBAY,76 Upper Serangoon View  #12-59 ,1,82,Strata,1043888,-,12730,1183,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,N.A,19,53,533880,North East Region,Hougang
+STURDEE RESIDENCES,10 Beatty Road  #13-09 ,1,97,Strata,1521200,-,15682,1457,01-MAR-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,08,20,209955,Central Region,Kallang
+THE PEAK @ CAIRNHILL II,61 Cairnhill Circle  #07-01 ,1,84,Strata,2413000,-,28726,2669,01-MAR-2017,Apartment,Freehold,2015,Resale,Private,09,22,229789,Central Region,Newton
+WATTEN ESTATE CONDOMINIUM,38 Shelford Road  #05-04 ,1,234,Strata,2700000,-,11538,1072,01-MAR-2017,Condominium,Freehold,1983,Resale,Private,11,28,288431,Central Region,Bukit Timah
+LAKEVILLE,1 Jurong Lake Link  #16-01 ,1,207,Strata,2650000,-,12802,1189,01-MAR-2017,Condominium,99 Yrs From 30/04/2013,2017,New Sale,HDB,22,64,648160,West Region,Jurong West
+FOREST WOODS,9B Lorong Lew Lian  #11-18 ,1,85,Strata,1280000,-,15059,1399,01-MAR-2017,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,Private,19,53,536496,North East Region,Serangoon
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #07-25 ,1,105,Strata,1511160,-,14392,1337,01-MAR-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,HDB,13,34,347848,Central Region,Toa Payoh
+THE SANTORINI,29 Tampines Street 86  #08-26 ,1,128,Strata,1425713,-,11138,1035,01-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528571,East Region,Tampines
+SUMMERDALE,8 Boon Lay Drive  #12-20 ,1,130,Strata,955000,-,7346,682,01-MAR-2017,Executive Condominium,99 Yrs From 22/09/1997,2000,Resale,Private,22,64,649928,West Region,Jurong West
+KINGSFORD WATERBAY,72 Upper Serangoon View  #05-37 ,1,103,Strata,1224000,-,11883,1104,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533882,North East Region,Hougang
+THOMSON IMPRESSIONS,3 Lorong Puntong  #13-15 ,1,98,Strata,1500000,-,15306,1422,01-MAR-2017,Apartment,99 Yrs From 12/01/2015,Uncompleted,New Sale,Private,20,57,576444,Central Region,Bishan
+KINGSFORD WATERBAY,72 Upper Serangoon View  #09-38 ,1,96,Strata,1197000,-,12469,1158,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533882,North East Region,Hougang
+SUMMERHILL,50 Hume Avenue  #02-03 ,1,121,Strata,1325000,-,10950,1017,01-MAR-2017,Condominium,Freehold,2002,Resale,HDB,21,59,596229,West Region,Bukit Batok
+HIGH PARK RESIDENCES,31 Fernvale Road  #17-49 ,1,90,Strata,993112,-,11035,1025,01-MAR-2017,Apartment,99 Yrs From 05/11/2014,Uncompleted,New Sale,N.A,28,79,797417,North East Region,Sengkang
+CALARASI,31 Kim Keat Lane  #11-06 ,1,110,Strata,1220000,-,11091,1030,01-MAR-2017,Apartment,Freehold,2004,Resale,Private,12,32,328882,Central Region,Novena
+TREVISTA,25 Lorong 3 Toa Payoh  #27-15 ,1,161,Strata,2118000,-,13155,1222,01-MAR-2017,Condominium,99 Yrs From 15/07/2008,2011,Resale,Private,12,31,319583,Central Region,Toa Payoh
+SOL ACRES,14 Choa Chu Kang Grove  #18-34 ,1,57,Strata,503000,-,8825,820,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688209,West Region,Choa Chu Kang
+DOVER PARKVIEW,30 Dover Rise  #12-05 ,1,119,Strata,1333000,-,11202,1041,01-MAR-2017,Condominium,99 Yrs From 01/12/1993,1997,Resale,Private,05,13,138687,Central Region,Queenstown
+ARDISIA GARDENS,51 Serangoon Terrace ,1,150,Land,1700000,-,11333,1053,01-MAR-2017,Terrace House,99 Yrs From 01/05/1993,1997,Resale,Private,19,53,535786,North East Region,Serangoon
+THE TRILLIUM,118 Kim Seng Road  #03-08 ,1,206,Strata,3618000,-,17563,1632,01-MAR-2017,Condominium,Freehold,2010,Resale,Private,09,23,239435,Central Region,Singapore River
+THE TRILINQ,28 Jalan Lempeng  #04-03 ,1,141,Strata,1743000,-,12362,1148,01-MAR-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,Private,05,12,128807,West Region,Clementi
+THE ESTUARY,87 Yishun Avenue 1  #17-04 ,1,55,Strata,640000,-,11636,1081,01-MAR-2017,Condominium,99 Yrs From 25/06/2008,2013,Resale,HDB,27,76,769133,North Region,Yishun
+REGENT GROVE,52 Choa Chu Kang North 7  #16-17 ,1,137,Strata,900000,-,6569,610,01-MAR-2017,Condominium,99 Yrs From 17/05/1997,2000,Resale,HDB,23,68,689528,West Region,Choa Chu Kang
+YISHUN EMERALD,28 Canberra Drive  #01-18 ,1,168,Strata,1100000,-,6548,608,01-MAR-2017,Condominium,99 Yrs From 16/02/1998,2002,Resale,Private,27,76,768429,North Region,Yishun
+HILLION RESIDENCES,10 Jelebu Road  #12-16 ,1,43,Strata,638480,-,14848,1379,01-MAR-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677672,West Region,Bukit Panjang
+VUE 8 RESIDENCE,83 Pasir Ris Heights  #16-02 ,1,315,Strata,2888888,-,9171,852,01-MAR-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,Private,18,51,519283,East Region,Pasir Ris
+THOMSON IMPRESSIONS,3 Lorong Puntong  #09-14 ,1,43,Strata,754300,-,17542,1630,01-MAR-2017,Apartment,99 Yrs From 12/01/2015,Uncompleted,New Sale,Private,20,57,576444,Central Region,Bishan
+THE VISIONAIRE,194 Canberra Drive  #01-49 ,1,117,Strata,978000,-,8359,777,01-MAR-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767959,North Region,Sembawang
+THE QUINN,13 Bartley Road  #03-21 ,1,52,Strata,820000,-,15769,1465,01-MAR-2017,Apartment,Freehold,2016,Resale,HDB,19,53,539789,North East Region,Serangoon
+BOATHOUSE RESIDENCES,23 Upper Serangoon View  #06-03 ,1,68,Strata,770000,-,11324,1052,01-MAR-2017,Condominium,99 Yrs From 09/02/2011,2015,Resale,HDB,19,53,534047,North East Region,Hougang
+DUNEARN GARDENS,16 Dunearn Road  #06-04 ,1,116,Strata,1835000,-,15819,1470,01-MAR-2017,Condominium,Freehold,1992,Resale,Private,11,30,309420,Central Region,Novena
+THE VISIONAIRE,178 Canberra Drive  #03-17 ,1,91,Strata,783090,-,8605,799,01-MAR-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,N.A,27,76,767951,North Region,Sembawang
+THE POIZ RESIDENCES,12 Meyappa Chettiar Road  #13-44 ,1,39,Strata,643000,-,16487,1532,01-MAR-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,HDB,13,35,358474,Central Region,Toa Payoh
+THE SANTORINI,21 Tampines Street 86  #12-05 ,1,49,Strata,612800,-,12506,1162,01-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528592,East Region,Tampines
+THE POIZ RESIDENCES,8 Meyappa Chettiar Road  #08-13 ,1,114,Strata,1652112,-,14492,1346,01-MAR-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,Private,13,35,358455,Central Region,Toa Payoh
+SOL ACRES,10 Choa Chu Kang Grove  #15-23 ,1,97,Strata,845000,-,8711,809,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688207,West Region,Choa Chu Kang
+THE VALES,79 Anchorvale Crescent  #01-20 ,1,156,Strata,1265000,-,8109,753,01-MAR-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,N.A,19,54,544624,North East Region,Sengkang
+SOL ACRES,2 Choa Chu Kang Grove  #08-03 ,1,68,Strata,577000,-,8485,788,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688238,West Region,Choa Chu Kang
+JERVOIS REGENCY,49 Jervois Road  #02-03 ,1,88,Strata,1250000,-,14205,1320,01-MAR-2017,Apartment,Freehold,2003,Resale,HDB,10,24,249081,Central Region,Tanglin
+KINGSFORD WATERBAY,72 Upper Serangoon View  #15-38 ,1,96,Strata,1222000,-,12729,1183,01-MAR-2017,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533882,North East Region,Hougang
+VALLEY PARK,475 River Valley Road  #06-06 ,1,168,Strata,2780000,-,16548,1537,01-MAR-2017,Condominium,999 Yrs From 21/06/1877,1997,Resale,Private,10,24,248360,Central Region,Tanglin
+SOLEIL @ SINARAN,6 Sinaran Drive  #06-11 ,1,135,Strata,1800000,-,13333,1239,01-MAR-2017,Condominium,99 Yrs From 23/10/2006,2011,Resale,Private,11,30,307468,Central Region,Novena
+SOL ACRES,14 Choa Chu Kang Grove  #17-34 ,1,57,Strata,497000,-,8719,810,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688209,West Region,Choa Chu Kang
+NORTHWAVE,111 Woodlands View  #14-24 ,1,70,Strata,594450,-,8492,789,01-MAR-2017,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,Private,25,73,737703,North Region,Woodlands
+THE SANTORINI,29 Tampines Street 86  #10-29 ,1,85,Strata,953000,-,11212,1042,01-MAR-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528571,East Region,Tampines
+PARC RIVIERA,103 West Coast Vale  #33-13 ,1,60,Strata,870000,-,14500,1347,01-MAR-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+SOL ACRES,10 Choa Chu Kang Grove  #12-23 ,1,97,Strata,833000,-,8588,798,01-MAR-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688207,West Region,Choa Chu Kang
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #36-10 ,1,84,Strata,1538100,-,18311,1701,01-MAR-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,Private,03,14,149739,Central Region,Queenstown
+ESPADA,48 St. Thomas Walk  #27-06 ,1,35,Strata,900000,-,25714,2389,01-MAR-2017,Apartment,Freehold,2013,Resale,HDB,09,23,238126,Central Region,River Valley
+THE CRISTALLO,70 Lorong K Telok Kurau  #01-15 ,1,115,Strata,1400000,-,12174,1131,01-MAR-2017,Apartment,Freehold,2015,New Sale,Private,15,42,425687,East Region,Bedok
+V ON SHENTON,5A Shenton Way  #44-11 ,1,44,Strata,1261980,-,28681,2665,01-MAR-2017,Apartment,99 Yrs From 29/11/2011,Uncompleted,New Sale,Private,01,06,068814,Central Region,Downtown Core
+CAVAN SUITES,11 Cavan Road  #04-12 ,1,31,Strata,550000,-,17742,1648,01-MAR-2017,Apartment,Freehold,2012,Resale,HDB,08,20,209848,Central Region,Kallang
+WANDERVALE,361 Choa Chu Kang Avenue 3  #03-24 ,1,102,Strata,826000,-,8098,752,01-MAR-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,N.A,23,68,689884,West Region,Choa Chu Kang
+WATERFRONT ISLE,736 Bedok Reservoir Road  #05-23 ,1,84,Strata,1018000,-,12119,1126,01-MAR-2017,Condominium,99 Yrs From 26/11/2009,2015,Sub Sale,Private,16,47,479264,East Region,Bedok
+HILLVIEW HEIGHTS,29 Hillview Avenue  #01-01 ,1,118,Strata,1260000,-,10678,992,01-MAR-2017,Condominium,Freehold,1996,Resale,Private,23,66,669561,West Region,Bukit Batok
+THE SPRINGSIDE,72 Springside View ,1,165,Land,2765000,-,16788,1560,01-MAR-2017,Terrace House,Freehold,2016,New Sale,Private,26,78,786124,North Region,Yishun
+RIVERGATE,93 Robertson Quay  #35-05 ,1,139,Strata,3162000,-,22748,2113,01-MAR-2017,Apartment,Freehold,2009,Resale,Private,09,23,238255,Central Region,Singapore River
+CAIRNHILL NINE,9 Cairnhill Road  #11-01 ,1,96,Strata,2473000,-,25760,2393,01-MAR-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,HDB,09,22,229723,Central Region,Orchard
+WESTWOOD RESIDENCES,190 Westwood Avenue  #06-24 ,1,107,Strata,935700,-,8745,812,01-MAR-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,N.A,22,64,648150,West Region,Jurong West
+KEW VALE,25 Kew Drive ,1,280,Land,2400000,-,8578,797,01-MAR-2017,Semi-Detached House,99 Yrs From 21/04/1994,1996,Resale,Private,16,46,466233,East Region,Bedok
+OLEANDER TOWERS,913 Lorong 1 Toa Payoh  #18-07 ,1,136,Strata,1480000,-,10882,1011,01-MAR-2017,Apartment,99 Yrs From 01/03/1995,1998,Resale,Private,12,31,319772,Central Region,Toa Payoh
+TREASURES@G6,35 Lorong 6 Geylang  #06-07 ,1,42,Strata,605047,-,14406,1338,28-FEB-2017,Apartment,Freehold,2017,New Sale,HDB,14,39,399187,Central Region,Geylang
+BINJAI CREST,207 Jalan Kampong Chantek ,1,351,Strata,1960000,-,5584,519,28-FEB-2017,Terrace House,99 Yrs From 13/12/1996,2004,Resale,Private,21,58,587911,Central Region,Bukit Timah
+PRINCIPAL GARDEN,99 Prince Charles Crescent  #18-27 ,1,45,Strata,813000,-,18067,1678,28-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,N.A,03,15,159029,Central Region,Bukit Merah
+THE SANTORINI,25 Tampines Street 86  #08-19 ,1,85,Strata,960375,-,11299,1050,28-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528569,East Region,Tampines
+GUILLEMARD EDGE,38 Lorong 30 Geylang  #04-30 ,1,51,Strata,720000,-,14118,1312,28-FEB-2017,Apartment,Freehold,2014,Resale,HDB,14,39,398371,Central Region,Geylang
+VUE 8 RESIDENCE,99 Pasir Ris Heights  #10-28 ,1,125,Strata,1391000,-,11128,1034,28-FEB-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,HDB,18,51,519291,East Region,Pasir Ris
+LAKE GRANDE,8 Jurong Lake Link  #04-29 ,1,80,Strata,1091000,-,13638,1267,28-FEB-2017,Condominium,99 Yrs From 09/06/2015,Uncompleted,New Sale,Private,22,64,648130,West Region,Jurong West
+EUHABITAT,208 Jalan Eunos  #05-60 ,1,51,Strata,590000,-,11569,1075,28-FEB-2017,Condominium,99 Yrs From 06/12/2010,2015,Sub Sale,HDB,14,41,419548,East Region,Bedok
+THE METROPOLITAN CONDOMINIUM,6 Alexandra View  #24-05 ,1,132,Strata,1780000,-,13485,1253,28-FEB-2017,Condominium,99 Yrs From 17/02/2006,2009,Resale,Private,03,15,158746,Central Region,Bukit Merah
+MAYSPRINGS,2 Petir Road  #13-07 ,1,122,Strata,890000,-,7295,678,28-FEB-2017,Apartment,99 Yrs From 01/12/1994,1998,Resale,HDB,23,67,678265,West Region,Bukit Panjang
+STURDEE RESIDENCES,10 Beatty Road  #22-03 ,1,67,Strata,1164700,-,17384,1615,28-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,08,20,209955,Central Region,Kallang
+N.A.,2 Dunsfold Drive ,1,1300,Land,11100000,-,8538,793,28-FEB-2017,Detached House,Freehold,Unknown,Resale,Private,13,35,359365,North East Region,Serangoon
+PARC LIFE,25 Sembawang Crescent  #16-11 ,1,99,Strata,899650,-,9087,844,28-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,N.A,27,75,757055,North Region,Sembawang
+PARC RIVIERA,103 West Coast Vale  #26-20 ,1,56,Strata,797000,-,14232,1322,28-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+PARC ROSEWOOD,93 Rosewood Drive  #03-118 ,1,40,Strata,528000,-,13200,1226,28-FEB-2017,Condominium,99 Yrs From 07/09/2011,2014,Resale,HDB,25,73,737794,North Region,Woodlands
+183 LONGHAUS,183 Upper Thomson Road  #04-06 ,1,110,Strata,1835200,-,16684,1550,28-FEB-2017,Apartment,Freehold,Uncompleted,New Sale,Private,20,57,574332,Central Region,Bishan
+THE FLORIDA,70 Hougang Avenue 7  #10-05 ,1,114,Strata,815000,-,7149,664,28-FEB-2017,Executive Condominium,99 Yrs From 16/12/1997,2000,Resale,HDB,19,53,538804,North East Region,Hougang
+THE HILLIER,2 Hillview Rise  #16-02 ,1,48,Strata,668000,-,13917,1293,28-FEB-2017,Apartment,99 Yrs From 01/08/2011,2016,Sub Sale,Private,23,66,667978,West Region,Bukit Batok
+PARC RIVIERA,101 West Coast Vale  #29-08 ,1,56,Strata,800000,-,14286,1327,28-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+VISTA PARK,56 South Buona Vista Road  #03-01 ,1,86,Strata,847800,-,9858,916,28-FEB-2017,Condominium,99 Yrs From 08/01/1979,1985,Resale,HDB,05,11,118170,Central Region,Queenstown
+THE GLADES,12 Bedok Rise  #01-38 ,1,45,Strata,746800,-,16596,1542,28-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,Private,16,46,465407,East Region,Bedok
+THE VALES,81 Anchorvale Crescent  #11-23 ,1,71,Strata,653888,-,9210,856,28-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,N.A,19,54,544625,North East Region,Sengkang
+ALLSWORTH PARK,369 Holland Road  #09-02 ,1,96,Strata,1600000,-,16667,1548,28-FEB-2017,Condominium,999 Yrs From 06/07/1885,1985,Resale,Private,10,27,278640,Central Region,Bukit Timah
+CASTLE GREEN,481 Yio Chu Kang Road  #02-10 ,1,107,Strata,935000,-,8738,812,28-FEB-2017,Condominium,99 Yrs From 01/12/1993,1997,Resale,Private,26,78,787056,North East Region,Ang Mo Kio
+CENTENNIA SUITES,100 Kim Seng Road  #12-03 ,1,210,Strata,4500000,-,21429,1991,28-FEB-2017,Condominium,Freehold,2013,Resale,Private,09,23,239427,Central Region,Singapore River
+CITY SQUARE RESIDENCES,10 Kitchener Link  #07-17 ,1,81,Strata,1310000,-,16173,1502,28-FEB-2017,Condominium,Freehold,2008,Resale,HDB,08,20,207225,Central Region,Kallang
+QUEENSWAY TOWER,1 Queensway  #06-64 ,1,120,Strata,1150000,-,9583,890,28-FEB-2017,Apartment,Freehold,1976,Resale,Private,03,14,149053,Central Region,Queenstown
+BULLION PARK,162 Lentor Loop  #14-03 ,1,205,Strata,1803000,-,8795,817,28-FEB-2017,Condominium,Freehold,1992,Resale,HDB,26,78,789095,North East Region,Ang Mo Kio
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #26-06 ,1,106,Strata,1529000,-,14425,1340,28-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+STARS OF KOVAN,982 Upper Serangoon Road  #17-15 ,1,74,Strata,1143260,-,15449,1435,28-FEB-2017,Apartment,99 Yrs From 25/02/2015,Uncompleted,New Sale,HDB,19,53,533855,North East Region,Hougang
+STURDEE RESIDENCES,10 Beatty Road  #18-03 ,1,67,Strata,1142700,-,17055,1584,28-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,08,20,209955,Central Region,Kallang
+LEEDON RESIDENCE,14 Leedon Heights  #11-18 ,1,233,Strata,5168000,-,22180,2061,28-FEB-2017,Condominium,Freehold,2015,Resale,Private,10,26,267936,Central Region,Bukit Timah
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #13-26 ,1,105,Strata,1647000,-,15686,1457,28-FEB-2017,Apartment,99 Yrs From 05/12/2012,2017,New Sale,Private,13,34,347848,Central Region,Toa Payoh
+RIVERVALE CREST,5 Rivervale Crescent  #06-11 ,1,90,Strata,745000,-,8278,769,28-FEB-2017,Apartment,99 Yrs From 06/12/1997,2002,Resale,Private,19,54,545084,North East Region,Sengkang
+THE POIZ RESIDENCES,12 Meyappa Chettiar Road  #16-43 ,1,39,Strata,652000,-,16718,1553,28-FEB-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,HDB,13,35,358474,Central Region,Toa Payoh
+PARC RIVIERA,103 West Coast Vale  #32-13 ,1,60,Strata,862000,-,14367,1335,28-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+CASABLANCA,23 Rosewood Drive  #16-07 ,1,110,Strata,950000,-,8636,802,28-FEB-2017,Condominium,99 Yrs From 02/10/2001,2005,Resale,HDB,25,73,737918,North Region,Woodlands
+ARDMORE PARK,11 Ardmore Park  #20-01 ,1,268,Strata,8900000,-,33209,3085,28-FEB-2017,Condominium,Freehold,2001,Resale,Private,10,25,259957,Central Region,Newton
+N.A.,53 Kim Yam Road ,1,111,Land,2500000,-,22482,2089,28-FEB-2017,Terrace House,99 Yrs From 17/12/1996,Unknown,Resale,Private,09,23,239355,Central Region,River Valley
+COMMONWEALTH TOWERS,232 Commonwealth Avenue  #23-21 ,1,84,Strata,1421600,-,16924,1572,28-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149740,Central Region,Queenstown
+THOMSON IMPRESSIONS,3 Lorong Puntong  #02-15 ,1,98,Strata,1423600,-,14527,1350,28-FEB-2017,Apartment,99 Yrs From 12/01/2015,Uncompleted,New Sale,N.A,20,57,576444,Central Region,Bishan
+THE ALPS RESIDENCES,103 Tampines Street 86  #12-08 ,1,99,Strata,1126000,-,11374,1057,28-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,HDB,18,52,528576,East Region,Tampines
+THE GLADES,16 Bedok Rise  #03-51 ,1,94,Strata,1390000,-,14787,1374,28-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,Private,16,46,465409,East Region,Bedok
+AIRSTREAM,26 St. Michael'S Road  #05-03 ,1,44,Strata,610000,-,13864,1288,28-FEB-2017,Apartment,Freehold,2012,Resale,HDB,12,32,327994,Central Region,Kallang
+THE VALES,87 Anchorvale Crescent  #06-36 ,1,71,Strata,626636,-,8826,820,28-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,HDB,19,54,544628,North East Region,Sengkang
+RACE COURSE 138,138 Race Course Road  #03-04 ,1,53,Strata,590000,-,11132,1034,28-FEB-2017,Apartment,Freehold,2002,Resale,HDB,08,21,218591,Central Region,Rochor
+SCOTTS 28,28 Scotts Road  #18-01 ,1,161,Strata,3550000,-,22050,2048,28-FEB-2017,Condominium,Freehold,1998,Resale,Private,09,22,228223,Central Region,Newton
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #25-04 ,1,100,Strata,1641500,-,16415,1525,28-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149739,Central Region,Queenstown
+RIVERSAILS,10 Upper Serangoon Crescent  #15-24 ,1,103,Strata,1080000,-,10485,974,28-FEB-2017,Condominium,99 Yrs From 07/12/2011,2016,Resale,Private,19,53,534031,North East Region,Hougang
+D'LEEDON,11 Leedon Heights  #24-33 ,1,59,Strata,1190000,-,20169,1874,28-FEB-2017,Condominium,99 Yrs From 08/04/2010,2014,Resale,Private,10,26,267955,Central Region,Bukit Timah
+HILLION RESIDENCES,12 Jelebu Road  #08-30 ,1,44,Strata,644000,-,14636,1360,28-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,Private,23,67,677673,West Region,Bukit Panjang
+THE BEAUMONT,147 Devonshire Road  #04-03 ,1,181,Strata,3000000,-,16575,1540,28-FEB-2017,Condominium,Freehold,1985,Resale,Private,09,23,239894,Central Region,River Valley
+STURDEE RESIDENCES,10 Beatty Road  #23-03 ,1,67,Strata,1172700,-,17503,1626,28-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,08,20,209955,Central Region,Kallang
+THE TRILINQ,28 Jalan Lempeng  #26-02 ,1,126,Strata,1625000,-,12897,1198,28-FEB-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,HDB,05,12,128807,West Region,Clementi
+MERA SPRINGS,83 Carlisle Road  #15-06 ,1,99,Strata,1285000,-,12980,1206,28-FEB-2017,Condominium,Freehold,2008,Resale,HDB,08,21,219648,Central Region,Kallang
+STRATUM,88 Elias Road  #05-28 ,1,205,Strata,1800000,-,8780,816,28-FEB-2017,Condominium,99 Yrs From 11/07/2012,2016,New Sale,N.A,18,51,519949,East Region,Pasir Ris
+THE VISIONAIRE,198 Canberra Drive  #09-57 ,1,102,Strata,801790,-,7861,730,28-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767961,North Region,Sembawang
+SOPHIA HILLS,27 Mount Sophia  #05-97 ,1,66,Strata,1390000,-,21061,1957,28-FEB-2017,Condominium,99 Yrs From 10/12/2013,Uncompleted,New Sale,HDB,09,22,228478,Central Region,Rochor
+ALEX RESIDENCES,28 Alexandra View  #29-02 ,1,63,Strata,1375000,-,21825,2028,28-FEB-2017,Apartment,99 Yrs From 18/03/2013,Uncompleted,New Sale,N.A,03,15,158744,Central Region,Bukit Merah
+THE INTERLACE,196 Depot Road  #06-30 ,1,360,Strata,2611000,-,7253,674,28-FEB-2017,Condominium,99 Yrs From 11/02/2009,2013,Resale,Private,04,10,109692,Central Region,Bukit Merah
+HERITAGE EAST,453 East Coast Road  #02-20 ,1,43,Strata,580000,-,13488,1253,28-FEB-2017,Apartment,Freehold,2012,Resale,Private,15,42,429026,East Region,Bedok
+THE ALPS RESIDENCES,113 Tampines Street 86  #03-40 ,1,65,Strata,704000,-,10831,1006,28-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,HDB,18,52,528536,East Region,Tampines
+THE VISIONAIRE,172 Canberra Drive  #03-07 ,1,91,Strata,754500,-,8291,770,28-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,768003,North Region,Sembawang
+RIVERSAILS,8 Upper Serangoon Crescent  #16-20 ,1,103,Strata,1042000,-,10117,940,28-FEB-2017,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534032,North East Region,Hougang
+STARS OF KOVAN,986 Upper Serangoon Road  #11-20 ,1,69,Strata,1065000,-,15435,1434,28-FEB-2017,Apartment,99 Yrs From 25/02/2015,Uncompleted,New Sale,HDB,19,53,534732,North East Region,Hougang
+KING'S ARCADE,559 Bukit Timah Road  #02-04 ,1,137,Strata,1520000,-,11095,1031,28-FEB-2017,Apartment,Freehold,2002,Resale,Private,10,26,269695,Central Region,Bukit Timah
+TRELLIS TOWERS,700 Lorong 1 Toa Payoh  #09-09 ,1,138,Strata,1670000,-,12101,1124,28-FEB-2017,Condominium,Freehold,2000,Resale,Private,12,31,319773,Central Region,Toa Payoh
+BRADDELL VIEW,10R Braddell Hill  #02-78 ,1,147,Strata,1220000,-,8299,771,28-FEB-2017,Apartment,99 Yrs From 29/04/1981,1981,Resale,Private,20,57,579735,Central Region,Toa Payoh
+CITY SQUARE RESIDENCES,6 Kitchener Link  #08-12 ,1,113,Strata,1620000,-,14336,1332,28-FEB-2017,Condominium,Freehold,2009,Resale,Private,08,20,207227,Central Region,Kallang
+Q BAY RESIDENCES,1 Tampines Street 86  #08-07 ,1,49,Strata,680000,-,13878,1289,28-FEB-2017,Condominium,99 Yrs From 21/08/2012,2016,Resale,Private,18,52,528583,East Region,Tampines
+ONE FORT,1 Fort Road  #20-02 ,1,116,Strata,1680000,-,14483,1345,28-FEB-2017,Condominium,Freehold,2005,Resale,Private,15,43,439069,Central Region,Kallang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #25-06 ,1,106,Strata,1525000,-,14387,1337,28-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+VUE 8 RESIDENCE,89 Pasir Ris Heights  #09-16 ,1,122,Strata,1240400,-,10167,945,28-FEB-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,HDB,18,51,519286,East Region,Pasir Ris
+LEEDON 2,2 Leedon Road  #06-01 ,1,71,Strata,1120000,-,15775,1466,28-FEB-2017,Condominium,Freehold,1996,Resale,Private,10,26,267829,Central Region,Bukit Timah
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #13-08 ,1,125,Strata,1661000,-,13288,1234,27-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+SOL ACRES,2 Choa Chu Kang Grove  #13-03 ,1,68,Strata,589000,-,8662,805,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688238,West Region,Choa Chu Kang
+BISHAN LOFT,33 Bishan Street 11  #27-07 ,1,130,Strata,1450000,-,11154,1036,27-FEB-2017,Executive Condominium,99 Yrs From 13/12/2000,2003,Resale,HDB,20,57,579820,Central Region,Bishan
+MELROSE PARK,91 Kellock Road  #10-03 ,1,158,Strata,2610000,-,16519,1535,27-FEB-2017,Condominium,999 Yrs From 21/06/1877,2000,Resale,Private,10,24,248903,Central Region,Tanglin
+ICON,10 Gopeng Street  #29-02 ,1,86,Strata,1380000,-,16047,1491,27-FEB-2017,Apartment,99 Yrs From 29/01/2002,2007,Resale,Private,02,07,078878,Central Region,Downtown Core
+CARIBBEAN AT KEPPEL BAY,24 Keppel Bay Drive  #01-34 ,1,170,Strata,2800000,-,16471,1530,27-FEB-2017,Condominium,99 Yrs From 16/08/1999,2004,Resale,Private,04,09,098647,Central Region,Bukit Merah
+CAVENDISH PARK,20 Pine Grove  #07-06 ,1,114,Strata,1230000,-,10789,1002,27-FEB-2017,Condominium,99 Yrs From 18/11/1991,1996,Resale,Private,21,59,597595,Central Region,Bukit Timah
+HILLION RESIDENCES,10 Jelebu Road  #12-22 ,1,43,Strata,655960,-,15255,1417,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,2017,New Sale,HDB,23,67,677672,West Region,Bukit Panjang
+WATERFRONT GOLD,750 Bedok Reservoir Road  #13-02 ,1,137,Strata,1700000,-,12409,1153,27-FEB-2017,Condominium,99 Yrs From 26/11/2009,2014,Resale,Private,16,47,479256,East Region,Bedok
+N.A.,3 Jalan Merlimau ,1,1139,Land,14000000,-,12291,1142,27-FEB-2017,Detached House,Freehold,1997,Resale,Private,11,30,308694,Central Region,Novena
+THE GLADES,16 Bedok Rise  #05-51 ,1,94,Strata,1400000,-,14894,1384,27-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,HDB,16,46,465409,East Region,Bedok
+THE POIZ RESIDENCES,8 Meyappa Chettiar Road  #10-13 ,1,110,Strata,1623112,-,14756,1371,27-FEB-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,HDB,13,35,358455,Central Region,Toa Payoh
+SOL ACRES,2 Choa Chu Kang Grove  #03-03 ,1,68,Strata,559000,-,8221,764,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688238,West Region,Choa Chu Kang
+VACANZA @ EAST,38 Lengkong Tujoh  #07-09 ,1,75,Strata,888000,-,11840,1100,27-FEB-2017,Condominium,Freehold,2014,Resale,Private,14,41,417392,East Region,Bedok
+WANDERVALE,361 Choa Chu Kang Avenue 3  #14-24 ,1,102,Strata,867000,-,8500,790,27-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,N.A,23,68,689884,West Region,Choa Chu Kang
+THE VISIONAIRE,180 Canberra Drive  #01-22 ,1,81,Strata,703000,-,8679,806,27-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767952,North Region,Sembawang
+MANDARIN GARDENS,5 Siglap Road  #18-50 ,1,68,Strata,670000,-,9853,915,27-FEB-2017,Condominium,99 Yrs From 08/03/1982,1986,Resale,HDB,15,44,448908,East Region,Bedok
+THE POIZ RESIDENCES,6 Meyappa Chettiar Road  #07-09 ,1,110,Strata,1608112,-,14619,1358,27-FEB-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,N.A,13,35,358454,Central Region,Toa Payoh
+THE METROPOLITAN CONDOMINIUM,6 Alexandra View  #16-02 ,1,96,Strata,1320000,-,13750,1277,27-FEB-2017,Condominium,99 Yrs From 17/02/2006,2009,Resale,HDB,03,15,158746,Central Region,Bukit Merah
+THE VISIONAIRE,176 Canberra Drive  #05-14 ,1,107,Strata,960500,-,8977,834,27-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767950,North Region,Sembawang
+N.A.,1D Jalan Singa ,1,230,Land,1850000,-,8057,749,27-FEB-2017,Terrace House,99 Yrs From 01/03/1995,1998,Resale,Private,14,41,418121,East Region,Bedok
+THE VISIONAIRE,176 Canberra Drive  #02-13 ,1,95,Strata,847000,-,8916,828,27-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767950,North Region,Sembawang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #39-05 ,1,92,Strata,1376000,-,14957,1389,27-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC LIFE,33 Sembawang Crescent  #14-26 ,1,91,Strata,765700,763400,8389,779,27-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,HDB,27,75,756984,North Region,Sembawang
+WANDERVALE,355 Choa Chu Kang Avenue 3  #02-10 ,1,102,Strata,866000,-,8490,789,27-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,HDB,23,68,689881,West Region,Choa Chu Kang
+HILLION RESIDENCES,12 Jelebu Road  #11-36 ,1,44,Strata,637560,-,14490,1346,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677673,West Region,Bukit Panjang
+SOL ACRES,10 Choa Chu Kang Grove  #24-22 ,1,97,Strata,881000,-,9082,844,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,2018,New Sale,HDB,23,68,688207,West Region,Choa Chu Kang
+RIVERBANK @ FERNVALE,13 Fernvale Close  #16-17 ,1,94,Strata,992000,-,10553,980,27-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,HDB,28,79,797476,North East Region,Sengkang
+SOL ACRES,10 Choa Chu Kang Grove  #08-22 ,1,97,Strata,821000,-,8464,786,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,Private,23,68,688207,West Region,Choa Chu Kang
+CARIBBEAN AT KEPPEL BAY,6 Keppel Bay Drive  #09-04 ,1,432,Strata,3800000,-,8796,817,27-FEB-2017,Condominium,99 Yrs From 16/08/1999,2004,Resale,Private,04,09,098638,Central Region,Bukit Merah
+N.A.,22 Marlene Avenue ,1,371,Land,3550000,-,9571,889,27-FEB-2017,Terrace House,Freehold,1993,Resale,Private,19,55,556645,North East Region,Serangoon
+PARC EMILY,15 Mount Emily Road  #06-38 ,1,93,Strata,1500000,-,16129,1498,27-FEB-2017,Condominium,Freehold,2008,Resale,Private,09,22,228495,Central Region,Rochor
+NEWTON ONE,1 Newton Road  #25-01 ,1,178,Strata,3050000,-,17135,1592,27-FEB-2017,Condominium,Freehold,2009,Resale,Private,11,30,307943,Central Region,Novena
+THE SAIL @ MARINA BAY,6 Marina Boulevard  #57-17 ,1,63,Strata,1280000,-,20317,1888,27-FEB-2017,Apartment,99 Yrs From 12/08/2002,2008,Resale,Private,01,01,018985,Central Region,Downtown Core
+PARC RIVIERA,103 West Coast Vale  #06-21 ,1,66,Strata,871000,-,13197,1226,27-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+TREASURE CREST,52 Anchorvale Crescent  #06-11 ,1,100,Strata,761000,-,7610,707,27-FEB-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,HDB,19,54,544630,North East Region,Sengkang
+COSTA RHU,5 Rhu Cross  #09-13 ,1,124,Strata,1700000,-,13710,1274,27-FEB-2017,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437434,Central Region,Kallang
+LUXUS HILLS,30 Seletar Green View ,1,201,Land,2880000,-,14328,1331,27-FEB-2017,Terrace House,999 Yrs From 01/01/1879,2012,Resale,Private,28,80,805127,North East Region,Serangoon
+RIVIERA 38,38 Mar Thoma Road  #13-02 ,1,51,Strata,655000,-,12843,1193,27-FEB-2017,Apartment,999 Yrs From 02/06/1882,2014,Resale,HDB,12,32,328712,Central Region,Kallang
+THE MEYERISE,93 Meyer Road  #10-01 ,1,169,Strata,2850000,-,16864,1567,27-FEB-2017,Condominium,Freehold,2014,Resale,Private,15,43,437986,Central Region,Marine Parade
+D'MANOR,109 Tanah Merah Kechil Avenue ,1,253,Strata,1730000,-,6838,635,27-FEB-2017,Terrace House,99 Yrs From 14/03/1997,2000,Resale,Private,16,46,465682,East Region,Bedok
+THE SAIL @ MARINA BAY,6 Marina Boulevard  #21-21 ,1,80,Strata,1600000,-,20000,1858,27-FEB-2017,Apartment,99 Yrs From 12/08/2002,2008,Resale,Private,01,01,018985,Central Region,Downtown Core
+PRINCIPAL GARDEN,95 Prince Charles Crescent  #22-09 ,1,218,Strata,3938000,-,18064,1678,27-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,HDB,03,15,159027,Central Region,Bukit Merah
+RIVERPARC RESIDENCE,90 Punggol Drive  #08-02 ,1,115,Strata,960000,-,8348,776,27-FEB-2017,Executive Condominium,99 Yrs From 27/12/2010,2014,Resale,HDB,19,82,828794,North East Region,Punggol
+N.A.,43 Jalan Tari Piring ,1,169,Land,1580000,-,9333,867,27-FEB-2017,Terrace House,999 Yrs From 01/01/1879,Unknown,Resale,Private,28,79,799196,North East Region,Sengkang
+THE ADARA,9 Chapel Road  #03-01 ,1,79,Strata,1068000,-,13519,1256,27-FEB-2017,Apartment,Freehold,2010,Resale,Private,15,42,429515,Central Region,Marine Parade
+RESIDENCES @ EVELYN,17 Evelyn Road  #12-08 ,1,103,Strata,1755000,-,17039,1583,27-FEB-2017,Condominium,Freehold,2007,Resale,Private,11,30,309306,Central Region,Novena
+HILLION RESIDENCES,10 Jelebu Road  #12-24 ,1,44,Strata,658720,-,14971,1391,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677672,West Region,Bukit Panjang
+SOL ACRES,12 Choa Chu Kang Grove  #01-32 ,1,104,Strata,843000,-,8106,753,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,Private,23,68,688208,West Region,Choa Chu Kang
+SIMS URBAN OASIS,12 Sims Drive  #15-45 ,1,57,Strata,771000,-,13526,1257,27-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,HDB,14,38,387391,Central Region,Geylang
+VALLEY PARK,479 River Valley Road  #18-05 ,1,113,Strata,1740000,-,15398,1431,27-FEB-2017,Condominium,999 Yrs From 21/06/1877,1997,Resale,Private,10,24,248364,Central Region,Tanglin
+OPERA ESTATE,1 Tosca Terrace ,1,204,Land,2425000,-,11881,1104,27-FEB-2017,Terrace House,Freehold,Unknown,Resale,Private,15,45,455395,East Region,Bedok
+RIS GRANDEUR,31 Elias Road  #08-21 ,1,120,Strata,1150000,-,9583,890,27-FEB-2017,Condominium,Freehold,2005,Resale,Private,18,51,519934,East Region,Pasir Ris
+6 DERBYSHIRE,6 Derbyshire Road  #09-04 ,1,48,Strata,1120388,-,23341,2168,27-FEB-2017,Condominium,Freehold,2017,New Sale,Private,11,30,309462,Central Region,Novena
+SYMPHONY SUITES,5 Yishun Close  #02-11 ,1,95,Strata,994000,-,10463,972,27-FEB-2017,Condominium,99 Yrs From 10/06/2014,Uncompleted,New Sale,HDB,27,76,768006,North Region,Yishun
+PARC RIVIERA,103 West Coast Vale  #22-20 ,1,56,Strata,785000,-,14018,1302,27-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+WESTWOOD PARK,43 Westwood Drive ,1,150,Land,1350000,-,9000,836,27-FEB-2017,Terrace House,99 Yrs From 01/12/1994,1996,Resale,Private,22,64,648861,West Region,Jurong West
+THE WISTERIA,590 Yishun Ring Road  #07-03 ,1,109,Strata,1145400,-,10508,976,27-FEB-2017,Apartment,99 Yrs From 27/04/2015,Uncompleted,New Sale,HDB,27,76,768694,North Region,Yishun
+THE CENTREN,1 Lorong 27 Geylang  #07-03 ,1,91,Strata,1190000,-,13077,1215,27-FEB-2017,Apartment,Freehold,2016,New Sale,Private,14,38,388153,Central Region,Geylang
+CHANGI COURT,702 Upper Changi Road East  #04-09 ,1,102,Strata,1000000,-,9804,911,27-FEB-2017,Condominium,Freehold,1997,Resale,Private,16,48,486832,East Region,Tampines
+HILLION RESIDENCES,12 Jelebu Road  #14-25 ,1,44,Strata,649520,-,14762,1371,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677673,West Region,Bukit Panjang
+THE LEVELZ,38 Farrer Road  #03-01 ,1,73,Strata,1100000,-,15068,1400,27-FEB-2017,Condominium,Freehold,2004,Resale,HDB,10,26,268836,Central Region,Tanglin
+8M RESIDENCES,8 Margate Road  #14-04 ,1,60,Strata,1358000,-,22633,2103,27-FEB-2017,Apartment,Freehold,2016,New Sale,Private,15,43,438049,Central Region,Marine Parade
+SERANGOON GARDEN ESTATE,9 Bridport Avenue ,1,200,Land,3380000,-,16866,1567,27-FEB-2017,Semi-Detached House,999 Yrs From 01/01/1953,Unknown,Resale,Private,19,55,559300,North East Region,Serangoon
+WANDERVALE,359 Choa Chu Kang Avenue 3  #02-17 ,1,102,Strata,830000,-,8137,756,27-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,HDB,23,68,689883,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #22-04 ,1,59,Strata,895000,-,15169,1409,27-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+TREASURE CREST,52 Anchorvale Crescent  #02-12 ,1,107,Strata,791000,-,7393,687,27-FEB-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,HDB,19,54,544630,North East Region,Sengkang
+PARK VILLAS,9 Park Villas Terrace ,1,150,Land,1500000,-,10000,929,27-FEB-2017,Terrace House,99 Yrs From 01/05/1994,1997,Resale,Private,19,54,545316,North East Region,Hougang
+PRISTINE HEIGHTS,77 Mergui Road  #19-01 ,1,195,Strata,1850000,-,9487,881,27-FEB-2017,Apartment,Freehold,2009,Resale,HDB,08,21,219053,Central Region,Kallang
+ONE SURIN,1E Surin Avenue ,1,384,Strata,2600000,-,6771,629,27-FEB-2017,Terrace House,Freehold,2017,New Sale,Private,19,53,533936,North East Region,Hougang
+THE QUARTZ,69 Compassvale Bow  #17-37 ,1,121,Strata,1180000,-,9752,906,27-FEB-2017,Condominium,99 Yrs From 18/04/2005,2009,Resale,Private,19,54,544993,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #04-10 ,1,103,Strata,1408000,-,13670,1270,27-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+SKY@ELEVEN,5 Thomson Lane  #27-02 ,1,252,Strata,4000000,-,15873,1475,27-FEB-2017,Condominium,Freehold,2010,Resale,HDB,11,29,297724,Central Region,Toa Payoh
+HILLION RESIDENCES,12 Jelebu Road  #16-36 ,1,44,Strata,698250,-,15869,1474,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,Private,23,67,677673,West Region,Bukit Panjang
+D' ALMIRA,35 Sommerville Road  #03-05 ,1,114,Strata,1270000,-,11140,1035,27-FEB-2017,Apartment,Freehold,2011,Resale,Private,13,35,358265,North East Region,Serangoon
+PARC OASIS,41 Jurong East Avenue 1  #15-04 ,1,114,Strata,1082500,-,9496,882,27-FEB-2017,Condominium,99 Yrs From 01/12/1991,1994,Resale,HDB,22,60,609777,West Region,Jurong East
+PARC OLYMPIA,54 Flora Drive  #03-20 ,1,61,Strata,655000,-,10738,998,27-FEB-2017,Condominium,99 Yrs From 25/01/2012,2015,Sub Sale,HDB,17,50,506870,East Region,Pasir Ris
+THE SPRINGSIDE,70 Springside View ,1,164,Land,2760000,-,16799,1561,27-FEB-2017,Terrace House,Freehold,2016,New Sale,Private,26,78,786123,North Region,Yishun
+BOTANIC GARDENS VIEW,27 Taman Serasi  #08-27 ,1,131,Strata,2000000,-,15267,1418,27-FEB-2017,Apartment,Freehold,Unknown,Resale,Private,10,25,257724,Central Region,Tanglin
+PARK WEST,4 Jalan Lempeng  #11-04 ,1,116,Strata,980000,-,8448,785,27-FEB-2017,Condominium,99 Yrs From 08/03/1982,1985,Resale,Private,05,12,128794,West Region,Clementi
+THE VISIONAIRE,190 Canberra Drive  #09-41 ,1,91,Strata,816000,-,8967,833,27-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767957,North Region,Sembawang
+RIVERSOUND RESIDENCE,5 Sengkang East Avenue  #03-17 ,1,88,Strata,880000,-,10000,929,27-FEB-2017,Condominium,99 Yrs From 26/08/2011,2015,Resale,Private,19,54,544740,North East Region,Sengkang
+N.A.,3 Wiltshire Road ,1,410,Land,4975000,-,12140,1128,27-FEB-2017,Detached House,Freehold,1995,Resale,Private,16,46,466379,East Region,Bedok
+N.A.,13 Mulberry Avenue ,1,663,Land,7100000,-,10709,995,27-FEB-2017,Detached House,Freehold,Unknown,Resale,HDB,13,34,348358,Central Region,Toa Payoh
+ONE SURIN,7 Surin Avenue ,1,480,Strata,2720000,-,5667,526,27-FEB-2017,Terrace House,Freehold,2017,New Sale,Private,19,53,533921,North East Region,Hougang
+HILLION RESIDENCES,12 Jelebu Road  #09-31 ,1,44,Strata,647680,-,14720,1368,27-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,HDB,23,67,677673,West Region,Bukit Panjang
+THOMSON GRAND,11 Sin Ming Walk  #16-02 ,1,90,Strata,1350000,-,15000,1394,27-FEB-2017,Condominium,99 Yrs From 08/02/2010,2015,Sub Sale,HDB,20,57,575579,Central Region,Bishan
+THE PEAK @ CAIRNHILL II,61 Cairnhill Circle  #06-01 ,1,84,Strata,2384000,-,28381,2637,27-FEB-2017,Apartment,Freehold,2015,Resale,HDB,09,22,229789,Central Region,Newton
+VUE 8 RESIDENCE,87 Pasir Ris Heights  #05-09 ,1,125,Strata,1250000,-,10000,929,27-FEB-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,HDB,18,51,519285,East Region,Pasir Ris
+THE QUINTET,44 Choa Chu Kang Street 64  #16-18 ,1,117,Strata,915000,-,7821,727,27-FEB-2017,Executive Condominium,99 Yrs From 22/01/2003,2006,Resale,HDB,23,68,689105,West Region,Choa Chu Kang
+NORTH PARK RESIDENCES,15 Yishun Central 1  #04-02 ,1,68,Strata,956700,-,14069,1307,27-FEB-2017,Apartment,99 Yrs From 19/03/2015,Uncompleted,New Sale,Private,27,76,768797,North Region,Yishun
+THE SAIL @ MARINA BAY,6 Marina Boulevard  #18-16 ,1,57,Strata,1080000,-,18947,1760,27-FEB-2017,Apartment,99 Yrs From 12/08/2002,2008,Resale,HDB,01,01,018985,Central Region,Downtown Core
+SKY VUE,3 Bishan Street 15  #36-15 ,1,63,Strata,1202300,-,19084,1773,27-FEB-2017,Condominium,99 Yrs From 04/03/2013,2016,Resale,HDB,20,57,573911,Central Region,Bishan
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #21-01 ,1,125,Strata,1690000,-,13520,1256,27-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+TREASURE CREST,66 Anchorvale Crescent  #12-35 ,1,100,Strata,807000,-,8070,750,27-FEB-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,N.A,19,54,544617,North East Region,Sengkang
+WANDERVALE,361 Choa Chu Kang Avenue 3  #08-24 ,1,102,Strata,843000,-,8265,768,27-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,HDB,23,68,689884,West Region,Choa Chu Kang
+ONE CHATSWORTH,1 Chatsworth Road  #02-25 ,1,307,Strata,6300000,-,20521,1906,27-FEB-2017,Apartment,Freehold,1976,Resale,Private,10,24,249745,Central Region,Tanglin
+PINE GROVE,1P Pine Grove  #06-75 ,1,108,Strata,930000,-,8611,800,27-FEB-2017,Condominium,99 Yrs From 01/11/1984,Unknown,Resale,Private,21,59,591401,Central Region,Bukit Timah
+N.A.,120A Sunrise Avenue ,1,176,Land,2430000,-,13823,1284,27-FEB-2017,Terrace House,Freehold,2008,Resale,Private,28,80,805416,North East Region,Ang Mo Kio
+TREASURE CREST,58 Anchorvale Crescent  #02-23 ,1,100,Strata,811000,-,8110,753,27-FEB-2017,Executive Condominium,99 Yrs From 05/05/2015,Uncompleted,New Sale,N.A,19,54,544633,North East Region,Sengkang
+PRINCIPAL GARDEN,95 Prince Charles Crescent  #08-14 ,1,100,Strata,1829000,1824000,18240,1695,27-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,Private,03,15,159027,Central Region,Bukit Merah
+THE WISTERIA,590 Yishun Ring Road  #05-03 ,1,109,Strata,1128700,-,10355,962,27-FEB-2017,Apartment,99 Yrs From 27/04/2015,Uncompleted,New Sale,Private,27,76,768694,North Region,Yishun
+SOL ACRES,12 Choa Chu Kang Grove  #20-33 ,1,79,Strata,706000,-,8937,830,27-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+LILAC PARK,21 Lilac Drive ,1,211,Land,2100000,-,9948,924,27-FEB-2017,Terrace House,Freehold,1990,Resale,Private,28,80,808211,North East Region,Serangoon
+FLO RESIDENCE,7 Punggol Field Walk  #05-15 ,1,87,Strata,831000,-,9552,887,27-FEB-2017,Condominium,99 Yrs From 05/12/2011,2016,Sub Sale,HDB,19,82,828742,North East Region,Punggol
+ESPADA,48 St. Thomas Walk  #23-05 ,1,67,Strata,1685000,-,25149,2336,27-FEB-2017,Apartment,Freehold,2013,Resale,Private,09,23,238126,Central Region,River Valley
+THE HILLFORD,172 Jalan Jurong Kechil  #05-18 ,1,47,Strata,599000,-,12745,1184,27-FEB-2017,Apartment,60 Yrs From 19/02/2013,2016,Resale,Private,21,59,596182,Central Region,Bukit Timah
+RIVERBANK @ FERNVALE,13 Fernvale Close  #18-14 ,1,97,Strata,1076000,-,11093,1031,27-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,N.A,28,79,797476,North East Region,Sengkang
+GALLOP GABLES,80 Farrer Road  #03-04 ,1,161,Strata,2820000,-,17516,1627,27-FEB-2017,Condominium,Freehold,1997,Resale,HDB,10,26,268855,Central Region,Tanglin
+PARC LIFE,23 Sembawang Crescent  #11-06 ,1,71,Strata,615600,-,8670,806,27-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,HDB,27,75,757054,North Region,Sembawang
+THE VENUE RESIDENCES,8 Tai Thong Crescent  #16-07 ,1,78,Strata,1192500,-,15288,1420,26-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,Private,13,34,347842,Central Region,Toa Payoh
+SOL ACRES,10 Choa Chu Kang Grove  #02-24 ,1,81,Strata,676000,-,8346,775,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688207,West Region,Choa Chu Kang
+THE CRITERION,15 Yishun Street 51  #04-30 ,1,85,Strata,714400,-,8405,781,26-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,HDB,27,76,767973,North Region,Yishun
+URBAN HERITAGE,238 Balestier Road  #06-03 ,1,78,Strata,910000,-,11667,1084,26-FEB-2017,Apartment,Freehold,2015,New Sale,Private,12,32,329701,Central Region,Novena
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #24-01 ,1,125,Strata,1703000,-,13624,1266,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #22-01 ,1,125,Strata,1694000,-,13552,1259,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+SIMS URBAN OASIS,6 Sims Drive  #07-22 ,1,89,Strata,1273900,-,14313,1330,26-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,Private,14,38,387388,Central Region,Geylang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #26-04 ,1,59,Strata,905000,-,15339,1425,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #31-13 ,1,60,Strata,864000,-,14400,1338,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #16-08 ,1,125,Strata,1675000,-,13400,1245,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+SIGNATURE AT YISHUN,21 Yishun Street 51  #02-03 ,1,72,Strata,572112,-,7946,738,26-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,HDB,27,76,768085,North Region,Yishun
+PARC RIVIERA,101 West Coast Vale  #27-08 ,1,56,Strata,800000,-,14286,1327,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126753,West Region,Clementi
+WESTWOOD RESIDENCES,182 Westwood Avenue  #09-05 ,1,88,Strata,723500,-,8222,764,26-FEB-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,HDB,22,64,648146,West Region,Jurong West
+SOL ACRES,12 Choa Chu Kang Grove  #18-29 ,1,97,Strata,838000,-,8639,803,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+SOL ACRES,2 Choa Chu Kang Grove  #03-02 ,1,102,Strata,814000,-,7980,741,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688238,West Region,Choa Chu Kang
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #27-04 ,1,100,Strata,1642500,-,16425,1526,26-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,Private,03,14,149739,Central Region,Queenstown
+SOL ACRES,6 Choa Chu Kang Grove  #15-13 ,1,68,Strata,602000,-,8853,822,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688240,West Region,Choa Chu Kang
+PARC LIFE,33 Sembawang Crescent  #11-24 ,1,93,Strata,793250,-,8530,792,26-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,N.A,27,75,756984,North Region,Sembawang
+CAIRNHILL NINE,9 Cairnhill Road  #12-01 ,1,96,Strata,2487000,-,25906,2407,26-FEB-2017,Apartment,99 Yrs From 12/05/2014,2016,New Sale,Private,09,22,229723,Central Region,Orchard
+THE BENTLY RESIDENCES@KOVAN,30 Kovan Road  #05-01 ,1,155,Strata,1700000,-,10968,1019,26-FEB-2017,Apartment,Freehold,2016,New Sale,N.A,19,54,548086,North East Region,Hougang
+SOL ACRES,14 Choa Chu Kang Grove  #18-36 ,1,68,Strata,601000,-,8838,821,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688209,West Region,Choa Chu Kang
+SOL ACRES,20 Choa Chu Kang Grove  #06-49 ,1,86,Strata,681000,-,7919,736,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688212,West Region,Choa Chu Kang
+THE BROWNSTONE,150 Canberra Drive  #05-04 ,1,85,Strata,721600,-,8489,789,26-FEB-2017,Executive Condominium,99 Yrs From 28/04/2014,Uncompleted,New Sale,HDB,27,76,768079,North Region,Sembawang
+THE VALES,85 Anchorvale Crescent  #13-31 ,1,71,Strata,653331,-,9202,855,26-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,HDB,19,54,544627,North East Region,Sengkang
+COCO PALMS,27 Pasir Ris Grove  #14-49 ,1,102,Strata,1172000,-,11490,1067,26-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518073,East Region,Pasir Ris
+PARC RIVIERA,101 West Coast Vale  #17-10 ,1,66,Strata,897000,-,13591,1263,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+SYMPHONY SUITES,5 Yishun Close  #12-12 ,1,74,Strata,842000,-,11378,1057,26-FEB-2017,Condominium,99 Yrs From 10/06/2014,Uncompleted,New Sale,HDB,27,76,768006,North Region,Yishun
+PARC RIVIERA,101 West Coast Vale  #24-09 ,1,56,Strata,791000,-,14125,1312,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+ONE SURIN,1G Surin Avenue ,1,403,Strata,2650000,-,6576,611,26-FEB-2017,Terrace House,Freehold,2017,New Sale,N.A,19,53,533934,North East Region,Hougang
+PARC RIVIERA,103 West Coast Vale  #29-13 ,1,60,Strata,858000,-,14300,1329,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+HIGHLINE RESIDENCES,7 Kim Tian Road  #31-07 ,1,103,Strata,2109700,-,20483,1903,26-FEB-2017,Condominium,99 Yrs From 22/07/2013,Uncompleted,New Sale,Private,03,16,168592,Central Region,Bukit Merah
+STURDEE RESIDENCES,10 Beatty Road  #17-03 ,1,67,Strata,1136700,-,16966,1576,26-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,08,20,209955,Central Region,Kallang
+PARC RIVIERA,103 West Coast Vale  #25-20 ,1,56,Strata,780000,-,13929,1294,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #23-20 ,1,56,Strata,788000,-,14071,1307,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+HIGH PARK RESIDENCES,23 Fernvale Road  #14-14 ,1,91,Strata,957112,-,10518,977,26-FEB-2017,Apartment,99 Yrs From 05/11/2014,Uncompleted,New Sale,N.A,28,79,797638,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-13 ,1,68,Strata,1040000,-,15294,1421,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE BROWNSTONE,150 Canberra Drive  #03-07 ,1,105,Strata,992100,-,9449,878,26-FEB-2017,Executive Condominium,99 Yrs From 28/04/2014,Uncompleted,New Sale,HDB,27,76,768079,North Region,Sembawang
+THE CREST,105 Prince Charles Crescent  #12-18 ,1,127,Strata,2399000,-,18890,1755,26-FEB-2017,Condominium,99 Yrs From 21/12/2012,2017,New Sale,HDB,03,15,159019,Central Region,Bukit Merah
+THE VALES,85 Anchorvale Crescent  #01-29 ,1,159,Strata,1339888,-,8427,783,26-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,N.A,19,54,544627,North East Region,Sengkang
+THE VISIONAIRE,172 Canberra Drive  #06-05 ,1,95,Strata,844000,-,8884,825,26-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,768003,North Region,Sembawang
+THE VENUE RESIDENCES,8 Tai Thong Crescent  #04-07 ,1,78,Strata,1143750,-,14663,1362,26-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,Private,13,34,347842,Central Region,Toa Payoh
+PARC LIFE,29 Sembawang Crescent  #12-17 ,1,99,Strata,825550,-,8339,775,26-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756982,North Region,Sembawang
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #08-25 ,1,105,Strata,1516305,-,14441,1342,26-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,Private,13,34,347848,Central Region,Toa Payoh
+RIVERBANK @ FERNVALE,13 Fernvale Close  #17-14 ,1,97,Strata,1069000,-,11021,1024,26-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,HDB,28,79,797476,North East Region,Sengkang
+COCO PALMS,27 Pasir Ris Grove  #05-49 ,1,102,Strata,1132800,-,11106,1032,26-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518073,East Region,Pasir Ris
+SOL ACRES,2 Choa Chu Kang Grove  #07-03 ,1,68,Strata,571000,-,8397,780,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688238,West Region,Choa Chu Kang
+THE VISIONAIRE,190 Canberra Drive  #11-44 ,1,112,Strata,916000,-,8179,760,26-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,N.A,27,76,767957,North Region,Sembawang
+COCO PALMS,27 Pasir Ris Grove  #13-49 ,1,102,Strata,1168000,-,11451,1064,26-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518073,East Region,Pasir Ris
+THE ALPS RESIDENCES,113 Tampines Street 86  #06-40 ,1,65,Strata,718000,-,11046,1026,26-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,HDB,18,52,528536,East Region,Tampines
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #25-01 ,1,125,Strata,1708000,-,13664,1269,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #27-13 ,1,60,Strata,852000,-,14200,1319,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+THE CRITERION,9 Yishun Street 51  #06-19 ,1,116,Strata,956800,-,8248,766,26-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,N.A,27,76,767970,North Region,Yishun
+COCO PALMS,11 Pasir Ris Grove  #07-06 ,1,162,Strata,1733600,-,10701,994,26-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,Private,18,51,518140,East Region,Pasir Ris
+THE BROWNSTONE,152 Canberra Drive  #05-14 ,1,88,Strata,747200,-,8491,789,26-FEB-2017,Executive Condominium,99 Yrs From 28/04/2014,Uncompleted,New Sale,Private,27,76,768080,North Region,Sembawang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #09-08 ,1,125,Strata,1644000,-,13152,1222,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+SOL ACRES,10 Choa Chu Kang Grove  #11-24 ,1,81,Strata,703000,-,8679,806,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688207,West Region,Choa Chu Kang
+RIVERBANK @ FERNVALE,11 Fernvale Close  #17-06 ,1,97,Strata,1078000,-,11113,1032,26-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,HDB,28,79,797475,North East Region,Sengkang
+THE ORIENT,251 Pasir Panjang Road  #04-13 ,1,54,Strata,975000,-,18056,1677,26-FEB-2017,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118610,Central Region,Queenstown
+SOL ACRES,20 Choa Chu Kang Grove  #13-49 ,1,86,Strata,702000,-,8163,758,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688212,West Region,Choa Chu Kang
+THE GLADES,10 Bedok Rise  #09-31 ,1,45,Strata,739800,-,16440,1527,26-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,HDB,16,46,469601,East Region,Bedok
+PARC RIVIERA,103 West Coast Vale  #25-19 ,1,56,Strata,794000,-,14179,1317,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+FOREST WOODS,9A Lorong Lew Lian  #12-11 ,1,107,Strata,1431000,-,13374,1242,26-FEB-2017,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,HDB,19,53,536495,North East Region,Serangoon
+PARC RIVIERA,103 West Coast Vale  #25-13 ,1,60,Strata,845000,-,14083,1308,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+STARS OF KOVAN,980 Upper Serangoon Road  #06-08 ,1,69,Strata,1033180,-,14974,1391,26-FEB-2017,Apartment,99 Yrs From 25/02/2015,Uncompleted,New Sale,HDB,19,53,533856,North East Region,Hougang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #11-13 ,1,68,Strata,993000,-,14603,1357,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE VISIONAIRE,198 Canberra Drive  #07-57 ,1,89,Strata,774500,-,8702,808,26-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,N.A,27,76,767961,North Region,Sembawang
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #18-11 ,1,41,Strata,788000,-,19220,1786,26-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149739,Central Region,Queenstown
+SOL ACRES,2 Choa Chu Kang Grove  #02-02 ,1,102,Strata,810000,-,7941,738,26-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688238,West Region,Choa Chu Kang
+PARC RIVIERA,101 West Coast Vale  #07-05 ,1,84,Strata,1074000,-,12786,1188,26-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #39-13 ,1,68,Strata,1076000,-,15824,1470,26-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+NORTH PARK RESIDENCES,15 Yishun Central 1  #04-17 ,1,87,Strata,1182600,-,13593,1263,26-FEB-2017,Apartment,99 Yrs From 19/03/2015,Uncompleted,New Sale,HDB,27,76,768797,North Region,Yishun
+HIGH PARK RESIDENCES,31 Fernvale Road  #20-49 ,1,90,Strata,1017112,-,11301,1050,26-FEB-2017,Apartment,99 Yrs From 05/11/2014,Uncompleted,New Sale,HDB,28,79,797417,North East Region,Sengkang
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #19-11 ,1,41,Strata,788000,-,19220,1786,26-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,N.A,03,14,149739,Central Region,Queenstown
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-10 ,1,103,Strata,1411000,-,13699,1273,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #13-10 ,1,103,Strata,1435000,-,13932,1294,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-13 ,1,68,Strata,980000,-,14412,1339,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #28-01 ,1,125,Strata,1722000,-,13776,1280,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #11-03 ,1,68,Strata,995000,-,14632,1359,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #24-04 ,1,59,Strata,900000,-,15254,1417,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE TERRACE,98 Edgedale Plains  #15-39 ,1,93,Strata,810600,-,8716,810,25-FEB-2017,Executive Condominium,99 Yrs From 30/10/2013,Uncompleted,New Sale,N.A,19,82,828689,North East Region,Punggol
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-07 ,1,92,Strata,1326000,-,14413,1339,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #16-09 ,1,61,Strata,909000,-,14902,1384,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+STURDEE RESIDENCES,10 Beatty Road  #04-03 ,1,67,Strata,1058700,-,15801,1468,25-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,08,20,209955,Central Region,Kallang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #11-12 ,1,66,Strata,982000,-,14879,1382,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+HIGH PARK RESIDENCES,23 Fernvale Road  #21-14 ,1,93,Strata,1002112,-,10775,1001,25-FEB-2017,Apartment,99 Yrs From 05/11/2014,Uncompleted,New Sale,HDB,28,79,797638,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #31-13 ,1,68,Strata,1049000,-,15426,1433,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #23-08 ,1,125,Strata,1707000,-,13656,1269,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #03-07 ,1,92,Strata,1279000,-,13902,1292,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #14-04 ,1,59,Strata,874000,-,14814,1376,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #15-12 ,1,66,Strata,992000,-,15030,1396,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #13-04 ,1,59,Strata,872000,-,14780,1373,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #25-09 ,1,61,Strata,936000,-,15344,1426,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #20-17 ,1,92,Strata,1189000,-,12924,1201,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #02-09 ,1,61,Strata,872000,-,14295,1328,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-09 ,1,61,Strata,946000,-,15508,1441,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #37-06 ,1,106,Strata,1568000,-,14792,1374,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #20-04 ,1,59,Strata,889000,-,15068,1400,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-09 ,1,61,Strata,887000,-,14541,1351,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #19-05 ,1,92,Strata,1319000,-,14337,1332,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #10-04 ,1,59,Strata,866000,-,14678,1364,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+PRINCIPAL GARDEN,93 Prince Charles Crescent  #19-07 ,1,75,Strata,1350000,-,18000,1672,25-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,Private,03,15,159026,Central Region,Bukit Merah
+PARC RIVIERA,101 West Coast Vale  #18-01 ,1,107,Strata,1346000,-,12579,1169,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #05-06 ,1,106,Strata,1461000,-,13783,1280,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #07-04 ,1,59,Strata,860000,-,14576,1354,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE ALPS RESIDENCES,113 Tampines Street 86  #07-40 ,1,65,Strata,722000,-,11108,1032,25-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,N.A,18,52,528536,East Region,Tampines
+SOL ACRES,12 Choa Chu Kang Grove  #21-29 ,1,97,Strata,846000,-,8722,810,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #32-01 ,1,125,Strata,1741000,-,13928,1294,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+HIGHLINE RESIDENCES,7 Kim Tian Road  #27-07 ,1,103,Strata,2083800,-,20231,1880,25-FEB-2017,Condominium,99 Yrs From 22/07/2013,Uncompleted,New Sale,HDB,03,16,168592,Central Region,Bukit Merah
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #21-06 ,1,106,Strata,1512000,-,14264,1325,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #19-09 ,1,61,Strata,918000,-,15049,1398,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #19-20 ,1,56,Strata,776000,-,13857,1287,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #28-05 ,1,92,Strata,1342000,-,14587,1355,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #38-12 ,1,66,Strata,1063000,-,16106,1496,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #22-05 ,1,92,Strata,1326000,-,14413,1339,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,2019,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #10-09 ,1,61,Strata,892000,-,14623,1359,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #04-04 ,1,59,Strata,850000,-,14407,1338,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #20-10 ,1,103,Strata,1458000,-,14155,1315,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #20-06 ,1,106,Strata,1509000,-,14236,1323,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+SIMS URBAN OASIS,16 Sims Drive  #12-57 ,1,96,Strata,1409000,-,14677,1364,25-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,Private,14,38,387393,Central Region,Geylang
+THE SANTORINI,35 Tampines Street 86  #14-38 ,1,70,Strata,818700,-,11696,1087,25-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528574,East Region,Tampines
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #33-13 ,1,68,Strata,1056000,-,15529,1443,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #10-05 ,1,92,Strata,1296000,-,14087,1309,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #08-01 ,1,125,Strata,1631000,-,13048,1212,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+SOL ACRES,10 Choa Chu Kang Grove  #18-24 ,1,81,Strata,727000,-,8975,834,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688207,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #11-05 ,1,92,Strata,1298000,-,14109,1311,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #11-04 ,1,59,Strata,868000,-,14712,1367,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #13-13 ,1,68,Strata,998000,-,14676,1363,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #02-04 ,1,59,Strata,842000,-,14271,1326,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #12-09 ,1,61,Strata,897000,-,14705,1366,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #12-10 ,1,103,Strata,1432000,-,13903,1292,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #11-06 ,1,106,Strata,1480000,-,13962,1297,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #17-04 ,1,59,Strata,882000,-,14949,1389,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #08-04 ,1,59,Strata,862000,-,14610,1357,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #14-09 ,1,61,Strata,903000,-,14803,1375,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE SANTORINI,31 Tampines Street 86  #03-30 ,1,70,Strata,764280,-,10918,1014,25-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,N.A,18,52,528572,East Region,Tampines
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #23-09 ,1,61,Strata,930000,-,15246,1416,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+SOL ACRES,4 Choa Chu Kang Grove  #19-08 ,1,68,Strata,620000,-,9118,847,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688239,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #16-04 ,1,59,Strata,879000,-,14898,1384,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #30-09 ,1,61,Strata,953000,-,15623,1451,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #05-03 ,1,68,Strata,983000,-,14456,1343,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #28-06 ,1,106,Strata,1535000,-,14481,1345,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #32-12 ,1,66,Strata,1043000,-,15803,1468,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #09-04 ,1,59,Strata,864000,-,14644,1360,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #34-01 ,1,125,Strata,1751000,-,14008,1301,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #12-13 ,1,68,Strata,996000,-,14647,1361,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #35-05 ,1,92,Strata,1363000,-,14815,1376,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #40-07 ,1,108,Strata,1397000,-,12935,1202,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #06-05 ,1,92,Strata,1285000,-,13967,1298,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #32-06 ,1,106,Strata,1550000,-,14623,1358,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #15-04 ,1,59,Strata,877000,-,14864,1381,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #26-09 ,1,56,Strata,797000,-,14232,1322,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #11-08 ,1,125,Strata,1652000,-,13216,1228,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+SOL ACRES,12 Choa Chu Kang Grove  #22-28 ,1,97,Strata,861000,-,8876,825,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #07-13 ,1,68,Strata,984000,-,14471,1344,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #20-09 ,1,61,Strata,921000,-,15098,1403,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #08-03 ,1,68,Strata,989000,-,14544,1351,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #30-03 ,1,68,Strata,1045000,-,15368,1428,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #17-09 ,1,61,Strata,912000,-,14951,1389,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+RIVERBANK @ FERNVALE,13 Fernvale Close  #15-17 ,1,94,Strata,985000,-,10479,973,25-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,N.A,28,79,797476,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #22-12 ,1,66,Strata,1012000,-,15333,1425,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #01-09 ,1,61,Strata,870000,-,14262,1325,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CRITERION,17 Yishun Street 51  #06-34 ,1,85,Strata,684800,-,8056,748,25-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,N.A,27,76,767974,North Region,Yishun
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #30-05 ,1,92,Strata,1348000,-,14652,1361,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #01-08 ,1,125,Strata,1609000,-,12872,1196,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #20-05 ,1,92,Strata,1321000,-,14359,1334,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE VENUE RESIDENCES,6 Tai Thong Crescent  #14-03 ,1,78,Strata,1160565,-,14879,1382,25-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,N.A,13,34,347840,Central Region,Toa Payoh
+STURDEE RESIDENCES,10 Beatty Road  #15-12 ,1,88,Strata,1409800,-,16020,1488,25-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,08,20,209955,Central Region,Kallang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #18-06 ,1,106,Strata,1502000,-,14170,1316,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #05-04 ,1,59,Strata,854000,-,14475,1345,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #21-04 ,1,59,Strata,892000,-,15119,1405,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #37-01 ,1,125,Strata,1766000,-,14128,1313,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #26-08 ,1,56,Strata,797000,-,14232,1322,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+THE VISIONAIRE,200 Canberra Drive  #05-62 ,1,91,Strata,785500,-,8632,802,25-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767962,North Region,Sembawang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #30-12 ,1,66,Strata,1036000,-,15697,1458,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE VISIONAIRE,194 Canberra Drive  #08-51 ,1,67,Strata,629500,-,9396,873,25-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,767959,North Region,Sembawang
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #14-26 ,1,105,Strata,1651500,-,15729,1461,25-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,HDB,13,34,347848,Central Region,Toa Payoh
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #36-01 ,1,125,Strata,1761000,-,14088,1309,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #06-09 ,1,61,Strata,882000,-,14459,1343,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #04-09 ,1,61,Strata,877000,-,14377,1336,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #12-04 ,1,59,Strata,870000,-,14746,1370,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #18-10 ,1,103,Strata,1452000,-,14097,1310,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #07-08 ,1,125,Strata,1635000,-,13080,1215,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #18-08 ,1,125,Strata,1684000,-,13472,1252,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #28-03 ,1,68,Strata,1038000,-,15265,1418,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #10-01 ,1,125,Strata,1640000,-,13120,1219,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #20-12 ,1,66,Strata,1006000,-,15242,1416,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE VALES,85 Anchorvale Crescent  #02-32 ,1,84,Strata,734000,-,8738,812,25-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,Private,19,54,544627,North East Region,Sengkang
+THE VALES,87 Anchorvale Crescent  #01-34 ,1,159,Strata,1321000,-,8308,772,25-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,HDB,19,54,544628,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #03-08 ,1,125,Strata,1618000,-,12944,1203,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #19-10 ,1,103,Strata,1455000,-,14126,1312,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #12-06 ,1,106,Strata,1483000,-,13991,1300,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC LIFE,33 Sembawang Crescent  #03-26 ,1,91,Strata,721050,718750,7898,734,25-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,N.A,27,75,756984,North Region,Sembawang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #09-03 ,1,68,Strata,991000,-,14574,1354,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #19-04 ,1,59,Strata,887000,-,15034,1397,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #18-09 ,1,61,Strata,915000,-,15000,1394,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-12 ,1,66,Strata,975000,-,14773,1372,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #12-12 ,1,66,Strata,985000,-,14924,1386,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #07-10 ,1,103,Strata,1417000,-,13757,1278,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #06-12 ,1,66,Strata,971000,-,14712,1367,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #30-08 ,1,125,Strata,1740000,-,13920,1293,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+NORTHWAVE,101 Woodlands View  #13-04 ,1,70,Strata,592700,-,8467,787,25-FEB-2017,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737708,North Region,Woodlands
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #15-05 ,1,92,Strata,1308000,-,14217,1321,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #26-05 ,1,92,Strata,1336000,-,14522,1349,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #15-06 ,1,106,Strata,1492000,-,14075,1308,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #40-01 ,1,143,Strata,1827000,-,12776,1187,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+SOL ACRES,2 Choa Chu Kang Grove  #01-01 ,1,53,Strata,427000,-,8057,748,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,2018,New Sale,HDB,23,68,688238,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #18-03 ,1,68,Strata,1012000,-,14882,1383,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #39-10 ,1,103,Strata,1524000,-,14796,1375,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+LAKE GRANDE,2 Jurong Lake Link  #17-03 ,1,104,Strata,1360000,-,13077,1215,25-FEB-2017,Condominium,99 Yrs From 09/06/2015,Uncompleted,New Sale,N.A,22,64,648157,West Region,Jurong West
+WESTWOOD RESIDENCES,194 Westwood Avenue  #07-32 ,1,115,Strata,971700,-,8450,785,25-FEB-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,HDB,22,64,648152,West Region,Jurong West
+WESTWOOD RESIDENCES,182 Westwood Avenue  #08-06 ,1,96,Strata,775100,-,8074,750,25-FEB-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,N.A,22,64,648146,West Region,Jurong West
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #03-04 ,1,59,Strata,846000,-,14339,1332,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #25-09 ,1,56,Strata,779000,-,13911,1292,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #07-01 ,1,125,Strata,1627000,-,13016,1209,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-08 ,1,125,Strata,1626000,-,13008,1208,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-12 ,1,66,Strata,969000,-,14682,1364,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #39-01 ,1,125,Strata,1775000,-,14200,1319,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #18-13 ,1,68,Strata,1011000,-,14868,1381,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #35-02 ,1,92,Strata,1353000,-,14707,1366,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #35-01 ,1,125,Strata,1756000,-,14048,1305,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #22-09 ,1,61,Strata,927000,-,15197,1412,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #26-01 ,1,125,Strata,1712000,-,13696,1272,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #12-03 ,1,68,Strata,998000,-,14676,1363,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #30-04 ,1,59,Strata,918000,-,15559,1445,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #20-02 ,1,92,Strata,1311000,-,14250,1324,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #10-08 ,1,125,Strata,1648000,-,13184,1225,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+SIGNATURE AT YISHUN,29 Yishun Street 51  #05-19 ,1,102,Strata,795760,-,7802,725,25-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,N.A,27,76,767989,North Region,Yishun
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #29-01 ,1,125,Strata,1727000,-,13816,1284,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #28-09 ,1,56,Strata,800000,-,14286,1327,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #38-07 ,1,92,Strata,1358000,-,14761,1371,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #03-09 ,1,61,Strata,875000,-,14344,1333,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #32-04 ,1,59,Strata,925000,-,15678,1457,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #17-10 ,1,103,Strata,1448000,-,14058,1306,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #23-01 ,1,125,Strata,1699000,-,13592,1263,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #25-05 ,1,92,Strata,1334000,-,14500,1347,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #27-05 ,1,92,Strata,1339000,-,14554,1352,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #23-19 ,1,56,Strata,788000,-,14071,1307,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #33-01 ,1,125,Strata,1746000,-,13968,1298,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #25-13 ,1,68,Strata,1031000,-,15162,1409,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #25-04 ,1,59,Strata,902000,-,15288,1420,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+COMMONWEALTH TOWERS,230 Commonwealth Avenue  #33-10 ,1,84,Strata,1492900,-,17773,1651,25-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149739,Central Region,Queenstown
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #21-09 ,1,61,Strata,924000,-,15148,1407,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-08 ,1,125,Strata,1730000,-,13840,1286,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #06-08 ,1,125,Strata,1631000,-,13048,1212,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #16-12 ,1,66,Strata,995000,-,15076,1401,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #27-01 ,1,125,Strata,1717000,-,13736,1276,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #18-20 ,1,56,Strata,773000,-,13804,1282,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #21-12 ,1,66,Strata,1009000,-,15288,1420,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #12-08 ,1,125,Strata,1657000,-,13256,1232,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THOMSON IMPRESSIONS,3 Lorong Puntong  #03-11 ,1,98,Strata,1382812,-,14110,1311,25-FEB-2017,Apartment,99 Yrs From 12/01/2015,Uncompleted,New Sale,HDB,20,57,576444,Central Region,Bishan
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #35-10 ,1,103,Strata,1510000,-,14660,1362,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+8M RESIDENCES,8 Margate Road  #19-04 ,1,60,Strata,1419000,-,23650,2197,25-FEB-2017,Apartment,Freehold,2016,New Sale,Private,15,43,438049,Central Region,Marine Parade
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #13-05 ,1,92,Strata,1303000,-,14163,1316,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+SOL ACRES,12 Choa Chu Kang Grove  #13-31 ,1,99,Strata,838000,-,8465,786,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #09-10 ,1,103,Strata,1423000,-,13816,1283,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+COMMONWEALTH TOWERS,232 Commonwealth Avenue  #32-20 ,1,70,Strata,1318800,-,18840,1750,25-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149740,Central Region,Queenstown
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #16-06 ,1,106,Strata,1495000,-,14104,1310,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #09-13 ,1,68,Strata,989000,-,14544,1351,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #15-03 ,1,68,Strata,1004000,-,14765,1372,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-13 ,1,68,Strata,987000,-,14515,1348,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #16-10 ,1,103,Strata,1445000,-,14029,1303,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #09-05 ,1,92,Strata,1293000,-,14054,1306,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #27-12 ,1,66,Strata,1026000,-,15545,1444,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #31-01 ,1,125,Strata,1736000,-,13888,1290,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #06-04 ,1,59,Strata,858000,-,14542,1351,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE VISIONAIRE,186 Canberra Drive  #08-36 ,1,91,Strata,797000,-,8758,814,25-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,N.A,27,76,767955,North Region,Sembawang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #13-06 ,1,106,Strata,1486000,-,14019,1302,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #13-09 ,1,61,Strata,900000,-,14754,1371,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+SOL ACRES,20 Choa Chu Kang Grove  #15-50 ,1,86,Strata,708000,-,8233,765,25-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688212,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #30-10 ,1,103,Strata,1492000,-,14485,1346,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #10-13 ,1,68,Strata,991000,-,14574,1354,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+VUE 8 RESIDENCE,87 Pasir Ris Heights  #11-09 ,1,125,Strata,1348000,-,10784,1002,25-FEB-2017,Condominium,99 Yrs From 10/09/2012,Uncompleted,New Sale,N.A,18,51,519285,East Region,Pasir Ris
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #16-13 ,1,68,Strata,1006000,-,14794,1374,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #05-01 ,1,125,Strata,1618000,-,12944,1203,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE VENUE RESIDENCES,8 Tai Thong Crescent  #11-07 ,1,78,Strata,1171500,-,15019,1395,25-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,HDB,13,34,347842,Central Region,Toa Payoh
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #22-03 ,1,68,Strata,1022000,-,15029,1396,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #22-11 ,1,103,Strata,1441000,-,13990,1300,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+SIMS URBAN OASIS,16 Sims Drive  #11-57 ,1,96,Strata,1403000,-,14615,1358,25-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,N.A,14,38,387393,Central Region,Geylang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #10-06 ,1,106,Strata,1477000,-,13934,1294,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #15-09 ,1,61,Strata,906000,-,14852,1380,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #28-18 ,1,66,Strata,923000,-,13985,1299,25-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #03-12 ,1,66,Strata,979000,-,14833,1378,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #11-10 ,1,103,Strata,1429000,-,13874,1289,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #10-10 ,1,103,Strata,1426000,-,13845,1286,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #08-06 ,1,106,Strata,1470000,-,13868,1288,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-09 ,1,61,Strata,880000,-,14426,1340,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #06-06 ,1,106,Strata,1464000,-,13811,1283,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #15-10 ,1,103,Strata,1442000,-,14000,1301,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #23-04 ,1,59,Strata,897000,-,15203,1412,25-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+THE PALETTE,111 Pasir Ris Grove  #08-26 ,1,81,Strata,868000,-,10716,996,24-FEB-2017,Condominium,99 Yrs From 20/10/2010,2015,Sub Sale,Private,18,51,518170,East Region,Pasir Ris
+THE MEYERISE,97 Meyer Road  #17-07 ,1,119,Strata,2365000,-,19874,1846,24-FEB-2017,Condominium,Freehold,2014,Resale,Private,15,43,437918,Central Region,Marine Parade
+V ON SHENTON,5A Shenton Way  #26-19 ,1,69,Strata,1689912,-,24491,2275,24-FEB-2017,Apartment,99 Yrs From 29/11/2011,Uncompleted,New Sale,HDB,01,06,068814,Central Region,Downtown Core
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #40-13 ,1,68,Strata,1079000,-,15868,1474,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+YEWTEE RESIDENCES,23 Choa Chu Kang North 6  #06-08 ,1,114,Strata,1025000,-,8991,835,24-FEB-2017,Apartment,99 Yrs From 03/01/2006,2008,Resale,HDB,23,68,689579,West Region,Choa Chu Kang
+RIS GRANDEUR,33 Elias Road  #07-25 ,1,99,Strata,900000,-,9091,845,24-FEB-2017,Condominium,Freehold,2005,Resale,Private,18,51,519935,East Region,Pasir Ris
+RIVERBANK @ FERNVALE,13 Fernvale Close  #16-14 ,1,97,Strata,1065000,-,10979,1020,24-FEB-2017,Condominium,99 Yrs From 10/07/2013,2017,New Sale,HDB,28,79,797476,North East Region,Sengkang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-10 ,1,103,Strata,1485000,-,14417,1339,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+ARDMORE THREE,3 Ardmore Park  #28-01 ,1,166,Strata,6543555,-,39419,3662,24-FEB-2017,Condominium,Freehold,2014,Resale,Private,10,25,259950,Central Region,Newton
+VUE 8 RESIDENCE,99 Pasir Ris Heights  #16-29 ,1,249,Strata,2606800,-,10469,973,24-FEB-2017,Condominium,99 Yrs From 10/09/2012,2017,New Sale,Private,18,51,519291,East Region,Pasir Ris
+GOLD LEAF MANSIONS,100 Lorong M Telok Kurau  #02-07 ,1,139,Strata,1400000,-,10072,936,24-FEB-2017,Apartment,Freehold,1993,Resale,Private,15,42,425403,East Region,Bedok
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #18-12 ,1,66,Strata,1001000,-,15167,1409,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+FULCRUM,33 Fort Road  #17-09 ,1,77,Strata,1451705,-,18853,1752,24-FEB-2017,Condominium,Freehold,2016,Resale,Private,15,43,439092,Central Region,Kallang
+SIGNATURE PARK,50 Toh Tuck Road  #10-03 ,1,132,Strata,1540888,-,11673,1084,24-FEB-2017,Condominium,Freehold,1998,Resale,HDB,21,59,596741,Central Region,Bukit Timah
+THE TRILINQ,28A Jalan Lempeng  #34-15 ,1,141,Strata,1747000,-,12390,1151,24-FEB-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,HDB,05,12,128808,West Region,Clementi
+WATERBANK AT DAKOTA,80 Dakota Crescent  #13-20 ,1,146,Strata,2180000,-,14932,1387,24-FEB-2017,Condominium,99 Yrs From 07/12/2009,2013,Resale,Private,14,39,399946,Central Region,Geylang
+CLOVER BY THE PARK,6 Bishan Street 25  #36-12 ,1,164,Strata,2200000,-,13415,1246,24-FEB-2017,Condominium,99 Yrs From 10/09/2007,2011,Resale,HDB,20,57,573975,Central Region,Bishan
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #11-09 ,1,61,Strata,895000,-,14672,1363,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+THE TRILINQ,28 Jalan Lempeng  #12-03 ,1,141,Strata,1777000,-,12603,1171,24-FEB-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,N.A,05,12,128807,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #30-01 ,1,125,Strata,1732000,-,13856,1287,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #20-19 ,1,56,Strata,775000,-,13839,1286,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #29-12 ,1,107,Strata,1400000,-,13084,1216,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+PARC EMILY,7 Mount Emily Road  #02-14 ,1,51,Strata,940000,-,18431,1712,24-FEB-2017,Condominium,Freehold,2008,Resale,Private,09,22,228491,Central Region,Rochor
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #03-13 ,1,68,Strata,990000,-,14559,1353,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+STURDEE RESIDENCES,10 Beatty Road  #03-09 ,1,97,Strata,1451200,-,14961,1390,24-FEB-2017,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,08,20,209955,Central Region,Kallang
+PARC RIVIERA,101 West Coast Vale  #19-10 ,1,66,Strata,904000,-,13697,1272,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #18-04 ,1,59,Strata,884000,-,14983,1392,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-10 ,1,103,Strata,1420000,-,13786,1281,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+COUNTRY GRANDEUR,22 Lorong Puntong  #13-03 ,1,134,Strata,1600000,-,11940,1109,24-FEB-2017,Condominium,Freehold,1996,Resale,Private,20,57,576439,Central Region,Bishan
+TREE HOUSE,62 Chestnut Avenue  #18-10 ,1,131,Strata,1490000,-,11374,1057,24-FEB-2017,Condominium,99 Yrs From 23/11/2009,2013,Resale,HDB,23,67,679518,West Region,Bukit Panjang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #21-05 ,1,92,Strata,1324000,-,14391,1337,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+OUE TWIN PEAKS,33 Leonie Hill Road  #30-01 ,1,51,Strata,1725500,-,33833,3143,24-FEB-2017,Condominium,99 Yrs From 10/05/2010,2015,Resale,HDB,09,23,239197,Central Region,River Valley
+PARC RIVIERA,101 West Coast Vale  #10-10 ,1,66,Strata,879000,-,13318,1237,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126753,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #40-08 ,1,143,Strata,1836000,-,12839,1193,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE SANTORINI,35 Tampines Street 86  #05-40 ,1,103,Strata,1150380,-,11169,1038,24-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,Private,18,52,528574,East Region,Tampines
+SKYPARK RESIDENCES,17 Sembawang Crescent  #13-30 ,1,148,Strata,1260000,-,8514,791,24-FEB-2017,Executive Condominium,99 Yrs From 18/03/2013,2016,New Sale,N.A,27,75,757061,North Region,Sembawang
+SHELFORD SUITES,16 Shelford Road  #01-04 ,1,134,Strata,1928000,-,14388,1337,24-FEB-2017,Condominium,Freehold,2011,Resale,Private,11,28,288383,Central Region,Bukit Timah
+THE VISIONAIRE,190 Canberra Drive  #10-42 ,1,91,Strata,820500,-,9016,838,24-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,2018,New Sale,HDB,27,76,767957,North Region,Sembawang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #07-06 ,1,106,Strata,1467000,-,13840,1286,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #23-05 ,1,92,Strata,1329000,-,14446,1342,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+RIVER PLACE,62 Havelock Road  #10-12 ,1,69,Strata,1000000,-,14493,1346,24-FEB-2017,Condominium,99 Yrs From 07/11/1995,1999,Resale,Private,03,16,169659,Central Region,Singapore River
+PARC CENTENNIAL,100 Kampong Java Road  #08-03 ,1,144,Strata,2010000,-,13958,1297,24-FEB-2017,Apartment,Freehold,2011,Resale,Private,09,22,228867,Central Region,Novena
+THE SHORE RESIDENCES,85 Amber Road  #19-13 ,1,106,Strata,1800000,-,16981,1578,24-FEB-2017,Condominium,103 Yrs From 18/08/2009,2014,Resale,Private,15,43,439895,Central Region,Marine Parade
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #18-05 ,1,92,Strata,1316000,-,14304,1329,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARC LIFE,39 Sembawang Crescent  #10-37 ,1,99,Strata,848350,-,8569,796,24-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,HDB,27,75,756987,North Region,Sembawang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #07-05 ,1,92,Strata,1288000,-,14000,1301,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+HERITAGE VIEW,10 Dover Rise  #01-06 ,1,123,Strata,1350000,-,10976,1020,24-FEB-2017,Condominium,99 Yrs From 12/08/1996,2000,Resale,HDB,05,13,138680,Central Region,Queenstown
+THE ALPS RESIDENCES,101 Tampines Street 86  #03-02 ,1,65,Strata,706000,-,10862,1009,24-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,HDB,18,52,528575,East Region,Tampines
+THE VISIONAIRE,172 Canberra Drive  #06-08 ,1,91,Strata,801000,-,8802,818,24-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,HDB,27,76,768003,North Region,Sembawang
+WESTWOOD RESIDENCES,186 Westwood Avenue  #01-16 ,1,96,Strata,784900,-,8176,760,24-FEB-2017,Executive Condominium,99 Yrs From 14/04/2014,Uncompleted,New Sale,HDB,22,64,648148,West Region,Jurong West
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #28-12 ,1,66,Strata,1030000,-,15606,1450,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+EMERALD EAST,8D Tanjong Rhu Road  #07-04 ,1,101,Strata,1300000,-,12871,1196,24-FEB-2017,Apartment,Freehold,1999,Resale,HDB,15,43,436892,Central Region,Kallang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #07-09 ,1,61,Strata,885000,-,14508,1348,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE GLADES,20 Bedok Rise  #12-62 ,1,58,Strata,938800,-,16186,1504,24-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,HDB,16,46,465411,East Region,Bedok
+WANDERVALE,361 Choa Chu Kang Avenue 3  #09-24 ,1,102,Strata,847000,-,8304,771,24-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,N.A,23,68,689884,West Region,Choa Chu Kang
+LEEDON RESIDENCE,12 Leedon Heights  #12-14 ,1,342,Strata,6100000,-,17836,1657,24-FEB-2017,Condominium,Freehold,2015,Resale,Private,10,26,267935,Central Region,Bukit Timah
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #10-03 ,1,68,Strata,993000,-,14603,1357,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129960,West Region,Clementi
+HILLVIEW RESIDENCE,138 Hillview Avenue  #07-01 ,1,115,Strata,1030000,-,8957,832,24-FEB-2017,Condominium,999 Yrs From 12/10/1885,2002,Resale,HDB,23,66,669599,West Region,Bukit Batok
+PARC RIVIERA,101 West Coast Vale  #05-10 ,1,66,Strata,869000,-,13167,1223,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+SOL ACRES,12 Choa Chu Kang Grove  #11-31 ,1,99,Strata,830000,-,8384,779,24-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,Private,23,68,688208,West Region,Choa Chu Kang
+HOLLAND GROVE,120 Holland Grove View ,1,212,Land,3000000,-,14178,1317,24-FEB-2017,Semi-Detached House,99 Yrs From 21/04/1994,1997,Resale,Private,10,27,276277,Central Region,Bukit Timah
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #05-26 ,1,105,Strata,1573635,-,14987,1392,24-FEB-2017,Apartment,99 Yrs From 05/12/2012,2017,New Sale,Private,13,34,347848,Central Region,Toa Payoh
+PARC CENTROS,90 Punggol Central  #07-21 ,1,92,Strata,1020000,-,11087,1030,24-FEB-2017,Condominium,99 Yrs From 19/03/2012,2016,Sub Sale,HDB,19,82,828722,North East Region,Punggol
+BEDOK RESIDENCES,30 Bedok North Drive  #07-54 ,1,55,Strata,825000,-,15000,1394,24-FEB-2017,Apartment,99 Yrs From 21/11/2011,2015,Resale,Private,16,46,465501,East Region,Bedok
+SOL ACRES,4 Choa Chu Kang Grove  #01-06 ,1,53,Strata,427000,-,8057,748,24-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688239,West Region,Choa Chu Kang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #09-06 ,1,106,Strata,1473000,-,13896,1291,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+BOTANNIA,29B West Coast Park  #06-20 ,1,113,Strata,1391000,-,12310,1144,24-FEB-2017,Condominium,956 Yrs From 27/05/1928,2009,Resale,HDB,05,12,127724,West Region,Clementi
+SAVANNAH CONDOPARK,43 Simei Rise  #08-27 ,1,114,Strata,930000,-,8158,758,24-FEB-2017,Condominium,99 Yrs From 29/11/2000,2005,Resale,Private,18,52,528785,East Region,Tampines
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #38-01 ,1,125,Strata,1770000,-,14160,1315,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+CRADELS,10 Lorong Limau  #06-08 ,1,62,Strata,880000,-,14194,1319,24-FEB-2017,Apartment,Freehold,2015,Resale,HDB,12,32,328754,Central Region,Novena
+THE VALES,87 Anchorvale Crescent  #03-35 ,1,84,Strata,716888,-,8534,793,24-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,HDB,19,54,544628,North East Region,Sengkang
+VALLEY PARK,473 River Valley Road  #09-07 ,1,113,Strata,1725000,-,15265,1418,24-FEB-2017,Condominium,999 Yrs From 21/06/1877,1997,Resale,Private,10,24,248358,Central Region,Tanglin
+THOMSON 800,808 Thomson Road  #04-19 ,1,151,Strata,1840000,-,12185,1132,24-FEB-2017,Condominium,Freehold,1999,Resale,Private,11,29,298190,Central Region,Toa Payoh
+JERVOIS JADE APARTMENTS,21 Jervois Close  #07-01 ,1,97,Strata,1110000,-,11443,1063,24-FEB-2017,Apartment,99 Yrs From 09/04/1998,2000,Resale,Private,10,24,249114,Central Region,Tanglin
+VACANZA @ EAST,50 Lengkong Tujoh  #06-37 ,1,45,Strata,640000,-,14222,1321,24-FEB-2017,Condominium,Freehold,2014,Resale,Private,14,41,417398,East Region,Bedok
+BLUE HORIZON,29 West Coast Crescent  #05-29 ,1,90,Strata,910000,-,10111,939,24-FEB-2017,Condominium,99 Yrs From 14/08/2000,2005,Resale,HDB,05,12,128049,West Region,Clementi
+PRINCIPAL GARDEN,99 Prince Charles Crescent  #15-29 ,1,80,Strata,1402000,-,17525,1628,24-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,Private,03,15,159029,Central Region,Bukit Merah
+SOLEIL @ SINARAN,6 Sinaran Drive  #34-08 ,1,87,Strata,1760000,-,20230,1879,24-FEB-2017,Condominium,99 Yrs From 23/10/2006,2011,Resale,Private,11,30,307468,Central Region,Novena
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #09-09 ,1,61,Strata,890000,-,14590,1355,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+EUPHONY GARDENS,13 Jalan Mata Ayer  #02-69 ,1,105,Strata,775000,-,7381,686,24-FEB-2017,Condominium,99 Yrs From 25/02/1998,2001,Resale,HDB,27,75,759155,North Region,Mandai
+BLUE HORIZON,23 West Coast Crescent  #10-11 ,1,84,Strata,935000,-,11131,1034,24-FEB-2017,Condominium,99 Yrs From 14/08/2000,2005,Resale,HDB,05,12,128046,West Region,Clementi
+CLAYMORE PLAZA,6 Claymore Hill  #05-02 ,1,72,Strata,1360000,-,18889,1755,24-FEB-2017,Apartment,Freehold,1983,Resale,Private,09,22,229571,Central Region,Orchard
+THE ESTUARY,99 Yishun Avenue 1  #09-40 ,1,110,Strata,1060000,-,9636,895,24-FEB-2017,Condominium,99 Yrs From 25/06/2008,2013,Resale,Private,27,76,769139,North Region,Yishun
+VUE 8 RESIDENCE,89 Pasir Ris Heights  #08-16 ,1,122,Strata,1235500,-,10127,941,24-FEB-2017,Condominium,99 Yrs From 10/09/2012,Uncompleted,New Sale,N.A,18,51,519286,East Region,Pasir Ris
+PARC RIVIERA,103 West Coast Vale  #14-20 ,1,56,Strata,747740,-,13353,1240,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+EASTPOINT GREEN,5 Simei Street 3  #10-17 ,1,105,Strata,863000,-,8219,764,24-FEB-2017,Condominium,99 Yrs From 24/04/1996,1999,Resale,Private,18,52,529892,East Region,Tampines
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #38-08 ,1,125,Strata,1779000,-,14232,1322,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-08 ,1,125,Strata,1639000,-,13112,1218,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #06-10 ,1,103,Strata,1414000,-,13728,1275,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+THE VALES,71 Anchorvale Crescent  #05-01 ,1,71,Strata,639888,-,9013,837,24-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,2017,New Sale,Private,19,54,544660,North East Region,Sengkang
+CENTRO RESIDENCES,59 Ang Mo Kio Avenue 8  #28-12 ,1,93,Strata,1420000,-,15269,1419,24-FEB-2017,Condominium,99 Yrs From 11/12/2007,2014,Resale,Private,20,56,567752,North East Region,Ang Mo Kio
+PARC RIVIERA,103 West Coast Vale  #26-13 ,1,60,Strata,848000,-,14133,1313,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #08-05 ,1,92,Strata,1290000,-,14022,1303,24-FEB-2017,Apartment,99 Yrs From 09/03/2016,2019,New Sale,Private,05,12,129960,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #32-04 ,1,43,Strata,619000,-,14395,1337,24-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+ALEXIS,356 Alexandra Road  #02-18 ,1,37,Strata,575000,-,15541,1444,23-FEB-2017,Apartment,Freehold,2012,Resale,Private,03,15,159949,Central Region,Queenstown
+HIGHLINE RESIDENCES,7 Kim Tian Road  #27-10 ,1,59,Strata,1307500,-,22161,2059,23-FEB-2017,Condominium,99 Yrs From 22/07/2013,Uncompleted,New Sale,HDB,03,16,168592,Central Region,Bukit Merah
+CHANTILLY RISE,82 Hillview Avenue  #03-04 ,1,88,Strata,870000,-,9886,918,23-FEB-2017,Condominium,Freehold,1998,Resale,HDB,23,66,669581,West Region,Bukit Batok
+MONTEREY PARK CONDOMINIUM,31 West Coast Rise  #12-17 ,1,219,Strata,1998000,-,9123,848,23-FEB-2017,Condominium,999 Yrs From 21/02/1885,2005,Resale,Private,05,12,127474,West Region,Clementi
+MAPLE WOODS,987 Bukit Timah Road  #07-15 ,1,79,Strata,1150000,-,14557,1352,23-FEB-2017,Condominium,Freehold,1997,Resale,HDB,21,58,589628,Central Region,Bukit Timah
+BULLION PARK,164 Lentor Loop  #11-01 ,1,117,Strata,1200000,-,10256,953,23-FEB-2017,Condominium,Freehold,1993,Resale,Private,26,78,789096,North East Region,Ang Mo Kio
+HOLT RESIDENCES,5 Holt Road  #03-02 ,1,192,Strata,2580000,-,13438,1248,23-FEB-2017,Apartment,Freehold,2000,Resale,Private,10,24,249444,Central Region,Tanglin
+PARC RIVIERA,103 West Coast Vale  #01-18 ,1,68,Strata,931000,-,13691,1272,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+THE ALPS RESIDENCES,107 Tampines Street 86  #15-16 ,1,65,Strata,749000,-,11523,1071,23-FEB-2017,Condominium,99 Yrs From 03/08/2015,Uncompleted,New Sale,HDB,18,52,528533,East Region,Tampines
+LAKE GRANDE,6 Jurong Lake Link  #07-20 ,1,72,Strata,1004000,-,13944,1295,23-FEB-2017,Condominium,99 Yrs From 09/06/2015,Uncompleted,New Sale,HDB,22,64,648159,West Region,Jurong West
+GEM RESIDENCES,3 Lorong 5 Toa Payoh  #11-11 ,1,72,Strata,1120000,-,15556,1445,23-FEB-2017,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,HDB,12,31,319459,Central Region,Toa Payoh
+THE SEA VIEW,29 Amber Road  #21-02 ,1,141,Strata,2500000,-,17730,1647,23-FEB-2017,Condominium,Freehold,2008,Resale,Private,15,43,439942,Central Region,Marine Parade
+NV RESIDENCES,83 Pasir Ris Grove  #09-07 ,1,110,Strata,970000,-,8818,819,23-FEB-2017,Condominium,99 Yrs From 07/01/2008,2013,Resale,HDB,18,51,518211,East Region,Pasir Ris
+SELETARIS,503 Sembawang Road  #02-28 ,1,129,Strata,912000,-,7070,657,23-FEB-2017,Condominium,Freehold,2001,Resale,HDB,27,75,757707,North Region,Sembawang
+SIMS URBAN OASIS,16 Sims Drive  #15-58 ,1,96,Strata,1378000,-,14354,1334,23-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,HDB,14,38,387393,Central Region,Geylang
+THE VALES,81 Anchorvale Crescent  #13-23 ,1,71,Strata,658888,-,9280,862,23-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,2017,New Sale,Private,19,54,544625,North East Region,Sengkang
+GUILIN VIEW,24 Bukit Batok Street 52  #06-04 ,1,80,Strata,715000,-,8938,830,23-FEB-2017,Condominium,99 Yrs From 24/04/1996,2000,Resale,Private,23,65,659246,West Region,Bukit Batok
+HORIZON TOWERS,15 Leonie Hill Road  #04-03 ,1,240,Strata,2560000,-,10667,991,23-FEB-2017,Condominium,99 Yrs From 17/08/1979,1984,Resale,Private,09,23,239194,Central Region,River Valley
+EIGHT COURTYARDS,18B Canberra Drive  #15-48 ,1,107,Strata,1100000,-,10280,955,23-FEB-2017,Condominium,99 Yrs From 20/09/2010,2014,Resale,HDB,27,76,768100,North Region,Yishun
+PARC RIVIERA,101 West Coast Vale  #03-06 ,1,92,Strata,1126000,-,12239,1137,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+6 DERBYSHIRE,6 Derbyshire Road  #29-02 ,1,94,Strata,2287374,-,24334,2261,23-FEB-2017,Condominium,Freehold,2017,New Sale,Private,11,30,309462,Central Region,Novena
+THE POIZ RESIDENCES,2 Meyappa Chettiar Road  #16-02 ,1,110,Strata,1653112,-,15028,1396,23-FEB-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,Private,13,35,358472,Central Region,Toa Payoh
+HILLSTA,68 Phoenix Road  #04-10 ,1,70,Strata,820000,-,11714,1088,23-FEB-2017,Condominium,99 Yrs From 03/10/2011,2016,Resale,Private,23,66,668202,West Region,Bukit Batok
+VALLEY PARK,479 River Valley Road  #19-05 ,1,113,Strata,1788000,-,15823,1470,23-FEB-2017,Condominium,999 Yrs From 21/06/1877,1997,Resale,HDB,10,24,248364,Central Region,Tanglin
+PARC RIVIERA,103 West Coast Vale  #35-14 ,1,43,Strata,625000,-,14535,1350,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+TREASURES@G6,35 Lorong 6 Geylang  #04-07 ,1,42,Strata,590000,-,14048,1305,23-FEB-2017,Apartment,Freehold,2017,New Sale,Private,14,39,399187,Central Region,Geylang
+MOONSTONE RESIDENCES,25 Moonstone Lane  #17-01 ,1,115,Strata,1230000,-,10696,994,23-FEB-2017,Apartment,Freehold,2004,Resale,Private,12,32,328465,Central Region,Kallang
+THE VALES,81 Anchorvale Crescent  #02-24 ,1,84,Strata,714500,-,8506,790,23-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,Private,19,54,544625,North East Region,Sengkang
+PARC RIVIERA,103 West Coast Vale  #16-19 ,1,56,Strata,767000,-,13696,1272,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #07-13 ,1,60,Strata,793000,-,13217,1228,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126754,West Region,Clementi
+PRINCIPAL GARDEN,95 Prince Charles Crescent  #13-14 ,1,100,Strata,1849000,-,18490,1718,23-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,HDB,03,15,159027,Central Region,Bukit Merah
+EASTPOINT GREEN,1 Simei Street 3  #02-23 ,1,89,Strata,788800,-,8863,823,23-FEB-2017,Condominium,99 Yrs From 24/04/1996,1999,Resale,Private,18,52,529890,East Region,Tampines
+THE VENUE RESIDENCES,14 Tai Thong Crescent  #09-25 ,1,105,Strata,1500000,-,14286,1327,23-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,Private,13,34,347848,Central Region,Toa Payoh
+PARK VILLAS,35 Park Villas Rise ,1,204,Land,1628000,-,7969,740,23-FEB-2017,Terrace House,99 Yrs From 01/05/1994,1997,Resale,HDB,19,54,545373,North East Region,Hougang
+QUEENS PEAK,1 Dundee Road  #21-11 ,1,40,Strata,732000,-,18300,1700,23-FEB-2017,Condominium,99 Yrs From 28/09/2015,Uncompleted,New Sale,N.A,03,14,149456,Central Region,Queenstown
+THE VALES,71 Anchorvale Crescent  #02-04 ,1,85,Strata,753000,-,8859,823,23-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,2017,New Sale,HDB,19,54,544660,North East Region,Sengkang
+PARC RIVIERA,103 West Coast Vale  #02-19 ,1,56,Strata,740000,-,13214,1228,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+BAYSHORE PARK,62 Bayshore Road  #08-04 ,1,87,Strata,765000,-,8793,817,23-FEB-2017,Condominium,99 Yrs From 17/03/1982,1986,Resale,Private,16,46,469983,East Region,Bedok
+THE VALES,77 Anchorvale Crescent  #04-13 ,1,84,Strata,724000,-,8619,801,23-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,2017,New Sale,Private,19,54,544663,North East Region,Sengkang
+OUE TWIN PEAKS,33 Leonie Hill Road  #20-06 ,1,149,Strata,4429900,-,29731,2762,23-FEB-2017,Condominium,99 Yrs From 10/05/2010,2015,Resale,Private,09,23,239197,Central Region,River Valley
+HILLCREST ARCADIA,255 Arcadia Road  #03-23 ,1,169,Strata,1475000,-,8728,811,23-FEB-2017,Condominium,99 Yrs From 01/12/1975,1980,Resale,Private,11,28,289850,Central Region,Bukit Timah
+PARC RIVIERA,103 West Coast Vale  #01-21 ,1,68,Strata,931000,-,13691,1272,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+PARC RIVIERA,101 West Coast Vale  #22-09 ,1,56,Strata,769300,-,13738,1276,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,N.A,05,12,126753,West Region,Clementi
+COCO PALMS,19 Pasir Ris Grove  #02-25 ,1,107,Strata,1227200,-,11469,1066,23-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518144,East Region,Pasir Ris
+WATER PLACE,177 Tanjong Rhu Road  #13-23 ,1,135,Strata,1750000,-,12963,1204,23-FEB-2017,Condominium,99 Yrs From 02/03/1998,2004,Resale,HDB,15,43,436607,Central Region,Kallang
+ONZE @ TANJONG PAGAR,11 Kee Seng Street  #09-03 ,1,47,Strata,1306406,-,27796,2582,23-FEB-2017,Apartment,Freehold,2017,New Sale,N.A,02,08,089218,Central Region,Outram
+WHITEHAVEN,334A Pasir Panjang Road  #05-18 ,1,138,Strata,1450000,-,10507,976,23-FEB-2017,Apartment,Freehold,2016,New Sale,Private,05,11,117382,Central Region,Queenstown
+PARC RIVIERA,101 West Coast Vale  #20-10 ,1,66,Strata,900000,-,13636,1267,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+THE GLADES,16 Bedok Rise  #04-51 ,1,94,Strata,1388000,-,14766,1372,23-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,Private,16,46,465409,East Region,Bedok
+THE VENUE RESIDENCES,6 Tai Thong Crescent  #04-03 ,1,78,Strata,1120875,-,14370,1335,23-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,N.A,13,34,347840,Central Region,Toa Payoh
+THE VENUE RESIDENCES,8 Tai Thong Crescent  #15-08 ,1,107,Strata,1597000,-,14925,1387,23-FEB-2017,Apartment,99 Yrs From 05/12/2012,2017,New Sale,HDB,13,34,347842,Central Region,Toa Payoh
+TRELLIS TOWERS,700 Lorong 1 Toa Payoh  #23-13 ,1,66,Strata,1060000,-,16061,1492,23-FEB-2017,Condominium,Freehold,2000,Resale,HDB,12,31,319773,Central Region,Toa Payoh
+WHITEHAVEN,332A Pasir Panjang Road  #05-11 ,1,173,Strata,1880000,-,10867,1010,23-FEB-2017,Apartment,Freehold,2016,New Sale,Private,05,11,117381,Central Region,Queenstown
+SENNETT ESTATE,17 Butterfly Avenue ,1,280,Land,3320000,-,11844,1100,23-FEB-2017,Terrace House,Freehold,1996,Resale,HDB,13,34,349782,Central Region,Toa Payoh
+MIMOSA TERRACE,18A Mimosa Road ,1,334,Land,3300000,-,9868,917,23-FEB-2017,Terrace House,Freehold,1998,Resale,Private,28,80,808023,North East Region,Serangoon
+RIVER ISLES,62 Edgedale Plains  #10-21 ,1,83,Strata,780000,-,9398,873,23-FEB-2017,Condominium,99 Yrs From 06/02/2012,2015,Resale,HDB,19,82,828730,North East Region,Punggol
+PRINCIPAL GARDEN,93 Prince Charles Crescent  #21-08 ,1,74,Strata,1346215,-,18192,1690,23-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,Private,03,15,159026,Central Region,Bukit Merah
+PARC RIVIERA,101 West Coast Vale  #23-09 ,1,56,Strata,788000,-,14071,1307,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+PARC RIVIERA,103 West Coast Vale  #18-18 ,1,66,Strata,900000,-,13636,1267,23-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+BELLEWOODS,100 Woodlands Avenue 5  #12-03 ,1,125,Strata,908820,-,7271,675,23-FEB-2017,Executive Condominium,99 Yrs From 12/08/2013,2017,New Sale,HDB,25,73,739010,North Region,Woodlands
+EAST VILLAGE,432 Upper Changi Road  #03-01 ,1,58,Strata,838000,-,14448,1342,23-FEB-2017,Apartment,Freehold,2014,Resale,HDB,16,48,487049,East Region,Bedok
+CANNAVILLE,36B Duku Road ,1,112,Strata,1110000,-,9911,921,23-FEB-2017,Apartment,Freehold,1993,Resale,HDB,15,42,429194,Central Region,Marine Parade
+LEEDON RESIDENCE,18 Leedon Heights  #09-25 ,1,437,Strata,10150000,-,23227,2158,23-FEB-2017,Condominium,Freehold,2015,Resale,Private,10,26,267938,Central Region,Bukit Timah
+THE SANTORINI,31 Tampines Street 86  #04-30 ,1,70,Strata,759777,-,10854,1008,23-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,N.A,18,52,528572,East Region,Tampines
+SOL ACRES,10 Choa Chu Kang Grove  #11-22 ,1,97,Strata,829000,-,8546,794,23-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688207,West Region,Choa Chu Kang
+THE TERRACE,102 Edgedale Plains  #04-47 ,1,93,Strata,754600,-,8114,754,22-FEB-2017,Executive Condominium,99 Yrs From 30/10/2013,2017,New Sale,HDB,19,82,828691,North East Region,Punggol
+THE MAKENA,121 Meyer Road  #06-06 ,1,150,Strata,1950000,-,13000,1208,22-FEB-2017,Condominium,Freehold,1998,Resale,Private,15,43,437932,Central Region,Marine Parade
+THE PEAK @ CAIRNHILL I,51 Cairnhill Circle  #10-03 ,1,64,Strata,1655000,-,25859,2402,22-FEB-2017,Apartment,Freehold,2014,Resale,Private,09,22,229784,Central Region,Newton
+ICON,10 Gopeng Street  #22-10 ,1,54,Strata,988888,-,18313,1701,22-FEB-2017,Apartment,99 Yrs From 29/01/2002,2007,Resale,Private,02,07,078878,Central Region,Downtown Core
+COMMONWEALTH TOWERS,232 Commonwealth Avenue  #22-21 ,1,84,Strata,1420600,-,16912,1571,22-FEB-2017,Condominium,99 Yrs From 07/05/2013,Uncompleted,New Sale,HDB,03,14,149740,Central Region,Queenstown
+PARC RIVIERA,103 West Coast Vale  #21-21 ,1,66,Strata,910000,-,13788,1281,22-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126754,West Region,Clementi
+NASSIM MANSION,32 Nassim Hill  #03-32 ,1,323,Strata,8180000,-,25325,2353,22-FEB-2017,Apartment,Freehold,1977,Resale,Private,10,25,258472,Central Region,Tanglin
+NORTH PARK RESIDENCES,29 Yishun Central 1  #06-64 ,1,112,Strata,1504990,-,13437,1248,22-FEB-2017,Apartment,99 Yrs From 19/03/2015,Uncompleted,New Sale,HDB,27,76,768804,North Region,Yishun
+N.A.,124 Coronation Road ,1,410,Land,8250000,-,20137,1871,22-FEB-2017,Detached House,999 Yrs From 27/12/1875,2010,Resale,HDB,10,26,269519,Central Region,Bukit Timah
+FABER CREST,50B Faber Heights  #02-14 ,1,162,Strata,1450000,-,8951,832,22-FEB-2017,Condominium,99 Yrs From 12/06/1996,2001,Resale,Private,05,12,129196,West Region,Clementi
+SOL ACRES,14 Choa Chu Kang Grove  #03-36 ,1,68,Strata,553000,-,8132,756,22-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688209,West Region,Choa Chu Kang
+THE CRITERION,17 Yishun Street 51  #10-33 ,1,85,Strata,709600,-,8348,776,22-FEB-2017,Executive Condominium,99 Yrs From 25/08/2014,Uncompleted,New Sale,HDB,27,76,767974,North Region,Yishun
+LA FIESTA,60 Sengkang Square  #03-24 ,1,42,Strata,620000,-,14762,1371,22-FEB-2017,Condominium,99 Yrs From 03/09/2012,2016,Sub Sale,HDB,19,54,544700,North East Region,Sengkang
+THE TERRACE,102 Edgedale Plains  #02-47 ,1,93,Strata,746600,-,8028,746,22-FEB-2017,Executive Condominium,99 Yrs From 30/10/2013,Uncompleted,New Sale,N.A,19,82,828691,North East Region,Punggol
+THE TERRACE,102 Edgedale Plains  #03-47 ,1,93,Strata,750600,-,8071,750,22-FEB-2017,Executive Condominium,99 Yrs From 30/10/2013,Uncompleted,New Sale,HDB,19,82,828691,North East Region,Punggol
+SIMS URBAN OASIS,6 Sims Drive  #11-22 ,1,89,Strata,1299860,-,14605,1357,22-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,HDB,14,38,387388,Central Region,Geylang
+QUEENS PEAK,3 Dundee Road  #19-25 ,1,58,Strata,1032000,-,17793,1653,22-FEB-2017,Condominium,99 Yrs From 28/09/2015,Uncompleted,New Sale,HDB,03,14,149457,Central Region,Queenstown
+SELETARIS,507 Sembawang Road  #02-53 ,1,149,Strata,1250000,-,8389,779,22-FEB-2017,Condominium,Freehold,2001,Resale,HDB,27,75,757709,North Region,Sembawang
+THE RAINTREE,83 Bukit Drive  #05-10 ,1,118,Strata,1240000,-,10508,976,22-FEB-2017,Condominium,99 Yrs From 01/03/2003,2008,Resale,HDB,21,58,587849,West Region,Bukit Panjang
+PARK WEST,10 Jalan Lempeng  #05-01 ,1,176,Strata,1310000,-,7443,691,22-FEB-2017,Condominium,99 Yrs From 08/03/1982,1986,Resale,HDB,05,12,128797,West Region,Clementi
+PALM GARDENS,2C Hong San Walk  #08-10 ,1,133,Strata,955000,-,7180,667,22-FEB-2017,Condominium,99 Yrs From 12/08/1996,2000,Resale,Private,23,68,689049,West Region,Choa Chu Kang
+THE VISIONAIRE,188 Canberra Drive  #11-37 ,1,112,Strata,896940,-,8008,744,22-FEB-2017,Executive Condominium,99 Yrs From 09/01/2015,Uncompleted,New Sale,N.A,27,76,767956,North Region,Sembawang
+COCO PALMS,11 Pasir Ris Grove  #14-03 ,1,128,Strata,1382400,-,10800,1003,22-FEB-2017,Condominium,99 Yrs From 07/01/2008,Uncompleted,New Sale,HDB,18,51,518140,East Region,Pasir Ris
+RIVIERA RESIDENCES,15 Riviera Drive  #01-14 ,1,123,Strata,1400000,-,11382,1057,22-FEB-2017,Condominium,Freehold,2007,Resale,Private,16,46,467205,East Region,Bedok
+CORALS AT KEPPEL BAY,5 Keppel Bay Drive  #05-10 ,1,731,Strata,18883200,-,25832,2400,22-FEB-2017,Condominium,99 Yrs From 26/02/2007,2016,New Sale,Private,04,09,098014,Central Region,Bukit Merah
+THE SANTORINI,23 Tampines Street 86  #10-16 ,1,105,Strata,1182060,-,11258,1046,22-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,N.A,18,52,528568,East Region,Tampines
+PARC RIVIERA,103 West Coast Vale  #13-19 ,1,56,Strata,745780,-,13318,1237,22-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+OUE TWIN PEAKS,33 Leonie Hill Road  #20-01 ,1,51,Strata,1498200,-,29376,2729,22-FEB-2017,Condominium,99 Yrs From 10/05/2010,2015,Resale,Private,09,23,239197,Central Region,River Valley
+OUE TWIN PEAKS,33 Leonie Hill Road  #28-01 ,1,51,Strata,1690900,-,33155,3080,22-FEB-2017,Condominium,99 Yrs From 10/05/2010,2015,Resale,Private,09,23,239197,Central Region,River Valley
+LAKESIDE GROVE,25 Corporation Walk ,1,150,Land,1502800,-,9992,928,22-FEB-2017,Terrace House,99 Yrs From 24/04/1996,1998,Resale,HDB,22,61,618428,West Region,Jurong West
+RIS GRANDEUR,27 Elias Road  #01-15 ,1,191,Strata,1620000,-,8482,788,22-FEB-2017,Condominium,Freehold,2005,Resale,HDB,18,51,519932,East Region,Pasir Ris
+YONG AN PARK,329 River Valley Road  #18-02 ,1,300,Strata,5600000,-,18667,1734,22-FEB-2017,Condominium,Freehold,1986,Resale,Private,09,23,238361,Central Region,River Valley
+THE GLADES,10 Bedok Rise  #01-28 ,1,64,Strata,1057200,-,16519,1535,22-FEB-2017,Condominium,99 Yrs From 21/01/2013,2016,New Sale,Private,16,46,469601,East Region,Bedok
+PARC ROSEWOOD,77 Rosewood Drive  #04-35 ,1,40,Strata,520000,-,13000,1208,22-FEB-2017,Condominium,99 Yrs From 07/09/2011,2014,Resale,HDB,25,73,737786,North Region,Woodlands
+WANDERVALE,363 Choa Chu Kang Avenue 3  #04-26 ,1,105,Strata,853000,-,8124,755,22-FEB-2017,Executive Condominium,99 Yrs From 08/12/2014,Uncompleted,New Sale,HDB,23,68,689885,West Region,Choa Chu Kang
+CHANCERY PARK,9 Chancery Lane  #01-02 ,1,172,Strata,2600000,-,15116,1404,22-FEB-2017,Condominium,Freehold,1991,Resale,Private,11,30,309499,Central Region,Novena
+SOL ACRES,8 Choa Chu Kang Grove  #07-20 ,1,97,Strata,801000,-,8258,767,22-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688206,West Region,Choa Chu Kang
+N.A.,1 Garlick Avenue ,1,2585,Land,23880000,-,9236,858,22-FEB-2017,Detached House,Freehold,1998,Resale,Private,10,27,279680,Central Region,Bukit Timah
+THE BROWNSTONE,156 Canberra Drive  #03-28 ,1,85,Strata,788000,-,9271,861,22-FEB-2017,Executive Condominium,99 Yrs From 28/04/2014,Uncompleted,New Sale,HDB,27,76,768082,North Region,Sembawang
+HIGHLINE RESIDENCES,7 Kim Tian Road  #13-07 ,1,103,Strata,1938800,-,18823,1749,22-FEB-2017,Condominium,99 Yrs From 22/07/2013,Uncompleted,New Sale,HDB,03,16,168592,Central Region,Bukit Merah
+NV RESIDENCES,95 Pasir Ris Grove  #11-37 ,1,69,Strata,750000,-,10870,1010,22-FEB-2017,Condominium,99 Yrs From 07/01/2008,2013,Resale,Private,18,51,518192,East Region,Pasir Ris
+PARC RIVIERA,101 West Coast Vale  #01-10 ,1,68,Strata,921690,-,13554,1259,22-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+THE VALES,77 Anchorvale Crescent  #02-14 ,1,70,Strata,618888,-,8841,821,22-FEB-2017,Executive Condominium,99 Yrs From 19/05/2014,Uncompleted,New Sale,N.A,19,54,544663,North East Region,Sengkang
+NOMU,20 Handy Road  #09-01 ,1,44,Strata,1080000,-,24545,2280,22-FEB-2017,Apartment,Freehold,2009,Resale,Private,09,22,229236,Central Region,Museum
+COSTA DEL SOL,72 Bayshore Road  #21-15 ,1,145,Strata,1900000,-,13103,1217,22-FEB-2017,Condominium,99 Yrs From 05/05/1997,2004,Resale,Private,16,46,469988,East Region,Bedok
+STARS OF KOVAN,986 Upper Serangoon Road  #10-20 ,1,69,Strata,1055540,-,15298,1421,22-FEB-2017,Apartment,99 Yrs From 25/02/2015,Uncompleted,New Sale,Private,19,53,534732,North East Region,Hougang
+THE CASCADIA,923 Bukit Timah Road  #07-07 ,1,109,Strata,1740000,-,15963,1483,22-FEB-2017,Condominium,Freehold,2010,Resale,HDB,21,58,589639,Central Region,Bukit Timah
+THE TRILINQ,28A Jalan Lempeng  #16-10 ,1,141,Strata,1744000,-,12369,1149,22-FEB-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,Private,05,12,128808,West Region,Clementi
+GUILIN VIEW,26 Bukit Batok Street 52  #21-03 ,1,117,Strata,960000,-,8205,762,22-FEB-2017,Condominium,99 Yrs From 24/04/1996,2000,Resale,Private,23,65,659247,West Region,Bukit Batok
+THE TRILINQ,28 Jalan Lempeng  #30-06 ,1,141,Strata,1866000,-,13234,1229,22-FEB-2017,Condominium,99 Yrs From 16/04/2012,Uncompleted,New Sale,Private,05,12,128807,West Region,Clementi
+HIGHLINE RESIDENCES,7 Kim Tian Road  #14-11 ,1,85,Strata,1563000,-,18388,1708,22-FEB-2017,Condominium,99 Yrs From 22/07/2013,Uncompleted,New Sale,Private,03,16,168592,Central Region,Bukit Merah
+VARSITY PARK CONDOMINIUM,72 West Coast Road  #02-99 ,1,120,Strata,1380000,-,11500,1068,22-FEB-2017,Condominium,99 Yrs From 03/05/2004,2008,Resale,Private,05,12,126828,West Region,Clementi
+SOL ACRES,18 Choa Chu Kang Grove  #01-45 ,1,59,Strata,487000,-,8254,767,22-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688211,West Region,Choa Chu Kang
+THE SCALA,130 Serangoon Avenue 3  #16-03 ,1,85,Strata,1280000,-,15059,1399,22-FEB-2017,Apartment,99 Yrs From 06/01/2010,2013,Resale,Private,19,55,554479,North East Region,Serangoon
+THE VENUE RESIDENCES,6 Tai Thong Crescent  #16-03 ,1,78,Strata,1168000,-,14974,1391,22-FEB-2017,Apartment,99 Yrs From 05/12/2012,Uncompleted,New Sale,HDB,13,34,347840,Central Region,Toa Payoh
+YISHUN SAPPHIRE,40 Canberra Drive  #01-04 ,1,169,Strata,980000,-,5799,539,22-FEB-2017,Condominium,99 Yrs From 16/02/1998,2001,Resale,HDB,27,76,768433,North Region,Yishun
+PARC OASIS,53 Jurong East Avenue 1  #04-03 ,1,100,Strata,815000,-,8150,757,22-FEB-2017,Condominium,99 Yrs From 01/12/1991,1994,Resale,HDB,22,60,609783,West Region,Jurong East
+HILLION RESIDENCES,12 Jelebu Road  #09-36 ,1,44,Strata,630200,-,14323,1331,22-FEB-2017,Apartment,99 Yrs From 04/01/2013,Uncompleted,New Sale,Private,23,67,677673,West Region,Bukit Panjang
+HOMEY GARDENS,4 Lorong M Telok Kurau  #02-01 ,1,93,Strata,1070000,-,11505,1069,22-FEB-2017,Apartment,Freehold,2001,Resale,Private,15,42,425283,East Region,Bedok
+SIMS URBAN OASIS,4 Sims Drive  #05-18 ,1,92,Strata,1348400,-,14657,1362,22-FEB-2017,Condominium,99 Yrs From 29/07/2014,Uncompleted,New Sale,HDB,14,38,387387,Central Region,Geylang
+Q BAY RESIDENCES,3 Tampines Street 86  #05-15 ,1,77,Strata,880000,-,11429,1062,22-FEB-2017,Condominium,99 Yrs From 21/08/2012,2016,Resale,HDB,18,52,528584,East Region,Tampines
+PARC LIFE,21 Sembawang Crescent  #15-04 ,1,103,Strata,884450,882150,8565,796,22-FEB-2017,Executive Condominium,99 Yrs From 13/10/2014,Uncompleted,New Sale,HDB,27,75,757053,North Region,Sembawang
+RIVERBANK @ FERNVALE,11 Fernvale Close  #18-06 ,1,97,Strata,1086000,-,11196,1040,22-FEB-2017,Condominium,99 Yrs From 10/07/2013,Uncompleted,New Sale,HDB,28,79,797475,North East Region,Sengkang
+THE SANTORINI,33 Tampines Street 86  #06-37 ,1,105,Strata,1113700,-,10607,985,21-FEB-2017,Condominium,99 Yrs From 16/10/2013,Uncompleted,New Sale,HDB,18,52,528573,East Region,Tampines
+SOL ACRES,12 Choa Chu Kang Grove  #09-28 ,1,97,Strata,809000,-,8340,775,21-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688208,West Region,Choa Chu Kang
+BLUWATERS,195A Jalan Loyang Besar  #01-05 ,1,104,Strata,980000,-,9423,875,21-FEB-2017,Apartment,946 Yrs From 23/06/1938,2007,Resale,HDB,17,50,506962,East Region,Pasir Ris
+PARKSHORE,201 Tanjong Rhu Road  #05-03 ,1,123,Strata,1550000,-,12602,1171,21-FEB-2017,Condominium,Freehold,1995,Resale,Private,15,43,436917,Central Region,Kallang
+TIERRA VUE,42 St. Patrick'S Road  #01-25 ,1,112,Strata,1600000,-,14286,1327,21-FEB-2017,Condominium,Freehold,2009,Resale,Private,15,42,424215,East Region,Bedok
+PARC RIVIERA,101 West Coast Vale  #30-10 ,1,66,Strata,937000,-,14197,1319,21-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+LAKE GRANDE,6 Jurong Lake Link  #06-18 ,1,121,Strata,1776000,-,14678,1364,21-FEB-2017,Condominium,99 Yrs From 09/06/2015,Uncompleted,New Sale,HDB,22,64,648159,West Region,Jurong West
+PARC RIVIERA,101 West Coast Vale  #04-09 ,1,56,Strata,742000,-,13250,1231,21-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126753,West Region,Clementi
+LAVERNE'S LOFT,66 Lorong L Telok Kurau  #02-10 ,1,37,Strata,548000,-,14811,1376,21-FEB-2017,Apartment,Freehold,2013,Resale,Private,15,42,425509,East Region,Bedok
+THE ORIENT,251 Pasir Panjang Road  #02-12 ,1,58,Strata,1100000,-,18966,1762,21-FEB-2017,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118610,Central Region,Queenstown
+CHUAN PARK,244 Lorong Chuan  #08-06 ,1,109,Strata,960000,-,8807,818,21-FEB-2017,Condominium,99 Yrs From 06/06/1980,1985,Resale,HDB,19,55,556745,North East Region,Serangoon
+THE AMORE,55A Edgedale Plains  #10-13 ,1,114,Strata,948000,-,8316,773,21-FEB-2017,Executive Condominium,99 Yrs From 30/10/2013,2016,New Sale,HDB,19,82,828680,North East Region,Punggol
+THE BROWNSTONE,156 Canberra Drive  #05-28 ,1,85,Strata,794400,-,9346,868,21-FEB-2017,Executive Condominium,99 Yrs From 28/04/2014,Uncompleted,New Sale,HDB,27,76,768082,North Region,Sembawang
+THE POIZ RESIDENCES,8 Meyappa Chettiar Road  #11-13 ,1,110,Strata,1628112,-,14801,1375,21-FEB-2017,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,N.A,13,35,358455,Central Region,Toa Payoh
+PARC RIVIERA,103 West Coast Vale  #22-13 ,1,60,Strata,836000,-,13933,1294,21-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,HDB,05,12,126754,West Region,Clementi
+SOL ACRES,4 Choa Chu Kang Grove  #13-08 ,1,68,Strata,602000,-,8853,822,21-FEB-2017,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,HDB,23,68,688239,West Region,Choa Chu Kang
+PRINCIPAL GARDEN,93 Prince Charles Crescent  #10-07 ,1,75,Strata,1317000,-,17560,1631,21-FEB-2017,Condominium,99 Yrs From 21/07/2014,Uncompleted,New Sale,N.A,03,15,159026,Central Region,Bukit Merah
+ALEX RESIDENCES,28 Alexandra View  #23-06 ,1,97,Strata,1835000,-,18918,1757,21-FEB-2017,Apartment,99 Yrs From 18/03/2013,Uncompleted,New Sale,Private,03,15,158744,Central Region,Bukit Merah
+PARC RIVIERA,101 West Coast Vale  #30-02 ,1,60,Strata,861000,-,14350,1333,21-FEB-2017,Condominium,99 Yrs From 11/11/2015,Uncompleted,New Sale,Private,05,12,126753,West Region,Clementi
+

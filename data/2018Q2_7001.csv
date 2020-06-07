@@ -1,0 +1,953 @@
+Project Name,Address,No. of Units,Area (sqm),Type of Area,Transacted Price ($),Nett Price($),Unit Price ($ psm),Unit Price ($ psf),Sale Date,Property Type,Tenure,Completion Date,Type of Sale,Purchaser Address Indicator,Postal District,Postal Sector,Postal Code,Planning Region,Planning Area
+MELVILLE PARK,18 Simei Street 1  #02-15 ,1,87,Strata,650000,-,7471,694,10-APR-2018,Condominium,99 Yrs From 01/09/1992,1996,Resale,Private,18,52,529943,East Region,Tampines
+THE WOODGROVE,3 Woodgrove Drive  #02-02 ,1,86,Strata,665000,-,7733,718,10-APR-2018,Apartment,99 Yrs From 26/06/1996,1998,Resale,HDB,25,73,738230,North Region,Woodlands
+OPTIMA @ TANAH MERAH,86 Tanah Merah Kechil Avenue  #07-13 ,1,81,Strata,1065000,-,13148,1221,10-APR-2018,Condominium,99 Yrs From 09/12/2008,2012,Resale,Private,16,46,465517,East Region,Bedok
+STARLIGHT SUITES,11 River Valley Close  #10-01 ,1,100,Strata,1800000,-,18000,1672,10-APR-2018,Apartment,Freehold,2014,Resale,Private,09,23,238437,Central Region,River Valley
+MARINA ONE RESIDENCES,21 Marina Way  #19-07 ,1,143,Strata,3930000,-,27483,2553,10-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+PINEVALE,4 Tampines Street 73  #02-01 ,1,145,Strata,1120000,-,7724,718,09-APR-2018,Executive Condominium,99 Yrs From 31/01/1997,1999,Resale,HDB,18,52,528824,East Region,Tampines
+THE CASCADIA,941 Bukit Timah Road  #05-43 ,1,54,Strata,930000,-,17222,1600,09-APR-2018,Condominium,Freehold,2010,Resale,Private,21,58,589658,Central Region,Bukit Timah
+FULTON HILL,60C Fulton Road ,1,166,Land,2450000,-,14795,1374,09-APR-2018,Terrace House,999 Yrs From 14/02/1991,1996,Resale,Private,20,57,578967,Central Region,Bishan
+HOCK SWEE HILL,16 Begonia Road ,1,428,Land,4250000,-,9930,923,09-APR-2018,Semi-Detached House,Freehold,1979,Resale,Private,28,80,809804,North East Region,Serangoon
+CASA FORTUNA,38 Ah Hood Road  #05-06 ,1,86,Strata,1150000,-,13372,1242,09-APR-2018,Apartment,Freehold,2011,Resale,Private,12,32,329981,Central Region,Novena
+THE PARC CONDOMINIUM,5 West Coast Walk  #24-09 ,1,208,Strata,2080000,-,10000,929,09-APR-2018,Condominium,Freehold,2010,Resale,Private,05,12,127146,West Region,Clementi
+RIVERSAILS,24 Upper Serangoon Crescent  #17-56 ,1,82,Strata,900000,-,10976,1020,09-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534024,North East Region,Hougang
+ASTORIA PARK,32 Lorong Mydin  #11-05 ,1,109,Strata,1170000,-,10734,997,09-APR-2018,Condominium,99 Yrs From 01/05/1993,1995,Resale,Private,14,41,416826,East Region,Bedok
+KINGSFORD WATERBAY,78 Upper Serangoon View  #02-66 ,1,64,Strata,989000,-,15453,1436,09-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533879,North East Region,Hougang
+THE MAKENA,121 Meyer Road  #13-03 ,1,120,Strata,2090500,-,17421,1618,09-APR-2018,Condominium,Freehold,1998,Resale,Private,15,43,437932,Central Region,Marine Parade
+COSTA RHU,9 Rhu Cross  #14-04 ,1,130,Strata,1615000,-,12423,1154,09-APR-2018,Condominium,99 Yrs From 30/05/1994,1997,Resale,HDB,15,43,437436,Central Region,Kallang
+EASTVALE,39 Pasir Ris Drive 3  #01-01 ,1,126,Strata,958000,-,7603,706,09-APR-2018,Executive Condominium,99 Yrs From 26/06/1996,1999,Resale,HDB,18,51,519495,East Region,Pasir Ris
+MACPHERSON GARDEN ESTATE,120 Jalan Gembira ,1,85,Land,1400000,-,16490,1532,09-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,13,36,369193,Central Region,Toa Payoh
+ASCENTIA SKY,1 Alexandra View  #13-02 ,1,137,Strata,1800000,-,13139,1221,09-APR-2018,Condominium,99 Yrs From 26/03/2008,2013,Resale,Private,03,15,158748,Central Region,Bukit Merah
+LANDBAY CONDOMINIUM,9 Jalan Hajijah  #01-12 ,1,92,Strata,1288000,-,14000,1301,09-APR-2018,Condominium,Freehold,1996,Resale,Private,16,46,468704,East Region,Bedok
+PARC BOTANNIA,12 Fernvale Street  #15-18 ,1,47,Strata,686000,-,14596,1356,09-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797391,North East Region,Sengkang
+ESPARINA RESIDENCES,113 Compassvale Bow  #14-08 ,1,99,Strata,1050000,-,10606,985,09-APR-2018,Executive Condominium,99 Yrs From 02/06/2010,2013,Resale,HDB,19,54,544814,North East Region,Sengkang
+PARC BOTANNIA,16 Fernvale Street  #16-19 ,1,54,Strata,823000,-,15241,1416,09-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797393,North East Region,Sengkang
+THE PEAK@BALMEG,11 Balmeg Hill  #02-20 ,1,140,Strata,1900000,-,13571,1261,09-APR-2018,Condominium,Freehold,2011,Resale,Private,05,11,119916,Central Region,Queenstown
+GRANDEUR 8,10 Ang Mo Kio Central 3  #10-15 ,1,111,Strata,1300000,-,11712,1088,09-APR-2018,Condominium,99 Yrs From 16/07/2002,2005,Resale,Private,20,56,567745,North East Region,Ang Mo Kio
+EDELWEISS PARK CONDOMINIUM,82 Flora Road  #07-11 ,1,118,Strata,1038000,-,8797,817,09-APR-2018,Condominium,Freehold,2006,Resale,Private,17,50,507000,East Region,Pasir Ris
+WATERTOWN,73 Punggol Central  #12-67 ,1,54,Strata,800000,-,14815,1376,09-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,HDB,19,82,828756,North East Region,Punggol
+LOYANG VILLAS,269 Loyang Rise ,1,166,Land,1508000,-,9090,844,09-APR-2018,Terrace House,99 Yrs From 01/05/1993,1995,Resale,HDB,17,50,507334,East Region,Pasir Ris
+WEMBLY RESIDENCES,28 Yio Chu Kang Road  #05-04 ,1,52,Strata,678000,-,13038,1211,09-APR-2018,Apartment,Freehold,2011,Resale,Private,19,54,545678,North East Region,Hougang
+KINGSFORD WATERBAY,80 Upper Serangoon View  #07-72 ,1,89,Strata,1289000,-,14483,1346,09-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,N.A,19,53,533878,North East Region,Hougang
+RAINTREE VALLEY,9 Munshi Abdullah Walk ,1,235,Land,2820000,-,11980,1113,09-APR-2018,Terrace House,Freehold,1991,Resale,Private,26,78,788589,North East Region,Ang Mo Kio
+BUTTERWORTH 8,6 Butterworth Lane  #05-07 ,1,122,Strata,1750000,-,14344,1333,09-APR-2018,Condominium,Freehold,2004,Resale,Private,15,43,439422,Central Region,Geylang
+SHERWOOD TOWER,3 Jalan Anak Bukit  #15-02 ,1,141,Strata,1150000,-,8156,758,09-APR-2018,Apartment,99 Yrs From 30/08/1976,1980,Resale,HDB,21,58,588998,Central Region,Bukit Timah
+PARBURY HILL CONDOMINIUM,38 Parbury Avenue  #01-07 ,1,84,Strata,945000,-,11250,1045,09-APR-2018,Condominium,Freehold,1997,Resale,Private,16,46,467304,East Region,Bedok
+CHANGI RISE CONDOMINIUM,2 Simei Rise  #02-06 ,1,139,Strata,1175000,-,8453,785,09-APR-2018,Condominium,99 Yrs From 29/11/2000,2004,Resale,Private,18,52,528800,East Region,Tampines
+MONTEBLEU,8 Minbu Road  #25-06 ,1,79,Strata,1460000,-,18481,1717,09-APR-2018,Condominium,Freehold,2010,Resale,HDB,11,30,308162,Central Region,Novena
+MARINA ONE RESIDENCES,21 Marina Way  #13-07 ,1,143,Strata,3816720,-,26690,2480,09-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+SEA ESTA,30 Pasir Ris Link  #04-29 ,1,106,Strata,1075000,-,10142,942,09-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,HDB,18,51,518147,East Region,Pasir Ris
+LATITUDE,35 Jalan Mutiara  #06-06 ,1,123,Strata,2800000,-,22764,2115,09-APR-2018,Condominium,Freehold,2010,Resale,Private,10,24,249210,Central Region,Tanglin
+NADIA MANSIONS,32 Ah Hood Road  #03-01 ,1,212,Strata,2380000,-,11226,1043,09-APR-2018,Apartment,Freehold,1985,Resale,Private,12,32,329977,Central Region,Novena
+EIGHT COURTYARDS,18 Canberra Drive  #04-37 ,1,107,Strata,1080000,-,10093,938,09-APR-2018,Condominium,99 Yrs From 20/09/2010,2014,Resale,Private,27,76,768098,North Region,Yishun
+HILLBROOKS,92 Hillview Avenue  #07-05 ,1,99,Strata,1080000,-,10909,1013,09-APR-2018,Condominium,Freehold,1999,Resale,HDB,23,66,669592,West Region,Bukit Batok
+THE BROOKS II,25 Springside Green  #04-02 ,1,56,Strata,807899,-,14427,1340,09-APR-2018,Apartment,Freehold,2016,Resale,HDB,26,78,786015,North Region,Yishun
+PARC BOTANNIA,18 Fernvale Street  #12-28 ,1,73,Strata,1011000,-,13849,1287,09-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797394,North East Region,Sengkang
+FORTUNA HILL,23E Jansen Road ,1,283,Land,3300000,-,11653,1083,09-APR-2018,Terrace House,999 Yrs From 01/09/1876,1974,Resale,Private,19,54,548427,North East Region,Hougang
+KERRISDALE,36 Sturdee Road  #22-13 ,1,138,Strata,1652000,-,11971,1112,09-APR-2018,Condominium,99 Yrs From 02/04/1998,2005,Resale,Private,08,20,207855,Central Region,Kallang
+RIS GRANDEUR,27 Elias Road  #14-16 ,1,99,Strata,1100000,-,11111,1032,09-APR-2018,Condominium,Freehold,2005,Resale,Private,18,51,519932,East Region,Pasir Ris
+THE CENTRIS,73 Jurong West Central 3  #05-18 ,1,148,Strata,1330000,-,8986,835,09-APR-2018,Apartment,99 Yrs From 21/06/2006,2009,Resale,HDB,22,64,648336,West Region,Jurong West
+RIVERSOUND RESIDENCE,1 Sengkang East Avenue  #12-06 ,1,125,Strata,1350000,-,10800,1003,09-APR-2018,Condominium,99 Yrs From 26/08/2011,2015,Resale,Private,19,54,544811,North East Region,Sengkang
+TANGLIN REGENCY,383 Tanglin Road  #01-01 ,1,76,Strata,1138000,-,14974,1391,09-APR-2018,Condominium,99 Yrs From 01/05/1994,1998,Resale,Private,10,24,247966,Central Region,Bukit Merah
+MELROSE PARK,93 Kellock Road  #15-03 ,1,125,Strata,2560000,-,20480,1903,09-APR-2018,Condominium,999 Yrs From 21/06/1877,2000,Resale,Private,10,24,248904,Central Region,Tanglin
+COSTA DEL SOL,70 Bayshore Road  #01-08 ,1,161,Strata,1700000,-,10559,981,09-APR-2018,Condominium,99 Yrs From 05/05/1997,2004,Resale,Private,16,46,469987,East Region,Bedok
+PINEVALE,2 Tampines Street 73  #13-04 ,1,120,Strata,930000,-,7750,720,09-APR-2018,Executive Condominium,99 Yrs From 31/01/1997,1999,Resale,HDB,18,52,528823,East Region,Tampines
+DUCHESS RESIDENCES,106 Duchess Avenue  #04-08 ,1,136,Strata,2600000,-,19118,1776,09-APR-2018,Condominium,999 Yrs From 27/12/1875,2011,Resale,Private,10,26,266311,Central Region,Bukit Timah
+D'LEEDON,1H Leedon Heights ,1,647,Strata,6000000,-,9274,862,09-APR-2018,Semi-Detached House,99 Yrs From 08/04/2010,2014,Resale,Private,10,26,267947,Central Region,Bukit Timah
+KINGSFORD WATERBAY,66 Upper Serangoon View  #08-11 ,1,79,Strata,1158000,-,14658,1362,09-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533885,North East Region,Hougang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-27 ,1,69,Strata,1412000,-,20464,1901,09-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+N.A.,108 Tampines Road ,1,159,Land,1950000,-,12272,1140,09-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,19,53,535130,North East Region,Hougang
+A TREASURE TROVE,64 Punggol Walk  #02-32 ,1,112,Strata,1160000,-,10357,962,09-APR-2018,Condominium,99 Yrs From 09/03/2011,2015,Resale,HDB,19,82,828782,North East Region,Punggol
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-07 ,1,62,Strata,1415000,-,22823,2120,09-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+REGENT PARK,22 Jalan Lempeng  #06-02 ,1,107,Strata,1100000,-,10280,955,09-APR-2018,Condominium,99 Yrs From 01/12/1993,1997,Resale,Private,05,12,128803,West Region,Clementi
+WATER PLACE,171 Tanjong Rhu Road  #15-01 ,1,113,Strata,1560000,-,13805,1283,09-APR-2018,Condominium,99 Yrs From 02/03/1998,2004,Resale,Private,15,43,436931,Central Region,Kallang
+MARINE BLUE,89 Marine Parade Road  #06-02 ,1,118,Strata,1652000,-,14000,1301,09-APR-2018,Condominium,Freehold,2016,Resale,HDB,15,44,449313,Central Region,Marine Parade
+FIFTH AVENUE CONDOMINIUM,2 Fifth Avenue  #03-07 ,1,139,Strata,2950000,-,21223,1972,09-APR-2018,Condominium,Freehold,1998,Resale,Private,10,26,268800,Central Region,Bukit Timah
+THE SOLITAIRE,5 Balmoral Park  #08-01 ,1,209,Strata,3800000,-,18182,1689,09-APR-2018,Condominium,Freehold,2009,Resale,Private,10,25,259866,Central Region,Tanglin
+CENTRO RESIDENCES,59 Ang Mo Kio Avenue 8  #21-06 ,1,86,Strata,1275000,-,14826,1377,09-APR-2018,Condominium,99 Yrs From 11/12/2007,2014,Resale,Private,20,56,567752,North East Region,Ang Mo Kio
+PALM VISTA,47 Lorong G Telok Kurau  #04-04 ,1,80,Strata,1060000,-,13250,1231,09-APR-2018,Apartment,Freehold,2008,Resale,Private,15,42,426224,East Region,Bedok
+THE BAYSHORE,30 Bayshore Road  #10-05 ,1,86,Strata,900000,-,10465,972,09-APR-2018,Condominium,99 Yrs From 31/05/1993,1997,Resale,HDB,16,46,469974,East Region,Bedok
+N.A.,171 Tembeling Road ,1,151,Land,2850000,-,18849,1751,09-APR-2018,Terrace House,Freehold,1986,Resale,HDB,15,42,423680,Central Region,Marine Parade
+HILLTOP GROVE,134 Hillview Avenue  #01-08 ,1,110,Strata,900000,-,8182,760,09-APR-2018,Condominium,99 Yrs From 12/06/1996,2001,Resale,Private,23,66,669619,West Region,Bukit Batok
+DAWN VILLE,1 Butterworth Lane  #12-04 ,1,139,Strata,1750000,-,12590,1170,09-APR-2018,Apartment,Freehold,1998,Resale,HDB,15,43,439444,Central Region,Geylang
+PATERSON SUITES,57 Paterson Road  #11-05 ,1,207,Strata,5350000,-,25845,2401,09-APR-2018,Condominium,Freehold,2010,Resale,Private,09,23,238551,Central Region,River Valley
+KOVAN REGENCY,42 Kovan Rise  #01-24 ,1,83,Strata,1030000,-,12410,1153,09-APR-2018,Condominium,99 Yrs From 24/04/2012,2015,Resale,HDB,19,54,544729,North East Region,Hougang
+ESTRIVILLAS,55H Jalan Lim Tai See ,1,577,Strata,3580000,-,6205,576,09-APR-2018,Semi-Detached House,Freehold,2013,Resale,Private,10,26,266231,Central Region,Bukit Timah
+D'NEST,137 Pasir Ris Grove  #05-33 ,1,70,Strata,838000,-,11971,1112,09-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,Private,18,51,518133,East Region,Pasir Ris
+THE WOODGROVE,3 Woodgrove Drive  #05-01 ,1,95,Strata,712000,-,7495,696,09-APR-2018,Apartment,99 Yrs From 26/06/1996,1998,Resale,Private,25,73,738230,North Region,Woodlands
+8 HULLET,8 Hullet Road  #06-03 ,1,74,Strata,2680100,-,36218,3365,09-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,09,22,229160,Central Region,Newton
+BALCON EAST,482 Upper East Coast Road  #05-08 ,1,127,Strata,1380000,-,10866,1009,09-APR-2018,Apartment,Freehold,2011,Resale,HDB,16,46,466519,East Region,Bedok
+MAYFAIR RESIDENCES,531 East Coast Road  #02-03 ,1,111,Strata,1820000,-,16396,1523,09-APR-2018,Apartment,Freehold,2017,Sub Sale,Private,15,42,429065,East Region,Bedok
+DAKOTA RESIDENCES,36 Dakota Crescent  #01-08 ,1,183,Strata,2600000,-,14208,1320,09-APR-2018,Condominium,99 Yrs From 11/09/2007,2010,Resale,Private,14,39,399937,Central Region,Geylang
+SKY VUE,3 Bishan Street 15  #21-20 ,1,106,Strata,1850000,-,17453,1621,09-APR-2018,Condominium,99 Yrs From 04/03/2013,2016,Resale,HDB,20,57,573911,Central Region,Bishan
+THE ASANA,19 Queen'S Road  #03-06 ,1,59,Strata,1695958,-,28745,2670,09-APR-2018,Apartment,Freehold,2017,New Sale,HDB,10,26,266745,Central Region,Bukit Timah
+WATERTOWN,73 Punggol Central  #14-74 ,1,56,Strata,790000,-,14107,1311,09-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,Private,19,82,828756,North East Region,Punggol
+THE LAKESHORE,33 Jurong West Street 41  #07-49 ,1,106,Strata,1138000,-,10736,997,09-APR-2018,Condominium,99 Yrs From 22/11/2002,2007,Resale,HDB,22,64,649413,West Region,Jurong West
+FLORIDIAN,965 Bukit Timah Road  #02-02 ,1,120,Strata,2380000,-,19833,1843,09-APR-2018,Condominium,Freehold,2012,Resale,Private,21,58,589662,Central Region,Bukit Timah
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-12 ,1,45,Strata,1075000,-,23889,2219,09-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+FLO RESIDENCE,7 Punggol Field Walk  #13-13 ,1,86,Strata,898000,-,10442,970,09-APR-2018,Condominium,99 Yrs From 05/12/2011,2016,Resale,Private,19,82,828742,North East Region,Punggol
+TEACHER'S HOUSING ESTATE,22 Iqbal Avenue ,1,288,Land,2800000,-,9739,905,09-APR-2018,Terrace House,999 Yrs From 02/12/1885,Unknown,Resale,Private,26,78,789464,North East Region,Ang Mo Kio
+COSTA RHU,5 Rhu Cross  #13-15 ,1,94,Strata,1275000,-,13564,1260,09-APR-2018,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437434,Central Region,Kallang
+NEWTON EDGE,1 Makeway Avenue  #13-02 ,1,85,Strata,1550000,-,18235,1694,09-APR-2018,Apartment,Freehold,2011,Resale,HDB,09,22,228598,Central Region,Novena
+MODENA,39 Simei Street 4  #02-20 ,1,131,Strata,1250000,-,9542,886,09-APR-2018,Condominium,99 Yrs From 06/12/1997,2001,Resale,Private,18,52,529871,East Region,Tampines
+EASTPOINT GREEN,3 Simei Street 3  #07-09 ,1,105,Strata,938000,-,8933,830,09-APR-2018,Condominium,99 Yrs From 24/04/1996,1999,Resale,Private,18,52,529891,East Region,Tampines
+SELETAR PARK RESIDENCE,21 Seletar Road  #04-56 ,1,128,Strata,1650000,-,12891,1198,09-APR-2018,Condominium,99 Yrs From 15/03/2011,2015,Resale,HDB,28,80,807021,North East Region,Serangoon
+BALLOTA PARK CONDOMINIUM,156 Mariam Way  #01-12 ,1,173,Strata,1250000,-,7225,671,09-APR-2018,Condominium,Freehold,2000,Resale,Private,17,50,507082,East Region,Pasir Ris
+HEDGES PARK CONDOMINIUM,87 Flora Drive  #03-62 ,1,81,Strata,785000,-,9691,900,09-APR-2018,Condominium,99 Yrs From 28/07/2010,2015,Resale,HDB,17,50,506889,East Region,Pasir Ris
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-30 ,1,43,Strata,878000,-,20419,1897,09-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+RV EDGE,2 Shanghai Road  #02-06 ,1,39,Strata,820000,-,21026,1953,09-APR-2018,Apartment,Freehold,2013,Resale,HDB,10,24,248209,Central Region,Tanglin
+SEAHILL,121 West Coast Crescent  #05-11 ,1,46,Strata,740000,-,16087,1495,09-APR-2018,Condominium,99 Yrs From 26/09/2011,2016,Resale,HDB,05,12,126778,West Region,Clementi
+CENTRA RESIDENCE,8 Lorong 7 Geylang  #07-01 ,1,103,Strata,1050000,-,10194,947,09-APR-2018,Apartment,Freehold,2014,Resale,Private,14,38,388792,Central Region,Geylang
+PINEVALE,4 Tampines Street 73  #02-04 ,1,120,Strata,888000,-,7400,687,09-APR-2018,Executive Condominium,99 Yrs From 31/01/1997,1999,Resale,HDB,18,52,528824,East Region,Tampines
+PINEVALE,6 Tampines Street 73  #05-01 ,1,120,Strata,900000,-,7500,697,09-APR-2018,Executive Condominium,99 Yrs From 31/01/1997,1999,Resale,HDB,18,52,528825,East Region,Tampines
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #04-10 ,1,63,Strata,1226000,-,19460,1808,09-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+N.A.,14A Greenwood Avenue ,1,107,Strata,1518000,-,14187,1318,09-APR-2018,Apartment,Freehold,Unknown,Resale,Private,11,28,289207,Central Region,Bukit Timah
+ONE OXLEY RISE,1 Oxley Rise  #02-09 ,1,79,Strata,1450000,-,18354,1705,09-APR-2018,Apartment,Freehold,2009,Resale,Private,09,23,238714,Central Region,Museum
+KINGSFORD WATERBAY,68 Upper Serangoon View  #07-24 ,1,80,Strata,1165000,-,14563,1353,09-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533884,North East Region,Hougang
+KINGSFORD WATERBAY,78 Upper Serangoon View  #01-66 ,1,64,Strata,988000,-,15438,1434,09-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533879,North East Region,Hougang
+CASPIAN,58 Lakeside Drive  #12-35 ,1,93,Strata,1040000,-,11183,1039,09-APR-2018,Condominium,99 Yrs From 17/03/2008,2012,Resale,Private,22,64,648319,West Region,Jurong West
+THE CREST,103 Prince Charles Crescent  #13-09 ,1,123,Strata,2716000,-,22081,2051,09-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+THE BELVEDERE,53 Meyer Road  #22-05 ,1,117,Strata,2380000,-,20342,1890,09-APR-2018,Condominium,Freehold,2007,Resale,Private,15,43,437876,Central Region,Marine Parade
+SERENITY PARK,157B Tamarind Road  #05-07 ,1,123,Strata,1300000,-,10569,982,09-APR-2018,Condominium,Freehold,1995,Resale,Private,28,80,806106,North East Region,Serangoon
+SOPHIA HILLS,25 Mount Sophia  #02-84 ,1,89,Strata,2156000,-,24225,2251,09-APR-2018,Condominium,99 Yrs From 10/12/2013,2018,New Sale,Private,09,22,228477,Central Region,Rochor
+DOMUS,8 Irrawaddy Road  #11-04 ,1,93,Strata,1500000,-,16129,1498,09-APR-2018,Apartment,Freehold,2012,Resale,Private,12,32,329564,Central Region,Novena
+MUTIARA CREST,2 Jalan Mutiara  #17-01 ,1,124,Strata,2168000,-,17484,1624,09-APR-2018,Apartment,Freehold,2000,Resale,Private,10,24,249183,Central Region,Tanglin
+PARVIS,12 Holland Hill  #03-10 ,1,187,Strata,4280000,-,22888,2126,09-APR-2018,Condominium,Freehold,2012,Resale,Private,10,27,278743,Central Region,Bukit Timah
+N.A.,54 King'S Close ,1,349,Land,7800000,-,22362,2078,09-APR-2018,Detached House,999 Yrs From 27/12/1875,1995,Resale,Private,10,26,268206,Central Region,Bukit Timah
+VISIONCREST,37 Oxley Rise  #06-22 ,1,92,Strata,1980000,-,21522,1999,09-APR-2018,Apartment,Freehold,2007,Resale,Private,09,23,238712,Central Region,Museum
+N.A.,10A Duke'S Road ,1,178,Land,4150000,-,23302,2165,09-APR-2018,Terrace House,Freehold,1990,Resale,Private,10,26,268891,Central Region,Bukit Timah
+RIVERSAILS,4 Upper Serangoon Crescent  #08-08 ,1,79,Strata,890000,-,11266,1047,09-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534034,North East Region,Hougang
+SOPHIA HILLS,25 Mount Sophia  #04-84 ,1,89,Strata,2194000,-,24652,2290,09-APR-2018,Condominium,99 Yrs From 10/12/2013,2018,New Sale,Private,09,22,228477,Central Region,Rochor
+SUMMERDALE,6 Boon Lay Drive  #04-14 ,1,118,Strata,888000,-,7525,699,09-APR-2018,Executive Condominium,99 Yrs From 22/09/1997,2000,Resale,HDB,22,64,649927,West Region,Jurong West
+AZALEA PARK CONDOMINIUM,10 Flora Road  #08-07 ,1,140,Strata,1270000,-,9071,843,09-APR-2018,Condominium,999 Yrs From 12/10/1885,1996,Resale,HDB,17,50,509729,East Region,Pasir Ris
+AVANT RESIDENCES,10 Aljunied Road  #07-08 ,1,39,Strata,746300,-,19136,1778,09-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,HDB,14,38,389799,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-33 ,1,44,Strata,898000,-,20409,1896,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-04 ,1,93,Strata,1796000,-,19312,1794,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+THE ASANA,19 Queen'S Road  #04-06 ,1,59,Strata,1701177,-,28834,2679,08-APR-2018,Apartment,Freehold,2017,New Sale,HDB,10,26,266745,Central Region,Bukit Timah
+THE TAPESTRY,51 Tampines Street 86  #09-08 ,1,41,Strata,653670,-,15943,1481,08-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+PARC LIFE,27 Sembawang Crescent  #02-13 ,1,99,Strata,910000,-,9192,854,08-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,757056,North Region,Sembawang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #14-22 ,1,45,Strata,1065000,-,23667,2199,08-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-32 ,1,60,Strata,1215000,-,20250,1881,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-24 ,1,102,Strata,1729000,-,16951,1575,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARC BOTANNIA,18 Fernvale Street  #17-35 ,1,47,Strata,694000,-,14766,1372,08-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797394,North East Region,Sengkang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-07 ,1,62,Strata,1405000,-,22661,2105,08-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-32 ,1,60,Strata,1180000,-,19667,1827,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-33 ,1,44,Strata,912000,-,20727,1926,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+8 HULLET,8 Hullet Road  #11-02 ,1,62,Strata,2356780,-,38013,3531,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,09,22,229160,Central Region,Newton
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-30 ,1,50,Strata,938000,-,18760,1743,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+MARINA ONE RESIDENCES,21 Marina Way  #23-07 ,1,141,Strata,4215513,-,29897,2778,08-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+PARC BOTANNIA,16 Fernvale Street  #03-20 ,1,105,Strata,1365000,-,13000,1208,08-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797393,North East Region,Sengkang
+PARC LIFE,31 Sembawang Crescent  #02-22 ,1,99,Strata,891000,888700,8977,834,08-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756983,North Region,Sembawang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #05-07 ,1,92,Strata,1394000,-,15152,1408,08-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #05-12 ,1,54,Strata,1130000,-,20926,1944,08-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARC LIFE,41 Sembawang Crescent  #14-41 ,1,93,Strata,898000,-,9656,897,08-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756988,North Region,Sembawang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-33 ,1,44,Strata,888000,-,20182,1875,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-33 ,1,45,Strata,913000,-,20289,1885,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+SIMS URBAN OASIS,8 Sims Drive  #17-26 ,1,161,Strata,2582100,-,16038,1490,08-APR-2018,Condominium,99 Yrs From 29/07/2014,2017,New Sale,Private,14,38,387389,Central Region,Geylang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #33-11 ,1,103,Strata,1655000,-,16068,1493,08-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+SIGNATURE AT YISHUN,33 Yishun Street 51  #02-28 ,1,102,Strata,916000,-,8980,834,08-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767991,North Region,Yishun
+SIGNATURE AT YISHUN,41 Yishun Street 51  #07-43 ,1,102,Strata,854500,-,8377,778,08-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,Private,27,76,767995,North Region,Yishun
+THE TAPESTRY,61 Tampines Street 86  #08-40 ,1,44,Strata,708750,-,16108,1496,08-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528510,East Region,Tampines
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-19 ,1,101,Strata,1888000,-,18693,1737,08-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #05-27 ,1,74,Strata,1555000,-,21014,1952,08-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARC BOTANNIA,18 Fernvale Street  #09-32 ,1,91,Strata,1306112,-,14353,1333,08-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797394,North East Region,Sengkang
+SIGNATURE AT YISHUN,31 Yishun Street 51  #03-21 ,1,102,Strata,890500,-,8730,811,08-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767990,North Region,Yishun
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #16-19 ,1,45,Strata,995000,-,22111,2054,08-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+SIGNATURE AT YISHUN,41 Yishun Street 51  #06-43 ,1,102,Strata,851000,-,8343,775,08-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,N.A,27,76,767995,North Region,Yishun
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #10-04 ,1,63,Strata,1325000,-,21032,1954,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-24 ,1,87,Strata,1646000,-,18920,1758,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-18 ,1,45,Strata,948000,-,21067,1957,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #03-02 ,1,49,Strata,943000,-,19245,1788,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-11 ,1,45,Strata,1050000,-,23333,2168,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-25 ,1,108,Strata,2130000,-,19722,1832,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #05-07 ,1,62,Strata,1295000,-,20887,1940,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-13 ,1,64,Strata,1343000,-,20984,1949,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-23 ,1,65,Strata,1300000,-,20000,1858,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-14 ,1,56,Strata,1134000,-,20250,1881,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-30 ,1,45,Strata,1095000,-,24333,2261,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #10-06 ,1,62,Strata,1325000,-,21371,1985,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #03-05 ,1,43,Strata,883000,-,20535,1908,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-29 ,1,92,Strata,1788000,-,19435,1806,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #01-03 ,1,43,Strata,903000,-,21000,1951,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-15 ,1,63,Strata,1395000,-,22143,2057,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-14 ,1,100,Strata,1875000,-,18750,1742,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #16-17 ,1,60,Strata,1275000,-,21250,1974,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-15 ,1,65,Strata,1328000,-,20431,1898,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-01 ,1,45,Strata,1050000,-,23333,2168,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-12 ,1,84,Strata,1638000,-,19500,1812,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+PARC LIFE,41 Sembawang Crescent  #02-41 ,1,93,Strata,843000,-,9065,842,07-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756988,North Region,Sembawang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-08 ,1,45,Strata,1025000,-,22778,2116,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-26 ,1,63,Strata,1505000,-,23889,2219,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #01-24 ,1,90,Strata,1678000,-,18644,1732,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-08 ,1,44,Strata,888000,-,20182,1875,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #05-08 ,1,54,Strata,1065000,-,19722,1832,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+ARTRA,10 Alexandra View  #30-04 ,1,73,Strata,1561700,-,21393,1987,07-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+KALLANG RIVERSIDE,51 Kampong Bugis  #29-07 ,1,133,Strata,3299421,-,24808,2305,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,12,33,338986,Central Region,Kallang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #01-05 ,1,43,Strata,903000,-,21000,1951,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #14-08 ,1,45,Strata,1015000,-,22556,2095,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-26 ,1,111,Strata,1954000,-,17604,1635,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #01-20 ,1,87,Strata,1668000,-,19172,1781,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #01-02 ,1,61,Strata,1228000,-,20131,1870,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+PARC BOTANNIA,10 Fernvale Street  #02-01 ,1,47,Strata,637000,-,13553,1259,07-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797390,North East Region,Sengkang
+ARTRA,10 Alexandra View  #39-03 ,1,77,Strata,1734500,-,22526,2093,07-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-12 ,1,45,Strata,1095000,-,24333,2261,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-19 ,1,45,Strata,1005000,-,22333,2075,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-08 ,1,44,Strata,878000,-,19955,1854,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-33 ,1,45,Strata,1095000,-,24333,2261,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-02 ,1,49,Strata,938000,-,19143,1778,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-07 ,1,70,Strata,1285000,-,18357,1705,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-32 ,1,60,Strata,1192000,-,19867,1846,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-18 ,1,45,Strata,938000,-,20844,1936,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-09 ,1,101,Strata,1885000,-,18663,1734,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-23 ,1,76,Strata,1377000,-,18118,1683,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-11 ,1,45,Strata,1040000,-,23111,2147,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+BIJOU,2 Jalan Mat Jambol  #04-17 ,1,53,Strata,1123595,-,21200,1970,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,119554,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-02 ,1,49,Strata,948000,-,19347,1797,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #08-07 ,1,62,Strata,1325000,-,21371,1985,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-10 ,1,45,Strata,938000,-,20844,1936,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #04-09 ,1,78,Strata,1466000,-,18795,1746,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118584,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-16 ,1,60,Strata,1235000,-,20583,1912,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-19 ,1,120,Strata,1976000,-,16467,1530,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #07-05 ,1,62,Strata,1280000,-,20645,1918,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-07 ,1,60,Strata,1230000,-,20500,1904,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-03 ,1,51,Strata,938000,-,18392,1709,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-27 ,1,62,Strata,1495000,-,24113,2240,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #03-03 ,1,43,Strata,883000,-,20535,1908,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #09-04 ,1,63,Strata,1315000,-,20873,1939,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-12 ,1,84,Strata,1646000,-,19595,1820,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-19 ,1,101,Strata,1896000,-,18772,1744,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-22 ,1,66,Strata,1167000,-,17682,1643,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+PARC BOTANNIA,10 Fernvale Street  #08-07 ,1,81,Strata,1125112,-,13890,1290,07-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797390,North East Region,Sengkang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #15-26 ,1,63,Strata,1485000,-,23571,2190,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #01-22 ,1,56,Strata,1130000,-,20179,1875,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-10 ,1,45,Strata,953000,-,21178,1967,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #14-15 ,1,63,Strata,1415000,-,22460,2087,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-17 ,1,60,Strata,1265000,-,21083,1959,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #10-20 ,1,100,Strata,1930000,-,19300,1793,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #15-01 ,1,45,Strata,1030000,-,22889,2126,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #09-11 ,1,45,Strata,995000,-,22111,2054,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-32 ,1,60,Strata,1405000,-,23417,2175,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #12-07 ,1,62,Strata,1365000,-,22016,2045,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #13-18 ,1,62,Strata,1390000,-,22419,2083,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-21 ,1,64,Strata,1286000,-,20094,1867,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-16 ,1,60,Strata,1285000,-,21417,1990,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #05-13 ,1,75,Strata,1385000,-,18467,1716,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #05-15 ,1,76,Strata,1405000,-,18487,1717,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #05-12 ,1,98,Strata,1729000,-,17643,1639,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-13 ,1,64,Strata,1308000,-,20438,1899,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-23 ,1,65,Strata,1306000,-,20092,1867,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #10-16 ,1,60,Strata,1225000,-,20417,1897,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #11-15 ,1,63,Strata,1385000,-,21984,2042,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #10-05 ,1,62,Strata,1325000,-,21371,1985,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-15 ,1,63,Strata,1425000,-,22619,2101,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-25 ,1,108,Strata,2100000,-,19444,1806,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #13-25 ,1,108,Strata,2090000,-,19352,1798,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-13 ,1,64,Strata,1314000,-,20531,1907,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #16-12 ,1,45,Strata,1085000,-,24111,2240,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-18 ,1,62,Strata,1410000,-,22742,2113,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #16-15 ,1,63,Strata,1435000,-,22778,2116,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-03 ,1,43,Strata,878000,-,20419,1897,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #11-24 ,1,60,Strata,1360000,-,22667,2106,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #11-33 ,1,45,Strata,1050000,-,23333,2168,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-26 ,1,96,Strata,1898000,-,19771,1837,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-10 ,1,60,Strata,1365000,-,22750,2114,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-27 ,1,62,Strata,1465000,-,23629,2195,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #13-07 ,1,62,Strata,1375000,-,22177,2060,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #01-06 ,1,43,Strata,913000,-,21233,1973,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-07 ,1,62,Strata,1355000,-,21855,2030,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-06 ,1,62,Strata,1335000,-,21532,2000,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-26 ,1,96,Strata,1866000,-,19438,1806,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #14-17 ,1,60,Strata,1255000,-,20917,1943,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #15-28 ,1,62,Strata,1475000,-,23790,2210,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-31 ,1,43,Strata,898000,-,20884,1940,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE TAPESTRY,51 Tampines Street 86  #09-03 ,1,44,Strata,678780,-,15427,1433,07-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-18 ,1,45,Strata,943000,-,20956,1947,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #06-07 ,1,62,Strata,1305000,-,21048,1955,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-29 ,1,92,Strata,1796000,-,19522,1814,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #07-06 ,1,62,Strata,1280000,-,20645,1918,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-06 ,1,50,Strata,948000,-,18960,1761,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-05 ,1,43,Strata,878000,-,20419,1897,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-18 ,1,56,Strata,998000,-,17821,1656,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #13-16 ,1,60,Strata,1245000,-,20750,1928,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-06 ,1,43,Strata,888000,-,20651,1919,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-28 ,1,51,Strata,975000,-,19118,1776,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-12 ,1,84,Strata,1654000,-,19690,1829,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-31 ,1,50,Strata,948000,-,18960,1761,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #03-01 ,1,125,Strata,1945000,-,15560,1446,07-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-23 ,1,45,Strata,1095000,-,24333,2261,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-03 ,1,43,Strata,888000,-,20651,1919,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-15 ,1,65,Strata,1363000,-,20969,1948,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #15-04 ,1,63,Strata,1375000,-,21825,2028,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #05-29 ,1,73,Strata,1555000,-,21301,1979,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-27 ,1,60,Strata,1028000,-,17133,1592,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #14-07 ,1,62,Strata,1385000,-,22339,2075,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-32 ,1,60,Strata,1186000,-,19767,1836,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-11 ,1,101,Strata,1958000,-,19386,1801,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-14 ,1,56,Strata,1140000,-,20357,1891,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #05-10 ,1,56,Strata,988000,-,17643,1639,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-22 ,1,56,Strata,1112000,-,19857,1845,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #05-21 ,1,75,Strata,1357000,-,18093,1681,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-24 ,1,60,Strata,1395000,-,23250,2160,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #01-18 ,1,45,Strata,963000,-,21400,1988,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-27 ,1,49,Strata,968000,-,19755,1835,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-29 ,1,62,Strata,1475000,-,23790,2210,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #07-09 ,1,101,Strata,1860000,-,18416,1711,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-17 ,1,60,Strata,1235000,-,20583,1912,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #09-06 ,1,62,Strata,1315000,-,21210,1970,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-22 ,1,56,Strata,1106000,-,19750,1835,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-21 ,1,64,Strata,1280000,-,20000,1858,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+KALLANG RIVERSIDE,51 Kampong Bugis  #19-07 ,1,133,Strata,3103448,-,23334,2168,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,12,33,338986,Central Region,Kallang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #09-18 ,1,62,Strata,1350000,-,21774,2023,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-28 ,1,43,Strata,915000,-,21279,1977,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-14 ,1,56,Strata,1158000,-,20679,1921,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #15-07 ,1,62,Strata,1395000,-,22500,2090,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #05-14 ,1,66,Strata,1195000,-,18106,1682,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-33 ,1,44,Strata,893000,-,20295,1885,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #03-09 ,1,78,Strata,1456000,-,18667,1734,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #09-08 ,1,45,Strata,985000,-,21889,2034,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-14 ,1,100,Strata,1845000,-,18450,1714,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-26 ,1,96,Strata,1874000,-,19521,1814,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-30 ,1,45,Strata,1105000,-,24556,2281,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-21 ,1,64,Strata,1292000,-,20188,1875,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-32 ,1,70,Strata,1257000,-,17957,1668,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #13-15 ,1,63,Strata,1405000,-,22302,2072,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-24 ,1,60,Strata,1405000,-,23417,2175,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-26 ,1,63,Strata,1475000,-,23413,2175,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-26 ,1,96,Strata,1858000,-,19354,1798,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #02-12 ,1,56,Strata,1083000,-,19339,1797,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-22 ,1,45,Strata,1095000,-,24333,2261,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #13-17 ,1,60,Strata,1245000,-,20750,1928,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-05 ,1,62,Strata,1335000,-,21532,2000,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-26 ,1,63,Strata,1495000,-,23730,2205,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+SEASIDE RESIDENCES,12 Siglap Link  #05-15 ,1,112,Strata,1969000,-,17580,1633,07-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448870,East Region,Bedok
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-31 ,1,43,Strata,913000,-,21233,1973,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-15 ,1,65,Strata,1340000,-,20615,1915,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-11 ,1,101,Strata,1928000,-,19089,1773,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-13 ,1,64,Strata,1320000,-,20625,1916,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-29 ,1,107,Strata,1876000,-,17533,1629,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARC LIFE,29 Sembawang Crescent  #04-16 ,1,99,Strata,919000,-,9283,862,07-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756982,North Region,Sembawang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #03-07 ,1,60,Strata,1224000,-,20400,1895,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #12-31 ,1,101,Strata,2005000,-,19851,1844,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #06-17 ,1,60,Strata,1180000,-,19667,1827,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #10-07 ,1,62,Strata,1345000,-,21694,2015,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #02-31 ,1,43,Strata,888000,-,20651,1919,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #13-06 ,1,62,Strata,1355000,-,21855,2030,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-05 ,1,50,Strata,938000,-,18760,1743,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #01-12 ,1,87,Strata,1678000,-,19287,1792,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+SEASIDE RESIDENCES,18 Siglap Link  #07-31 ,1,101,Strata,1758000,-,17406,1617,07-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,HDB,15,44,448873,East Region,Bedok
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-04 ,1,63,Strata,1395000,-,22143,2057,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-16 ,1,60,Strata,1265000,-,21083,1959,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-14 ,1,56,Strata,1128000,-,20143,1871,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-17 ,1,60,Strata,1285000,-,21417,1990,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #12-23 ,1,45,Strata,1055000,-,23444,2178,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #12-33 ,1,45,Strata,1055000,-,23444,2178,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #03-08 ,1,44,Strata,883000,-,20068,1864,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-33 ,1,45,Strata,1085000,-,24111,2240,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-27 ,1,49,Strata,973000,-,19857,1845,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #13-09 ,1,101,Strata,1905000,-,18861,1752,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #05-30 ,1,54,Strata,1140000,-,21111,1961,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231A Pasir Panjang Road ,1,202,Strata,3460000,-,17129,1591,07-APR-2018,Terrace House,Freehold,Uncompleted,New Sale,Private,05,11,117343,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-02 ,1,60,Strata,998000,-,16633,1545,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+SIGNATURE AT YISHUN,37 Yishun Street 51  #03-34 ,1,102,Strata,853000,-,8363,777,07-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767993,North Region,Yishun
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #01-30 ,1,43,Strata,903000,-,21000,1951,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-23 ,1,45,Strata,1065000,-,23667,2199,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+FOREST WOODS,17 Lorong Lew Lian  #03-33 ,1,116,Strata,1845000,-,15905,1478,07-APR-2018,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,HDB,19,53,533852,North East Region,Serangoon
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #09-07 ,1,62,Strata,1335000,-,21532,2000,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-23 ,1,45,Strata,1085000,-,24111,2240,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-28 ,1,62,Strata,1465000,-,23629,2195,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-23 ,1,65,Strata,1312000,-,20185,1875,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #14-24 ,1,60,Strata,1375000,-,22917,2129,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-03 ,1,108,Strata,2075000,-,19213,1785,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #05-34 ,1,120,Strata,2358000,-,19650,1826,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #14-01 ,1,58,Strata,1147000,-,19776,1837,07-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465461,East Region,Bedok
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-24 ,1,87,Strata,1638000,-,18828,1749,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-15 ,1,65,Strata,1334000,-,20523,1907,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117341,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #10-15 ,1,63,Strata,1375000,-,21825,2028,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #03-10 ,1,45,Strata,933000,-,20733,1926,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-11 ,1,101,Strata,1918000,-,18990,1764,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-31 ,1,43,Strata,893000,-,20767,1929,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #15-24 ,1,60,Strata,1385000,-,23083,2144,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #03-28 ,1,43,Strata,920000,-,21395,1988,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #01-21 ,1,64,Strata,1315000,-,20547,1909,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #02-07 ,1,60,Strata,1218000,-,20300,1886,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #02-10 ,1,45,Strata,928000,-,20622,1916,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117341,Central Region,Queenstown
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-22 ,1,56,Strata,1100000,-,19643,1825,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117342,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-08 ,1,45,Strata,1035000,-,23000,2137,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-04 ,1,63,Strata,1335000,-,21190,1969,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-28 ,1,43,Strata,925000,-,21512,1998,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117629,Central Region,Queenstown
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-05 ,1,43,Strata,888000,-,20651,1919,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-30 ,1,43,Strata,888000,-,20651,1919,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117629,Central Region,Queenstown
+MARINA ONE RESIDENCES,21 Marina Way  #11-15 ,1,143,Strata,3726994,-,26063,2421,07-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #05-08 ,1,55,Strata,938000,-,17055,1584,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #07-07 ,1,62,Strata,1315000,-,21210,1970,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE VERANDAH RESIDENCES,231 Pasir Panjang Road  #04-27 ,1,49,Strata,978000,-,19959,1854,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117629,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #10-18 ,1,62,Strata,1360000,-,21935,2038,07-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #03-25 ,1,116,Strata,2296000,-,19793,1839,07-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+BURGUNDY HILL,15 Burgundy Crescent ,1,210,Land,2100000,-,10000,929,06-APR-2018,Semi-Detached House,99 Yrs From 01/03/1995,1999,Resale,Private,23,65,658728,West Region,Bukit Batok
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #22-13 ,1,68,Strata,1188000,-,17471,1623,06-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+COSTA DEL SOL,78 Bayshore Road  #08-21 ,1,145,Strata,1930000,-,13310,1237,06-APR-2018,Condominium,99 Yrs From 05/05/1997,2003,Resale,Private,16,46,469991,East Region,Bedok
+STRATUM,100 Elias Road  #04-66 ,1,102,Strata,1100000,-,10784,1002,06-APR-2018,Condominium,99 Yrs From 11/07/2012,2016,Sub Sale,Private,18,51,519955,East Region,Pasir Ris
+URBAN SUITES,5 Hullet Road  #09-11 ,1,149,Strata,4600000,-,30872,2868,06-APR-2018,Condominium,Freehold,2013,Resale,Private,09,22,229161,Central Region,Newton
+EVERGREEN PARK,31 Hougang Avenue 7  #14-02 ,1,127,Strata,1060000,-,8346,775,06-APR-2018,Apartment,99 Yrs From 01/10/1995,1999,Resale,Private,19,53,538800,North East Region,Hougang
+MIMOSA PARK,65 Mimosa Crescent  #06-49 ,1,163,Strata,1610000,-,9877,918,06-APR-2018,Condominium,Freehold,1979,Resale,Private,28,80,808036,North East Region,Serangoon
+SUITES @ TOPAZ,3 Topaz Road  #03-11 ,1,35,Strata,525000,-,15000,1394,06-APR-2018,Apartment,Freehold,2012,Resale,HDB,12,32,327849,Central Region,Kallang
+D'MIRA,31 Boon Teck Road  #14-02 ,1,115,Strata,1600000,-,13913,1293,06-APR-2018,Apartment,Freehold,2012,Resale,Private,12,32,329602,Central Region,Novena
+N.A.,31B Chancery Lane ,1,403,Land,10500000,-,26042,2419,06-APR-2018,Detached House,Freehold,2009,Resale,HDB,11,30,309600,Central Region,Novena
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-19 ,1,45,Strata,985000,-,21889,2034,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+MIMOSA TERRACE,47 Mimosa View ,1,150,Land,2420000,-,16133,1499,06-APR-2018,Terrace House,Freehold,2006,Resale,HDB,28,80,805627,North East Region,Serangoon
+N.A.,17 Mount Sinai Avenue ,1,399,Land,6000000,-,15056,1399,06-APR-2018,Semi-Detached House,999 Yrs From 22/09/1885,1975,Resale,Private,10,27,277163,Central Region,Bukit Timah
+THE INTERLACE,200 Depot Road  #13-38 ,1,261,Strata,2600000,-,9962,925,06-APR-2018,Condominium,99 Yrs From 11/02/2009,2013,Resale,Private,04,10,109694,Central Region,Bukit Merah
+PARC LIFE,31 Sembawang Crescent  #03-21 ,1,99,Strata,902000,-,9111,846,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756983,North Region,Sembawang
+BLISS@KOVAN,6A Simon Lane  #03-21 ,1,108,Strata,1650000,-,15278,1419,06-APR-2018,Condominium,Freehold,2015,Resale,HDB,19,54,546056,North East Region,Hougang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #09-12 ,1,45,Strata,1040000,-,23111,2147,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+NEW FUTURA,18 Leonie Hill Road  #09-05 ,1,102,Strata,3888000,-,38118,3541,06-APR-2018,Condominium,Freehold,2017,Resale,Private,09,23,239199,Central Region,River Valley
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #09-28 ,1,62,Strata,1440000,-,23226,2158,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+THE ANCHORAGE,370G Alexandra Road  #03-05 ,1,170,Strata,2250000,-,13235,1230,06-APR-2018,Condominium,Freehold,1997,Resale,HDB,03,15,159960,Central Region,Queenstown
+WATERTOWN,69 Punggol Central  #02-32 ,1,60,Strata,860000,-,14333,1332,06-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,Private,19,82,828754,North East Region,Punggol
+ONE TREE HILL RESIDENCE,1A One Tree Hill  #07-01 ,1,114,Strata,2576700,-,22603,2100,06-APR-2018,Apartment,Freehold,2008,Resale,Private,10,24,248669,Central Region,River Valley
+THE ELYSIA,6 Mar Thoma Road  #02-04 ,1,79,Strata,855000,-,10823,1005,06-APR-2018,Apartment,999 Yrs From 02/06/1882,2005,Resale,HDB,12,32,328688,Central Region,Kallang
+TANAMERA CREST,6 Pari Dedap Walk  #06-04 ,1,111,Strata,950000,-,8559,795,06-APR-2018,Condominium,99 Yrs From 20/06/2000,2004,Resale,HDB,16,48,486060,East Region,Bedok
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #20-07 ,1,92,Strata,1433000,-,15576,1447,06-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #11-26 ,1,63,Strata,1455000,-,23095,2146,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE CREST,103 Prince Charles Crescent  #14-09 ,1,118,Strata,2612000,-,22136,2056,06-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+BARTLEY RESIDENCES,7 Lorong How Sun  #05-39 ,1,43,Strata,660000,-,15349,1426,06-APR-2018,Apartment,99 Yrs From 29/06/2011,2015,Resale,Private,19,53,536564,North East Region,Serangoon
+EAST COAST HILL,32 Sennett Avenue ,1,249,Land,3380000,-,13563,1260,06-APR-2018,Terrace House,Freehold,1983,Resale,Private,16,46,467040,East Region,Bedok
+FLORA EAST,241C Joo Chiat Place ,1,125,Strata,1330000,-,10640,988,06-APR-2018,Apartment,Freehold,1993,Resale,Private,15,42,427932,Central Region,Geylang
+SERANGOON GARDEN ESTATE,88 Farleigh Avenue ,1,393,Land,4250000,-,10811,1004,06-APR-2018,Semi-Detached House,999 Yrs From 01/01/1954,Unknown,Resale,Private,19,55,557862,North East Region,Serangoon
+N.A.,19 Cove Grove ,1,853,Land,12000000,-,14075,1308,06-APR-2018,Detached House,99 Yrs From 31/07/2007,2010,Resale,Private,04,09,098214,Central Region,Southern Islands
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #15-27 ,1,62,Strata,1465000,-,23629,2195,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #11-22 ,1,45,Strata,1050000,-,23333,2168,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+THE CREST,103 Prince Charles Crescent  #17-09 ,1,114,Strata,2259000,-,19816,1841,06-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159018,Central Region,Bukit Merah
+D'LEEDON,11 Leedon Heights  #15-29 ,1,118,Strata,2168000,-,18373,1707,06-APR-2018,Condominium,99 Yrs From 08/04/2010,2014,Resale,HDB,10,26,267955,Central Region,Bukit Timah
+QUEENS,16 Stirling Road  #24-19 ,1,110,Strata,1410000,-,12818,1191,06-APR-2018,Condominium,99 Yrs From 16/02/1998,2002,Resale,Private,03,14,148957,Central Region,Queenstown
+MACPHERSON GARDEN ESTATE,75 Jalan Setia ,1,82,Land,1800000,-,21924,2037,06-APR-2018,Terrace House,Freehold,Unknown,Resale,HDB,13,36,368493,Central Region,Toa Payoh
+PALM GROVE CONDOMINIUM,21 Palm Grove Avenue  #03-23 ,1,130,Strata,1530000,-,11769,1093,06-APR-2018,Condominium,999 Yrs From 02/12/1878,2002,Resale,HDB,19,54,547320,North East Region,Hougang
+ISLAND PARK,65 Jalan Tambur ,1,323,Land,3880000,-,11998,1115,06-APR-2018,Semi-Detached House,Freehold,1974,Resale,Private,20,57,576825,Central Region,Bishan
+PARC LIFE,37 Sembawang Crescent  #02-34 ,1,93,Strata,805000,802700,8631,802,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,756986,North Region,Sembawang
+THE TENERIFFE,370 Laurel Wood Avenue ,1,294,Strata,2680000,-,9116,847,06-APR-2018,Terrace House,99 Yrs From 07/09/1996,2003,Resale,Private,10,27,275968,Central Region,Bukit Timah
+70@TRURO,70 Truro Road  #03-03 ,1,46,Strata,914909,-,19889,1848,06-APR-2018,Apartment,Freehold,2018,New Sale,Private,08,21,217618,Central Region,Kallang
+CLYDES RESIDENCE,78 Mergui Road  #05-03 ,1,95,Strata,1120000,-,11789,1095,06-APR-2018,Apartment,Freehold,2005,Resale,Private,08,21,219054,Central Region,Kallang
+PARC LIFE,31 Sembawang Crescent  #02-20 ,1,103,Strata,969000,966700,9385,872,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,756983,North Region,Sembawang
+REGENT PARK,26 Jalan Lempeng  #09-04 ,1,84,Strata,960000,-,11429,1062,06-APR-2018,Condominium,99 Yrs From 01/12/1993,1997,Resale,HDB,05,12,128805,West Region,Clementi
+THE SEA VIEW,35 Amber Road  #22-16 ,1,253,Strata,4150000,-,16403,1524,06-APR-2018,Condominium,Freehold,2008,Resale,Private,15,43,439945,Central Region,Marine Parade
+N.A.,20 Carpmael Road ,1,191,Land,3160000,-,16571,1539,06-APR-2018,Terrace House,Freehold,1989,Resale,Private,15,42,429767,Central Region,Geylang
+OPTIMA @ TANAH MERAH,86 Tanah Merah Kechil Avenue  #10-14 ,1,45,Strata,690000,-,15333,1425,06-APR-2018,Condominium,99 Yrs From 09/12/2008,2012,Resale,HDB,16,46,465517,East Region,Bedok
+MELVILLE PARK,18 Simei Street 1  #05-16 ,1,125,Strata,888000,-,7104,660,06-APR-2018,Condominium,99 Yrs From 01/09/1992,1996,Resale,Private,18,52,529943,East Region,Tampines
+COMPASS HEIGHTS,11 Sengkang Square  #06-44 ,1,98,Strata,915000,-,9337,867,06-APR-2018,Apartment,99 Yrs From 30/04/2000,2002,Resale,HDB,19,54,545076,North East Region,Sengkang
+CENTRAL VIEW,52 Hougang Street 11  #02-06 ,1,113,Strata,1050000,-,9292,863,06-APR-2018,Condominium,99 Yrs From 20/03/1998,2002,Resale,HDB,19,53,538750,North East Region,Hougang
+MOUNT FABER LODGE,27 Mount Faber Road  #03-08 ,1,241,Strata,3100000,-,12863,1195,06-APR-2018,Condominium,Freehold,1983,Resale,Private,04,09,099200,Central Region,Bukit Merah
+THE ESPIRA,128 Lorong L Telok Kurau  #03-01 ,1,101,Strata,1188000,-,11762,1093,06-APR-2018,Apartment,Freehold,2009,Resale,Private,15,42,425563,East Region,Bedok
+THE SPRINGSIDE,109 Springside View ,1,201,Land,3136000,-,15618,1451,06-APR-2018,Terrace House,Freehold,2016,Resale,Private,26,78,786084,North Region,Yishun
+CHESTERVALE,31 Bangkit Road  #11-02 ,1,132,Strata,925000,-,7008,651,06-APR-2018,Executive Condominium,99 Yrs From 17/03/1997,1999,Resale,HDB,23,67,679973,West Region,Bukit Panjang
+ONE-NORTH RESIDENCES,7 One-North Gateway  #14-13 ,1,55,Strata,880000,-,16000,1486,06-APR-2018,Apartment,99 Yrs From 15/09/2005,2009,Resale,Private,05,13,138642,Central Region,Queenstown
+THE REGENCY AT TIONG BAHRU,38 Chay Yan Street  #34-05 ,1,119,Strata,2300000,-,19328,1796,06-APR-2018,Condominium,Freehold,2010,Resale,Private,03,16,169907,Central Region,Bukit Merah
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #02-02 ,1,58,Strata,1076000,-,18552,1723,06-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+MARINA ONE RESIDENCES,21 Marina Way  #06-07 ,1,143,Strata,3561268,-,24904,2314,06-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+N.A.,16 Lengkok Merak ,1,434,Land,9020000,-,20783,1931,06-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,10,24,248866,Central Region,River Valley
+LEEDON RESIDENCE,18 Leedon Heights  #01-23 ,1,610,Strata,12000000,-,19672,1828,06-APR-2018,Condominium,Freehold,2015,Resale,Private,10,26,267938,Central Region,Bukit Timah
+PARC LIFE,27 Sembawang Crescent  #07-14 ,1,99,Strata,923000,920700,9300,864,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,757056,North Region,Sembawang
+PARC LIFE,27 Sembawang Crescent  #13-14 ,1,99,Strata,948000,945700,9553,887,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,757056,North Region,Sembawang
+PARC LIFE,39 Sembawang Crescent  #12-37 ,1,99,Strata,956000,953700,9633,895,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,756987,North Region,Sembawang
+TREE HOUSE,60 Chestnut Avenue  #24-02 ,1,188,Strata,1525000,-,8112,754,06-APR-2018,Condominium,99 Yrs From 23/11/2009,2013,Resale,Private,23,67,679517,West Region,Bukit Panjang
+SKY HABITAT,7 Bishan Street 15  #04-07 ,1,120,Strata,1850200,-,15418,1432,06-APR-2018,Condominium,99 Yrs From 30/05/2011,2015,Resale,HDB,20,57,573908,Central Region,Bishan
+N.A.,546 Lorong 3 Geylang ,1,67,Land,40000,-,593,55,06-APR-2018,Terrace House,60 Yrs From 01/01/1961,Unknown,Resale,HDB,14,38,388974,Central Region,Kallang
+MARINA ONE RESIDENCES,21 Marina Way  #11-18 ,1,141,Strata,3719070,-,26376,2450,06-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+SPOTTISWOODE SUITES,16 Spottiswoode Park Road  #18-02 ,1,69,Strata,1620000,-,23478,2181,06-APR-2018,Apartment,Freehold,2017,Resale,HDB,02,08,088661,Central Region,Bukit Merah
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-08 ,1,84,Strata,1526000,-,18167,1688,06-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+GEM RESIDENCES,1 Lorong 5 Toa Payoh  #25-08 ,1,122,Strata,1984000,-,16262,1511,06-APR-2018,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,Private,12,31,319458,Central Region,Toa Payoh
+MELVILLE PARK,26 Simei Street 1  #09-10 ,1,89,Strata,720000,-,8090,752,06-APR-2018,Condominium,99 Yrs From 01/09/1992,1996,Resale,HDB,18,52,529947,East Region,Tampines
+LOYANG VALLEY,200 Loyang Avenue  #05-04 ,1,132,Strata,950000,-,7197,669,06-APR-2018,Condominium,99 Yrs From 20/08/1982,1985,Resale,Private,17,50,509058,East Region,Pasir Ris
+THOMSON GARDEN ESTATE,46 Jalan Hari Raya ,1,167,Land,2280000,-,13636,1267,06-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,20,57,578138,Central Region,Bishan
+SANCTUARY GREEN,183 Tanjong Rhu Road  #11-01 ,1,366,Strata,3100000,-,8470,787,06-APR-2018,Condominium,99 Yrs From 17/03/1997,2004,Resale,Private,15,43,436923,Central Region,Kallang
+N.A.,46 Richards Avenue ,1,770,Land,7200000,-,9353,869,06-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,19,54,546463,North East Region,Hougang
+NEW FUTURA,18 Leonie Hill Road  #12-06 ,1,170,Strata,5871200,-,34536,3209,06-APR-2018,Condominium,Freehold,2017,Resale,Private,09,23,239199,Central Region,River Valley
+THE SPRINGSIDE,5 Springside Link ,1,156,Land,2480000,-,15877,1475,06-APR-2018,Terrace House,Freehold,2004,Resale,Private,26,78,786582,North Region,Yishun
+ARCHIPELAGO,503 Bedok Reservoir Road  #01-10 ,1,62,Strata,738000,-,11903,1106,06-APR-2018,Condominium,99 Yrs From 01/06/2011,2015,Resale,HDB,16,47,479268,East Region,Bedok
+THE CREST,103 Prince Charles Crescent  #15-08 ,1,57,Strata,1269000,-,22263,2068,06-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159018,Central Region,Bukit Merah
+PARC LIFE,39 Sembawang Crescent  #01-37 ,1,99,Strata,913000,910700,9199,855,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,756987,North Region,Sembawang
+DAHLIA PARK CONDOMINIUM,1 Flora Drive  #04-02 ,1,102,Strata,850000,-,8333,774,06-APR-2018,Condominium,Freehold,2003,Resale,Private,17,50,507009,East Region,Pasir Ris
+D'NEST,149 Pasir Ris Grove  #11-79 ,1,118,Strata,1400000,-,11864,1102,06-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518139,East Region,Pasir Ris
+QUEENS PEAK,1 Dundee Road  #41-03 ,1,80,Strata,1674000,-,20925,1944,06-APR-2018,Condominium,99 Yrs From 28/09/2015,Uncompleted,New Sale,Private,03,14,149456,Central Region,Queenstown
+PARC LIFE,41 Sembawang Crescent  #04-41 ,1,93,Strata,852000,849700,9137,849,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756988,North Region,Sembawang
+EDELWEISS PARK CONDOMINIUM,96 Flora Road  #05-54 ,1,124,Strata,1200000,-,9677,899,06-APR-2018,Condominium,Freehold,2006,Resale,HDB,17,50,507007,East Region,Pasir Ris
+THE STERLING,1001 Bukit Timah Road  #10-16 ,1,120,Strata,2200000,-,18333,1703,06-APR-2018,Condominium,Freehold,2000,Resale,Private,21,59,596288,Central Region,Bukit Timah
+MAYSPRINGS,6 Petir Road  #19-12 ,1,144,Strata,1250000,-,8681,806,06-APR-2018,Apartment,99 Yrs From 01/12/1994,1998,Resale,Private,23,67,678267,West Region,Bukit Panjang
+ONE JERVOIS,3 Jervois Close  #05-06 ,1,122,Strata,2400000,-,19672,1828,06-APR-2018,Condominium,Freehold,2009,Resale,HDB,10,24,249099,Central Region,Tanglin
+HOUGANG GREEN,5 Buangkok Green  #16-02 ,1,197,Strata,1180000,-,5990,556,06-APR-2018,Apartment,99 Yrs From 01/12/1994,1998,Resale,Private,19,53,539748,North East Region,Hougang
+COSTA DEL SOL,82 Bayshore Road  #05-31 ,1,115,Strata,1550000,-,13478,1252,06-APR-2018,Condominium,99 Yrs From 05/05/1997,2003,Resale,Private,16,46,469993,East Region,Bedok
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-10 ,1,60,Strata,1345000,-,22417,2083,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+ASCENTIA SKY,1 Alexandra View  #32-05 ,1,169,Strata,2800000,-,16568,1539,06-APR-2018,Condominium,99 Yrs From 26/03/2008,2013,Resale,Private,03,15,158748,Central Region,Bukit Merah
+THE ESTA,39 Amber Gardens  #20-17 ,1,145,Strata,2700000,-,18621,1730,06-APR-2018,Condominium,Freehold,2008,Resale,HDB,15,43,439970,Central Region,Marine Parade
+PARC LIFE,23 Sembawang Crescent  #01-08 ,1,99,Strata,949000,946700,9563,888,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,757054,North Region,Sembawang
+OASIS @ ELIAS,72 Elias Road  #11-23 ,1,118,Strata,1001000,-,8483,788,06-APR-2018,Condominium,99 Yrs From 17/03/2008,2011,Resale,Private,18,51,519944,East Region,Pasir Ris
+PARC LIFE,41 Sembawang Crescent  #03-41 ,1,93,Strata,847000,844700,9083,844,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756988,North Region,Sembawang
+PARC LIFE,31 Sembawang Crescent  #09-22 ,1,99,Strata,921000,918700,9280,862,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756983,North Region,Sembawang
+SEA ESTA,30 Pasir Ris Link  #09-29 ,1,106,Strata,1165000,-,10991,1021,06-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,HDB,18,51,518147,East Region,Pasir Ris
+GREENBANK PARK,3 Greenbank Park ,1,368,Land,6020000,-,16368,1521,06-APR-2018,Semi-Detached House,Freehold,1981,Resale,Private,21,58,589364,Central Region,Bukit Timah
+PARC LIFE,27 Sembawang Crescent  #03-13 ,1,99,Strata,914000,911700,9209,856,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,757056,North Region,Sembawang
+THE EBONY,35 Lorong Marican  #03-03 ,1,34,Strata,590000,-,17353,1612,06-APR-2018,Apartment,Freehold,2016,Sub Sale,Private,14,41,417216,East Region,Bedok
+THE LOFT,22 Nassim Hill  #01-03 ,1,187,Strata,2880001,-,15401,1431,06-APR-2018,Condominium,99 Yrs From 24/04/1999,2002,Resale,Private,10,25,258468,Central Region,Tanglin
+MOONSTONE VIEW,31 Moonstone Lane  #05-04 ,1,100,Strata,1050000,-,10500,975,06-APR-2018,Apartment,Freehold,2000,Resale,HDB,12,32,328496,Central Region,Kallang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-27 ,1,62,Strata,1475000,-,23790,2210,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+ST MARTIN'S APARTMENT,1 St. Martin'S Drive  #03-02 ,1,86,Strata,1700000,-,19767,1836,06-APR-2018,Apartment,Freehold,1986,Resale,HDB,10,25,257988,Central Region,Tanglin
+LA FIESTA,74 Sengkang Square  #06-51 ,1,42,Strata,648000,-,15429,1433,06-APR-2018,Condominium,99 Yrs From 03/09/2012,2016,Resale,HDB,19,54,544707,North East Region,Sengkang
+WATERTOWN,73 Punggol Central  #06-60 ,1,52,Strata,740000,-,14231,1322,06-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,Private,19,82,828756,North East Region,Punggol
+PARC LIFE,29 Sembawang Crescent  #01-19 ,1,99,Strata,906000,903700,9128,848,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756982,North Region,Sembawang
+KHEAM HOCK GARDENS,38 Kheam Hock Road  #05-05 ,1,126,Strata,1950000,-,15476,1438,06-APR-2018,Condominium,Freehold,1988,Resale,Private,11,29,298808,Central Region,Novena
+STARLIGHT SUITES,11 River Valley Close  #07-02 ,1,79,Strata,1550000,-,19620,1823,06-APR-2018,Apartment,Freehold,2014,Resale,Private,09,23,238437,Central Region,River Valley
+ECO SANCTUARY,63 Chestnut Avenue  #11-11 ,1,65,Strata,885000,-,13615,1265,06-APR-2018,Condominium,99 Yrs From 25/04/2012,2016,Resale,Private,23,67,679523,West Region,Bukit Panjang
+FLO RESIDENCE,7 Punggol Field Walk  #02-13 ,1,86,Strata,840000,-,9767,907,06-APR-2018,Condominium,99 Yrs From 05/12/2011,2016,Resale,Private,19,82,828742,North East Region,Punggol
+CASA AERATA,9 Lorong 26 Geylang  #03-03 ,1,55,Strata,675000,-,12273,1140,06-APR-2018,Apartment,Freehold,2012,Resale,Private,14,39,398484,Central Region,Geylang
+PARK INFINIA AT WEE NAM,6A Lincoln Road  #27-13 ,1,79,Strata,1788000,-,22633,2103,06-APR-2018,Condominium,Freehold,2008,Resale,Private,11,30,308366,Central Region,Novena
+KOVAN REGENCY,42 Kovan Rise  #14-25 ,1,162,Strata,2280000,-,14074,1308,06-APR-2018,Condominium,99 Yrs From 24/04/2012,2015,Resale,Private,19,54,544729,North East Region,Hougang
+PARC LIFE,41 Sembawang Crescent  #02-40 ,1,93,Strata,846000,843700,9072,843,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756988,North Region,Sembawang
+THE NAVIAN,178 Jalan Eunos  #02-06 ,1,61,Strata,1057000,-,17328,1610,06-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,14,41,419530,East Region,Bedok
+THE INTERWEAVE,21 Kim Keat Road  #21-03 ,1,64,Strata,940000,-,14688,1365,06-APR-2018,Apartment,Freehold,2014,Resale,Private,12,32,328805,Central Region,Novena
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-28 ,1,62,Strata,1475000,-,23790,2210,06-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARC LIFE,27 Sembawang Crescent  #15-13 ,1,99,Strata,965000,962700,9724,903,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,757056,North Region,Sembawang
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #19-07 ,1,92,Strata,1430000,-,15543,1444,06-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE RIVERINA,70 Riverina View ,1,213,Land,1830000,-,8575,797,06-APR-2018,Semi-Detached House,99 Yrs From 26/06/1996,1999,Resale,HDB,18,51,518419,East Region,Pasir Ris
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #02-38 ,1,62,Strata,1133000,-,18274,1698,06-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465465,East Region,Bedok
+SELETAR HILLS ESTATE,34 Nim Green ,1,377,Land,4800000,-,12746,1184,06-APR-2018,Semi-Detached House,999 Yrs From 01/01/1879,2011,Resale,Private,28,80,807622,North East Region,Serangoon
+THE TOP RESIDENCE,57 Simon Place ,1,253,Strata,2100000,-,8300,771,06-APR-2018,Terrace House,999 Yrs From 14/07/1884,2010,Resale,Private,19,54,546002,North East Region,Hougang
+THE PARC CONDOMINIUM,1 West Coast Walk  #21-02 ,1,226,Strata,2980000,-,13186,1225,06-APR-2018,Condominium,Freehold,2010,Resale,Private,05,12,127158,West Region,Clementi
+THE MAYFAIR,5 Jurong East Street 32  #12-01 ,1,59,Strata,745000,-,12627,1173,06-APR-2018,Condominium,99 Yrs From 04/12/1996,2000,Resale,HDB,22,60,609479,West Region,Jurong East
+PARC LIFE,41 Sembawang Crescent  #02-42 ,1,93,Strata,805000,802700,8631,802,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,Private,27,75,756988,North Region,Sembawang
+THE GARDENS AT BISHAN,3 Sin Ming Walk  #11-28 ,1,114,Strata,1300000,-,11404,1059,06-APR-2018,Condominium,99 Yrs From 22/03/1997,2004,Resale,Private,20,57,575575,Central Region,Bishan
+BAYSHORE PARK,66 Bayshore Road  #11-05 ,1,120,Strata,1420000,-,11833,1099,06-APR-2018,Condominium,99 Yrs From 17/03/1982,1986,Resale,HDB,16,46,469985,East Region,Bedok
+ASPEN HEIGHTS,261 River Valley Road  #06-10 ,1,105,Strata,1900000,-,18095,1681,06-APR-2018,Condominium,999 Yrs From 01/07/1841,1998,Resale,Private,09,23,238307,Central Region,River Valley
+PARC ROSEWOOD,87 Rosewood Drive  #03-85 ,1,54,Strata,630000,-,11667,1084,06-APR-2018,Condominium,99 Yrs From 07/09/2011,2014,Resale,HDB,25,73,737791,North Region,Woodlands
+KEW GATE,1D Limau Garden ,1,262,Strata,1525000,-,5821,541,06-APR-2018,Terrace House,99 Yrs From 03/02/1994,1996,Resale,Private,16,46,466075,East Region,Bedok
+REFLECTIONS AT KEPPEL BAY,31 Keppel Bay View  #05-93 ,1,82,Strata,1380000,-,16829,1563,06-APR-2018,Condominium,99 Yrs From 15/03/2006,2011,Resale,Private,04,09,098418,Central Region,Bukit Merah
+PARC LIFE,27 Sembawang Crescent  #10-14 ,1,99,Strata,936000,933700,9431,876,06-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,N.A,27,75,757056,North Region,Sembawang
+THE BROOKS II,25 Springside Green  #04-04 ,1,66,Strata,955000,-,14470,1344,06-APR-2018,Apartment,Freehold,2016,Resale,Private,26,78,786015,North Region,Yishun
+CASA MERAH,70 Tanah Merah Kechil Avenue  #02-37 ,1,88,Strata,1080000,-,12273,1140,06-APR-2018,Apartment,99 Yrs From 11/07/2006,2009,Resale,HDB,16,46,465534,East Region,Bedok
+SERANGOON GARDEN ESTATE,42 Hythe Road ,1,201,Land,2859000,-,14245,1323,05-APR-2018,Terrace House,999 Yrs From 01/01/1955,Unknown,Resale,Private,19,55,557523,North East Region,Serangoon
+THE MAKENA,123 Meyer Road  #04-01 ,1,107,Strata,1790000,-,16729,1554,05-APR-2018,Condominium,Freehold,1998,Resale,HDB,15,43,437934,Central Region,Marine Parade
+THE CREST,103 Prince Charles Crescent  #19-09 ,1,116,Strata,2313000,-,19940,1852,05-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+D'NEST,129 Pasir Ris Grove  #06-11 ,1,105,Strata,1200000,-,11429,1062,05-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,Private,18,51,518179,East Region,Pasir Ris
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #05-15 ,1,63,Strata,1350000,-,21429,1991,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+WINDERMERE,20 Choa Chu Kang Street 64  #19-03 ,1,119,Strata,895000,-,7521,699,05-APR-2018,Executive Condominium,99 Yrs From 03/03/1997,1999,Resale,Private,23,68,689093,West Region,Choa Chu Kang
+HAIG 162,162 Haig Road  #10-07 ,1,33,Strata,530000,-,16061,1492,05-APR-2018,Apartment,Freehold,2013,Resale,Private,15,43,438773,Central Region,Marine Parade
+CASHEW VILLAS,1 Cashew Crescent ,1,208,Land,3018000,-,14510,1348,05-APR-2018,Terrace House,999 Yrs From 09/01/1883,2002,Resale,HDB,23,67,679746,West Region,Bukit Panjang
+THE CREST,103 Prince Charles Crescent  #16-10 ,1,111,Strata,2196000,-,19784,1838,05-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-12 ,1,45,Strata,1055000,-,23444,2178,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+SPRINGVALE,907 East Coast Road  #02-10 ,1,90,Strata,1070000,-,11889,1105,05-APR-2018,Apartment,Freehold,1995,Resale,Private,15,45,459107,East Region,Bedok
+CHANGI RISE CONDOMINIUM,4 Simei Rise  #07-08 ,1,117,Strata,960000,-,8205,762,05-APR-2018,Condominium,99 Yrs From 29/11/2000,2004,Resale,Private,18,52,528801,East Region,Tampines
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #15-22 ,1,45,Strata,1075000,-,23889,2219,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+N.A.,39 Harvey Crescent ,1,235,Land,2950000,-,12559,1167,05-APR-2018,Terrace House,Freehold,1991,Resale,HDB,16,48,489402,East Region,Tampines
+CANBERRA RESIDENCES,501 Canberra Drive  #03-01 ,1,106,Strata,1038800,-,9800,910,05-APR-2018,Condominium,99 Yrs From 08/09/2010,2013,Resale,HDB,27,76,768124,North Region,Sembawang
+FULTON HILL,82 Fulton Road ,1,195,Land,2428888,-,12443,1156,05-APR-2018,Terrace House,Freehold,1981,Resale,Private,20,57,578959,Central Region,Bishan
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #09-25 ,1,108,Strata,2070000,-,19167,1781,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #07-13 ,1,69,Strata,1555000,-,22536,2094,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-01 ,1,45,Strata,1015000,-,22556,2095,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+VOGX,109 Dorset Road  #03-04 ,1,82,Strata,1043000,-,12720,1182,05-APR-2018,Apartment,Freehold,2009,Resale,HDB,08,21,219498,Central Region,Kallang
+AZALEA PARK CONDOMINIUM,10 Flora Road  #09-03 ,1,140,Strata,1480000,-,10571,982,05-APR-2018,Condominium,999 Yrs From 12/10/1885,1996,Resale,Private,17,50,509729,East Region,Pasir Ris
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #11-25 ,1,108,Strata,2080000,-,19259,1789,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-29 ,1,62,Strata,1485000,-,23952,2225,05-APR-2018,Apartment,99 Yrs From 29/06/2015,2019,New Sale,N.A,14,40,409056,Central Region,Geylang
+BLUE HORIZON,25 West Coast Crescent  #10-18 ,1,113,Strata,1220000,-,10796,1003,05-APR-2018,Condominium,99 Yrs From 14/08/2000,2005,Resale,Private,05,12,128047,West Region,Clementi
+3@PHILLIPS,3 Phillips Avenue  #02-03 ,1,95,Strata,1000000,-,10526,978,05-APR-2018,Apartment,999 Yrs From 01/01/1886,2007,Resale,Private,19,54,546920,North East Region,Hougang
+THE ORIENT,251 Pasir Panjang Road  #05-10 ,1,105,Strata,1970900,-,18770,1744,05-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+SEASONS VIEW,5 Pemimpin Drive  #06-03 ,1,90,Strata,995000,-,11056,1027,05-APR-2018,Condominium,99 Yrs From 06/09/1996,2000,Resale,Private,20,57,576149,Central Region,Bishan
+TWIN WATERFALLS,118 Punggol Walk  #07-38 ,1,93,Strata,875000,-,9409,874,05-APR-2018,Executive Condominium,99 Yrs From 05/10/2011,2015,Resale,HDB,19,82,828769,North East Region,Punggol
+GARDENVISTA,950 Dunearn Road  #08-03 ,1,108,Strata,1520000,-,14074,1308,05-APR-2018,Condominium,99 Yrs From 09/09/1999,2006,Resale,HDB,21,58,589474,Central Region,Bukit Timah
+THE CREST,101 Prince Charles Crescent  #13-06 ,1,135,Strata,2800000,-,20741,1927,05-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159017,Central Region,Bukit Merah
+THE CASCADIA,945 Bukit Timah Road  #04-51 ,1,110,Strata,2000000,-,18182,1689,05-APR-2018,Condominium,Freehold,2010,Resale,HDB,21,58,589660,Central Region,Bukit Timah
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #13-30 ,1,45,Strata,1085000,-,24111,2240,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+RIVER ISLES,68 Edgedale Plains  #06-33 ,1,112,Strata,1220000,-,10893,1012,05-APR-2018,Condominium,99 Yrs From 06/02/2012,2015,Resale,HDB,19,82,828733,North East Region,Punggol
+NORTHWAVE,111 Woodlands View  #10-22 ,1,105,Strata,953000,-,9076,843,05-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,N.A,25,73,737703,North Region,Woodlands
+RIVERSOUND RESIDENCE,1 Sengkang East Avenue  #11-01 ,1,127,Strata,1280000,-,10079,936,05-APR-2018,Condominium,99 Yrs From 26/08/2011,2015,Resale,HDB,19,54,544811,North East Region,Sengkang
+HILLVIEW GREEN,67 Hume Avenue  #03-10 ,1,119,Strata,1400000,-,11765,1093,05-APR-2018,Condominium,999 Yrs From 19/05/1883,1998,Resale,Private,21,59,598744,West Region,Bukit Batok
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #06-21 ,1,69,Strata,1545000,-,22391,2080,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #14-19 ,1,45,Strata,975000,-,21667,2013,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+KANDIS RESIDENCE,10 Kandis Link  #03-18 ,1,95,Strata,1356200,-,14276,1326,05-APR-2018,Condominium,99 Yrs From 11/07/2016,Uncompleted,New Sale,HDB,27,75,756971,North Region,Sembawang
+VILLA DES FLORES,125 Whitley Road  #03-15 ,1,181,Strata,2500000,-,13812,1283,05-APR-2018,Condominium,Freehold,1985,Resale,Private,11,29,297820,Central Region,Novena
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #17-02 ,1,60,Strata,1355000,-,22583,2098,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARC BOTANNIA,12 Fernvale Street  #03-18 ,1,47,Strata,647000,-,13766,1279,05-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797391,North East Region,Sengkang
+MARINA ONE RESIDENCES,21 Marina Way  #05-07 ,1,143,Strata,3500000,-,24476,2274,05-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+BIJOU,2 Jalan Mat Jambol  #04-04 ,1,52,Strata,1028000,-,19769,1837,05-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,119554,Central Region,Queenstown
+CASA CAMBIO,11 Lim Tua Tow Road  #03-32 ,1,41,Strata,672000,-,16390,1523,05-APR-2018,Condominium,Freehold,2014,Resale,HDB,19,54,547803,North East Region,Serangoon
+LA SUISSE,58 Swiss View  #03-05 ,1,154,Strata,2037000,-,13227,1229,05-APR-2018,Condominium,999 Yrs From 10/08/1878,1993,Resale,Private,11,28,288061,Central Region,Bukit Timah
+N.A.,40 How Sun Drive ,1,197,Land,3650000,-,18490,1718,05-APR-2018,Semi-Detached House,Freehold,2012,Resale,Private,19,53,538607,North East Region,Serangoon
+SCOTTS SQUARE,8 Scotts Road  #40-04 ,1,115,Strata,4000000,-,34783,3231,05-APR-2018,Apartment,Freehold,2011,Resale,Private,09,22,228238,Central Region,Orchard
+PARVIS,18 Holland Hill  #04-20 ,1,158,Strata,3250000,-,20570,1911,05-APR-2018,Condominium,Freehold,2012,Resale,Private,10,27,278746,Central Region,Bukit Timah
+THE TROPICA,51 Tampines Avenue 1  #04-01 ,1,111,Strata,950000,-,8559,795,05-APR-2018,Condominium,99 Yrs From 04/12/1996,2000,Resale,Private,18,52,529771,East Region,Tampines
+TAI HWAN GARDEN,90 Tai Hwan Heights ,1,266,Land,3520000,-,13258,1232,05-APR-2018,Terrace House,Freehold,1979,Resale,Private,19,55,555435,North East Region,Serangoon
+FLAMINGO VALLEY,478 Siglap Road  #01-69 ,1,174,Strata,2380000,-,13678,1271,05-APR-2018,Condominium,Freehold,2014,Resale,Private,15,45,454852,East Region,Bedok
+REFLECTIONS AT KEPPEL BAY,29 Keppel Bay View  #25-86 ,1,86,Strata,1720000,-,20000,1858,05-APR-2018,Condominium,99 Yrs From 15/03/2006,2011,Resale,Private,04,09,098417,Central Region,Bukit Merah
+PALM MANSIONS,345 Pasir Panjang Road  #03-08 ,1,91,Strata,1080000,-,11868,1103,05-APR-2018,Apartment,Freehold,1998,Resale,Private,05,11,118684,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #08-26 ,1,63,Strata,1445000,-,22937,2131,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+POMEX COURT,50 ENBLOC Lorong 101 Changi  #01-02 ETC ,19,2229,Strata,37600000,-,16869,1567,05-APR-2018,Apartment,Freehold,1986,Resale,Private,15,42,426657,Central Region,Geylang
+ONE SHENTON,1 Shenton Way  #20-02 ,1,146,Strata,2550000,-,17466,1623,05-APR-2018,Apartment,99 Yrs From 14/10/2005,2011,Resale,Private,01,06,068803,Central Region,Downtown Core
+COMPASS HEIGHTS,11 Sengkang Square  #14-39 ,1,259,Strata,1900000,-,7336,682,05-APR-2018,Apartment,99 Yrs From 30/04/2000,2002,Resale,Private,19,54,545076,North East Region,Sengkang
+TANAMERA CREST,8 Pari Dedap Walk  #02-10 ,1,113,Strata,985000,-,8717,810,05-APR-2018,Condominium,99 Yrs From 20/06/2000,2004,Resale,Private,16,48,486061,East Region,Bedok
+VILLAGE TOWER,35 Mount Sinai Rise  #14-01 ,1,336,Strata,4530000,-,13482,1253,05-APR-2018,Condominium,Freehold,1983,Resale,Private,10,27,276955,Central Region,Bukit Timah
+STARVILLE,64 Lengkong Tiga  #11-09 ,1,113,Strata,1060000,-,9381,871,05-APR-2018,Condominium,Freehold,2006,Resale,HDB,14,41,417456,East Region,Bedok
+HEDGES PARK CONDOMINIUM,89 Flora Drive  #08-73 ,1,93,Strata,950000,-,10215,949,05-APR-2018,Condominium,99 Yrs From 28/07/2010,2015,Resale,Private,17,50,506890,East Region,Pasir Ris
+MOONSTONE RESIDENCES,25 Moonstone Lane  #13-03 ,1,115,Strata,1320000,-,11478,1066,05-APR-2018,Apartment,Freehold,2004,Resale,HDB,12,32,328465,Central Region,Kallang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-02 ,1,60,Strata,1345000,-,22417,2083,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+WATERFRONT WAVES,760 Bedok Reservoir Road  #15-12 ,1,125,Strata,1515000,-,12120,1126,05-APR-2018,Condominium,99 Yrs From 31/10/2007,2011,Resale,Private,16,47,479245,East Region,Bedok
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #10-19 ,1,45,Strata,935000,-,20778,1930,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #12-02 ,1,60,Strata,1325000,-,22083,2052,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+COTE D'AZUR,68 Marine Parade Road  #06-19 ,1,129,Strata,1830000,-,14186,1318,05-APR-2018,Condominium,99 Yrs From 25/07/2001,2004,Resale,Private,15,44,449301,Central Region,Marine Parade
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #07-25 ,1,108,Strata,2060000,-,19074,1772,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+SUNRISE GARDENS,57 Sunrise Avenue  #01-01 ,1,135,Strata,1175000,-,8704,809,05-APR-2018,Condominium,99 Yrs From 24/06/1995,1998,Resale,HDB,28,80,806748,North East Region,Ang Mo Kio
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #11-10 ,1,60,Strata,1315000,-,21917,2036,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE WATER EDGE,8 Lorong 38 Geylang  #06-03 ,1,50,Strata,755000,-,15100,1403,05-APR-2018,Apartment,Freehold,2013,Resale,Private,14,39,398106,Central Region,Geylang
+GEM RESIDENCES,3 Lorong 5 Toa Payoh  #19-12 ,1,94,Strata,1522000,-,16191,1504,05-APR-2018,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,HDB,12,31,319459,Central Region,Toa Payoh
+WATTEN ESTATE,5 Watten Close ,1,372,Land,6700000,-,18025,1675,05-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,11,28,287728,Central Region,Bukit Timah
+PARC OASIS,37 Jurong East Avenue 1  #12-04 ,1,129,Strata,1260000,-,9767,907,05-APR-2018,Condominium,99 Yrs From 01/12/1991,1994,Resale,HDB,22,60,609775,West Region,Jurong East
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #16-29 ,1,62,Strata,1475000,-,23790,2210,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409056,Central Region,Geylang
+AMARANDA GARDENS,122 Serangoon Avenue 3  #04-01 ,1,117,Strata,1780000,-,15214,1413,05-APR-2018,Condominium,Freehold,2004,Resale,Private,19,55,554775,North East Region,Serangoon
+N.A.,345 Onan Road ,1,180,Land,3000000,-,16648,1547,05-APR-2018,Terrace House,Freehold,1967,Resale,Private,15,42,424738,Central Region,Marine Parade
+THE CREST,103 Prince Charles Crescent  #15-11 ,1,72,Strata,1570000,-,21806,2026,05-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+SHAN GATE APARTMENTS,2 Shan Road  #10-01 ,1,70,Strata,938000,-,13400,1245,05-APR-2018,Apartment,Freehold,1991,Resale,Private,12,32,328103,Central Region,Novena
+THE SENSORIA,1 Jalan Ulu Sembawang  #02-03 ,1,107,Strata,950000,-,8879,825,05-APR-2018,Condominium,Freehold,2007,Resale,Private,27,75,758930,North Region,Sembawang
+LA CASA,52 Woodlands Drive 16  #05-07 ,1,111,Strata,842000,-,7586,705,05-APR-2018,Executive Condominium,99 Yrs From 13/09/2004,2008,Resale,Private,25,73,737900,North Region,Woodlands
+VACANZA @ EAST,46 Lengkong Tujoh  #10-23 ,1,78,Strata,1000000,-,12821,1191,05-APR-2018,Condominium,Freehold,2014,Resale,HDB,14,41,417396,East Region,Bedok
+URBAN VISTA,18 Tanah Merah Kechil Link  #02-37 ,1,51,Strata,825000,-,16176,1503,05-APR-2018,Condominium,99 Yrs From 05/11/2012,2016,Resale,Private,16,46,465425,East Region,Bedok
+MABELLE,15 Lorong M Telok Kurau  #03-01 ,1,49,Strata,663000,-,13531,1257,05-APR-2018,Apartment,Freehold,2009,Resale,Private,15,42,425303,East Region,Bedok
+THE SPRINGSIDE,34 Springside Avenue ,1,205,Land,2558888,-,12464,1158,05-APR-2018,Terrace House,Freehold,1997,Resale,Private,26,78,786994,North Region,Yishun
+SIMEI GREEN CONDOMINIUM,11 Simei Street 4  #11-07 ,1,158,Strata,1320000,-,8354,776,05-APR-2018,Executive Condominium,99 Yrs From 14/11/1996,1999,Resale,HDB,18,52,529866,East Region,Tampines
+EAST VILLAGE,432 Upper Changi Road  #04-13 ,1,125,Strata,1138000,-,9104,846,05-APR-2018,Apartment,Freehold,2014,Resale,HDB,16,48,487049,East Region,Bedok
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #17-28 ,1,62,Strata,1485000,-,23952,2225,05-APR-2018,Apartment,99 Yrs From 29/06/2015,2019,New Sale,N.A,14,40,409056,Central Region,Geylang
+L'VIV,23 Newton Road  #14-02 ,1,61,Strata,1440000,-,23607,2193,05-APR-2018,Apartment,Freehold,2013,Resale,Private,11,30,307955,Central Region,Novena
+LILYDALE,558 Yishun Avenue 6  #09-18 ,1,115,Strata,760000,-,6609,614,05-APR-2018,Executive Condominium,99 Yrs From 12/09/2000,2003,Resale,HDB,27,76,768965,North Region,Yishun
+THE LINCOLN RESIDENCES,28 Surrey Road  #10-03 ,1,125,Strata,2398000,-,19184,1782,05-APR-2018,Condominium,Freehold,2011,Resale,Private,11,30,307762,Central Region,Novena
+CITYLIGHTS,86 Jellicoe Road  #09-20 ,1,86,Strata,1305000,-,15174,1410,05-APR-2018,Condominium,99 Yrs From 05/01/2004,2007,Resale,Private,08,20,208745,Central Region,Kallang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #13-26 ,1,63,Strata,1465000,-,23254,2160,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409056,Central Region,Geylang
+IMPERIAL HEIGHTS,16 Ipoh Lane  #13-01 ,1,54,Strata,810000,-,15000,1394,05-APR-2018,Apartment,Freehold,2009,Resale,Private,15,43,438620,Central Region,Geylang
+THE LENOX,398 Changi Road  #03-11 ,1,43,Strata,700000,-,16279,1512,05-APR-2018,Apartment,Freehold,2014,Resale,HDB,14,41,419845,East Region,Bedok
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #14-10 ,1,60,Strata,1335000,-,22250,2067,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+THE ORIENT,251 Pasir Panjang Road  #03-09 ,1,67,Strata,1380300,-,20601,1914,05-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+MANDALE HEIGHTS,45 Mandalay Road  #04-06 ,1,76,Strata,1140000,-,15000,1394,05-APR-2018,Apartment,Freehold,2004,Resale,Private,11,30,308225,Central Region,Novena
+LA CASA,52 Woodlands Drive 16  #05-06 ,1,106,Strata,835000,-,7877,732,05-APR-2018,Executive Condominium,99 Yrs From 13/09/2004,2008,Resale,Private,25,73,737900,North Region,Woodlands
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #08-09 ,1,101,Strata,1870000,-,18515,1720,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #16-22 ,1,45,Strata,1085000,-,24111,2240,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409055,Central Region,Geylang
+PARK GREEN,8 Rivervale Link  #17-12 ,1,180,Strata,1520000,-,8444,785,05-APR-2018,Executive Condominium,99 Yrs From 17/08/2001,2004,Resale,Private,19,54,545043,North East Region,Sengkang
+N.A.,465D Joo Chiat Road ,1,114,Strata,1400000,-,12281,1141,05-APR-2018,Apartment,Freehold,Unknown,Resale,HDB,15,42,427677,Central Region,Marine Parade
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #12-09 ,1,101,Strata,1895000,-,18762,1743,05-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409053,Central Region,Geylang
+THE SOUND,551 East Coast Road  #01-22 ,1,140,Strata,2270000,-,16214,1506,05-APR-2018,Condominium,Freehold,2013,Resale,HDB,15,42,429075,East Region,Bedok
+CASAFINA,213 Bedok South Avenue 1  #04-07 ,1,89,Strata,900000,-,10112,939,05-APR-2018,Condominium,99 Yrs From 12/06/1996,1999,Resale,Private,16,46,469337,East Region,Bedok
+THE LEVELZ,38 Farrer Road  #05-01 ,1,73,Strata,1280000,-,17534,1629,05-APR-2018,Condominium,Freehold,2004,Resale,HDB,10,26,268836,Central Region,Tanglin
+PARC OASIS,37 Jurong East Avenue 1  #15-02 ,1,114,Strata,1100000,-,9649,896,04-APR-2018,Condominium,99 Yrs From 01/12/1991,1994,Resale,Private,22,60,609775,West Region,Jurong East
+THE ROCHESTER RESIDENCES,33 Rochester Drive  #18-02 ,1,181,Strata,2380000,-,13149,1222,04-APR-2018,Apartment,99 Yrs From 02/02/2005,2011,Resale,Private,05,13,138638,Central Region,Queenstown
+THE CREST,103 Prince Charles Crescent  #16-08 ,1,57,Strata,1274000,-,22351,2076,04-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159018,Central Region,Bukit Merah
+PARC VERA,6 Hougang Street 32  #16-11 ,1,81,Strata,899000,-,11099,1031,04-APR-2018,Condominium,99 Yrs From 20/12/2010,2014,Resale,Private,19,53,534039,North East Region,Hougang
+PEBBLE BAY,130 Tanjong Rhu Road  #05-20 ,1,119,Strata,1720000,-,14454,1343,04-APR-2018,Condominium,99 Yrs From 09/03/1994,1997,Resale,Private,15,43,436918,Central Region,Kallang
+GEM RESIDENCES,1 Lorong 5 Toa Payoh  #29-03 ,1,98,Strata,1801000,-,18378,1707,04-APR-2018,Condominium,99 Yrs From 21/09/2015,Uncompleted,New Sale,N.A,12,31,319458,Central Region,Toa Payoh
+STRATUM,82 Elias Road  #01-07 ,1,85,Strata,853000,-,10035,932,04-APR-2018,Condominium,99 Yrs From 11/07/2012,2016,Sub Sale,HDB,18,51,519946,East Region,Pasir Ris
+GRANGE RESIDENCES,93 Grange Road  #03-06 ,1,240,Strata,6180000,-,25750,2392,04-APR-2018,Condominium,Freehold,2004,Resale,Private,10,24,249614,Central Region,Tanglin
+SELETAR PARK RESIDENCE,21 Seletar Road  #01-53 ,1,94,Strata,1050000,-,11170,1038,04-APR-2018,Condominium,99 Yrs From 15/03/2011,2015,Resale,HDB,28,80,807021,North East Region,Serangoon
+THE ESTORIL,95/97 ENBLOC Holland Road  #01-04 ETC ,44,9428,Strata,223938000,-,23752,2207,04-APR-2018,Apartment,Freehold,1984,Resale,HDB,10,27,278541,Central Region,Bukit Timah
+PARC HAVEN,16 Lorong Limau  #06-11 ,1,137,Strata,1621000,-,11832,1099,04-APR-2018,Apartment,Freehold,2004,Resale,Private,12,32,328743,Central Region,Novena
+TROPICAL SPRING,29 Simei Street 4  #04-16 ,1,129,Strata,1250000,-,9690,900,04-APR-2018,Condominium,99 Yrs From 06/12/1997,2002,Resale,Private,18,52,529876,East Region,Tampines
+LOYANG VILLAS,115 Loyang Rise ,1,189,Land,1550000,-,8201,762,04-APR-2018,Terrace House,99 Yrs From 01/05/1993,1996,Resale,Private,17,50,507486,East Region,Pasir Ris
+LAKEHOLMZ,84 Corporation Road  #13-10 ,1,146,Strata,1350000,-,9247,859,04-APR-2018,Condominium,99 Yrs From 29/10/2001,2005,Resale,HDB,22,64,649821,West Region,Jurong West
+ICON,10 Gopeng Street  #29-04 ,1,52,Strata,1100000,-,21154,1965,04-APR-2018,Apartment,99 Yrs From 29/01/2002,2007,Resale,Private,02,07,078878,Central Region,Downtown Core
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-04 ,1,59,Strata,1158000,-,19627,1823,04-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+THE LENOX,398 Changi Road  #04-06 ,1,31,Strata,540000,-,17419,1618,04-APR-2018,Apartment,Freehold,2014,Resale,Private,14,41,419845,East Region,Bedok
+THE GALE,70 Flora Road  #03-23 ,1,126,Strata,1300000,-,10317,959,04-APR-2018,Condominium,Freehold,2013,Resale,Private,17,50,506914,East Region,Pasir Ris
+N.A.,76 Jalan Eunos ,1,173,Land,2600000,-,15020,1395,04-APR-2018,Terrace House,Freehold,1995,Resale,Private,14,41,419520,East Region,Bedok
+CHANTILLY RISE,82 Hillview Avenue  #07-12 ,1,112,Strata,1270000,-,11339,1053,04-APR-2018,Condominium,Freehold,1998,Resale,Private,23,66,669581,West Region,Bukit Batok
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #22-07 ,1,92,Strata,1439000,-,15641,1453,04-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129961,West Region,Clementi
+HILLINGTON GREEN,53 Hillview Avenue  #07-10 ,1,142,Strata,1688000,-,11887,1104,04-APR-2018,Condominium,999 Yrs From 19/05/1883,2002,Resale,Private,23,66,669566,West Region,Bukit Batok
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #13-14 ,1,58,Strata,1125000,-,19397,1802,04-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465461,East Region,Bedok
+FLO RESIDENCE,5 Punggol Field Walk  #19-11 ,1,192,Strata,1500000,-,7813,726,04-APR-2018,Condominium,99 Yrs From 05/12/2011,2016,Resale,Private,19,82,828741,North East Region,Punggol
+WATERCOLOURS,25 Pasir Ris Link  #12-12 ,1,174,Strata,1260000,-,7241,673,04-APR-2018,Executive Condominium,99 Yrs From 10/01/2012,2014,Resale,Private,18,51,518150,East Region,Pasir Ris
+Q BAY RESIDENCES,1 Tampines Street 86  #02-07 ,1,71,Strata,765000,-,10775,1001,04-APR-2018,Condominium,99 Yrs From 21/08/2012,2016,Resale,Private,18,52,528583,East Region,Tampines
+QUEENS PEAK,3 Dundee Road  #32-18 ,1,186,Strata,3249000,-,17468,1623,04-APR-2018,Condominium,99 Yrs From 28/09/2015,Uncompleted,New Sale,Private,03,14,149457,Central Region,Queenstown
+HEDGES PARK CONDOMINIUM,89 Flora Drive  #08-66 ,1,81,Strata,740000,-,9136,849,04-APR-2018,Condominium,99 Yrs From 28/07/2010,2015,Resale,Private,17,50,506890,East Region,Pasir Ris
+LE WOOD,21 Hindhede Drive  #02-03 ,1,108,Strata,940000,-,8704,809,04-APR-2018,Condominium,99 Yrs From 11/03/1999,2000,Resale,HDB,21,58,589318,West Region,Bukit Panjang
+ELIAS GREEN,5 Elias Green  #03-06 ,1,142,Strata,1000000,-,7042,654,04-APR-2018,Condominium,99 Yrs From 23/07/1991,1994,Resale,HDB,18,51,519961,East Region,Pasir Ris
+N.A.,28 Platina Road ,1,219,Land,2880000,-,13157,1222,04-APR-2018,Semi-Detached House,Freehold,2010,Resale,Private,27,75,758628,North Region,Mandai
+THE CREST,103 Prince Charles Crescent  #18-08 ,1,59,Strata,1335000,-,22627,2102,04-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+FRANKEL ESTATE,12 Frankel Avenue ,1,817,Land,8600000,-,10524,978,04-APR-2018,Detached House,Freehold,1953,Resale,Private,15,45,458141,East Region,Bedok
+THE VERMONT ON CAIRNHILL,12B Cairnhill Rise  #13-10 ,1,85,Strata,2220000,-,26118,2426,04-APR-2018,Apartment,Freehold,2013,Resale,Private,09,22,229747,Central Region,Newton
+ONE DUSUN RESIDENCES,1 Jalan Dusun  #14-04 ,1,42,Strata,700000,-,16667,1548,04-APR-2018,Apartment,Freehold,2016,Resale,HDB,12,32,329363,Central Region,Novena
+CITY SQUARE RESIDENCES,2 Kitchener Link  #08-05 ,1,141,Strata,2200000,-,15603,1450,04-APR-2018,Condominium,Freehold,2009,Resale,Private,08,20,207229,Central Region,Kallang
+THOMSON GRAND,21 Sin Ming Walk  #04-11 ,1,125,Strata,1660000,-,13280,1234,04-APR-2018,Condominium,99 Yrs From 08/02/2010,2015,Resale,Private,20,57,573915,Central Region,Bishan
+NORTHWAVE,111 Woodlands View  #05-22 ,1,105,Strata,890000,-,8476,787,04-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737703,North Region,Woodlands
+CASA MERAH,70 Tanah Merah Kechil Avenue  #07-38 ,1,88,Strata,1083000,-,12307,1143,04-APR-2018,Apartment,99 Yrs From 11/07/2006,2009,Resale,HDB,16,46,465534,East Region,Bedok
+THE CREST,103 Prince Charles Crescent  #17-08 ,1,57,Strata,1280000,-,22456,2086,04-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+THE ARTE,23 Jalan Raja Udang  #34-09 ,1,354,Strata,3950000,-,11158,1037,04-APR-2018,Condominium,Freehold,2010,Resale,Private,12,32,329216,Central Region,Novena
+BOTANNIA,31 West Coast Park  #12-23 ,1,108,Strata,1620000,-,15000,1394,04-APR-2018,Condominium,956 Yrs From 27/05/1928,2009,Resale,Private,05,12,127649,West Region,Clementi
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #05-12 ,1,56,Strata,1089000,-,19446,1807,04-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118584,Central Region,Queenstown
+SIMS RESIDENCES,8 Lorong 39 Geylang  #08-09 ,1,194,Strata,1460200,-,7527,699,04-APR-2018,Apartment,99 Yrs From 11/08/1997,2002,Resale,HDB,14,38,387882,Central Region,Geylang
+BISHAN LOFT,31 Bishan Street 11  #24-05 ,1,130,Strata,1600000,-,12308,1143,04-APR-2018,Executive Condominium,99 Yrs From 13/12/2000,2003,Resale,Private,20,57,579819,Central Region,Bishan
+CONCOURSE SKYLINE,296 Beach Road  #27-01 ,1,77,Strata,1667640,-,21658,2012,04-APR-2018,Apartment,99 Yrs From 13/03/2008,2014,Resale,Private,07,19,199599,Central Region,Kallang
+OPERA ESTATE,15 Jalan Terang Bulan ,1,233,Land,3200000,-,13734,1276,04-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,15,45,457292,East Region,Bedok
+SCOTTS 28,28 Scotts Road  #02-01 ,1,161,Strata,3520000,-,21863,2031,04-APR-2018,Condominium,Freehold,1998,Resale,Private,09,22,228223,Central Region,Newton
+SOL ACRES,16 Choa Chu Kang Grove  #10-41 ,1,66,Strata,611000,-,9258,860,04-APR-2018,Executive Condominium,99 Yrs From 02/06/2014,2018,New Sale,N.A,23,68,688210,West Region,Choa Chu Kang
+WATERMARK ROBERTSON QUAY,5 Rodyk Street  #10-27 ,1,159,Strata,2780000,-,17484,1624,04-APR-2018,Apartment,Freehold,2008,Resale,Private,09,23,238214,Central Region,Singapore River
+REZI 26,5A Lorong 26 Geylang  #06-06 ,1,74,Strata,970888,-,13120,1219,04-APR-2018,Apartment,Freehold,2015,Resale,HDB,14,39,398504,Central Region,Geylang
+ONE JERVOIS,9 Jervois Close  #12-19 ,1,182,Strata,2940000,-,16154,1501,04-APR-2018,Condominium,Freehold,2009,Resale,Private,10,24,249105,Central Region,Tanglin
+SIGNATURE AT YISHUN,23 Yishun Street 51  #05-07 ,1,102,Strata,843500,-,8270,768,04-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,N.A,27,76,768086,North Region,Yishun
+FONTAINE PARRY,81 Poh Huat Road  #04-26 ,1,79,Strata,940000,-,11899,1105,04-APR-2018,Condominium,999 Yrs From 22/08/1883,2010,Resale,HDB,19,54,546789,North East Region,Hougang
+WATER PLACE,177 Tanjong Rhu Road  #08-24 ,1,114,Strata,1560000,-,13684,1271,04-APR-2018,Condominium,99 Yrs From 02/03/1998,2004,Resale,HDB,15,43,436607,Central Region,Kallang
+SUNHAVEN,781 Upper Changi Road East  #06-35 ,1,135,Strata,1388000,-,10281,955,04-APR-2018,Condominium,Freehold,2002,Resale,HDB,16,48,486069,East Region,Tampines
+PARC BOTANNIA,18 Fernvale Street  #18-31 ,1,62,Strata,958000,-,15452,1435,04-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797394,North East Region,Sengkang
+RIS GRANDEUR,27 Elias Road  #04-16 ,1,99,Strata,950000,-,9596,891,04-APR-2018,Condominium,Freehold,2005,Resale,Private,18,51,519932,East Region,Pasir Ris
+SANT RITZ,1 Pheng Geck Avenue  #16-24 ,1,49,Strata,835000,-,17041,1583,04-APR-2018,Condominium,99 Yrs From 01/10/2012,2016,Resale,HDB,13,34,348196,Central Region,Toa Payoh
+BOUGAINVILLA APARTMENTS,10 Lorong 19 Geylang  #06-02 ,1,89,Strata,845000,-,9494,882,04-APR-2018,Apartment,Freehold,1998,Resale,HDB,14,38,388492,Central Region,Geylang
+EASTWOOD REGENCY,42 Eastwood Road  #01-10 ,1,47,Strata,650000,-,13830,1285,04-APR-2018,Apartment,Freehold,2010,Resale,Private,16,48,486398,East Region,Bedok
+EASTVALE,35 Pasir Ris Drive 3  #03-05 ,1,102,Strata,810000,-,7941,738,04-APR-2018,Executive Condominium,99 Yrs From 26/06/1996,1999,Resale,HDB,18,51,519493,East Region,Pasir Ris
+RIVERSAILS,22 Upper Serangoon Crescent  #11-52 ,1,88,Strata,960000,-,10909,1013,04-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534025,North East Region,Hougang
+ICON,10 Gopeng Street  #20-14 ,1,85,Strata,1700000,-,20000,1858,04-APR-2018,Apartment,99 Yrs From 29/01/2002,2007,Resale,HDB,02,07,078878,Central Region,Downtown Core
+CASPIAN,60 Lakeside Drive  #17-39 ,1,133,Strata,1478888,-,11119,1033,03-APR-2018,Condominium,99 Yrs From 17/03/2008,2012,Resale,HDB,22,64,648320,West Region,Jurong West
+THE ORIENT,251 Pasir Panjang Road  #02-03 ,1,67,Strata,1385300,-,20676,1921,03-APR-2018,Apartment,Freehold,2017,Resale,HDB,05,11,118610,Central Region,Queenstown
+THE BAYSHORE,34 Bayshore Road  #11-04 ,1,91,Strata,890000,-,9780,909,03-APR-2018,Condominium,99 Yrs From 31/05/1993,1997,Resale,Private,16,46,469976,East Region,Bedok
+THE FLORAVALE,218 Westwood Avenue  #08-01 ,1,121,Strata,935000,-,7727,718,03-APR-2018,Executive Condominium,99 Yrs From 16/12/1997,2000,Resale,Private,22,64,648351,West Region,Jurong West
+HILLCREST VILLA,9T Hillcrest Road ,1,293,Strata,2950000,-,10068,935,03-APR-2018,Terrace House,99 Yrs From 03/08/2006,2009,Resale,Private,11,28,286720,Central Region,Bukit Timah
+NIM COLLECTION,61 Nim Rise ,1,205,Land,2840000,-,13854,1287,03-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804450,North East Region,Serangoon
+KELLETT COURT,21 Shelford Road  #03-09 ,1,126,Strata,1920000,-,15238,1416,03-APR-2018,Condominium,Freehold,1997,Resale,HDB,11,28,288411,Central Region,Bukit Timah
+THE LAKESHORE,29 Jurong West Street 41  #10-08 ,1,88,Strata,980000,-,11136,1035,03-APR-2018,Condominium,99 Yrs From 22/11/2002,2008,Resale,HDB,22,64,649411,West Region,Jurong West
+WINDERMERE,26 Choa Chu Kang Street 64  #13-03 ,1,119,Strata,860000,-,7227,671,03-APR-2018,Executive Condominium,99 Yrs From 03/03/1997,1999,Resale,HDB,23,68,689096,West Region,Choa Chu Kang
+N.A.,1 Chestnut Terrace ,1,290,Land,3620000,-,12474,1159,03-APR-2018,Terrace House,Freehold,1994,Resale,Private,23,67,679119,West Region,Bukit Panjang
+FRANKEL ESTATE,9 Siglap Hill ,1,594,Land,9700000,-,16330,1517,03-APR-2018,Detached House,Freehold,1958,Resale,Private,15,45,456065,East Region,Bedok
+WATERTOWN,71 Punggol Central  #07-45 ,1,56,Strata,800000,-,14286,1327,03-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,HDB,19,82,828755,North East Region,Punggol
+COCO PALMS,31 Pasir Ris Grove  #03-62 ,1,137,Strata,1520000,-,11095,1031,03-APR-2018,Condominium,99 Yrs From 07/01/2008,2018,Sub Sale,HDB,18,51,518075,East Region,Pasir Ris
+BALMORAL 8,8 Balmoral Road  #07-01 ,1,177,Strata,3500000,-,19774,1837,03-APR-2018,Condominium,Freehold,2003,Resale,Private,10,25,259792,Central Region,Newton
+NEW FUTURA,18 Leonie Hill Road  #22-06 ,1,170,Strata,6215600,-,36562,3397,03-APR-2018,Condominium,Freehold,2017,Resale,Private,09,23,239199,Central Region,River Valley
+WATERMARK ROBERTSON QUAY,5 Rodyk Street  #06-26 ,1,100,Strata,2330000,-,23300,2165,03-APR-2018,Apartment,Freehold,2008,Resale,Private,09,23,238214,Central Region,Singapore River
+ARTRA,10 Alexandra View  #33-05 ,1,73,Strata,1589300,-,21771,2023,03-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+SEASIDE RESIDENCES,18 Siglap Link  #11-31 ,1,101,Strata,1864000,-,18455,1715,03-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,HDB,15,44,448873,East Region,Bedok
+SKY HABITAT,7 Bishan Street 15  #02-06 ,1,130,Strata,1949000,-,14992,1393,03-APR-2018,Condominium,99 Yrs From 30/05/2011,2015,Resale,Private,20,57,573908,Central Region,Bishan
+EUHABITAT,208 Jalan Eunos  #02-63 ,1,51,Strata,675000,-,13235,1230,03-APR-2018,Condominium,99 Yrs From 06/12/2010,2015,Resale,Private,14,41,419548,East Region,Bedok
+THE TRILINQ,28 Jalan Lempeng  #16-05 ,1,125,Strata,1688000,-,13504,1255,03-APR-2018,Condominium,99 Yrs From 16/04/2012,2017,New Sale,Private,05,12,128807,West Region,Clementi
+OASIS @ MULBERRY,103 Belimbing Avenue ,1,219,Land,3250000,-,14867,1381,03-APR-2018,Terrace House,Freehold,2006,Resale,Private,13,34,347491,Central Region,Toa Payoh
+WALLICH RESIDENCE,3 Wallich Street  #43-02 ,1,60,Strata,2061000,-,34350,3191,03-APR-2018,Apartment,99 Yrs From 21/02/2011,2017,New Sale,Private,02,07,078882,Central Region,Downtown Core
+EVERGREEN PARK,35 Hougang Avenue 7  #04-02 ,1,115,Strata,840000,-,7304,679,03-APR-2018,Apartment,99 Yrs From 01/10/1995,1999,Resale,Private,19,53,538802,North East Region,Hougang
+LE CRESCENDO,233 Paya Lebar Road  #18-11 ,1,143,Strata,1880000,-,13147,1221,03-APR-2018,Condominium,Freehold,2006,Resale,Private,14,40,409044,Central Region,Geylang
+THE CREST,107 Prince Charles Crescent  #02-22 ,1,149,Strata,3513000,-,23577,2190,03-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159020,Central Region,Bukit Merah
+N.A.,14 Jalan Tari Dulang ,1,296,Land,2770000,-,9345,868,03-APR-2018,Terrace House,999 Yrs From 01/01/1879,Unknown,Resale,HDB,28,79,799329,North East Region,Sengkang
+TOMLINSON HEIGHTS,31 Tomlinson Road  #02-01 ,1,376,Strata,10500000,-,27926,2594,03-APR-2018,Condominium,Freehold,2014,Resale,Private,10,24,247855,Central Region,River Valley
+NORTHWAVE,103 Woodlands View  #13-05 ,1,83,Strata,787000,-,9482,881,03-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737709,North Region,Woodlands
+NORTHWAVE,103 Woodlands View  #14-05 ,1,83,Strata,785000,-,9458,879,03-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737709,North Region,Woodlands
+NORTHWAVE,109 Woodlands View  #10-20 ,1,104,Strata,939000,-,9029,839,03-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737712,North Region,Woodlands
+COSTA ESTE,42 Lorong K Telok Kurau  #04-04 ,1,79,Strata,970000,-,12278,1141,03-APR-2018,Apartment,Freehold,2009,Resale,HDB,15,42,425653,East Region,Bedok
+THE ASANA,19 Queen'S Road  #02-06 ,1,59,Strata,1693840,-,28709,2667,03-APR-2018,Apartment,Freehold,2017,New Sale,N.A,10,26,266745,Central Region,Bukit Timah
+BLUE HORIZON,29 West Coast Crescent  #13-25 ,1,89,Strata,965000,-,10843,1007,03-APR-2018,Condominium,99 Yrs From 14/08/2000,2005,Resale,Private,05,12,128049,West Region,Clementi
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #34-02 ,1,92,Strata,1477000,-,16054,1491,03-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+N.A.,47 Lorong 16 Geylang ,1,199,Land,1920000,-,9653,897,03-APR-2018,Apartment,Freehold,2000,Resale,HDB,14,39,398880,Central Region,Geylang
+ICON,10 Gopeng Street  #23-07 ,1,53,Strata,1080000,-,20377,1893,03-APR-2018,Apartment,99 Yrs From 29/01/2002,2007,Resale,Private,02,07,078878,Central Region,Downtown Core
+PEBBLE BAY,132 Tanjong Rhu Road  #05-07 ,1,176,Strata,2500000,-,14205,1320,03-APR-2018,Condominium,99 Yrs From 09/03/1994,1997,Resale,Private,15,43,436919,Central Region,Kallang
+N.A.,277 Wak Hassan Drive ,1,504,Land,5200000,-,10328,959,03-APR-2018,Detached House,99 Yrs From 25/01/2011,2013,Resale,Private,27,75,757121,North Region,Sembawang
+THE TAPESTRY,55 Tampines Street 86  #06-22 ,1,86,Strata,1216620,-,14147,1314,03-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528541,East Region,Tampines
+SERANGOON GARDEN ESTATE,51 Conway Grove ,1,171,Land,2230000,-,13049,1212,03-APR-2018,Terrace House,999 Yrs From 01/01/1956,2000,Resale,Private,19,55,558228,North East Region,Serangoon
+MEADOWS @ PEIRCE,626 Upper Thomson Road  #05-29 ,1,118,Strata,1490000,-,12627,1173,03-APR-2018,Condominium,Freehold,2012,Resale,HDB,26,78,787130,North East Region,Ang Mo Kio
+LE ARC,6 Lorong 26 Geylang  #03-02 ,1,120,Strata,1000000,-,8333,774,03-APR-2018,Apartment,Freehold,1990,Resale,Private,14,39,398481,Central Region,Geylang
+THE WATERSIDE,5 Tanjong Rhu Road  #03-02 ,1,224,Strata,3950000,-,17634,1638,03-APR-2018,Condominium,Freehold,1992,Resale,HDB,15,43,436882,Central Region,Kallang
+SPOTTISWOODE RESIDENCES,48 Spottiswoode Park Road  #31-12 ,1,56,Strata,1250000,-,22321,2074,03-APR-2018,Condominium,Freehold,2013,Resale,HDB,02,08,088660,Central Region,Bukit Merah
+CASA MERAH,62 Tanah Merah Kechil Avenue  #02-21 ,1,144,Strata,1650000,-,11458,1065,03-APR-2018,Apartment,99 Yrs From 11/07/2006,2009,Resale,HDB,16,46,465530,East Region,Bedok
+EAST MEADOWS,32 Tanah Merah Kechil Road  #04-20 ,1,113,Strata,1075000,-,9513,884,03-APR-2018,Condominium,99 Yrs From 02/03/1998,2002,Resale,HDB,16,46,465559,East Region,Bedok
+PARK NATURA,37 Bukit Batok East Avenue 6  #04-32 ,1,189,Strata,2150000,-,11376,1057,03-APR-2018,Condominium,Freehold,2011,Resale,Private,23,65,659766,Central Region,Bukit Timah
+SOL ACRES,26 Choa Chu Kang Grove  #09-59 ,1,86,Strata,747000,-,8686,807,03-APR-2018,Executive Condominium,99 Yrs From 02/06/2014,2018,New Sale,HDB,23,68,688215,West Region,Choa Chu Kang
+WATERTOWN,71 Punggol Central  #13-41 ,1,56,Strata,800000,-,14286,1327,03-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,HDB,19,82,828755,North East Region,Punggol
+LAGUNA PARK,5000A Marine Parade Road  #25-02 ,1,269,Strata,3000000,-,11152,1036,03-APR-2018,Apartment,99 Yrs From 24/08/1977,1978,Resale,Private,15,44,449284,East Region,Bedok
+THE CASCADIA,945 Bukit Timah Road  #03-54 ,1,82,Strata,1470000,-,17927,1665,03-APR-2018,Condominium,Freehold,2010,Resale,Private,21,58,589660,Central Region,Bukit Timah
+PAVILION PARK,177 Pavilion Circle ,1,162,Land,2880000,-,17800,1654,03-APR-2018,Terrace House,Freehold,2014,Resale,Private,23,65,658209,West Region,Bukit Batok
+ARDMORE PARK,15 Ardmore Park  #20-04 ,1,268,Strata,9380000,-,35000,3252,03-APR-2018,Condominium,Freehold,2001,Resale,Private,10,25,259959,Central Region,Newton
+THE INFLORA,51 Flora Drive  #05-04 ,1,96,Strata,900000,-,9375,871,03-APR-2018,Condominium,99 Yrs From 25/05/2012,2016,Resale,HDB,17,50,506862,East Region,Pasir Ris
+SIMS RESIDENCES,8 Lorong 39 Geylang  #06-12 ,1,132,Strata,1185000,-,8977,834,03-APR-2018,Apartment,99 Yrs From 11/08/1997,2002,Resale,Private,14,38,387882,Central Region,Geylang
+NORTHVALE,61 Choa Chu Kang Loop  #03-04 ,1,67,Strata,670000,-,10000,929,03-APR-2018,Apartment,99 Yrs From 01/03/1995,1998,Resale,HDB,23,68,689668,West Region,Choa Chu Kang
+ARTRA,10 Alexandra View  #36-02 ,1,114,Strata,2161400,-,18960,1761,03-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,HDB,03,15,158745,Central Region,Bukit Merah
+N.A.,9 Blandford Drive ,1,260,Land,3000000,-,11534,1072,03-APR-2018,Terrace House,999 Yrs From 01/01/1956,Unknown,Resale,Private,19,55,559803,North East Region,Serangoon
+PARC PALAIS,47 Hume Avenue  #04-09 ,1,115,Strata,1300000,-,11304,1050,03-APR-2018,Condominium,Freehold,1999,Resale,Private,21,59,598748,West Region,Bukit Batok
+LOYANG VILLAS,291 Loyang Rise ,1,153,Land,1380000,-,9008,837,03-APR-2018,Terrace House,99 Yrs From 01/05/1993,1995,Resale,HDB,17,50,507323,East Region,Pasir Ris
+CASABELLA,220 Duchess Avenue ,1,330,Strata,4000000,-,12121,1126,03-APR-2018,Condominium,Freehold,2005,Resale,Private,10,26,266337,Central Region,Bukit Timah
+THE OCEANFRONT @ SENTOSA COVE,295 Ocean Drive  #11-19 ,1,487,Strata,7200000,-,14784,1374,03-APR-2018,Condominium,99 Yrs From 10/08/2005,2010,Resale,Private,04,09,098534,Central Region,Southern Islands
+TANGLIN VIEW,156 Prince Charles Crescent  #03-18 ,1,107,Strata,1390000,-,12991,1207,03-APR-2018,Condominium,99 Yrs From 17/05/1997,2001,Resale,Private,03,15,159015,Central Region,Bukit Merah
+VERSILIA ON HAIG,31 Ipoh Lane  #16-05 ,1,105,Strata,1680000,-,16000,1486,03-APR-2018,Condominium,Freehold,2010,Resale,Private,15,43,438639,Central Region,Geylang
+FABER GARDEN CONDOMINIUM,10 Angklong Lane  #02-04 ,1,159,Strata,2260000,-,14214,1320,03-APR-2018,Condominium,Freehold,1984,Resale,Private,20,57,579982,Central Region,Bishan
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #01-06 ,1,61,Strata,1154000,-,18918,1758,03-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+THE LAKESHORE,33 Jurong West Street 41  #12-42 ,1,103,Strata,1154000,-,11204,1041,03-APR-2018,Condominium,99 Yrs From 22/11/2002,2007,Resale,HDB,22,64,649413,West Region,Jurong West
+CASTLE GREEN,487 Yio Chu Kang Road  #03-03 ,1,107,Strata,925000,-,8645,803,03-APR-2018,Condominium,99 Yrs From 01/12/1993,1997,Resale,Private,26,78,787059,North East Region,Ang Mo Kio
+CHUAN VISTA,49 Chuan Drive ,1,254,Land,2430000,-,9567,889,03-APR-2018,Terrace House,99 Yrs From 26/05/1997,1999,Resale,Private,19,55,554849,North East Region,Serangoon
+MARINA ONE RESIDENCES,21 Marina Way  #27-07 ,1,141,Strata,4456188,-,31604,2936,03-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,N.A,01,01,018978,Central Region,Downtown Core
+ASPEN HEIGHTS,263 River Valley Road  #02-27 ,1,97,Strata,1660000,-,17113,1590,03-APR-2018,Condominium,999 Yrs From 01/07/1841,1998,Resale,Private,09,23,238309,Central Region,River Valley
+EAST COAST HILL,74 Sennett Avenue ,1,471,Land,5250000,-,11137,1035,03-APR-2018,Semi-Detached House,Freehold,1983,Resale,Private,16,46,467082,East Region,Bedok
+THE LAKEFRONT RESIDENCES,48 Lakeside Drive  #17-33 ,1,97,Strata,1070000,-,11031,1025,03-APR-2018,Condominium,99 Yrs From 03/08/2010,2014,Resale,HDB,22,64,648305,West Region,Jurong West
+PEBBLE BAY,130 Tanjong Rhu Road  #05-17 ,1,128,Strata,1838000,-,14359,1334,03-APR-2018,Condominium,99 Yrs From 09/03/1994,1997,Resale,Private,15,43,436918,Central Region,Kallang
+COTE D'AZUR,66 Marine Parade Road  #21-15 ,1,84,Strata,1100000,-,13095,1217,03-APR-2018,Condominium,99 Yrs From 25/07/2001,2004,Resale,Private,15,44,449300,Central Region,Marine Parade
+THE PARC CONDOMINIUM,9 West Coast Walk  #19-20 ,1,132,Strata,2050000,-,15530,1443,03-APR-2018,Condominium,Freehold,2010,Resale,Private,05,12,127160,West Region,Clementi
+COSTA RHU,3 Rhu Cross  #02-01 ,1,92,Strata,1209000,-,13141,1221,03-APR-2018,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437433,Central Region,Kallang
+CAIRNHILL RESIDENCES,31 Cairnhill Circle  #16-02 ,1,109,Strata,2680000,-,24587,2284,03-APR-2018,Apartment,Freehold,2009,Resale,Private,09,22,229774,Central Region,Newton
+ST REGIS RESIDENCES SINGAPORE,31 Tanglin Road  #14-04 ,1,197,Strata,5500000,-,27919,2594,03-APR-2018,Apartment,999 Yrs From 24/11/1995,2008,Resale,Private,10,24,247912,Central Region,Orchard
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #36-02 ,1,92,Strata,1486000,-,16152,1501,03-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+THE POIZ RESIDENCES,2 Meyappa Chettiar Road  #13-02 ,1,110,Strata,2000000,-,18182,1689,03-APR-2018,Apartment,99 Yrs From 17/11/2014,Uncompleted,New Sale,HDB,13,35,358472,Central Region,Toa Payoh
+THE JADE,9 Bukit Batok Central Link  #04-10 ,1,94,Strata,1020000,-,10851,1008,03-APR-2018,Condominium,99 Yrs From 02/10/2001,2004,Resale,Private,23,65,658074,West Region,Bukit Batok
+WATERFRONT WAVES,762 Bedok Reservoir Road  #08-16 ,1,117,Strata,1350000,-,11538,1072,03-APR-2018,Condominium,99 Yrs From 31/10/2007,2011,Resale,HDB,16,47,479246,East Region,Bedok
+THE RED HOUSE,63 East Coast Road  #05-18 ,1,105,Strata,1637000,-,15590,1448,03-APR-2018,Apartment,99 Yrs From 06/01/2012,2016,New Sale,HDB,15,42,428776,Central Region,Marine Parade
+THE RAINTREE,99 Bukit Drive  #05-40 ,1,147,Strata,1540000,-,10476,973,03-APR-2018,Condominium,99 Yrs From 01/03/2003,2008,Resale,Private,21,58,587841,West Region,Bukit Panjang
+KEW VALE,1 Kew Avenue ,1,213,Land,2000000,-,9403,874,03-APR-2018,Terrace House,99 Yrs From 03/02/1994,1996,Resale,Private,16,46,466328,East Region,Bedok
+VILLA MARINA,37 Jalan Sempadan  #03-01 ,1,116,Strata,1480000,-,12759,1185,03-APR-2018,Condominium,99 Yrs From 13/02/1995,1999,Resale,HDB,15,45,457406,East Region,Bedok
+EIGHT COURTYARDS,18B Canberra Drive  #07-47 ,1,101,Strata,1030000,-,10198,947,03-APR-2018,Condominium,99 Yrs From 20/09/2010,2014,Resale,HDB,27,76,768100,North Region,Yishun
+BLUE HORIZON,21 West Coast Crescent  #06-03 ,1,86,Strata,950000,-,11047,1026,03-APR-2018,Condominium,99 Yrs From 14/08/2000,2005,Resale,HDB,05,12,128045,West Region,Clementi
+HILLVIEW REGENCY,26 Bukit Batok East Avenue 2  #06-05 ,1,84,Strata,818000,-,9738,905,03-APR-2018,Condominium,99 Yrs From 20/06/2000,2005,Resale,HDB,23,65,659920,West Region,Bukit Batok
+HILLVIEW HEIGHTS,27 Hillview Avenue  #10-06 ,1,111,Strata,1428000,-,12865,1195,03-APR-2018,Condominium,Freehold,1996,Resale,Private,23,66,669559,West Region,Bukit Batok
+RIDGEWOOD,61 Mount Sinai Drive  #17-04 ,1,162,Strata,2250000,-,13889,1290,03-APR-2018,Condominium,999 Yrs From 06/07/1885,1981,Resale,Private,10,27,277113,Central Region,Bukit Timah
+ECO SANCTUARY,65 Chestnut Avenue  #01-15 ,1,149,Strata,1568000,-,10523,978,03-APR-2018,Condominium,99 Yrs From 25/04/2012,2016,Resale,Private,23,67,679524,West Region,Bukit Panjang
+THE NEXUS,963 Bukit Timah Road  #09-23 ,1,99,Strata,1580000,-,15960,1483,03-APR-2018,Condominium,Freehold,2006,Resale,HDB,21,58,589656,Central Region,Bukit Timah
+N.A.,17 Bedok Avenue ,1,232,Land,3820000,-,16444,1528,02-APR-2018,Semi-Detached House,Freehold,1997,Resale,Private,16,46,469928,East Region,Bedok
+MARINA ONE RESIDENCES,21 Marina Way  #23-02 ,1,106,Strata,2796510,-,26382,2451,02-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+MARINA ONE RESIDENCES,21 Marina Way  #25-01 ,1,105,Strata,2651223,-,25250,2346,02-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+HUME PARK II,19 Hume Avenue  #05-01 ,1,105,Strata,1250000,-,11905,1106,02-APR-2018,Condominium,Freehold,1997,Resale,Private,21,59,598727,West Region,Bukit Batok
+RAFFLESIA CONDOMINIUM,33 Bishan Street 21  #17-12 ,1,85,Strata,1100000,-,12941,1202,02-APR-2018,Condominium,99 Yrs From 18/07/1997,2003,Resale,HDB,20,57,579801,Central Region,Bishan
+NIM COLLECTION,23 Nim Rise ,1,183,Land,2762000,-,15093,1402,02-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804431,North East Region,Serangoon
+THE GARDENS AT BISHAN,9 Sin Ming Walk  #01-07 ,1,88,Strata,790000,-,8977,834,02-APR-2018,Condominium,99 Yrs From 22/03/1997,2004,Resale,HDB,20,57,575578,Central Region,Bishan
+EDELWEISS PARK CONDOMINIUM,94 Flora Road  #03-44 ,1,119,Strata,930000,-,7815,726,02-APR-2018,Condominium,Freehold,2006,Resale,HDB,17,50,507006,East Region,Pasir Ris
+THE TAPESTRY,51 Tampines Street 86  #08-10 ,1,56,Strata,875610,-,15636,1453,02-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+CONCOURSE SKYLINE,296 Beach Road  #23-03 ,1,124,Strata,2700000,-,21774,2023,02-APR-2018,Apartment,99 Yrs From 13/03/2008,2014,Resale,HDB,07,19,199599,Central Region,Kallang
+PARC CENTROS,92 Punggol Central  #16-28 ,1,159,Strata,1725000,-,10849,1008,02-APR-2018,Condominium,99 Yrs From 19/03/2012,2016,Resale,HDB,19,82,828723,North East Region,Punggol
+D'MIRA,31 Boon Teck Road  #17-04 ,1,90,Strata,1300000,-,14444,1342,02-APR-2018,Apartment,Freehold,2012,Resale,Private,12,32,329602,Central Region,Novena
+THE LADYHILL,1 Lady Hill Road  #03-09 ,1,236,Strata,5800000,-,24576,2283,02-APR-2018,Condominium,Freehold,2002,Resale,Private,10,25,258670,Central Region,Tanglin
+SEASIDE RESIDENCES,18 Siglap Link  #14-31 ,1,101,Strata,1909000,-,18901,1756,02-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,N.A,15,44,448873,East Region,Bedok
+D'LEEDON,13 Leedon Heights  #09-45 ,1,59,Strata,1110000,-,18814,1748,02-APR-2018,Condominium,99 Yrs From 08/04/2010,2014,Resale,Private,10,26,266224,Central Region,Bukit Timah
+WATERFALL GARDENS,12 Farrer Road  #01-10 ,1,204,Strata,3200000,-,15686,1457,02-APR-2018,Condominium,Freehold,2010,Resale,HDB,10,26,268824,Central Region,Tanglin
+MARINA ONE RESIDENCES,21 Marina Way  #27-02 ,1,113,Strata,3081690,-,27272,2534,02-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+WATERVIEW,89 Tampines Avenue 1  #10-34 ,1,73,Strata,858000,-,11753,1092,02-APR-2018,Condominium,99 Yrs From 16/06/2010,2014,Resale,HDB,18,52,528689,East Region,Tampines
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #04-38 ,1,62,Strata,1143000,-,18435,1713,02-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465465,East Region,Bedok
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #37-02 ,1,92,Strata,1489000,-,16185,1504,02-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+76 SHENTON,76 Shenton Way  #21-01 ,1,55,Strata,1180000,-,21455,1993,02-APR-2018,Apartment,99 Yrs From 12/04/2007,2014,Resale,HDB,02,07,079119,Central Region,Downtown Core
+MON JERVOIS,41 Jervois Road  #02-08 ,1,129,Strata,3400000,-,26357,2449,02-APR-2018,Condominium,99 Yrs From 07/05/2012,2016,Resale,Private,10,24,249094,Central Region,Tanglin
+PARKVIEW APARTMENTS,3 Bukit Batok Street 25  #08-02 ,1,104,Strata,820000,-,7885,732,02-APR-2018,Apartment,99 Yrs From 01/05/1994,1998,Resale,Private,23,65,658881,West Region,Bukit Batok
+BIJOU,2 Jalan Mat Jambol  #02-10 ,1,53,Strata,1065000,1059048,19982,1856,02-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,119554,Central Region,Queenstown
+SKYSUITES@ANSON,8 Enggor Street  #69-01 ,1,89,Strata,2306000,-,25910,2407,02-APR-2018,Apartment,99 Yrs From 18/02/2008,2014,Resale,HDB,02,07,079718,Central Region,Downtown Core
+CHANGI GREEN,712 Upper Changi Road East  #04-09 ,1,133,Strata,1430000,-,10752,999,02-APR-2018,Condominium,Freehold,1998,Resale,HDB,16,48,486842,East Region,Tampines
+EVERGREEN PARK,37 Hougang Avenue 7  #09-06 ,1,116,Strata,835000,-,7198,669,02-APR-2018,Apartment,99 Yrs From 01/10/1995,1999,Resale,HDB,19,53,538803,North East Region,Hougang
+SKYSUITES@ANSON,8 Enggor Street  #27-07 ,1,62,Strata,1380000,-,22258,2068,02-APR-2018,Apartment,99 Yrs From 18/02/2008,2014,Resale,Private,02,07,079718,Central Region,Downtown Core
+SHAMROCK PARK,36 Namly Place ,1,206,Land,4500000,-,21877,2032,02-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,10,26,267180,Central Region,Bukit Timah
+THE NAVIAN,178 Jalan Eunos  #05-10 ,1,86,Strata,1528000,-,17767,1651,02-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,14,41,419530,East Region,Bedok
+N.A.,136H Everitt Road ,1,164,Land,3100000,-,18914,1757,02-APR-2018,Terrace House,Freehold,1997,Resale,HDB,15,42,428668,Central Region,Marine Parade
+THOMSON GRAND,25 Sin Ming Walk  #09-15 ,1,157,Strata,2180000,-,13885,1290,02-APR-2018,Condominium,99 Yrs From 08/02/2010,2015,Resale,Private,20,57,573917,Central Region,Bishan
+SILVERSCAPE,39 Lorong 32 Geylang  #06-02 ,1,52,Strata,700000,-,13462,1251,02-APR-2018,Apartment,Freehold,2015,Resale,Private,14,39,398299,Central Region,Geylang
+ASCENTIA SKY,3 Alexandra View  #29-09 ,1,88,Strata,1700000,-,19318,1795,02-APR-2018,Condominium,99 Yrs From 26/03/2008,2013,Resale,Private,03,15,158749,Central Region,Bukit Merah
+THE LENOX,398 Changi Road  #05-11 ,1,78,Strata,955000,-,12244,1137,02-APR-2018,Apartment,Freehold,2014,Resale,Private,14,41,419845,East Region,Bedok
+SEA ESTA,28 Pasir Ris Link  #06-24 ,1,104,Strata,1208000,-,11615,1079,02-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,HDB,18,51,518146,East Region,Pasir Ris
+PRIME RESIDENCE,41 Lorong 22 Geylang  #02-06 ,1,38,Strata,555000,-,14605,1357,02-APR-2018,Apartment,Freehold,2014,Resale,HDB,14,39,398697,Central Region,Geylang
+RIVERSAILS,20 Upper Serangoon Crescent  #08-51 ,1,88,Strata,950000,-,10795,1003,02-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,Private,19,53,534026,North East Region,Hougang
+BARTLEY RESIDENCES,5 Lorong How Sun  #13-28 ,1,81,Strata,1150000,-,14198,1319,02-APR-2018,Apartment,99 Yrs From 29/06/2011,2015,Resale,Private,19,53,536562,North East Region,Serangoon
+PEAKVIEW ESTATE,3 Jalan Pari Kikis ,1,306,Land,3120000,-,10186,946,02-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,HDB,16,48,488529,East Region,Bedok
+THE PALETTE,115 Pasir Ris Grove  #11-47 ,1,81,Strata,928000,-,11457,1064,02-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,HDB,18,51,518172,East Region,Pasir Ris
+REGENTVILLE,10 Hougang Street 92  #14-02 ,1,193,Strata,1130000,-,5855,544,02-APR-2018,Apartment,99 Yrs From 24/04/1996,1999,Resale,Private,19,53,538687,North East Region,Hougang
+GOODWILL COURT,79A Upper East Coast Road ,1,232,Strata,1950000,-,8405,781,02-APR-2018,Apartment,Freehold,1983,Resale,Private,15,45,455219,East Region,Bedok
+N.A.,559 Upper Changi Road ,1,310,Land,3600000,-,11628,1080,02-APR-2018,Semi-Detached House,Freehold,1985,Resale,Private,16,48,486988,East Region,Tampines
+THE COAST AT SENTOSA COVE,278 Ocean Drive  #02-14 ,1,188,Strata,3150000,-,16755,1557,02-APR-2018,Condominium,99 Yrs From 11/04/2006,2009,Resale,Private,04,09,098450,Central Region,Southern Islands
+TEACHER'S HOUSING ESTATE,41 Tagore Avenue ,1,168,Land,2180000,-,13007,1208,02-APR-2018,Terrace House,999 Yrs From 02/12/1885,Unknown,Resale,Private,26,78,787663,North East Region,Ang Mo Kio
+DE ROYALE,31 Jalan Rama Rama  #02-01 ,1,98,Strata,1400000,-,14286,1327,02-APR-2018,Condominium,Freehold,2006,Resale,Private,12,32,329111,Central Region,Novena
+THOMSON GRAND,21 Sin Ming Walk  #16-12 ,1,127,Strata,1850000,-,14567,1353,02-APR-2018,Condominium,99 Yrs From 08/02/2010,2015,Resale,Private,20,57,573915,Central Region,Bishan
+THE SPRINGSIDE,157 Springside View ,1,156,Land,2816000,-,18051,1677,02-APR-2018,Terrace House,Freehold,2016,Resale,HDB,26,78,786108,North Region,Yishun
+THE BEACON,130 Cantonment Road  #22-05 ,1,97,Strata,1388888,-,14318,1330,02-APR-2018,Apartment,99 Yrs From 05/03/2004,2008,Resale,HDB,02,08,089775,Central Region,Bukit Merah
+PALMWOODS,450 Upper Changi Road  #02-10 ,1,102,Strata,850000,-,8333,774,02-APR-2018,Condominium,99 Yrs From 12/06/1996,1999,Resale,HDB,16,48,487040,East Region,Bedok
+SOLEIL @ SINARAN,6 Sinaran Drive  #29-12 ,1,136,Strata,2750000,-,20221,1879,02-APR-2018,Condominium,99 Yrs From 23/10/2006,2011,Resale,Private,11,30,307468,Central Region,Novena
+FIRST POINT SUITES,59 Lorong H Telok Kurau  #05-02 ,1,116,Strata,1300000,-,11207,1041,02-APR-2018,Apartment,Freehold,2013,Resale,Private,15,42,426068,East Region,Bedok
+N.A.,31 Eng Kong Place ,1,166,Land,2500000,-,15106,1403,02-APR-2018,Terrace House,Freehold,Unknown,Resale,HDB,21,59,599108,Central Region,Bukit Timah
+THE TRILINQ,28 Jalan Lempeng  #30-08 ,1,103,Strata,1532000,-,14874,1382,02-APR-2018,Condominium,99 Yrs From 16/04/2012,2017,New Sale,HDB,05,12,128807,West Region,Clementi
+THE TROPICA,65 Tampines Avenue 1  #03-04 ,1,115,Strata,958000,-,8330,774,02-APR-2018,Condominium,99 Yrs From 04/12/1996,2000,Resale,Private,18,52,529778,East Region,Tampines
+SOL ACRES,2 Choa Chu Kang Grove  #19-01 ,1,53,Strata,463000,-,8736,812,02-APR-2018,Executive Condominium,99 Yrs From 02/06/2014,Uncompleted,New Sale,N.A,23,68,688238,West Region,Choa Chu Kang
+SOUTHAVEN II,31 Hindhede Walk  #08-03 ,1,143,Strata,1700000,-,11888,1104,02-APR-2018,Condominium,999 Yrs From 21/06/1877,1999,Resale,Private,21,58,587967,West Region,Bukit Panjang
+ONE AMBER,1 Amber Gardens  #04-04 ,1,53,Strata,968000,-,18264,1697,02-APR-2018,Condominium,Freehold,2010,Resale,Private,15,43,439957,Central Region,Marine Parade
+RIO VISTA,28 Upper Serangoon View  #15-34 ,1,115,Strata,988000,-,8591,798,02-APR-2018,Condominium,99 Yrs From 02/01/2001,2004,Resale,Private,19,53,534207,North East Region,Hougang
+MODENA,39 Simei Street 4  #02-22 ,1,142,Strata,1400000,-,9859,916,02-APR-2018,Condominium,99 Yrs From 06/12/1997,2001,Resale,Private,18,52,529871,East Region,Tampines
+NORTHWAVE,101 Woodlands View  #14-02 ,1,104,Strata,971000,-,9337,867,02-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737708,North Region,Woodlands
+THE SPRINGBLOOM,143 Serangoon Avenue 3  #02-03 ,1,172,Strata,1750000,-,10174,945,02-APR-2018,Condominium,99 Yrs From 01/03/1995,1999,Resale,Private,19,55,556121,North East Region,Serangoon
+CITY SUITES,235 Balestier Road  #09-01 ,1,49,Strata,930888,-,18998,1765,02-APR-2018,Apartment,Freehold,2017,New Sale,Private,12,32,329699,Central Region,Novena
+BARTLEY RESIDENCES,1 Lorong How Sun  #02-02 ,1,99,Strata,1420000,-,14343,1333,02-APR-2018,Apartment,99 Yrs From 29/06/2011,2015,Resale,HDB,19,53,536558,North East Region,Serangoon
+38 JERVOIS,38 Jervois Road  #01-02 ,1,44,Strata,1179101,-,26798,2490,02-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,10,24,249078,Central Region,Tanglin
+THE LAKESHORE,31 Jurong West Street 41  #16-28 ,1,179,Strata,1900000,-,10615,986,02-APR-2018,Condominium,99 Yrs From 22/11/2002,2007,Resale,Private,22,64,649412,West Region,Jurong West
+GLOUCESTER MANSIONS,10 Newton Road  #15-01 ,1,190,Strata,3028000,-,15937,1481,02-APR-2018,Apartment,Freehold,1999,Resale,Private,11,30,307947,Central Region,Novena
+THE SHELFORD,1B Shelford Road  #01-15 ,1,114,Strata,2035000,-,17851,1658,02-APR-2018,Condominium,Freehold,2005,Resale,Private,11,28,288535,Central Region,Bukit Timah
+N.A.,14 Jalan Mas Puteh ,1,139,Land,2250000,-,16245,1509,02-APR-2018,Terrace House,Freehold,Unknown,Resale,HDB,05,12,128619,West Region,Clementi
+MERGUI MANSIONS,81 Mergui Road  #02-04 ,1,133,Strata,1450000,-,10902,1013,02-APR-2018,Apartment,Freehold,1995,Resale,HDB,08,21,219057,Central Region,Kallang
+SUMMER GARDENS,47 Upper Changi Road East ,1,281,Strata,1950000,-,6940,645,02-APR-2018,Terrace House,99 Yrs From 23/06/1995,1999,Resale,HDB,16,48,486902,East Region,Bedok
+THE CLEARWATER,8 Bedok Reservoir View  #05-24 ,1,93,Strata,950000,-,10215,949,02-APR-2018,Condominium,99 Yrs From 18/07/1997,2001,Resale,HDB,16,47,479235,East Region,Bedok
+MEADOWS @ PEIRCE,626 Upper Thomson Road  #04-41 ,1,139,Strata,1720000,-,12374,1150,02-APR-2018,Condominium,Freehold,2012,Resale,Private,26,78,787130,North East Region,Ang Mo Kio
+THE BAYSHORE,22 Bayshore Road  #25-05 ,1,91,Strata,960000,-,10549,980,02-APR-2018,Condominium,99 Yrs From 31/05/1993,1996,Resale,Private,16,46,469970,East Region,Bedok
+PARK INFINIA AT WEE NAM,6A Lincoln Road  #30-14 ,1,124,Strata,2880000,-,23226,2158,02-APR-2018,Condominium,Freehold,2008,Resale,HDB,11,30,308366,Central Region,Novena
+HILLION RESIDENCES,8 Jelebu Road  #10-02 ,1,66,Strata,1090000,-,16515,1534,02-APR-2018,Apartment,99 Yrs From 04/01/2013,2017,Sub Sale,Private,23,67,677671,West Region,Bukit Panjang
+DE LENTE,104 Holland Road  #03-03 ,1,103,Strata,1618000,-,15709,1459,02-APR-2018,Apartment,Freehold,2002,Resale,Private,10,27,278547,Central Region,Bukit Timah
+H2O RESIDENCES,38 Fernvale Link  #05-23 ,1,114,Strata,1325000,-,11623,1080,02-APR-2018,Condominium,99 Yrs From 10/05/2010,2015,Resale,HDB,28,79,797534,North East Region,Sengkang
+WESTVILLE,134 Westwood Avenue ,1,150,Land,1300000,-,8678,806,02-APR-2018,Terrace House,99 Yrs From 01/12/1994,1998,Resale,Private,22,64,648437,West Region,Jurong West
+HOLLAND HILL LODGE,5 Holland Hill  #03-03 ,1,203,Strata,2400000,-,11823,1098,02-APR-2018,Apartment,Freehold,1997,Resale,Private,10,27,278742,Central Region,Bukit Timah
+SHELFORD SUITES,16 Shelford Road  #01-10 ,1,127,Strata,2050000,-,16142,1500,02-APR-2018,Condominium,Freehold,2011,Resale,Private,11,28,288383,Central Region,Bukit Timah
+FLO RESIDENCE,3 Punggol Field Walk  #14-06 ,1,86,Strata,880000,-,10233,951,02-APR-2018,Condominium,99 Yrs From 05/12/2011,2016,Resale,HDB,19,82,828740,North East Region,Punggol
+SEASIDE RESIDENCES,16 Siglap Link  #04-25 ,1,52,Strata,996000,-,19154,1779,02-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448872,East Region,Bedok
+LIVIA,75 Pasir Ris Grove  #13-31 ,1,117,Strata,1050000,-,8974,834,02-APR-2018,Condominium,99 Yrs From 07/01/2008,2011,Resale,HDB,18,51,518207,East Region,Pasir Ris
+THE FORD @ HOLLAND,1 Ford Avenue  #03-09 ,1,51,Strata,930000,-,18235,1694,02-APR-2018,Condominium,Freehold,2009,Resale,Private,10,26,268685,Central Region,Bukit Timah
+SOPHIA HILLS,25 Mount Sophia  #06-84 ,1,89,Strata,2233000,-,25090,2331,02-APR-2018,Condominium,99 Yrs From 10/12/2013,2018,New Sale,Private,09,22,228477,Central Region,Rochor
+CASTLE GREEN,483 Yio Chu Kang Road  #08-01 ,1,88,Strata,820000,-,9318,866,02-APR-2018,Condominium,99 Yrs From 01/12/1993,1997,Resale,HDB,26,78,787057,North East Region,Ang Mo Kio
+BLUE HORIZON,21 West Coast Crescent  #10-03 ,1,86,Strata,950000,-,11047,1026,02-APR-2018,Condominium,99 Yrs From 14/08/2000,2005,Resale,HDB,05,12,128045,West Region,Clementi
+THE LAKEFRONT RESIDENCES,48 Lakeside Drive  #12-37 ,1,71,Strata,930000,-,13099,1217,02-APR-2018,Condominium,99 Yrs From 03/08/2010,2014,Resale,Private,22,64,648305,West Region,Jurong West
+RIVERSAILS,10 Upper Serangoon Crescent  #05-29 ,1,103,Strata,1080000,-,10485,974,02-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534031,North East Region,Hougang
+MARINA ONE RESIDENCES,21 Marina Way  #08-07 ,1,143,Strata,3635370,-,25422,2362,02-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+CARIBBEAN AT KEPPEL BAY,42 Keppel Bay Drive  #04-107 ,1,114,Strata,1950000,-,17105,1589,02-APR-2018,Condominium,99 Yrs From 16/08/1999,2004,Resale,Private,04,09,098656,Central Region,Bukit Merah
+THE MINT RESIDENCES,180 Joo Chiat Terrace  #03-04 ,1,92,Strata,1034000,-,11239,1044,02-APR-2018,Apartment,Freehold,2009,Resale,HDB,15,42,427326,Central Region,Geylang
+THE LAKEFRONT RESIDENCES,42 Lakeside Drive  #06-04 ,1,93,Strata,1170000,-,12581,1169,02-APR-2018,Condominium,99 Yrs From 03/08/2010,2014,Resale,Private,22,64,648322,West Region,Jurong West
+NV RESIDENCES,83 Pasir Ris Grove  #12-05 ,1,69,Strata,765000,-,11087,1030,02-APR-2018,Condominium,99 Yrs From 07/01/2008,2013,Resale,HDB,18,51,518211,East Region,Pasir Ris
+38 JERVOIS,38 Jervois Road  #02-03 ,1,44,Strata,1119261,-,25438,2363,02-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,10,24,249078,Central Region,Tanglin
+SEASONS PARK,499 Yio Chu Kang Road  #09-04 ,1,99,Strata,878000,-,8869,824,02-APR-2018,Condominium,99 Yrs From 01/03/1995,1997,Resale,Private,26,78,787082,North East Region,Ang Mo Kio
+COSTA RHU,9 Rhu Cross  #11-09 ,1,208,Strata,2900000,-,13942,1295,02-APR-2018,Condominium,99 Yrs From 30/05/1994,1997,Resale,Private,15,43,437436,Central Region,Kallang
+CORAL PARK,99 Pemimpin Place ,1,156,Land,2500000,-,16015,1488,02-APR-2018,Terrace House,Freehold,1980,Resale,HDB,20,57,576096,Central Region,Bishan
+EDELWEISS PARK CONDOMINIUM,80 Flora Road  #02-06 ,1,124,Strata,1100000,-,8871,824,02-APR-2018,Condominium,Freehold,2006,Resale,HDB,17,50,506999,East Region,Pasir Ris
+SOPHIA HILLS,25 Mount Sophia  #03-84 ,1,89,Strata,2133000,-,23966,2227,02-APR-2018,Condominium,99 Yrs From 10/12/2013,2018,New Sale,Private,09,22,228477,Central Region,Rochor
+N.A.,19B Recreation Road ,1,256,Land,3530000,-,13778,1280,02-APR-2018,Terrace House,Freehold,2002,Resale,Private,19,54,546542,North East Region,Serangoon
+IDYLLIC EAST,576 Upper East Coast Road  #02-05 ,1,107,Strata,1385000,-,12944,1203,02-APR-2018,Apartment,Freehold,2010,Resale,Private,16,46,466588,East Region,Bedok
+DOUBLE BAY RESIDENCES,21 Simei Street 4  #02-40 ,1,179,Strata,1668000,-,9318,866,02-APR-2018,Condominium,99 Yrs From 07/04/2008,2012,Resale,Private,18,52,528717,East Region,Tampines
+SKYSUITES@ANSON,8 Enggor Street  #16-01 ,1,34,Strata,938000,-,27588,2563,02-APR-2018,Apartment,99 Yrs From 18/02/2008,2014,Resale,Private,02,07,079718,Central Region,Downtown Core
+SELETAR SPRINGS CONDOMINIUM,104 Gerald Drive  #03-68 ,1,121,Strata,940000,-,7769,722,02-APR-2018,Condominium,99 Yrs From 12/08/1997,2000,Resale,Private,28,79,798594,North East Region,Hougang
+SKY VUE,3 Bishan Street 15  #12-21 ,1,63,Strata,1080000,-,17143,1593,02-APR-2018,Condominium,99 Yrs From 04/03/2013,2016,Resale,HDB,20,57,573911,Central Region,Bishan
+LIBERTE,5 Sarkies Road  #06-01 ,1,69,Strata,1835893,-,26607,2472,02-APR-2018,Apartment,Freehold,2015,Resale,HDB,10,25,258125,Central Region,Newton
+THE HILLSIDE,343 Upper Bukit Timah Road  #07-06 ,1,142,Strata,1690000,-,11901,1106,02-APR-2018,Condominium,Freehold,2001,Resale,Private,21,58,588196,West Region,Bukit Batok
+SARACA GARDENS,11 Saraca Walk ,1,366,Land,5388000,-,14721,1368,02-APR-2018,Semi-Detached House,Freehold,1993,Resale,Private,28,80,807248,North East Region,Serangoon
+SENNETT ESTATE,45 Wan Tho Avenue ,1,216,Land,2880000,-,13315,1237,02-APR-2018,Terrace House,Freehold,1955,Resale,Private,13,34,347587,Central Region,Toa Payoh
+FREESIA WOODS,63 Sunset Way  #02-12 ,1,133,Strata,1750000,-,13158,1222,02-APR-2018,Condominium,Freehold,2003,Resale,Private,21,59,597088,West Region,Clementi
+SEA ESTA,20 Pasir Ris Link  #04-09 ,1,76,Strata,815000,-,10724,996,02-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,Private,18,51,518157,East Region,Pasir Ris
+PARKSHORE,201 Tanjong Rhu Road  #08-14 ,1,124,Strata,2000000,-,16129,1498,02-APR-2018,Condominium,Freehold,1995,Resale,Private,15,43,436917,Central Region,Kallang
+HIGHLAND ROW,46 Sirat Road ,1,151,Land,2550000,-,16876,1568,02-APR-2018,Terrace House,Freehold,1990,Resale,Private,19,54,545799,North East Region,Hougang
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #01-04 ,1,59,Strata,1135000,-,19237,1787,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #05-10 ,1,63,Strata,1216000,-,19302,1793,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118584,Central Region,Queenstown
+NIM COLLECTION,16 Nim Rise ,1,150,Land,2780000,-,18533,1722,01-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804458,North East Region,Serangoon
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-06 ,1,60,Strata,1182000,-,19700,1830,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-02 ,1,58,Strata,1104000,-,19034,1768,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+KINGSFORD WATERBAY,66 Upper Serangoon View  #04-13 ,1,64,Strata,1003000,-,15672,1456,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533885,North East Region,Hougang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #03-10 ,1,63,Strata,1186000,-,18825,1749,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #04-02 ,1,58,Strata,1094000,-,18862,1752,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #03-05 ,1,64,Strata,1205000,-,18828,1749,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #04-06 ,1,60,Strata,1147000,-,19117,1776,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #03-06 ,1,60,Strata,1132000,-,18867,1753,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+NIM COLLECTION,26 Nim Rise ,1,197,Land,2880000,-,14619,1358,01-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804463,North East Region,Serangoon
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #04-03 ,1,93,Strata,1675000,-,18011,1673,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+KINGSFORD WATERBAY,80 Upper Serangoon View  #10-72 ,1,89,Strata,1292000,-,14517,1349,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533878,North East Region,Hougang
+SEASIDE RESIDENCES,10 Siglap Link  #07-01 ,1,105,Strata,1819000,-,17324,1609,01-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448869,East Region,Bedok
+SEASIDE RESIDENCES,10 Siglap Link  #06-01 ,1,105,Strata,1791000,-,17057,1585,01-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448869,East Region,Bedok
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #03-02 ,1,58,Strata,1084000,-,18690,1736,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-05 ,1,64,Strata,1235000,-,19297,1793,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+KINGSFORD WATERBAY,80 Upper Serangoon View  #09-72 ,1,89,Strata,1291000,-,14506,1348,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533878,North East Region,Hougang
+KINGSFORD WATERBAY,80 Upper Serangoon View  #08-74 ,1,64,Strata,1017000,-,15891,1476,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533878,North East Region,Hougang
+KINGSFORD WATERBAY,70 Upper Serangoon View  #07-29 ,1,79,Strata,1164000,-,14734,1369,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533883,North East Region,Hougang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #04-13 ,1,91,Strata,1641000,-,18033,1675,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #04-05 ,1,64,Strata,1220000,-,19063,1771,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #02-06 ,1,60,Strata,1119000,-,18650,1733,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #01-02 ,1,58,Strata,1106000,-,19069,1772,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+VA RESIDENCES,9 Boon Teck Road  #03-03 ,1,60,Strata,969000,-,16150,1500,01-APR-2018,Apartment,Freehold,2016,New Sale,Private,12,32,329583,Central Region,Novena
+KALLANG RIVERSIDE,51 Kampong Bugis  #26-06 ,1,48,Strata,1421131,-,29607,2751,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,12,33,338986,Central Region,Kallang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #02-11 ,1,53,Strata,996000,-,18792,1746,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118584,Central Region,Queenstown
+LIIV RESIDENCES,339 Pasir Panjang Road  #02-04 ,1,37,Strata,739000,-,19973,1856,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117368,Central Region,Queenstown
+SEASIDE RESIDENCES,12 Siglap Link  #24-13 ,1,47,Strata,983000,-,20915,1943,01-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448870,East Region,Bedok
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-03 ,1,93,Strata,1715000,-,18441,1713,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118582,Central Region,Queenstown
+THE TAPESTRY,51 Tampines Street 86  #05-04 ,1,56,Strata,796800,-,14229,1322,01-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #03-12 ,1,56,Strata,1069000,-,19089,1773,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+SEASIDE RESIDENCES,18 Siglap Link  #07-30 ,1,55,Strata,1005000,-,18273,1698,01-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,HDB,15,44,448873,East Region,Bedok
+NORTHWAVE,109 Woodlands View  #12-20 ,1,104,Strata,940000,-,9038,840,01-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737712,North Region,Woodlands
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #21-02 ,1,92,Strata,1443000,-,15685,1457,01-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129960,West Region,Clementi
+GRANDEUR PARK RESIDENCES,9 Bedok South Avenue 3  #01-37 ,1,105,Strata,1688000,-,16076,1494,01-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,N.A,16,46,465465,East Region,Bedok
+THE TAPESTRY,63 Tampines Street 86  #08-52 ,1,105,Strata,1421600,-,13539,1258,01-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,N.A,18,52,528511,East Region,Tampines
+KALLANG RIVERSIDE,51 Kampong Bugis  #12-07 ,1,133,Strata,3013000,-,22654,2105,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,12,33,338986,Central Region,Kallang
+KINGSFORD WATERBAY,66 Upper Serangoon View  #05-14 ,1,63,Strata,980000,-,15556,1445,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533885,North East Region,Hougang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #05-09 ,1,78,Strata,1474000,-,18897,1756,01-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118584,Central Region,Queenstown
+KINGSFORD WATERBAY,70 Upper Serangoon View  #02-31 ,1,64,Strata,987000,-,15422,1433,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533883,North East Region,Hougang
+KINGSFORD WATERBAY,66 Upper Serangoon View  #07-16 ,1,83,Strata,1208000,-,14554,1352,01-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533885,North East Region,Hougang
+FERRARIA PARK CONDOMINIUM,28 Flora Drive  #04-58 ,1,116,Strata,1200000,-,10345,961,01-APR-2018,Condominium,Freehold,2009,Resale,HDB,17,50,506951,East Region,Pasir Ris
+SEASIDE RESIDENCES,12 Siglap Link  #01-09 ,1,123,Strata,2164000,-,17593,1634,01-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448870,East Region,Bedok
+

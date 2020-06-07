@@ -1,0 +1,67 @@
+Project Name,Address,No. of Units,Area (sqm),Type of Area,Transacted Price ($),Nett Price($),Unit Price ($ psm),Unit Price ($ psf),Sale Date,Property Type,Tenure,Completion Date,Type of Sale,Purchaser Address Indicator,Postal District,Postal Sector,Postal Code,Planning Region,Planning Area
+PARC KOMO,967 Upper Changi Road North  #05-36 ,1,90,Strata,1514000,-,16822,1563,02-JAN-2020,Apartment,Freehold,Uncompleted,New Sale,N.A,17,50,507666,East Region,Pasir Ris
+PARC ESTA,906 Sims Avenue  #18-28 ,1,70,Strata,1223000,-,17471,1623,02-JAN-2020,Apartment,99 Yrs From 12/07/2018 ,Uncompleted,New Sale,N.A,14,40,408969,Central Region,Geylang
+MARGARET VILLE,20 Margaret Drive  #35-05 ,1,43,Strata,988713,-,22993,2136,02-JAN-2020,Apartment,99 Yrs From 13/03/2017,Uncompleted,New Sale,N.A,03,14,149312,Central Region,Queenstown
+PARC ESTA,914 Sims Avenue  #17-67 ,1,48,Strata,998000,-,20792,1932,02-JAN-2020,Apartment,99 Yrs From 12/07/2018,Uncompleted,New Sale,N.A,14,40,408973,Central Region,Geylang
+NORTHVALE,63 Choa Chu Kang Loop  #11-01 ,1,67,Strata,720000,-,10746,998,02-JAN-2020,Apartment,99 Yrs From 01/03/1995,1998,Resale,HDB,23,68,689669,West Region,Choa Chu Kang
+CHANGI RISE CONDOMINIUM,24 Simei Rise  #06-63 ,1,105,Strata,840000,-,8000,743,02-JAN-2020,Condominium,99 Yrs From 29/11/2000,2004,Resale,HDB,18,52,528811,East Region,Tampines
+PARC BOTANNIA,10 Fernvale Street  #19-04 ,1,62,Strata,946000,-,15258,1418,02-JAN-2020,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797390,North East Region,Sengkang
+PARC ESTA,914 Sims Avenue  #13-62 ,1,69,Strata,1259000,-,18246,1695,02-JAN-2020,Apartment,99 Yrs From 12/07/2018 ,Uncompleted,New Sale,N.A,14,40,408973,Central Region,Geylang
+PARC CLEMATIS,8A Jalan Lempeng  #08-20 ,1,120,Strata,2020000,-,16833,1564,02-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128823,West Region,Clementi
+THE SHORE RESIDENCES,81 Amber Road  #04-08 ,1,86,Strata,1450000,-,16860,1566,02-JAN-2020,Condominium,103 Yrs From 18/08/2009,2014,Resale,N.A,15,43,439893,Central Region,Marine Parade
+BAYSHORE PARK,50 Bayshore Road  #31-02 ,1,323,Strata,3175000,-,9830,913,02-JAN-2020,Condominium,99 Yrs From 17/03/1982,1986,Resale,N.A,16,46,469977,East Region,Bedok
+BLOSSOM RESIDENCES,34 Segar Road  #11-31 ,1,116,Strata,1140000,-,9828,913,02-JAN-2020,Executive Condominium,99 Yrs From 02/03/2011,2014,Resale,HDB,23,67,677723,West Region,Bukit Panjang
+PARC CLEMATIS,8B Jalan Lempeng  #04-31 ,1,64,Strata,1049000,-,16391,1523,02-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128824,West Region,Clementi
+PARC CLEMATIS,8B Jalan Lempeng  #04-32 ,1,64,Strata,1049000,-,16391,1523,02-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128824,West Region,Clementi
+AFFINITY AT SERANGOON,30 Serangoon North Avenue 1  #06-66 ,1,68,Strata,1186000,-,17441,1620,02-JAN-2020,Apartment,99 Yrs From 18/05/2018,Uncompleted,New Sale,N.A,19,55,554342,North East Region,Serangoon
+AMBER PARK,16 Amber Gardens  #20-04 ,1,88,Strata,2426760,-,27577,2562,02-JAN-2020,Condominium,Freehold,Uncompleted,New Sale,N.A,15,43,439961,Central Region,Marine Parade
+THE POIZ RESIDENCES,10 Meyappa Chettiar Road  #15-21 ,1,54,Strata,1020000,-,18889,1755,02-JAN-2020,Apartment,99 Yrs From 17/11/2014,2018,Sub Sale,HDB,13,35,358473,Central Region,Toa Payoh
+JADESCAPE,6 Shunfu Road  #15-21 ,1,98,Strata,1800700,-,18374,1707,02-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575744,Central Region,Bishan
+URBAN VISTA,4 Tanah Merah Kechil Link  #08-06 ,1,52,Strata,800000,-,15385,1429,02-JAN-2020,Condominium,99 Yrs From 05/11/2012,2016,Resale,N.A,16,46,465418,East Region,Bedok
+COCO PALMS,15 Pasir Ris Grove  #12-14 ,1,43,Strata,650000,-,15116,1404,02-JAN-2020,Condominium,99 Yrs From 07/01/2008,2018,Resale,HDB,18,51,518142,East Region,Pasir Ris
+PAVILION PARK,40 Pavilion Place ,1,150,Land,2650000,-,17667,1641,02-JAN-2020,Terrace House,Freehold,2011,Resale,N.A,23,65,658376,West Region,Bukit Batok
+EIGHT RIVERSUITES,2 Whampoa East  #17-05 ,1,41,Strata,720000,-,17561,1631,02-JAN-2020,Condominium,99 Yrs From 11/07/2011,2016,Resale,HDB,12,33,338517,Central Region,Kallang
+RIVER ISLES,60 Edgedale Plains  #01-17 ,1,54,Strata,605000,-,11204,1041,02-JAN-2020,Condominium,99 Yrs From 06/02/2012,2015,Resale,HDB,19,82,828729,North East Region,Punggol
+MARINA ONE RESIDENCES,23 Marina Way  #05-24 ,1,69,Strata,1625788,-,23562,2189,02-JAN-2020,Apartment,99 Yrs From 01/07/2011,2017,Resale,HDB,01,01,018979,Central Region,Downtown Core
+SELETAR HILLS ESTATE,9 Jalan Lekub ,1,305,Land,2858000,-,9370,871,02-JAN-2020,Semi-Detached House,999 Yrs From 01/01/1879,Unknown,Resale,N.A,28,80,808730,North East Region,Serangoon
+LA CASA,54 Woodlands Drive 16  #05-09 ,1,110,Strata,830000,-,7545,701,02-JAN-2020,Executive Condominium,99 Yrs From 13/09/2004,2008,Resale,HDB,25,73,737899,North Region,Woodlands
+AQUARIUS BY THE PARK,3 Bedok Reservoir View  #01-04 ,1,143,Strata,1200000,-,8392,780,02-JAN-2020,Condominium,99 Yrs From 12/06/1996,2000,Resale,N.A,16,47,478927,East Region,Bedok
+AMBER PARK,16 Amber Gardens  #10-09 ,1,65,Strata,1723680,-,26518,2464,02-JAN-2020,Condominium,Freehold,Uncompleted,New Sale,N.A,15,43,439961,Central Region,Marine Parade
+AMBER PARK,16 Amber Gardens  #08-09 ,1,65,Strata,1715580,-,26394,2452,02-JAN-2020,Condominium,Freehold,Uncompleted,New Sale,N.A,15,43,439961,Central Region,Marine Parade
+AMBER PARK,16 Amber Gardens  #03-10 ,1,69,Strata,1790910,-,25955,2411,02-JAN-2020,Condominium,Freehold,Uncompleted,New Sale,N.A,15,43,439961,Central Region,Marine Parade
+MAYSPRINGS,6 Petir Road  #06-09 ,1,128,Strata,1180000,-,9219,856,02-JAN-2020,Apartment,99 Yrs From 01/12/1994,1998,Resale,N.A,23,67,678267,West Region,Bukit Panjang
+N.A.,96 Cactus Road ,1,195,Land,2350000,-,12033,1118,02-JAN-2020,Terrace House,Freehold,1985,Resale,N.A,28,80,809625,North East Region,Ang Mo Kio
+CASTLE GREEN,483 Yio Chu Kang Road  #04-08 ,1,88,Strata,848000,-,9636,895,02-JAN-2020,Condominium,99 Yrs From 01/12/1993,1997,Resale,N.A,26,78,787057,North East Region,Ang Mo Kio
+THE CANOPY,75 Yishun Avenue 11  #11-09 ,1,96,Strata,855000,-,8906,827,02-JAN-2020,Executive Condominium,99 Yrs From 14/06/2010,2014,Resale,HDB,27,76,768860,North Region,Yishun
+JADESCAPE,6 Shunfu Road  #19-25 ,1,132,Strata,2454100,-,18592,1727,02-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575744,Central Region,Bishan
+MELVILLE PARK,28 Simei Street 1  #07-12 ,1,130,Strata,905000,-,6962,647,02-JAN-2020,Condominium,99 Yrs From 01/09/1992,1996,Resale,N.A,18,52,529948,East Region,Tampines
+EUHABITAT,202 Jalan Eunos  #05-41 ,1,109,Strata,1300000,-,11927,1108,02-JAN-2020,Condominium,99 Yrs From 06/12/2010,2015,Resale,HDB,14,41,419545,East Region,Bedok
+SUITES AT BUKIT TIMAH,68 Jalan Jurong Kechil  #05-08 ,1,88,Strata,998000,-,11341,1054,02-JAN-2020,Apartment,Freehold,2014,Resale,N.A,21,59,596180,Central Region,Bukit Timah
+LE MERRITT,64 Lorong M Telok Kurau  #05-08 ,1,126,Strata,1650000,-,13095,1217,02-JAN-2020,Apartment,Freehold,2007,Resale,HDB,15,42,425365,East Region,Bedok
+JADESCAPE,12 Shunfu Road  #11-42 ,1,117,Strata,2131500,-,18218,1692,01-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575747,Central Region,Bishan
+JADESCAPE,6 Shunfu Road  #04-25 ,1,132,Strata,2285000,-,17311,1608,01-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575744,Central Region,Bishan
+TREASURE AT TAMPINES,51 Tampines Lane  #08-177 ,1,63,Strata,920112,-,14605,1357,01-JAN-2020,Condominium,99 Yrs From 29/11/2018,Uncompleted,New Sale,N.A,18,52,528460,East Region,Tampines
+THE FLORENCE RESIDENCES,97 Hougang Avenue 2  #13-79 ,1,87,Strata,1392000,-,16000,1486,01-JAN-2020,Apartment,99 Yrs From 24/12/2018,Uncompleted,New Sale,N.A,19,53,533753,North East Region,Hougang
+TROPIKA EAST,1 Foo Kim Lin Road  #03-13 ,1,40,Strata,640000,-,16000,1486,01-JAN-2020,Condominium,Freehold,2016,Resale,HDB,14,41,419684,East Region,Bedok
+PARC CLEMATIS,8F Jalan Lempeng  #02-58 ,1,85,Strata,1395000,-,16412,1525,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,126740,West Region,Clementi
+TREASURE AT TAMPINES,49 Tampines Lane  #05-168 ,1,63,Strata,901112,-,14303,1329,01-JAN-2020,Condominium,99 Yrs From 29/11/2018,Uncompleted,New Sale,N.A,18,52,528461,East Region,Tampines
+THE HYDE,11 Balmoral Road  #08-10 ,1,76,Strata,2391000,-,31461,2923,01-JAN-2020,Condominium,Freehold,Uncompleted,New Sale,N.A,10,25,259796,Central Region,Tanglin
+AVENUE SOUTH RESIDENCE,11 Silat Avenue  #11-36 ,1,88,Strata,1732000,-,19682,1828,01-JAN-2020,Apartment,99 Yrs From 14/08/2018,Uncompleted,New Sale,N.A,03,16,168877,Central Region,Bukit Merah
+JADESCAPE,16 Shunfu Road  #17-61 ,1,107,Strata,1941600,-,18146,1686,01-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575749,Central Region,Bishan
+MIDTOWN BAY,122 Beach Road  #10-07 ,1,45,Strata,1458400,1422400,31609,2937,01-JAN-2020,Apartment,99 Yrs From 02/01/2018,Uncompleted,New Sale,N.A,07,18,189770,Central Region,Downtown Core
+VIEW AT KISMIS,21 Lorong Kismis  #02-26 ,1,55,Strata,994000,-,18073,1679,01-JAN-2020,Apartment,99 Yrs From 31/05/2019,Uncompleted,New Sale,N.A,21,59,596187,Central Region,Bukit Timah
+DAIRY FARM RESIDENCES,6 Dairy Farm Lane  #10-03 ,1,94,Strata,1651900,-,17573,1633,01-JAN-2020,Apartment,99 Yrs From 05/12/2018,Uncompleted,New Sale,N.A,23,67,677623,West Region,Bukit Panjang
+THE GARDEN RESIDENCES,9 Serangoon North View  #03-42 ,1,74,Strata,1227400,-,16586,1541,01-JAN-2020,Apartment,99 Yrs From 30/10/2017,Uncompleted,New Sale,N.A,19,55,554347,North East Region,Serangoon
+REZI 24,39 Lorong 24 Geylang  #06-12 ,1,53,Strata,910200,-,17174,1595,01-JAN-2020,Apartment,Freehold,Uncompleted,New Sale,N.A,14,39,398636,Central Region,Geylang
+PARC CLEMATIS,8A Jalan Lempeng  #10-20 ,1,120,Strata,2020000,-,16833,1564,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128823,West Region,Clementi
+PARC CLEMATIS,8A Jalan Lempeng  #09-20 ,1,120,Strata,2020000,-,16833,1564,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128823,West Region,Clementi
+PARC CLEMATIS,8A Jalan Lempeng  #11-20 ,1,120,Strata,2025000,-,16875,1568,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128823,West Region,Clementi
+PARC CLEMATIS,8C Jalan Lempeng  #05-34 ,1,80,Strata,1355000,-,16938,1574,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128825,West Region,Clementi
+PARC CLEMATIS,8A Jalan Lempeng  #12-21 ,1,120,Strata,2084000,-,17367,1613,01-JAN-2020,Apartment,99 Yrs From 08/08/2019,Uncompleted,New Sale,N.A,05,12,128823,West Region,Clementi
+REZI 24,39 Lorong 24 Geylang  #04-04 ,1,65,Strata,1047000,-,16108,1496,01-JAN-2020,Apartment,Freehold,Uncompleted,New Sale,N.A,14,39,398636,Central Region,Geylang
+KENT RIDGE HILL RESIDENCES,52 South Buona Vista Road  #05-27 ,1,56,Strata,916000,-,16357,1520,01-JAN-2020,Apartment,99 Yrs From 10/11/2018,Uncompleted,New Sale,N.A,05,11,118168,Central Region,Queenstown
+TREASURE AT TAMPINES,49 Tampines Lane  #08-170 ,1,96,Strata,1342112,-,13980,1299,01-JAN-2020,Condominium,99 Yrs From 29/11/2018,Uncompleted,New Sale,N.A,18,52,528461,East Region,Tampines
+RIVERFRONT RESIDENCES,41 Hougang Avenue 7  #10-12 ,1,48,Strata,734000,-,15292,1421,01-JAN-2020,Apartment,99 Yrs From 31/05/2018,Uncompleted,New Sale,N.A,19,53,533813,North East Region,Hougang
+RIVERFRONT RESIDENCES,45 Hougang Avenue 7  #12-26 ,1,48,Strata,735000,-,15313,1423,01-JAN-2020,Apartment,99 Yrs From 31/05/2018,Uncompleted,New Sale,N.A,19,53,533815,North East Region,Hougang
+JADESCAPE,16 Shunfu Road  #06-60 ,1,84,Strata,1498000,-,17833,1657,01-JAN-2020,Condominium,99 Yrs From 19/06/2018,Uncompleted,New Sale,N.A,20,57,575749,Central Region,Bishan
+

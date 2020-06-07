@@ -1,0 +1,1002 @@
+Project Name,Address,No. of Units,Area (sqm),Type of Area,Transacted Price ($),Nett Price($),Unit Price ($ psm),Unit Price ($ psf),Sale Date,Property Type,Tenure,Completion Date,Type of Sale,Purchaser Address Indicator,Postal District,Postal Sector,Postal Code,Planning Region,Planning Area
+DAKOTA RESIDENCES,42 Dakota Crescent  #10-17 ,1,122,Strata,1800000,-,14754,1371,16-APR-2018,Condominium,99 Yrs From 11/09/2007,2010,Resale,HDB,14,39,399940,Central Region,Geylang
+GLENTREES,11G Mount Sinai Lane  #04-36 ,1,125,Strata,1770000,-,14160,1315,16-APR-2018,Condominium,999 Yrs From 17/09/1885,2005,Resale,HDB,10,27,277056,Central Region,Bukit Timah
+HOLLAND GROVE,93 Holland Grove View ,1,200,Land,2830000,-,14150,1315,16-APR-2018,Semi-Detached House,99 Yrs From 21/04/1994,1997,Resale,Private,10,27,276250,Central Region,Bukit Timah
+PANDAN VALLEY,3 Pandan Valley  #07-303A ,1,163,Strata,2000000,-,12270,1140,16-APR-2018,Condominium,Freehold,1978,Resale,Private,21,59,597627,Central Region,Bukit Timah
+THE MINTON,10D Hougang Street 11  #13-48 ,1,65,Strata,730000,-,11231,1043,16-APR-2018,Condominium,99 Yrs From 27/07/2007,2013,Resale,Private,19,53,534076,North East Region,Hougang
+D'NEST,131 Pasir Ris Grove  #08-16 ,1,45,Strata,618000,-,13733,1276,16-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518130,East Region,Pasir Ris
+RESIDENCES 88,88 Lorong Marican  #05-03 ,1,75,Strata,790000,-,10533,979,16-APR-2018,Apartment,Freehold,2013,Resale,Private,14,41,417297,East Region,Bedok
+N.A.,25 Jalan Lengkok Sembawang ,1,300,Land,2750000,-,9173,852,16-APR-2018,Semi-Detached House,Freehold,1967,Resale,Private,27,75,759214,North Region,Mandai
+N.A.,17A Lengkong Enam ,1,312,Land,4350000,-,13929,1294,16-APR-2018,Semi-Detached House,Freehold,1988,Resale,Private,14,41,417583,East Region,Bedok
+CASA AROMA,21 Chiku Road  #01-01 ,1,94,Strata,1050000,-,11170,1038,16-APR-2018,Apartment,Freehold,2003,Resale,Private,15,42,429433,Central Region,Geylang
+EDEN PARK,888 Old Holland Road ,1,353,Land,5700000,-,16134,1499,16-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,10,27,278686,Central Region,Bukit Timah
+NIM COLLECTION,55 Nim Rise ,1,183,Land,2795000,-,15273,1419,16-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,HDB,28,80,804447,North East Region,Serangoon
+KALLANG RIVERSIDE,51 Kampong Bugis  #11-03 ,1,106,Strata,2452634,-,23138,2150,16-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,12,33,338986,Central Region,Kallang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #04-25 ,1,116,Strata,2329000,-,20078,1865,16-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117342,Central Region,Queenstown
+SEMBAWANG SPRINGS ESTATE,36 Jalan Kemuning ,1,160,Land,1850000,-,11584,1076,16-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,27,76,769758,North Region,Sembawang
+CONCOURSE SKYLINE,296 Beach Road  #15-07 ,1,109,Strata,1880000,-,17248,1602,16-APR-2018,Apartment,99 Yrs From 13/03/2008,2014,Resale,Private,07,19,199599,Central Region,Kallang
+HILLINGTON GREEN,53 Hillview Avenue  #01-10 ,1,179,Strata,1910000,-,10670,991,16-APR-2018,Condominium,999 Yrs From 19/05/1883,2002,Resale,Private,23,66,669566,West Region,Bukit Batok
+LE WOOD,23 Hindhede Drive  #02-04 ,1,116,Strata,895000,-,7716,717,16-APR-2018,Condominium,99 Yrs From 11/03/1999,2000,Resale,Private,21,58,589320,West Region,Bukit Panjang
+ARTRA,10 Alexandra View  #35-06 ,1,77,Strata,1674100,-,21742,2020,16-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+HILLSTA,66 Phoenix Road  #17-01 ,1,80,Strata,950000,-,11875,1103,16-APR-2018,Condominium,99 Yrs From 03/10/2011,2016,Resale,HDB,23,66,668201,West Region,Bukit Batok
+THE VISION,79 West Coast Crescent  #03-03 ,1,76,Strata,1000000,-,13158,1222,16-APR-2018,Condominium,99 Yrs From 25/06/2008,2014,Resale,HDB,05,12,126793,West Region,Clementi
+THE CLEARWATER,4 Bedok Reservoir View  #03-11 ,1,177,Strata,1480000,-,8362,777,16-APR-2018,Condominium,99 Yrs From 18/07/1997,2001,Resale,HDB,16,47,479233,East Region,Bedok
+IVORY HEIGHTS,117 Jurong East Street 13  #23-143 ,1,158,Strata,1600000,-,10127,941,16-APR-2018,Condominium,100 Yrs From 01/02/1986,Unknown,Resale,Private,22,60,600117,West Region,Jurong East
+EMERALD GARDEN,33 Club Street  #09-24 ,1,88,Strata,1880000,-,21364,1985,16-APR-2018,Condominium,999 Yrs From 01/10/1827,1999,Resale,Private,01,06,069415,Central Region,Outram
+N.A.,8 Lorong 22 Geylang ,1,154,Land,2330000,-,15150,1407,16-APR-2018,Terrace House,Freehold,1955,Resale,Private,14,39,398668,Central Region,Geylang
+PARC BOTANNIA,10 Fernvale Street  #09-01 ,1,47,Strata,660000,-,14043,1305,16-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797390,North East Region,Sengkang
+THE HILLSIDE,341 Upper Bukit Timah Road  #07-05 ,1,122,Strata,1430000,-,11721,1089,16-APR-2018,Condominium,Freehold,2001,Resale,HDB,21,58,588195,West Region,Bukit Batok
+L'VIV,23 Newton Road  #05-04 ,1,57,Strata,1260000,-,22105,2054,16-APR-2018,Apartment,Freehold,2013,Resale,Private,11,30,307955,Central Region,Novena
+COMPASS HEIGHTS,9 Sengkang Square  #07-01 ,1,98,Strata,885000,-,9031,839,16-APR-2018,Apartment,99 Yrs From 30/04/2000,2002,Resale,HDB,19,54,545075,North East Region,Sengkang
+THE PALETTE,117 Pasir Ris Grove  #10-55 ,1,99,Strata,1080000,-,10909,1013,16-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,Private,18,51,518173,East Region,Pasir Ris
+EON SHENTON,70 Shenton Way  #27-05 ,1,50,Strata,1210000,-,24200,2248,16-APR-2018,Apartment,99 Yrs From 06/10/2011,2017,Sub Sale,HDB,02,07,079118,Central Region,Downtown Core
+ONE JERVOIS,5 Jervois Close  #07-11 ,1,101,Strata,1850000,-,18317,1702,16-APR-2018,Condominium,Freehold,2009,Resale,Private,10,24,249101,Central Region,Tanglin
+PARC BOTANNIA,12 Fernvale Street  #16-10 ,1,47,Strata,679000,-,14447,1342,16-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797391,North East Region,Sengkang
+WATERVIEW,73 Tampines Avenue 1  #01-03 ,1,132,Strata,1350000,-,10227,950,16-APR-2018,Condominium,99 Yrs From 16/06/2010,2014,Resale,HDB,18,52,529780,East Region,Tampines
+HILLVIEW REGENCY,28 Bukit Batok East Avenue 2  #13-20 ,1,104,Strata,885000,-,8510,791,16-APR-2018,Condominium,99 Yrs From 20/06/2000,2006,Resale,HDB,23,65,659921,West Region,Bukit Batok
+ONE JERVOIS,9 Jervois Close  #11-16 ,1,119,Strata,2480000,-,20840,1936,16-APR-2018,Condominium,Freehold,2009,Resale,Private,10,24,249105,Central Region,Tanglin
+RIVER ISLES,62 Edgedale Plains  #01-21 ,1,116,Strata,1170000,-,10086,937,16-APR-2018,Condominium,99 Yrs From 06/02/2012,2015,Resale,Private,19,82,828730,North East Region,Punggol
+YISHUN SAPPHIRE,48 Canberra Drive  #13-15 ,1,110,Strata,860000,-,7818,726,16-APR-2018,Condominium,99 Yrs From 16/02/1998,2001,Resale,HDB,27,76,768437,North Region,Yishun
+OASIS @ ELIAS,66 Elias Road  #07-09 ,1,113,Strata,975000,-,8628,802,16-APR-2018,Condominium,99 Yrs From 17/03/2008,2011,Resale,Private,18,51,519941,East Region,Pasir Ris
+SOUTHAVEN I,43 Hindhede Walk  #10-03 ,1,122,Strata,1168000,-,9574,889,16-APR-2018,Condominium,99 Yrs From 01/08/1994,1997,Resale,Private,21,58,587973,West Region,Bukit Panjang
+LAKEHOLMZ,82 Corporation Road  #11-03 ,1,122,Strata,1190000,-,9754,906,16-APR-2018,Condominium,99 Yrs From 29/10/2001,2005,Resale,HDB,22,64,649820,West Region,Jurong West
+CYAN,8 Keng Chin Road  #10-13 ,1,63,Strata,1350000,-,21429,1991,16-APR-2018,Condominium,Freehold,2014,Resale,Private,10,25,258710,Central Region,Tanglin
+BLU CORAL,127 Lorong L Telok Kurau  #04-04 ,1,106,Strata,1260000,-,11887,1104,16-APR-2018,Condominium,Freehold,2009,Resale,HDB,15,42,425562,East Region,Bedok
+KOVAN MELODY,19 Kovan Road  #17-09 ,1,120,Strata,1420000,-,11833,1099,16-APR-2018,Condominium,99 Yrs From 20/01/2004,2006,Resale,HDB,19,54,548191,North East Region,Hougang
+VIVACE,19 Tong Watt Road  #07-05 ,1,41,Strata,900000,-,21951,2039,16-APR-2018,Apartment,999 Yrs From 01/07/1841,2012,Resale,HDB,09,23,238011,Central Region,River Valley
+ECOVILLE,10 Martaban Road  #05-01 ,1,110,Strata,1430000,-,13000,1208,16-APR-2018,Apartment,Freehold,2008,Resale,Private,12,32,328668,Central Region,Novena
+HOMEY GARDENS,4 Lorong M Telok Kurau  #02-06 ,1,95,Strata,1080000,-,11368,1056,16-APR-2018,Apartment,Freehold,2001,Resale,Private,15,42,425283,East Region,Bedok
+THE GARDENS AT BISHAN,3 Sin Ming Walk  #13-26 ,1,82,Strata,953000,-,11622,1080,16-APR-2018,Condominium,99 Yrs From 22/03/1997,2004,Resale,HDB,20,57,575575,Central Region,Bishan
+VENTURA VIEW,16 Rambutan Road  #05-02 ,1,149,Strata,1400000,-,9396,873,16-APR-2018,Apartment,Freehold,2012,Resale,Private,15,42,424292,Central Region,Geylang
+CARISSA PARK CONDOMINIUM,4 Flora Drive  #02-62 ,1,123,Strata,1096600,-,8915,828,16-APR-2018,Condominium,Freehold,2001,Resale,HDB,17,50,507026,East Region,Pasir Ris
+SELETAR HILLS ESTATE,21 Jalan Kelulut ,1,324,Land,3280000,-,10133,941,16-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,28,80,809038,North East Region,Serangoon
+N.A.,24 Lorong Pisang Batu ,1,275,Land,4040000,-,14691,1365,16-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,21,59,597931,Central Region,Bukit Timah
+THE ESPARIS,9B Pasir Ris Drive 4  #03-25 ,1,136,Strata,1068000,-,7853,730,16-APR-2018,Executive Condominium,99 Yrs From 21/01/2002,2005,Resale,HDB,18,51,519464,East Region,Pasir Ris
+QUINTERRA,359 Holland Road  #02-03 ,1,156,Strata,1910000,-,12244,1137,16-APR-2018,Apartment,99 Yrs From 08/03/2006,2009,Resale,Private,10,27,278636,Central Region,Bukit Timah
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-01 ,1,96,Strata,1814000,-,18896,1755,16-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117370,Central Region,Queenstown
+FOUR SEASONS PARK,10 Cuscaden Walk  #04-01 ,1,210,Strata,5500000,-,26190,2433,16-APR-2018,Condominium,Freehold,1994,Resale,Private,10,24,249693,Central Region,River Valley
+PARC BOTANNIA,10 Fernvale Street  #11-01 ,1,47,Strata,667000,-,14191,1318,16-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797390,North East Region,Sengkang
+V ON SHENTON,5A Shenton Way  #51-14 ,1,42,Strata,1458000,-,34714,3225,16-APR-2018,Apartment,99 Yrs From 29/11/2011,2017,New Sale,N.A,01,06,068814,Central Region,Downtown Core
+BEACON HEIGHTS,8 Mar Thoma Road  #19-08 ,1,62,Strata,788888,-,12724,1182,16-APR-2018,Condominium,999 Yrs From 02/06/1882,2012,Resale,Private,12,32,328689,Central Region,Kallang
+D'NEST,139 Pasir Ris Grove  #07-48 ,1,88,Strata,965000,-,10966,1019,16-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,Private,18,51,518134,East Region,Pasir Ris
+SIGNATURE AT YISHUN,37 Yishun Street 51  #02-34 ,1,102,Strata,858000,-,8412,781,16-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767993,North Region,Yishun
+URBAN SUITES,3 Hullet Road  #10-04 ,1,97,Strata,3200000,-,32990,3065,16-APR-2018,Condominium,Freehold,2013,Resale,Private,09,22,229158,Central Region,Newton
+N.A.,4 Jalan Tari Serimpi ,1,256,Land,2650000,-,10356,962,16-APR-2018,Terrace House,999 Yrs From 01/01/1879,1993,Resale,HDB,28,79,799092,North East Region,Sengkang
+REGENTVILLE,6 Hougang Street 92  #10-01 ,1,107,Strata,878000,-,8206,762,16-APR-2018,Apartment,99 Yrs From 24/04/1996,1999,Resale,Private,19,53,538685,North East Region,Hougang
+THE SUNNY SPRING,50 Lorong 40 Geylang  #04-17 ,1,111,Strata,1150000,-,10360,963,16-APR-2018,Apartment,Freehold,1998,Resale,Private,14,39,398074,Central Region,Geylang
+FORESQUE RESIDENCES,109 Petir Road  #24-18 ,1,178,Strata,1850000,-,10393,966,16-APR-2018,Condominium,99 Yrs From 10/01/2011,2014,Resale,Private,23,67,678276,West Region,Bukit Panjang
+IRIDIUM,11 Lincoln Road  #04-03 ,1,100,Strata,1660000,-,16600,1542,16-APR-2018,Apartment,Freehold,2009,Resale,HDB,11,30,308349,Central Region,Novena
+STRATUM,94 Elias Road  #05-46 ,1,199,Strata,1850000,-,9296,864,16-APR-2018,Condominium,99 Yrs From 11/07/2012,2016,Sub Sale,Private,18,51,519952,East Region,Pasir Ris
+PARC BOTANNIA,10 Fernvale Street  #09-03 ,1,91,Strata,1294112,-,14221,1321,16-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797390,North East Region,Sengkang
+THE ESTUARY,95 Yishun Avenue 1  #14-29 ,1,86,Strata,910000,-,10581,983,16-APR-2018,Condominium,99 Yrs From 25/06/2008,2013,Resale,HDB,27,76,769137,North Region,Yishun
+RIVERSOUND RESIDENCE,3 Sengkang East Avenue  #10-12 ,1,84,Strata,910000,-,10833,1006,16-APR-2018,Condominium,99 Yrs From 26/08/2011,2015,Resale,HDB,19,54,544813,North East Region,Sengkang
+D'SUNRISE,8 Joo Chiat Lane  #02-03 ,1,79,Strata,1030000,-,13038,1211,16-APR-2018,Apartment,Freehold,2007,Resale,Private,15,42,428094,Central Region,Geylang
+DLV.,70 Dalvey Road  #02-09 ,1,73,Strata,1180000,-,16164,1502,16-APR-2018,Apartment,Freehold,2005,Resale,Private,10,25,259469,Central Region,Tanglin
+ASIA GARDENS,42 ENBLOC Everton Road  #12-03 ETC ,84,12488,Strata,343000000,-,27466,2552,16-APR-2018,Condominium,Freehold,1985,Resale,Private,02,08,089394,Central Region,Bukit Merah
+THE ALCOVE,10 Lorong 27 Geylang  #05-02 ,1,128,Strata,1112000,-,8688,807,16-APR-2018,Apartment,99 Yrs From 06/10/2000,2004,Resale,HDB,14,38,388199,Central Region,Geylang
+N.A.,383D Pasir Panjang Road ,1,176,Strata,1700000,-,9659,897,16-APR-2018,Terrace House,Freehold,1992,Resale,Private,05,11,118718,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #14-03 ,1,108,Strata,2045000,-,18935,1759,16-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PANDAN VALLEY,3 Pandan Valley  #16-306A ,1,124,Strata,1658000,-,13371,1242,16-APR-2018,Condominium,Freehold,1978,Resale,Private,21,59,597627,Central Region,Bukit Timah
+WHITEWATER,29 Pasir Ris Street 72  #04-19 ,1,111,Strata,830000,-,7477,695,16-APR-2018,Executive Condominium,99 Yrs From 23/07/2002,2005,Resale,HDB,18,51,518768,East Region,Pasir Ris
+THE MORNING DEW,23 Jalan Tari Payong ,1,172,Land,2338000,-,13585,1262,16-APR-2018,Terrace House,999 Yrs From 01/01/1879,2003,Resale,Private,28,79,799269,North East Region,Sengkang
+FOREST WOODS,15 Lorong Lew Lian  #03-29 ,1,88,Strata,1445000,-,16420,1525,16-APR-2018,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,Private,19,53,533853,North East Region,Serangoon
+SKY VUE,3 Bishan Street 15  #20-15 ,1,63,Strata,1145000,-,18175,1688,16-APR-2018,Condominium,99 Yrs From 04/03/2013,2016,Resale,HDB,20,57,573911,Central Region,Bishan
+THE SUNSHINE,1 Sunshine Terrace  #10-03 ,1,116,Strata,1380000,-,11897,1105,16-APR-2018,Apartment,Freehold,2003,Resale,HDB,19,53,535689,North East Region,Serangoon
+SOPHIA RESIDENCE,9 Sophia Road  #06-22 ,1,135,Strata,2300000,-,17037,1583,16-APR-2018,Condominium,Freehold,2014,Resale,Private,09,22,228193,Central Region,Rochor
+RITZ MANSIONS,346 Balestier Road  #05-03 ,1,119,Strata,1500000,-,12605,1171,16-APR-2018,Apartment,Freehold,1995,Resale,Private,12,32,329776,Central Region,Novena
+THE METROPOLITAN CONDOMINIUM,6 Alexandra View  #27-01 ,1,73,Strata,1110000,-,15205,1413,16-APR-2018,Condominium,99 Yrs From 17/02/2006,2009,Resale,HDB,03,15,158746,Central Region,Bukit Merah
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #12-27 ,1,138,Strata,1463200,-,10603,985,16-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+SPRINGDALE CONDOMINIUM,49 Hindhede Walk  #01-09 ,1,117,Strata,1320000,-,11282,1048,16-APR-2018,Condominium,999 Yrs From 21/06/1877,1998,Resale,Private,21,58,587976,West Region,Bukit Panjang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #14-04 ,1,63,Strata,1355000,-,21508,1998,16-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #06-25 ,1,108,Strata,2050000,-,18981,1763,16-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+EIGHT RIVERSUITES,8 Whampoa East  #02-23 ,1,100,Strata,1320000,-,13200,1226,16-APR-2018,Condominium,99 Yrs From 11/07/2011,2016,Resale,HDB,12,33,338520,Central Region,Kallang
+FOREST WOODS,17 Lorong Lew Lian  #08-38 ,1,86,Strata,1430000,-,16628,1545,16-APR-2018,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,Private,19,53,533852,North East Region,Serangoon
+SUMMERDALE,8 Boon Lay Drive  #07-21 ,1,130,Strata,925000,-,7115,661,16-APR-2018,Executive Condominium,99 Yrs From 22/09/1997,2000,Resale,Private,22,64,649928,West Region,Jurong West
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #09-02 ,1,103,Strata,1100600,-,10685,993,16-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+CITY SUITES,235 Balestier Road  #04-02 ,1,49,Strata,929888,-,18977,1763,16-APR-2018,Apartment,Freehold,2017,New Sale,Private,12,32,329699,Central Region,Novena
+PARC BOTANNIA,10 Fernvale Street  #04-06 ,1,131,Strata,1673000,-,12771,1186,15-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797390,North East Region,Sengkang
+THE TAPESTRY,51 Tampines Street 86  #11-09 ,1,41,Strata,653670,-,15943,1481,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #12-06 ,1,62,Strata,1345000,-,21694,2015,15-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+NIM COLLECTION,9 Nim Rise ,1,380,Land,3980000,-,10474,973,15-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,N.A,28,80,804424,North East Region,Serangoon
+SIGNATURE AT YISHUN,39 Yishun Street 51  #06-37 ,1,102,Strata,851000,-,8343,775,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,Private,27,76,767994,North Region,Yishun
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #13-14 ,1,113,Strata,1186200,-,10497,975,15-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+SIGNATURE AT YISHUN,29 Yishun Street 51  #02-17 ,1,100,Strata,846500,-,8465,786,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767989,North Region,Yishun
+PARC BOTANNIA,18 Fernvale Street  #12-29 ,1,81,Strata,1179112,-,14557,1352,15-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797394,North East Region,Sengkang
+THE TAPESTRY,51 Tampines Street 86  #08-05 ,1,56,Strata,838400,-,14971,1391,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+THE TAPESTRY,53 Tampines Street 86  #04-19 ,1,92,Strata,1287090,-,13990,1300,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528540,East Region,Tampines
+NIM COLLECTION,39 Nim Terrace ,1,216,Land,2958000,-,13694,1272,15-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,HDB,28,80,804379,North East Region,Serangoon
+THE TAPESTRY,63 Tampines Street 86  #12-56 ,1,92,Strata,1283040,-,13946,1296,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528511,East Region,Tampines
+SIGNATURE AT YISHUN,37 Yishun Street 51  #04-34 ,1,102,Strata,857000,-,8402,781,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767993,North Region,Yishun
+PARC BOTANNIA,16 Fernvale Street  #04-21 ,1,116,Strata,1531000,-,13198,1226,15-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797393,North East Region,Sengkang
+KALLANG RIVERSIDE,51 Kampong Bugis  #13-05 ,1,96,Strata,2205683,-,22976,2135,15-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,12,33,338986,Central Region,Kallang
+111 EMERALD HILL,111 Emerald Hill Road  #10-01 ,1,232,Strata,6304100,-,27173,2524,15-APR-2018,Apartment,Freehold,2011,Resale,Private,09,22,229391,Central Region,Newton
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #03-08 ,1,108,Strata,1071700,-,9923,922,15-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+THE VERANDAH RESIDENCES,225 Pasir Panjang Road  #04-09 ,1,120,Strata,2278000,-,18983,1764,15-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,117370,Central Region,Queenstown
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #13-04 ,1,63,Strata,1355000,-,21508,1998,15-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+SIGNATURE AT YISHUN,39 Yishun Street 51  #07-37 ,1,102,Strata,854500,-,8377,778,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,Private,27,76,767994,North Region,Yishun
+SEASIDE RESIDENCES,18 Siglap Link  #02-36 ,1,52,Strata,985000,-,18942,1760,15-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,HDB,15,44,448873,East Region,Bedok
+BIJOU,2 Jalan Mat Jambol  #03-06 ,1,53,Strata,1088000,-,20528,1907,15-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,119554,Central Region,Queenstown
+SIGNATURE AT YISHUN,21 Yishun Street 51  #01-01 ,1,102,Strata,853000,-,8363,777,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,768085,North Region,Yishun
+N.A.,186 Joo Chiat Place ,1,129,Strata,1135000,-,8798,817,15-APR-2018,Apartment,Freehold,1954,Resale,HDB,15,42,427898,Central Region,Geylang
+SEASIDE RESIDENCES,18 Siglap Link  #06-30 ,1,55,Strata,986000,-,17927,1665,15-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448873,East Region,Bedok
+NIM COLLECTION,31 Nim Rise ,1,183,Land,2780000,-,15191,1411,15-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804435,North East Region,Serangoon
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #11-28 ,1,89,Strata,994300,-,11172,1038,15-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+SERANGOON GARDEN ESTATE,63 Cowdray Avenue ,1,201,Land,3430000,-,17065,1585,15-APR-2018,Semi-Detached House,999 Yrs From 01/01/1954,Unknown,Resale,Private,19,55,558064,North East Region,Serangoon
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #02-10 ,1,63,Strata,1197000,-,19000,1765,15-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+SIGNATURE AT YISHUN,41 Yishun Street 51  #04-43 ,1,102,Strata,844500,-,8279,769,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,N.A,27,76,767995,North Region,Yishun
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #04-31 ,1,100,Strata,987300,-,9873,917,15-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #02-36 ,1,89,Strata,920300,-,10340,961,15-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+THE TAPESTRY,57 Tampines Street 86  #05-27 ,1,133,Strata,1690470,-,12710,1181,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528542,East Region,Tampines
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #34-08 ,1,125,Strata,2097000,-,16776,1559,15-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,HDB,05,12,129961,West Region,Clementi
+PARC LIFE,25 Sembawang Crescent  #01-10 ,1,70,Strata,660000,-,9429,876,15-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,Private,27,75,757055,North Region,Sembawang
+THE VERANDAH RESIDENCES,229 Pasir Panjang Road  #02-19 ,1,101,Strata,1880000,-,18614,1729,15-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,117342,Central Region,Queenstown
+SIGNATURE AT YISHUN,31 Yishun Street 51  #02-21 ,1,102,Strata,875500,-,8583,797,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767990,North Region,Yishun
+PARC BOTANNIA,16 Fernvale Street  #17-19 ,1,54,Strata,826000,-,15296,1421,15-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797393,North East Region,Sengkang
+SIGNATURE AT YISHUN,31 Yishun Street 51  #01-21 ,1,102,Strata,886500,-,8691,807,15-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767990,North Region,Yishun
+TANGLIN PARK,3 Ridley Park  #02-03 ,1,96,Strata,2060000,-,21458,1994,15-APR-2018,Condominium,Freehold,1989,Resale,Private,10,24,248471,Central Region,Tanglin
+THE TAPESTRY,51 Tampines Street 86  #14-01 ,1,44,Strata,694980,-,15795,1467,15-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528539,East Region,Tampines
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #12-26 ,1,100,Strata,1061300,-,10613,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #06-08 ,1,108,Strata,1076200,-,9965,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #10-40 ,1,89,Strata,983300,-,11048,1026,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #01-40 ,1,89,Strata,947300,-,10644,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #03-31 ,1,100,Strata,982800,-,9828,913,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #14-23 ,1,119,Strata,1248300,-,10490,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #12-35 ,1,100,Strata,1066500,-,10665,991,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #13-31 ,1,100,Strata,1032300,-,10323,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #09-29 ,1,89,Strata,956300,-,10745,998,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+THE VERANDAH RESIDENCES,227 Pasir Panjang Road  #04-11 ,1,101,Strata,1958000,-,19386,1801,14-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,117341,Central Region,Queenstown
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #08-35 ,1,100,Strata,1048500,-,10485,974,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #07-09 ,1,84,Strata,888200,-,10574,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #10-26 ,1,100,Strata,1052300,-,10523,978,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #12-19 ,1,100,Strata,1058600,-,10586,983,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #03-28 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #02-20 ,1,89,Strata,876300,-,9846,915,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #09-22 ,1,100,Strata,1044700,-,10447,971,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #09-32 ,1,89,Strata,938100,-,10540,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #15-39 ,1,138,Strata,1463900,-,10608,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #04-27 ,1,138,Strata,1389100,-,10066,935,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #13-36 ,1,89,Strata,974300,-,10947,1017,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #15-31 ,1,100,Strata,1041300,-,10413,967,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #12-23 ,1,119,Strata,1275400,-,10718,996,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #10-09 ,1,84,Strata,904200,-,10764,1000,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #13-39 ,1,138,Strata,1451900,-,10521,977,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #06-36 ,1,89,Strata,938300,-,10543,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #07-25 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #06-29 ,1,89,Strata,938300,-,10543,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #09-14 ,1,113,Strata,1166200,-,10320,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #05-38 ,1,100,Strata,1025300,-,10253,953,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #07-03 ,1,84,Strata,854800,-,10176,945,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #07-34 ,1,119,Strata,1245000,-,10462,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+THE TAPESTRY,51 Tampines Street 86  #06-04 ,1,56,Strata,800800,-,14300,1329,14-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528539,East Region,Tampines
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #08-12 ,1,84,Strata,854600,-,10174,945,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+PARC BOTANNIA,16 Fernvale Street  #17-20 ,1,107,Strata,1485000,-,13879,1289,14-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797393,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #08-36 ,1,89,Strata,980400,-,11016,1023,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+SEASIDE RESIDENCES,16 Siglap Link  #02-25 ,1,52,Strata,985000,-,18942,1760,14-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448872,East Region,Bedok
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #04-38 ,1,100,Strata,1016300,-,10163,944,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #06-17 ,1,89,Strata,920100,-,10338,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #01-33 ,1,89,Strata,947300,-,10644,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #03-39 ,1,138,Strata,1391900,-,10086,937,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+NORTHWAVE,109 Woodlands View  #08-18 ,1,93,Strata,836000,-,8989,835,14-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,N.A,25,73,737712,North Region,Woodlands
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #16-34 ,1,119,Strata,1295000,-,10882,1011,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #15-14 ,1,113,Strata,1196200,-,10586,983,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #05-28 ,1,89,Strata,933800,-,10492,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #13-08 ,1,108,Strata,1112200,-,10298,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #09-30 ,1,110,Strata,1168000,-,10618,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #13-23 ,1,119,Strata,1243300,-,10448,971,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #05-35 ,1,100,Strata,1030500,-,10305,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #11-16 ,1,103,Strata,1077500,-,10461,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #13-35 ,1,100,Strata,1071000,-,10710,995,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #05-27 ,1,138,Strata,1360600,-,9859,916,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #05-31 ,1,100,Strata,991800,-,9918,921,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #01-09 ,1,84,Strata,872200,-,10383,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #06-14 ,1,113,Strata,1146200,-,10143,942,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #09-20 ,1,89,Strata,912300,-,10251,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #16-16 ,1,103,Strata,1133000,-,11000,1022,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #10-02 ,1,103,Strata,1073000,-,10417,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #06-25 ,1,89,Strata,938300,-,10543,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #04-40 ,1,89,Strata,980400,-,11016,1023,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #10-11 ,1,113,Strata,1159300,-,10259,953,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #10-10 ,1,103,Strata,1109800,-,10775,1001,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #09-24 ,1,108,Strata,1094200,-,10131,941,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #08-03 ,1,84,Strata,862800,-,10271,954,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #12-30 ,1,110,Strata,1183000,-,10755,999,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #16-39 ,1,138,Strata,1469900,-,10651,990,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #11-03 ,1,84,Strata,901000,-,10726,996,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #15-27 ,1,138,Strata,1438600,-,10425,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #03-30 ,1,110,Strata,1123000,-,10209,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #08-01 ,1,89,Strata,951800,-,10694,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #04-15 ,1,110,Strata,1106600,-,10060,935,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #09-12 ,1,84,Strata,858600,-,10221,950,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #11-10 ,1,103,Strata,1082000,-,10505,976,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #10-16 ,1,103,Strata,1073000,-,10417,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #07-02 ,1,103,Strata,1055000,-,10243,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #13-03 ,1,84,Strata,882800,-,10510,976,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #15-18 ,1,110,Strata,1166600,-,10605,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #07-21 ,1,103,Strata,1065000,-,10340,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #11-36 ,1,89,Strata,965300,-,10846,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #16-11 ,1,113,Strata,1189300,-,10525,978,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #12-37 ,1,89,Strata,969800,-,10897,1012,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #08-23 ,1,119,Strata,1218300,-,10238,951,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #06-26 ,1,100,Strata,1060700,-,10607,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #08-22 ,1,100,Strata,1009800,-,10098,938,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #03-24 ,1,108,Strata,1062700,-,9840,914,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #08-18 ,1,110,Strata,1165500,-,10595,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #16-24 ,1,108,Strata,1125700,-,10423,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #16-19 ,1,100,Strata,1045800,-,10458,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #13-21 ,1,103,Strata,1096500,-,10646,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #05-19 ,1,100,Strata,991800,-,9918,921,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #07-39 ,1,138,Strata,1458400,-,10568,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #14-19 ,1,100,Strata,1036800,-,10368,963,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #04-33 ,1,89,Strata,980400,-,11016,1023,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #12-06 ,1,84,Strata,862500,-,10268,954,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #04-13 ,1,103,Strata,1051500,-,10209,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #16-08 ,1,108,Strata,1125700,-,10423,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #05-37 ,1,89,Strata,961800,-,10807,1004,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #05-22 ,1,100,Strata,991800,-,9918,921,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #07-11 ,1,113,Strata,1129300,-,9994,928,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #14-27 ,1,138,Strata,1432600,-,10381,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #12-36 ,1,89,Strata,998900,-,11224,1043,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #07-35 ,1,100,Strata,1039500,-,10395,966,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #16-04 ,1,63,Strata,1385000,-,21984,2042,14-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #11-32 ,1,89,Strata,947100,-,10642,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #05-11 ,1,113,Strata,1119300,-,9905,920,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #15-08 ,1,108,Strata,1121200,-,10381,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #02-23 ,1,119,Strata,1173300,-,9860,916,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #16-33 ,1,89,Strata,1010300,-,11352,1055,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #07-13 ,1,103,Strata,1065000,-,10340,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #03-21 ,1,103,Strata,1047000,-,10165,944,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #08-14 ,1,113,Strata,1196000,-,10584,983,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #06-38 ,1,100,Strata,1029800,-,10298,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #04-12 ,1,56,Strata,1102000,-,19679,1828,14-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118584,Central Region,Queenstown
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #05-30 ,1,110,Strata,1167000,-,10609,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #07-22 ,1,100,Strata,1000800,-,10008,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #13-15 ,1,110,Strata,1191300,-,10830,1006,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #12-31 ,1,100,Strata,1058600,-,10586,983,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #10-31 ,1,100,Strata,1018800,-,10188,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #06-11 ,1,113,Strata,1124300,-,9950,924,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #16-31 ,1,100,Strata,1045800,-,10458,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #12-40 ,1,89,Strata,992300,-,11149,1036,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #02-39 ,1,138,Strata,1427500,-,10344,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #02-04 ,1,89,Strata,876300,-,9846,915,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #12-39 ,1,138,Strata,1445900,-,10478,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #13-27 ,1,138,Strata,1426600,-,10338,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #14-11 ,1,113,Strata,1179300,-,10436,970,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #14-39 ,1,138,Strata,1457900,-,10564,981,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #03-18 ,1,110,Strata,1101600,-,10015,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #08-19 ,1,100,Strata,1009800,-,10098,938,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #02-24 ,1,108,Strata,1089900,-,10092,938,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #06-18 ,1,110,Strata,1116600,-,10151,943,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #01-12 ,1,84,Strata,855500,-,10185,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #10-28 ,1,89,Strata,960800,-,10796,1003,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544591,North East Region,Sengkang
+SEASIDE RESIDENCES,10 Siglap Link  #05-01 ,1,105,Strata,1780000,-,16952,1575,14-APR-2018,Apartment,99 Yrs From 18/04/2016,Uncompleted,New Sale,Private,15,44,448869,East Region,Bedok
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #06-22 ,1,100,Strata,996300,-,9963,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #04-11 ,1,113,Strata,1114300,-,9861,916,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #01-04 ,1,89,Strata,885300,-,9947,924,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #11-20 ,1,89,Strata,921300,-,10352,962,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #05-24 ,1,108,Strata,1071700,-,9923,922,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #14-08 ,1,108,Strata,1116700,-,10340,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #16-13 ,1,103,Strata,1110000,-,10777,1001,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #04-32 ,1,89,Strata,911100,-,10237,951,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #12-08 ,1,108,Strata,1107700,-,10256,953,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #04-18 ,1,110,Strata,1106600,-,10060,935,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #07-40 ,1,89,Strata,965300,-,10846,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #06-21 ,1,103,Strata,1060500,-,10296,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #13-40 ,1,89,Strata,996800,-,11200,1041,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #02-28 ,1,89,Strata,947900,-,10651,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+PARKSUITES,26 Holland Grove Road  #02-32 ,1,73,Strata,1650490,1599871,21916,2036,14-APR-2018,Apartment,110 Yrs From 01/11/2017,Uncompleted,New Sale,Private,10,27,278804,Central Region,Bukit Timah
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #01-27 ,1,138,Strata,1342600,-,9729,904,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #15-30 ,1,110,Strata,1233900,-,11217,1042,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #02-35 ,1,100,Strata,1047500,-,10475,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #12-18 ,1,110,Strata,1151600,-,10469,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #14-18 ,1,110,Strata,1161600,-,10560,981,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #05-36 ,1,89,Strata,961800,-,10807,1004,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #08-40 ,1,89,Strata,974300,-,10947,1017,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #10-23 ,1,119,Strata,1228300,-,10322,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #13-20 ,1,89,Strata,930300,-,10453,971,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #12-24 ,1,108,Strata,1107700,-,10256,953,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #04-23 ,1,119,Strata,1183300,-,9944,924,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #14-35 ,1,100,Strata,1075500,-,10755,999,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #07-33 ,1,89,Strata,965300,-,10846,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+SIGNATURE AT YISHUN,33 Yishun Street 51  #12-28 ,1,102,Strata,940500,-,9221,857,14-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,N.A,27,76,767991,North Region,Yishun
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #07-37 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #05-23 ,1,119,Strata,1223900,-,10285,955,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #05-26 ,1,100,Strata,1025300,-,10253,953,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #10-35 ,1,100,Strata,1057500,-,10575,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #15-36 ,1,89,Strata,1012800,-,11380,1057,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #07-28 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #07-30 ,1,110,Strata,1177300,-,10703,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #07-36 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #01-23 ,1,119,Strata,1178300,-,9902,920,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #16-15 ,1,110,Strata,1171600,-,10651,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #11-34 ,1,119,Strata,1270000,-,10672,991,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #16-35 ,1,100,Strata,1084500,-,10845,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #04-34 ,1,119,Strata,1230000,-,10336,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #13-13 ,1,103,Strata,1096500,-,10646,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #12-20 ,1,89,Strata,925800,-,10402,966,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #08-32 ,1,89,Strata,933600,-,10490,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #03-34 ,1,119,Strata,1261800,-,10603,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #05-07 ,1,84,Strata,867000,-,10321,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #10-39 ,1,138,Strata,1433900,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #11-09 ,1,84,Strata,935400,-,11136,1035,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #09-38 ,1,100,Strata,1047800,-,10478,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+THE CLEMENT CANOPY,16 Clementi Avenue 1  #22-02 ,1,92,Strata,1446000,-,15717,1460,14-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,N.A,05,12,129960,West Region,Clementi
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #07-17 ,1,89,Strata,924600,-,10389,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #11-35 ,1,100,Strata,1062000,-,10620,987,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+PARC BOTANNIA,10 Fernvale Street  #03-01 ,1,47,Strata,640000,-,13617,1265,14-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,Private,28,79,797390,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #09-31 ,1,100,Strata,1044700,-,10447,971,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #09-28 ,1,89,Strata,956300,-,10745,998,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #10-03 ,1,84,Strata,870800,-,10367,963,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #05-32 ,1,89,Strata,943100,-,10597,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #15-29 ,1,89,Strata,983300,-,11048,1026,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #06-19 ,1,100,Strata,996300,-,9963,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #11-19 ,1,100,Strata,1023300,-,10233,951,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #13-18 ,1,110,Strata,1191300,-,10830,1006,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #11-15 ,1,110,Strata,1146600,-,10424,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #09-11 ,1,113,Strata,1154300,-,10215,949,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #06-33 ,1,89,Strata,989600,-,11119,1033,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #12-14 ,1,113,Strata,1181200,-,10453,971,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #04-28 ,1,89,Strata,929300,-,10442,970,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #05-09 ,1,84,Strata,880200,-,10479,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #07-06 ,1,84,Strata,838500,-,9982,927,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #08-26 ,1,100,Strata,1043300,-,10433,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #07-26 ,1,100,Strata,1034300,-,10343,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #06-40 ,1,89,Strata,960800,-,10796,1003,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+NIM COLLECTION,22 Nim Rise ,1,150,Land,2838000,-,18920,1758,14-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,Private,28,80,804461,North East Region,Serangoon
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #13-30 ,1,110,Strata,1223600,-,11124,1033,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #03-27 ,1,138,Strata,1342600,-,9729,904,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #15-34 ,1,119,Strata,1290000,-,10840,1007,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #14-24 ,1,108,Strata,1116700,-,10340,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #04-26 ,1,100,Strata,1016300,-,10163,944,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #05-40 ,1,89,Strata,985000,-,11067,1028,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #04-12 ,1,84,Strata,834600,-,9936,923,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #11-12 ,1,84,Strata,866600,-,10317,958,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #04-20 ,1,89,Strata,885300,-,9947,924,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #04-39 ,1,138,Strata,1439800,-,10433,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #06-31 ,1,100,Strata,996300,-,9963,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #12-05 ,1,103,Strata,1052100,-,10215,949,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #01-14 ,1,113,Strata,1165100,-,10311,958,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #15-21 ,1,103,Strata,1105500,-,10733,997,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #03-12 ,1,84,Strata,830600,-,9888,919,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #14-16 ,1,103,Strata,1091000,-,10592,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #01-20 ,1,89,Strata,880800,-,9897,919,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #12-33 ,1,89,Strata,992300,-,11149,1036,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #16-09 ,1,84,Strata,928200,-,11050,1027,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #16-36 ,1,89,Strata,987800,-,11099,1031,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #06-09 ,1,84,Strata,884200,-,10526,978,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #02-15 ,1,110,Strata,1096600,-,9969,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #05-14 ,1,113,Strata,1141200,-,10099,938,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #10-20 ,1,89,Strata,944300,-,10610,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #02-12 ,1,84,Strata,826600,-,9840,914,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #03-35 ,1,100,Strata,1021500,-,10215,949,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #10-04 ,1,89,Strata,916800,-,10301,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #03-32 ,1,89,Strata,906600,-,10187,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #11-18 ,1,110,Strata,1146600,-,10424,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #11-26 ,1,100,Strata,1056800,-,10568,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #09-23 ,1,119,Strata,1223300,-,10280,955,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #03-09 ,1,84,Strata,872200,-,10383,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #07-19 ,1,100,Strata,1030800,-,10308,958,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+SIGNATURE AT YISHUN,37 Yishun Street 51  #02-33 ,1,102,Strata,875500,-,8583,797,14-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,Private,27,76,767993,North Region,Yishun
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #06-09 ,1,101,Strata,1850000,-,18317,1702,14-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #16-14 ,1,113,Strata,1201200,-,10630,988,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #14-10 ,1,103,Strata,1095500,-,10636,988,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #11-38 ,1,100,Strata,1056800,-,10568,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #03-38 ,1,100,Strata,1042200,-,10422,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #04-08 ,1,108,Strata,1099200,-,10178,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #08-28 ,1,89,Strata,951800,-,10694,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #06-12 ,1,84,Strata,867900,-,10332,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #09-16 ,1,103,Strata,1068500,-,10374,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #11-40 ,1,89,Strata,987800,-,11099,1031,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #15-23 ,1,119,Strata,1290900,-,10848,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #08-25 ,1,89,Strata,951800,-,10694,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #07-14 ,1,113,Strata,1185700,-,10493,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #05-33 ,1,89,Strata,956300,-,10745,998,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #14-15 ,1,110,Strata,1196400,-,10876,1010,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #14-12 ,1,84,Strata,878600,-,10460,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #04-36 ,1,89,Strata,957200,-,10755,999,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #05-03 ,1,84,Strata,846800,-,10081,937,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #03-03 ,1,84,Strata,838800,-,9986,928,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #02-09 ,1,84,Strata,868200,-,10336,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #06-20 ,1,89,Strata,921100,-,10349,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #10-15 ,1,110,Strata,1141600,-,10378,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #05-01 ,1,89,Strata,961800,-,10807,1004,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #08-13 ,1,103,Strata,1074000,-,10427,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #03-11 ,1,113,Strata,1142600,-,10112,939,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #15-20 ,1,89,Strata,939300,-,10554,980,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #16-21 ,1,103,Strata,1143300,-,11100,1031,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #09-09 ,1,84,Strata,900200,-,10717,996,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+FOREST WOODS,17 Lorong Lew Lian  #02-38 ,1,92,Strata,1442000,-,15674,1456,14-APR-2018,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,Private,19,53,533852,North East Region,Serangoon
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #09-17 ,1,89,Strata,938100,-,10540,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #12-09 ,1,84,Strata,912200,-,10860,1009,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #06-37 ,1,89,Strata,938300,-,10543,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #10-22 ,1,100,Strata,1049400,-,10494,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #06-06 ,1,84,Strata,834500,-,9935,923,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #05-15 ,1,110,Strata,1111600,-,10105,939,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #14-21 ,1,103,Strata,1134000,-,11010,1023,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #01-11 ,1,113,Strata,1142600,-,10112,939,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #11-08 ,1,108,Strata,1103200,-,10215,949,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #03-04 ,1,89,Strata,907200,-,10193,947,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #07-32 ,1,89,Strata,952300,-,10700,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #15-12 ,1,84,Strata,882600,-,10507,976,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #03-29 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #03-23 ,1,119,Strata,1178300,-,9902,920,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #09-03 ,1,84,Strata,866800,-,10319,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #16-10 ,1,103,Strata,1104500,-,10723,996,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+PARC LIFE,27 Sembawang Crescent  #01-14 ,1,99,Strata,912000,-,9212,856,14-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,757056,North Region,Sembawang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #07-10 ,1,103,Strata,1091300,-,10595,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #12-13 ,1,103,Strata,1092000,-,10602,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #07-07 ,1,84,Strata,875000,-,10417,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #03-14 ,1,113,Strata,1131200,-,10011,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #01-26 ,1,100,Strata,1011800,-,10118,940,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #08-29 ,1,89,Strata,951800,-,10694,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #16-06 ,1,84,Strata,878500,-,10458,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #10-33 ,1,89,Strata,983300,-,11048,1026,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #09-36 ,1,89,Strata,956300,-,10745,998,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #09-26 ,1,100,Strata,1047800,-,10478,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #06-24 ,1,108,Strata,1076200,-,9965,926,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #08-08 ,1,108,Strata,1089700,-,10090,937,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #02-38 ,1,100,Strata,1007300,-,10073,936,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #01-32 ,1,89,Strata,906600,-,10187,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #09-21 ,1,103,Strata,1078500,-,10471,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #05-16 ,1,103,Strata,1077400,-,10460,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #10-12 ,1,84,Strata,862600,-,10269,954,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #06-35 ,1,100,Strata,1035000,-,10350,962,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #09-39 ,1,138,Strata,1470700,-,10657,990,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+THE TAPESTRY,61 Tampines Street 86  #10-41 ,1,56,Strata,913680,-,16316,1516,14-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528510,East Region,Tampines
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #05-10 ,1,103,Strata,1050500,-,10199,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #08-39 ,1,138,Strata,1464600,-,10613,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #07-16 ,1,103,Strata,1055000,-,10243,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #13-33 ,1,89,Strata,996800,-,11200,1041,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #06-01 ,1,89,Strata,938300,-,10543,979,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #13-22 ,1,100,Strata,1032300,-,10323,959,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #12-38 ,1,100,Strata,1061300,-,10613,986,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #05-17 ,1,89,Strata,915600,-,10288,956,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #12-21 ,1,103,Strata,1092000,-,10602,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #09-19 ,1,100,Strata,1014300,-,10143,942,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #04-22 ,1,100,Strata,987300,-,9873,917,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #10-34 ,1,119,Strata,1303000,-,10950,1017,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #02-18 ,1,110,Strata,1129500,-,10268,954,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #08-10 ,1,103,Strata,1100600,-,10685,993,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #15-15 ,1,110,Strata,1166600,-,10605,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #06-34 ,1,119,Strata,1240000,-,10420,968,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #09-27 ,1,138,Strata,1402600,-,10164,944,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #06-16 ,1,103,Strata,1082000,-,10505,976,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #09-33 ,1,89,Strata,978800,-,10998,1022,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #02-29 ,1,89,Strata,947900,-,10651,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #07-12 ,1,84,Strata,846600,-,10079,936,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #08-15 ,1,110,Strata,1165500,-,10595,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #04-04 ,1,89,Strata,885300,-,9947,924,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #14-40 ,1,89,Strata,1001300,-,11251,1045,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #16-20 ,1,89,Strata,972100,-,10922,1015,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #05-04 ,1,89,Strata,889800,-,9998,929,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #08-20 ,1,89,Strata,907800,-,10200,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #12-01 ,1,89,Strata,969800,-,10897,1012,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #15-11 ,1,113,Strata,1184300,-,10481,974,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+THE TAPESTRY,63 Tampines Street 86  #04-55 ,1,65,Strata,939600,-,14455,1343,14-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528511,East Region,Tampines
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #11-21 ,1,103,Strata,1087500,-,10558,981,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #08-37 ,1,89,Strata,951800,-,10694,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #03-25 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #09-04 ,1,89,Strata,912300,-,10251,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+SIGNATURE AT YISHUN,31 Yishun Street 51  #01-24 ,1,102,Strata,890500,-,8730,811,14-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,767990,North Region,Yishun
+SIGNATURE AT YISHUN,25 Yishun Street 51  #04-11 ,1,102,Strata,853000,-,8363,777,14-APR-2018,Executive Condominium,99 Yrs From 25/08/2014,2017,New Sale,HDB,27,76,768087,North Region,Yishun
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #10-38 ,1,100,Strata,1052300,-,10523,978,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #16-27 ,1,138,Strata,1444600,-,10468,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #15-33 ,1,89,Strata,1005800,-,11301,1050,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #10-30 ,1,110,Strata,1208200,-,10984,1020,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #03-17 ,1,89,Strata,906600,-,10187,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #05-12 ,1,84,Strata,863800,-,10283,955,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #05-39 ,1,138,Strata,1403900,-,10173,945,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #15-04 ,1,89,Strata,939300,-,10554,980,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #15-35 ,1,100,Strata,1112400,-,11124,1033,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #01-01 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #14-13 ,1,103,Strata,1101000,-,10689,993,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #02-11 ,1,113,Strata,1137400,-,10065,935,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #08-16 ,1,103,Strata,1064000,-,10330,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #09-34 ,1,119,Strata,1297800,-,10906,1013,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #15-19 ,1,100,Strata,1041300,-,10413,967,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #16-40 ,1,89,Strata,1040600,-,11692,1086,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #07-23 ,1,119,Strata,1198300,-,10070,936,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+KALLANG RIVERSIDE,51 Kampong Bugis  #13-03 ,1,106,Strata,2475366,-,23353,2170,14-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,12,33,338986,Central Region,Kallang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #01-03 ,1,84,Strata,868100,-,10335,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #05-34 ,1,119,Strata,1235000,-,10378,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #07-27 ,1,138,Strata,1413800,-,10245,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #05-08 ,1,108,Strata,1103900,-,10221,950,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #12-03 ,1,84,Strata,878800,-,10462,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #02-34 ,1,119,Strata,1220000,-,10252,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #02-30 ,1,110,Strata,1151500,-,10468,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #05-13 ,1,103,Strata,1056000,-,10252,952,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #07-01 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #09-37 ,1,89,Strata,956300,-,10745,998,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #04-35 ,1,100,Strata,1056800,-,10568,982,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #08-06 ,1,84,Strata,846500,-,10077,936,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #10-37 ,1,89,Strata,960800,-,10796,1003,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #10-13 ,1,103,Strata,1083000,-,10515,977,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #10-27 ,1,138,Strata,1408600,-,10207,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #01-37 ,1,89,Strata,952500,-,10702,994,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #10-36 ,1,89,Strata,960800,-,10796,1003,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #03-36 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #04-09 ,1,84,Strata,876200,-,10431,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #01-18 ,1,110,Strata,1134600,-,10315,958,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #10-32 ,1,89,Strata,942600,-,10591,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #07-15 ,1,110,Strata,1121600,-,10196,947,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #01-39 ,1,138,Strata,1391900,-,10086,937,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #10-19 ,1,100,Strata,1018800,-,10188,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #07-18 ,1,110,Strata,1121600,-,10196,947,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+FOREST WOODS,17 Lorong Lew Lian  #09-38 ,1,86,Strata,1435000,-,16686,1550,14-APR-2018,Condominium,99 Yrs From 05/02/2016,Uncompleted,New Sale,HDB,19,53,533852,North East Region,Serangoon
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #04-14 ,1,113,Strata,1170300,-,10357,962,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #06-13 ,1,103,Strata,1092300,-,10605,985,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #11-39 ,1,138,Strata,1439900,-,10434,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #14-33 ,1,89,Strata,1001300,-,11251,1045,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #01-34 ,1,119,Strata,1225000,-,10294,956,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #07-24 ,1,108,Strata,1113100,-,10306,957,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #04-21 ,1,103,Strata,1051500,-,10209,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #04-37 ,1,89,Strata,929300,-,10442,970,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #06-07 ,1,84,Strata,871000,-,10369,963,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #13-38 ,1,100,Strata,1065800,-,10658,990,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #09-18 ,1,110,Strata,1136600,-,10333,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #03-33 ,1,89,Strata,947300,-,10644,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #01-17 ,1,89,Strata,906600,-,10187,946,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #01-15 ,1,110,Strata,1101600,-,10015,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #13-09 ,1,84,Strata,916200,-,10907,1013,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #15-13 ,1,103,Strata,1105500,-,10733,997,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #05-29 ,1,89,Strata,933800,-,10492,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #14-20 ,1,89,Strata,962800,-,10818,1005,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #05-20 ,1,89,Strata,889800,-,9998,929,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #11-14 ,1,113,Strata,1211500,-,10721,996,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #04-25 ,1,89,Strata,929300,-,10442,970,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #12-34 ,1,119,Strata,1275000,-,10714,995,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #01-21 ,1,103,Strata,1047000,-,10165,944,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #14-31 ,1,100,Strata,1036800,-,10368,963,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #02-37 ,1,89,Strata,920300,-,10340,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #11-31 ,1,100,Strata,1023300,-,10233,951,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #16-38 ,1,100,Strata,1111700,-,11117,1033,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #07-31 ,1,100,Strata,1000800,-,10008,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+PARC LIFE,31 Sembawang Crescent  #04-21 ,1,99,Strata,906000,-,9152,850,14-APR-2018,Executive Condominium,99 Yrs From 13/10/2014,2018,New Sale,HDB,27,75,756983,North Region,Sembawang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #15-40 ,1,89,Strata,1005800,-,11301,1050,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #11-30 ,1,110,Strata,1213300,-,11030,1025,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+KALLANG RIVERSIDE,51 Kampong Bugis  #20-07 ,1,133,Strata,3117772,-,23442,2178,14-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,12,33,338986,Central Region,Kallang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #06-27 ,1,138,Strata,1407600,-,10200,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #15-07 ,1,84,Strata,919000,-,10940,1016,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,22 Anchorvale Lane  #16-05 ,1,103,Strata,1070100,-,10389,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544585,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #06-15 ,1,110,Strata,1116600,-,10151,943,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #13-11 ,1,113,Strata,1174300,-,10392,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #08-11 ,1,113,Strata,1149300,-,10171,945,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #03-15 ,1,110,Strata,1101600,-,10015,930,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #07-29 ,1,89,Strata,942800,-,10593,984,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #08-09 ,1,84,Strata,923100,-,10989,1021,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #06-23 ,1,119,Strata,1193300,-,10028,932,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #08-21 ,1,103,Strata,1074000,-,10427,969,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #03-20 ,1,89,Strata,880800,-,9897,919,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #11-23 ,1,119,Strata,1270300,-,10675,992,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #09-35 ,1,100,Strata,1053000,-,10530,978,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #08-27 ,1,138,Strata,1396600,-,10120,940,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #09-13 ,1,103,Strata,1078500,-,10471,973,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #15-09 ,1,84,Strata,924200,-,11002,1022,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #08-17 ,1,89,Strata,933600,-,10490,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544589,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #07-04 ,1,89,Strata,898800,-,10099,938,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+SIMS URBAN OASIS,6 Sims Drive  #09-25 ,1,134,Strata,2270400,-,16943,1574,14-APR-2018,Condominium,99 Yrs From 29/07/2014,2017,New Sale,N.A,14,38,387388,Central Region,Geylang
+MARINA ONE RESIDENCES,21 Marina Way  #12-18 ,1,141,Strata,3740000,-,26525,2464,14-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #10-29 ,1,89,Strata,960800,-,10796,1003,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #10-21 ,1,103,Strata,1083000,-,10515,977,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #08-04 ,1,89,Strata,907800,-,10200,948,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,38 Anchorvale Lane  #01-36 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544593,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #11-37 ,1,89,Strata,965300,-,10846,1008,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #10-14 ,1,113,Strata,1171200,-,10365,963,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #05-25 ,1,89,Strata,933800,-,10492,975,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #15-24 ,1,108,Strata,1154800,-,10693,993,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #01-28 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #04-24 ,1,108,Strata,1067200,-,9881,918,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #16-22 ,1,100,Strata,1045800,-,10458,972,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,Private,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #03-37 ,1,89,Strata,924800,-,10391,965,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,32 Anchorvale Lane  #08-24 ,1,108,Strata,1089700,-,10090,937,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544590,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #07-38 ,1,100,Strata,1065300,-,10653,990,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #12-12 ,1,84,Strata,896700,-,10675,992,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,36 Anchorvale Lane  #06-32 ,1,89,Strata,920100,-,10338,960,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544592,North East Region,Sengkang
+RIVERCOVE RESIDENCES,40 Anchorvale Lane  #03-40 ,1,89,Strata,947300,-,10644,989,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544594,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #12-02 ,1,103,Strata,1082000,-,10505,976,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,N.A,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,28 Anchorvale Lane  #12-15 ,1,110,Strata,1186100,-,10783,1002,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544588,North East Region,Sengkang
+RIVERCOVE RESIDENCES,26 Anchorvale Lane  #12-11 ,1,113,Strata,1169300,-,10348,961,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544587,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #03-26 ,1,100,Strata,1011800,-,10118,940,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,34 Anchorvale Lane  #02-27 ,1,138,Strata,1336600,-,9686,900,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544591,North East Region,Sengkang
+RIVERCOVE RESIDENCES,20 Anchorvale Lane  #06-03 ,1,84,Strata,850800,-,10129,941,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544584,North East Region,Sengkang
+RIVERCOVE RESIDENCES,30 Anchorvale Lane  #10-18 ,1,110,Strata,1141600,-,10378,964,14-APR-2018,Executive Condominium,99 Yrs From 05/12/2016,Uncompleted,New Sale,HDB,19,54,544589,North East Region,Sengkang
+KALLANG RIVERSIDE,51 Kampong Bugis  #08-03 ,1,106,Strata,2417000,-,22802,2118,14-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,12,33,338986,Central Region,Kallang
+HILLTOPS,101 Cairnhill Circle  #17-06 ,1,77,Strata,2678000,-,34779,3231,13-APR-2018,Condominium,Freehold,2011,Resale,Private,09,22,229809,Central Region,Newton
+THE CREST,101 Prince Charles Crescent  #22-01 ,1,154,Strata,3033000,-,19695,1830,13-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159017,Central Region,Bukit Merah
+THE TENNERY,5A Woodlands Road  #14-30 ,1,82,Strata,943888,-,11511,1069,13-APR-2018,Apartment,99 Yrs From 24/05/2010,2014,Resale,HDB,23,67,677728,West Region,Choa Chu Kang
+GRANDEUR PARK RESIDENCES,3 Bedok South Avenue 3  #11-16 ,1,83,Strata,1304112,-,15712,1460,13-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465462,East Region,Bedok
+EIGHT COURTYARDS,18A Canberra Drive  #03-43 ,1,101,Strata,1030000,-,10198,947,13-APR-2018,Condominium,99 Yrs From 20/09/2010,2014,Resale,Private,27,76,768099,North Region,Yishun
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-15 ,1,63,Strata,1445000,-,22937,2131,13-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+SEMBAWANG HILLS ESTATE,64 Jalan Leban ,1,396,Land,3880000,-,9798,910,13-APR-2018,Terrace House,Freehold,1997,Resale,Private,20,57,577601,North East Region,Ang Mo Kio
+1 KING ALBERT PARK,1 King Albert Park  #02-18 ,1,119,Strata,1788888,-,15033,1397,13-APR-2018,Condominium,Freehold,1997,Resale,Private,21,59,598326,Central Region,Bukit Timah
+111 EMERALD HILL,111 Emerald Hill Road  #11-02 ,1,224,Strata,6528604,-,29146,2708,13-APR-2018,Apartment,Freehold,2011,Resale,Private,09,22,229391,Central Region,Newton
+SKY@ELEVEN,5 Thomson Lane  #28-01 ,1,262,Strata,4400000,-,16794,1560,13-APR-2018,Condominium,Freehold,2010,Resale,Private,11,29,297724,Central Region,Toa Payoh
+THE HILLIER,6 Hillview Rise  #08-22 ,1,55,Strata,750000,-,13636,1267,13-APR-2018,Apartment,99 Yrs From 01/08/2011,2016,Resale,Private,23,66,667980,West Region,Bukit Batok
+GARDENVISTA,962 Dunearn Road  #06-29 ,1,106,Strata,1490000,-,14057,1306,13-APR-2018,Condominium,99 Yrs From 09/09/1999,2006,Resale,HDB,21,58,589487,Central Region,Bukit Timah
+EUHABITAT,202 Jalan Eunos  #01-43 ,1,94,Strata,1080000,-,11489,1067,13-APR-2018,Condominium,99 Yrs From 06/12/2010,2015,Resale,HDB,14,41,419545,East Region,Bedok
+THE SPRINGSIDE,147 Springside View ,1,235,Land,3450000,-,14656,1362,13-APR-2018,Terrace House,Freehold,2016,Resale,Private,26,78,786103,North Region,Yishun
+PARK VILLAS,44 Park Villas Rise ,1,156,Land,1700000,-,10932,1016,13-APR-2018,Terrace House,99 Yrs From 01/05/1994,1997,Resale,HDB,19,54,545364,North East Region,Hougang
+EVANIA,391 Upper Paya Lebar Road  #05-05 ,1,114,Strata,1248888,-,10955,1018,13-APR-2018,Apartment,Freehold,2010,Resale,HDB,19,53,534981,North East Region,Serangoon
+PEBBLE BAY,132 Tanjong Rhu Road  #03-05 ,1,244,Strata,3600000,-,14754,1371,13-APR-2018,Condominium,99 Yrs From 09/03/1994,1997,Resale,Private,15,43,436919,Central Region,Kallang
+D'BANYAN,83 Jalan Sendudok  #02-02 ,1,77,Strata,769000,-,9987,928,13-APR-2018,Apartment,999 Yrs From 26/03/1885,2005,Resale,HDB,27,76,769468,North Region,Sembawang
+PARC ROSEWOOD,87 Rosewood Drive  #05-83 ,1,158,Strata,1180000,-,7468,694,13-APR-2018,Condominium,99 Yrs From 07/09/2011,2014,Resale,HDB,25,73,737791,North Region,Woodlands
+26 NEWTON,26 Newton Road  #21-07 ,1,57,Strata,1701899,-,29858,2774,13-APR-2018,Apartment,Freehold,2016,Resale,Private,11,30,307957,Central Region,Novena
+THE CREST,103 Prince Charles Crescent  #12-08 ,1,65,Strata,1423000,-,21892,2034,13-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159018,Central Region,Bukit Merah
+LOFT @ NATHAN,31 Nathan Road  #06-21 ,1,50,Strata,1015000,-,20300,1886,13-APR-2018,Apartment,Freehold,2014,Resale,Private,10,24,248749,Central Region,Tanglin
+THOMSON THREE,45 Bright Hill Drive  #12-19 ,1,68,Strata,1135000,-,16691,1551,13-APR-2018,Apartment,99 Yrs From 07/11/2012,2016,Resale,HDB,20,57,573895,Central Region,Bishan
+D'NEST,147 Pasir Ris Grove  #11-70 ,1,105,Strata,1280000,-,12190,1133,13-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518138,East Region,Pasir Ris
+NINETEEN SHELFORD ROAD,19 Shelford Road  #03-32 ,1,88,Strata,1550000,-,17614,1636,13-APR-2018,Condominium,Freehold,1997,Resale,HDB,11,28,288408,Central Region,Bukit Timah
+DUO RESIDENCES,1 Fraser Street  #47-13 ,1,95,Strata,2350000,-,24737,2298,13-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,Sub Sale,Private,07,18,189350,Central Region,Downtown Core
+RIPPLE BAY,16 Pasir Ris Link  #08-57 ,1,120,Strata,1200000,-,10000,929,13-APR-2018,Condominium,99 Yrs From 10/08/2011,2015,Resale,Private,18,51,518166,East Region,Pasir Ris
+N.A.,94 Jalan Angin Laut ,1,331,Land,3500000,-,10580,983,13-APR-2018,Semi-Detached House,Freehold,1991,Resale,Private,16,48,489289,East Region,Tampines
+GRAMERCY PARK,57 Grange Road  #22-07 ,1,120,Strata,4391010,-,36592,3399,13-APR-2018,Condominium,Freehold,2016,Resale,Private,10,24,249569,Central Region,Tanglin
+SPOTTISWOODE 18,18 Spottiswoode Park Road  #12-04 ,1,61,Strata,1310000,-,21475,1995,13-APR-2018,Apartment,Freehold,2014,Resale,Private,02,08,088642,Central Region,Bukit Merah
+ONAN SUITES,215 Onan Road  #04-06 ,1,76,Strata,980000,-,12895,1198,13-APR-2018,Apartment,Freehold,2012,Resale,Private,15,42,424597,Central Region,Geylang
+PARC BOTANNIA,18 Fernvale Street  #19-35 ,1,47,Strata,702000,-,14936,1388,13-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797394,North East Region,Sengkang
+LANGSTON VILLE,15 Kim Yam Road  #08-05 ,1,87,Strata,1480000,-,17011,1580,13-APR-2018,Apartment,999 Yrs From 01/07/1841,2000,Resale,Private,09,23,239328,Central Region,River Valley
+WATERFRONT ISLE,736 Bedok Reservoir Road  #15-17 ,1,120,Strata,1500000,-,12500,1161,13-APR-2018,Condominium,99 Yrs From 26/11/2009,2015,Resale,HDB,16,47,479264,East Region,Bedok
+ECO SANCTUARY,63 Chestnut Avenue  #15-13 ,1,91,Strata,1230000,-,13516,1256,13-APR-2018,Condominium,99 Yrs From 25/04/2012,2016,Resale,HDB,23,67,679523,West Region,Bukit Panjang
+SUNFLOWER RESIDENCE,47 Lorong 32 Geylang  #06-03 ,1,99,Strata,938000,-,9475,880,13-APR-2018,Apartment,Freehold,2001,Resale,Private,14,39,398307,Central Region,Geylang
+SERANGOON GARDEN ESTATE,20 Lichfield Road ,1,282,Land,2900000,-,10291,956,13-APR-2018,Terrace House,999 Yrs From 01/01/1953,Unknown,Resale,Private,19,55,556840,North East Region,Serangoon
+CASA PASIR RIS,201 Jalan Loyang Besar  #02-04 ,1,102,Strata,830000,-,8137,756,13-APR-2018,Condominium,946 Yrs From 01/01/1938,1997,Resale,HDB,17,50,509506,East Region,Pasir Ris
+ECHELON,7 Alexandra View  #19-04 ,1,68,Strata,1405800,-,20674,1921,13-APR-2018,Condominium,99 Yrs From 06/03/2012,2016,Resale,HDB,03,15,158741,Central Region,Bukit Merah
+ASTON RESIDENCE,209 Jalan Loyang Besar  #01-02 ,1,435,Strata,2200000,-,5057,470,13-APR-2018,Detached House,946 Yrs From 01/01/1938,2010,Resale,Private,17,50,509489,East Region,Pasir Ris
+THE ESPARIS,7A Pasir Ris Drive 4  #10-07 ,1,109,Strata,875000,-,8028,746,13-APR-2018,Executive Condominium,99 Yrs From 21/01/2002,2005,Resale,HDB,18,51,519460,East Region,Pasir Ris
+CLEMENTI PARK,107E Sunset Way ,1,781,Land,8100000,-,10371,964,13-APR-2018,Detached House,Freehold,Unknown,Resale,Private,21,59,597147,West Region,Clementi
+WATERVIEW,89 Tampines Avenue 1  #09-35 ,1,105,Strata,1100000,-,10476,973,13-APR-2018,Condominium,99 Yrs From 16/06/2010,2014,Resale,HDB,18,52,528689,East Region,Tampines
+TOPAZ MANSIONS,2 Topaz Road  #02-02 ,1,98,Strata,1000000,-,10204,948,13-APR-2018,Apartment,Freehold,1993,Resale,Private,12,32,327848,Central Region,Kallang
+NORTHOAKS,32 Woodlands Crescent  #14-02 ,1,115,Strata,780000,-,6783,630,13-APR-2018,Executive Condominium,99 Yrs From 16/12/1997,2000,Resale,HDB,25,73,738087,North Region,Woodlands
+AZALEA PARK CONDOMINIUM,10 Flora Road  #03-06 ,1,140,Strata,1200000,-,8571,796,13-APR-2018,Condominium,999 Yrs From 12/10/1885,1996,Resale,Private,17,50,509729,East Region,Pasir Ris
+HILLINGTON GREEN,49 Hillview Avenue  #02-07 ,1,142,Strata,1600000,-,11268,1047,13-APR-2018,Condominium,999 Yrs From 19/05/1883,2002,Resale,Private,23,66,669615,West Region,Bukit Batok
+KOVAN REGENCY,6 Kovan Rise  #09-15 ,1,91,Strata,1400000,-,15385,1429,13-APR-2018,Condominium,99 Yrs From 24/04/2012,2015,Resale,HDB,19,54,544736,North East Region,Hougang
+THE PALETTE,109 Pasir Ris Grove  #07-21 ,1,107,Strata,1150000,-,10748,998,13-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,Private,18,51,518199,East Region,Pasir Ris
+THE ORIENT,251 Pasir Panjang Road  #02-04 ,1,67,Strata,1370300,-,20452,1900,13-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+1 KING ALBERT PARK,1 King Albert Park  #03-01 ,1,75,Strata,1028000,-,13707,1273,13-APR-2018,Condominium,Freehold,1997,Resale,Private,21,59,598326,Central Region,Bukit Timah
+LIVIA,65 Pasir Ris Grove  #09-12 ,1,143,Strata,1290000,-,9021,838,13-APR-2018,Condominium,99 Yrs From 07/01/2008,2011,Resale,HDB,18,51,518217,East Region,Pasir Ris
+SHELFORD SUITES,16 Shelford Road  #02-02 ,1,120,Strata,2180000,-,18167,1688,13-APR-2018,Condominium,Freehold,2011,Resale,Private,11,28,288383,Central Region,Bukit Timah
+SELETAR HILLS ESTATE,71 Kasai Road ,1,184,Land,2555000,-,13893,1291,13-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,28,80,808318,North East Region,Serangoon
+VARSITY PARK CONDOMINIUM,42 West Coast Road  #01-43 ,1,122,Strata,1400000,-,11475,1066,13-APR-2018,Condominium,99 Yrs From 03/05/2004,2008,Resale,HDB,05,12,126842,West Region,Clementi
+RIVERSOUND RESIDENCE,9A Sengkang East Avenue  #10-33 ,1,99,Strata,1015000,-,10253,952,13-APR-2018,Condominium,99 Yrs From 26/08/2011,2015,Resale,HDB,19,54,544743,North East Region,Sengkang
+N.A.,10 Jalan Seni ,1,303,Land,5750000,-,18971,1762,13-APR-2018,Semi-Detached House,Freehold,1968,Resale,Private,11,29,299010,Central Region,Novena
+LE CONNEY PARK,87 Lorong L Telok Kurau  #04-03 ,1,92,Strata,968000,-,10522,977,13-APR-2018,Apartment,Freehold,1995,Resale,HDB,15,42,425525,East Region,Bedok
+WILKIE REGENCY,10 Wilkie Terrace  #08-02 ,1,79,Strata,1150000,-,14557,1352,13-APR-2018,Apartment,Freehold,2002,Resale,HDB,09,22,228030,Central Region,Rochor
+NEPTUNE COURT,8 Marine Vista  #06-29 ,1,118,Strata,1128000,-,9559,888,13-APR-2018,Apartment,99 Yrs From 01/09/1976,1975,Resale,HDB,15,44,449032,East Region,Bedok
+PAYA LEBAR GARDENS,27 Jalan Usaha ,1,121,Land,1808000,-,14955,1389,13-APR-2018,Terrace House,Freehold,1963,Resale,Private,19,53,537167,North East Region,Hougang
+SIMS DORADO,11 Lorong 39 Geylang  #06-04 ,1,98,Strata,1230000,-,12551,1166,13-APR-2018,Apartment,Freehold,2008,Resale,HDB,14,38,387869,Central Region,Geylang
+THE MADEIRA,50 Bukit Batok Street 31  #24-01 ,1,87,Strata,910000,-,10460,972,13-APR-2018,Condominium,99 Yrs From 14/08/2000,2003,Resale,HDB,23,65,659442,West Region,Bukit Batok
+GRANDEUR PARK RESIDENCES,5 Bedok South Avenue 3  #05-25 ,1,135,Strata,2133000,-,15800,1468,13-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,Private,16,46,465463,East Region,Bedok
+DE CASALLE,86A Lorong N Telok Kurau  #01-03 ,1,87,Strata,963000,-,11069,1028,13-APR-2018,Apartment,Freehold,1996,Resale,Private,15,42,425236,East Region,Bedok
+ECHELON,9 Alexandra View  #03-12 ,1,93,Strata,1520000,-,16344,1518,13-APR-2018,Condominium,99 Yrs From 06/03/2012,2016,Resale,Private,03,15,158742,Central Region,Bukit Merah
+ST PATRICK'S RESIDENCES,58 St. Patrick'S Road  #01-14 ,1,140,Strata,2040000,-,14571,1354,13-APR-2018,Apartment,Freehold,2013,Resale,Private,15,42,424218,East Region,Bedok
+ASPEN HEIGHTS,261 River Valley Road  #02-05 ,1,123,Strata,2388000,-,19415,1804,13-APR-2018,Condominium,999 Yrs From 01/07/1841,1998,Resale,Private,09,23,238307,Central Region,River Valley
+8 @ MOUNT SOPHIA,6 Mount Sophia  #06-04 ,1,126,Strata,2250000,-,17857,1659,13-APR-2018,Condominium,103 Yrs From 28/11/2002,2007,Resale,HDB,09,22,228457,Central Region,Rochor
+SKY HABITAT,7 Bishan Street 15  #15-06 ,1,121,Strata,1967800,-,16263,1511,13-APR-2018,Condominium,99 Yrs From 30/05/2011,2015,Resale,HDB,20,57,573908,Central Region,Bishan
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #15-11 ,1,45,Strata,1030000,-,22889,2126,13-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+PARC BOTANNIA,10 Fernvale Street  #04-01 ,1,47,Strata,643000,-,13681,1271,13-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797390,North East Region,Sengkang
+21 RICHARDS,21 Richards Avenue  #04-02 ,1,60,Strata,882000,-,14700,1366,13-APR-2018,Apartment,Freehold,2013,Resale,HDB,19,54,546430,North East Region,Hougang
+FIFTH AVENUE CONDOMINIUM,2 Fifth Avenue  #02-12 ,1,125,Strata,2300000,-,18400,1709,13-APR-2018,Condominium,Freehold,1998,Resale,HDB,10,26,268800,Central Region,Bukit Timah
+TANAH MERAH GREEN,32 Tanah Merah Kechil Avenue ,1,156,Land,1851000,-,11896,1105,13-APR-2018,Terrace House,99 Yrs From 17/03/1997,2000,Resale,Private,16,46,465590,East Region,Bedok
+RIS GRANDEUR,33 Elias Road  #05-25 ,1,99,Strata,1020000,-,10303,957,13-APR-2018,Condominium,Freehold,2005,Resale,HDB,18,51,519935,East Region,Pasir Ris
+WATERTOWN,71 Punggol Central  #11-42 ,1,54,Strata,800000,-,14815,1376,13-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,HDB,19,82,828755,North East Region,Punggol
+THE PARC CONDOMINIUM,3 West Coast Walk  #24-08 ,1,204,Strata,2100000,-,10294,956,13-APR-2018,Condominium,Freehold,2010,Resale,Private,05,12,127140,West Region,Clementi
+THE VIRIDIAN,6 Jalan Ampas  #20-02 ,1,82,Strata,1147000,-,13988,1299,13-APR-2018,Apartment,Freehold,2015,Resale,HDB,12,32,329507,Central Region,Novena
+CUBE 8,376 Thomson Road  #30-06 ,1,132,Strata,2200000,-,16667,1548,13-APR-2018,Condominium,Freehold,2013,Resale,Private,11,29,298130,Central Region,Novena
+CORALS AT KEPPEL BAY,21 Keppel Bay Drive  #10-40 ,1,79,Strata,1960200,-,24813,2305,13-APR-2018,Condominium,99 Yrs From 26/02/2007,2016,Resale,Private,04,09,098022,Central Region,Bukit Merah
+BEDOK RESIDENCES,30 Bedok North Drive  #08-51 ,1,49,Strata,830000,-,16939,1574,13-APR-2018,Apartment,99 Yrs From 21/11/2011,2015,Resale,Private,16,46,465501,East Region,Bedok
+GARDENVISTA,956 Dunearn Road  #04-17 ,1,125,Strata,1770000,-,14160,1315,13-APR-2018,Condominium,99 Yrs From 09/09/1999,2006,Resale,HDB,21,58,589484,Central Region,Bukit Timah
+HORIZON GARDENS,531 Ang Mo Kio Avenue 2 ,1,270,Strata,1860000,-,6889,640,13-APR-2018,Terrace House,99 Yrs From 23/06/1995,2002,Resale,Private,20,56,567921,North East Region,Ang Mo Kio
+VACANZA @ EAST,50 Lengkong Tujoh  #05-36 ,1,75,Strata,925000,-,12333,1146,13-APR-2018,Condominium,Freehold,2014,Resale,HDB,14,41,417398,East Region,Bedok
+THE ANSLEY,33 Mandalay Road  #06-04 ,1,94,Strata,1500000,-,15957,1482,13-APR-2018,Condominium,Freehold,2004,Resale,Private,11,30,308214,Central Region,Novena
+MODENA,37 Simei Street 4  #06-14 ,1,131,Strata,1320000,-,10076,936,13-APR-2018,Condominium,99 Yrs From 06/12/1997,2001,Resale,HDB,18,52,529870,East Region,Tampines
+GRANDEUR PARK RESIDENCES,1 Bedok South Avenue 3  #14-14 ,1,58,Strata,1129000,-,19466,1808,13-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465461,East Region,Bedok
+SOPHIA RESIDENCE,7 Sophia Road  #05-12 ,1,133,Strata,2290000,-,17218,1600,13-APR-2018,Condominium,Freehold,2014,Resale,Private,09,22,228192,Central Region,Rochor
+THE MKZ,131 Mackenzie Road  #06-06 ,1,68,Strata,1290000,-,18971,1762,13-APR-2018,Apartment,Freehold,2014,Resale,Private,09,22,228714,Central Region,Newton
+THE SEAWIND,78 Lorong M Telok Kurau  #03-33 ,1,85,Strata,1500000,-,17647,1639,13-APR-2018,Condominium,Freehold,2015,Resale,Private,15,42,425413,East Region,Bedok
+MONTEREY PARK CONDOMINIUM,31 West Coast Rise  #10-19 ,1,121,Strata,1525000,-,12603,1171,13-APR-2018,Condominium,999 Yrs From 21/02/1885,2005,Resale,Private,05,12,127474,West Region,Clementi
+AVANT RESIDENCES,10 Aljunied Road  #07-03 ,1,45,Strata,784200,-,17427,1619,13-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,Private,14,38,389799,Central Region,Geylang
+THE PARC CONDOMINIUM,15 West Coast Walk  #09-25 ,1,91,Strata,1318000,-,14484,1346,13-APR-2018,Condominium,Freehold,2010,Resale,HDB,05,12,127162,West Region,Clementi
+THE INFLORA,59 Flora Drive  #07-29 ,1,147,Strata,1310000,-,8912,828,13-APR-2018,Condominium,99 Yrs From 25/05/2012,2016,Resale,HDB,17,50,506846,East Region,Pasir Ris
+STARVILLE,68 Lengkong Tiga  #07-19 ,1,50,Strata,660000,-,13200,1226,13-APR-2018,Condominium,Freehold,2006,Resale,HDB,14,41,417472,East Region,Bedok
+SANCTUARY GREEN,183 Tanjong Rhu Road  #02-04 ,1,121,Strata,1380000,-,11405,1060,13-APR-2018,Condominium,99 Yrs From 17/03/1997,2004,Resale,Private,15,43,436923,Central Region,Kallang
+ARC AT TAMPINES,17 Tampines Avenue 8  #16-28 ,1,72,Strata,730000,-,10139,942,13-APR-2018,Executive Condominium,99 Yrs From 22/02/2011,2014,Resale,HDB,18,52,529602,East Region,Tampines
+THE CLEMENT CANOPY,18 Clementi Avenue 1  #08-07 ,1,92,Strata,1402000,-,15239,1416,13-APR-2018,Apartment,99 Yrs From 09/03/2016,Uncompleted,New Sale,Private,05,12,129961,West Region,Clementi
+THE INTERLACE,210 Depot Road  #05-60 ,1,99,Strata,1450000,-,14646,1361,13-APR-2018,Condominium,99 Yrs From 11/02/2009,2013,Resale,Private,04,10,109699,Central Region,Bukit Merah
+ARCHIPELAGO,513 Bedok Reservoir Road  #03-46 ,1,78,Strata,1015000,-,13013,1209,13-APR-2018,Condominium,99 Yrs From 01/06/2011,2015,Resale,HDB,16,47,479273,East Region,Bedok
+CITIGATE RESIDENCE,168 Rangoon Road  #03-06 ,1,70,Strata,930000,-,13286,1234,13-APR-2018,Apartment,Freehold,2010,Resale,HDB,08,21,218437,Central Region,Kallang
+FLORAVIEW,5 Ang Mo Kio Street 66  #03-27 ,1,62,Strata,816000,-,13161,1223,13-APR-2018,Apartment,Freehold,2017,Sub Sale,Private,20,56,567707,North East Region,Ang Mo Kio
+AVANT RESIDENCES,10 Aljunied Road  #05-06 ,1,49,Strata,816600,-,16665,1548,13-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,HDB,14,38,389799,Central Region,Geylang
+CITY REGENCY,18 St. Michael'S Road  #03-01 ,1,79,Strata,940000,-,11899,1105,13-APR-2018,Apartment,Freehold,2009,Resale,Private,12,32,327977,Central Region,Kallang
+GOLDHILL GARDENS,29 Goldhill Drive ,1,256,Land,5400000,-,21110,1961,13-APR-2018,Terrace House,Freehold,1996,Resale,Private,11,30,308977,Central Region,Novena
+GRANDEUR PARK RESIDENCES,5 Bedok South Avenue 3  #01-23 ,1,117,Strata,1901000,-,16248,1509,13-APR-2018,Condominium,99 Yrs From 25/05/2016,Uncompleted,New Sale,HDB,16,46,465463,East Region,Bedok
+N.A.,54 Fowlie Road ,1,150,Land,2800000,-,18679,1735,13-APR-2018,Terrace House,Freehold,1985,Resale,Private,15,42,428497,Central Region,Marine Parade
+PARKVIEW APARTMENTS,3 Bukit Batok Street 25  #10-07 ,1,91,Strata,764000,-,8396,780,13-APR-2018,Apartment,99 Yrs From 01/05/1994,1998,Resale,HDB,23,65,658881,West Region,Bukit Batok
+ONZE @ TANJONG PAGAR,11 Kee Seng Street  #13-04 ,1,106,Strata,2808100,-,26492,2461,13-APR-2018,Apartment,Freehold,2017,Resale,HDB,02,08,089218,Central Region,Outram
+RESIDENCES @ EVELYN,17 Evelyn Road  #30-07 ,1,143,Strata,3100000,-,21678,2014,13-APR-2018,Condominium,Freehold,2007,Resale,Private,11,30,309306,Central Region,Novena
+STARVILLE,64 Lengkong Tiga  #02-11 ,1,115,Strata,1150000,-,10000,929,12-APR-2018,Condominium,Freehold,2006,Resale,Private,14,41,417456,East Region,Bedok
+LUCKY PLAZA,304 Orchard Road  #14-03 ,1,81,Strata,1818000,-,22444,2085,12-APR-2018,Apartment,Freehold,1981,Resale,Private,09,23,238863,Central Region,Orchard
+VARSITY PARK CONDOMINIUM,28 West Coast Road  #03-16 ,1,137,Strata,1650000,-,12044,1119,12-APR-2018,Condominium,99 Yrs From 03/05/2004,2008,Resale,Private,05,12,127449,West Region,Clementi
+VIVA VISTA,3 South Buona Vista Road  #04-20 ,1,36,Strata,640000,-,17778,1652,12-APR-2018,Apartment,Freehold,2014,Sub Sale,HDB,05,11,118136,Central Region,Queenstown
+H2O RESIDENCES,30 Fernvale Link  #18-04 ,1,82,Strata,900000,-,10976,1020,12-APR-2018,Condominium,99 Yrs From 10/05/2010,2015,Resale,HDB,28,79,797530,North East Region,Sengkang
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #03-04 ,1,59,Strata,1136000,-,19254,1789,12-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+RIVERBANK @ FERNVALE,17 Fernvale Close  #07-31 ,1,46,Strata,620000,-,13478,1252,12-APR-2018,Condominium,99 Yrs From 10/07/2013,2017,Sub Sale,HDB,28,79,797478,North East Region,Sengkang
+THE RIVERVALE,7 Rivervale Link  #08-37 ,1,120,Strata,928000,-,7733,718,12-APR-2018,Executive Condominium,99 Yrs From 18/12/1997,2000,Resale,Private,19,54,545125,North East Region,Sengkang
+D'NEST,141 Pasir Ris Grove  #09-50 ,1,70,Strata,845000,-,12071,1121,12-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518135,East Region,Pasir Ris
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #05-01 ,1,61,Strata,1184000,-,19410,1803,12-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,118582,Central Region,Queenstown
+N.A.,72 Grange Road  #07-01 ,1,358,Strata,7300000,-,20391,1894,12-APR-2018,Apartment,Freehold,1995,Resale,Private,10,24,249576,Central Region,River Valley
+N.A.,49 Soo Chow Walk ,1,217,Land,3100000,-,14279,1327,12-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,20,57,575360,Central Region,Bishan
+ROSEVALE,32 Lincoln Road  #08-02 ,1,122,Strata,2200000,-,18033,1675,12-APR-2018,Apartment,Freehold,2001,Resale,HDB,11,30,308362,Central Region,Novena
+ARTRA,10 Alexandra View  #09-01 ,1,131,Strata,2265100,-,17291,1606,12-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #12-18 ,1,62,Strata,1380000,-,22258,2068,12-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+BARTLEY RESIDENCES,3A Lorong How Sun  #06-16 ,1,43,Strata,723000,-,16814,1562,12-APR-2018,Apartment,99 Yrs From 29/06/2011,2015,Resale,HDB,19,53,536561,North East Region,Serangoon
+CHANGI GREEN,718 Upper Changi Road East  #04-08 ,1,113,Strata,1200000,-,10619,987,12-APR-2018,Condominium,Freehold,1998,Resale,HDB,16,48,486849,East Region,Tampines
+EIGHT COURTYARDS,2 Canberra Drive  #06-02 ,1,42,Strata,540000,-,12857,1194,12-APR-2018,Condominium,99 Yrs From 20/09/2010,2014,Resale,HDB,27,76,768138,North Region,Yishun
+THE HILLSIDE,343 Upper Bukit Timah Road  #07-04 ,1,142,Strata,1770000,-,12465,1158,12-APR-2018,Condominium,Freehold,2001,Resale,Private,21,58,588196,West Region,Bukit Batok
+ARTRA,10 Alexandra View  #26-01 ,1,131,Strata,2444500,-,18660,1734,12-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+M21,21 Mandalay Road  #08-02 ,1,125,Strata,1900000,-,15200,1412,12-APR-2018,Apartment,Freehold,2010,Resale,HDB,11,30,308208,Central Region,Novena
+DOUBLE BAY RESIDENCES,21D Simei Street 4  #03-54 ,1,123,Strata,1330000,-,10813,1005,12-APR-2018,Condominium,99 Yrs From 07/04/2008,2012,Resale,HDB,18,52,528721,East Region,Tampines
+CARIBBEAN AT KEPPEL BAY,16 Keppel Bay Drive  #03-22 ,1,81,Strata,1390000,-,17160,1594,12-APR-2018,Condominium,99 Yrs From 16/08/1999,2004,Resale,Private,04,09,098643,Central Region,Bukit Merah
+THE PALETTE,115 Pasir Ris Grove  #09-45 ,1,107,Strata,1238000,-,11570,1075,12-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,HDB,18,51,518172,East Region,Pasir Ris
+MERA GARDENS,55 Almond Crescent ,1,161,Land,1800000,-,11215,1042,12-APR-2018,Terrace House,99 Yrs From 01/05/1994,1998,Resale,HDB,23,67,677809,West Region,Bukit Panjang
+HOLLAND RESIDENCES,1 Taman Warna  #01-02 ,1,175,Strata,2900000,-,16571,1540,12-APR-2018,Condominium,Freehold,2012,Resale,Private,10,27,276337,Central Region,Bukit Timah
+N.A.,17 Dalkeith Road ,1,466,Land,9100000,-,19528,1814,12-APR-2018,Detached House,Freehold,1997,Resale,Private,11,29,299642,Central Region,Novena
+N.A.,11 Jalan Wangi ,1,176,Land,2320000,-,13159,1223,12-APR-2018,Terrace House,Freehold,Unknown,Resale,HDB,13,34,349355,Central Region,Toa Payoh
+ESTRIVILLAS,55G Jalan Lim Tai See ,1,583,Strata,3428000,-,5880,546,12-APR-2018,Semi-Detached House,Freehold,2013,Resale,Private,10,26,266230,Central Region,Bukit Timah
+MIRO,1 Lincoln Road  #25-05 ,1,182,Strata,3000000,-,16484,1531,12-APR-2018,Apartment,Freehold,2012,Resale,Private,11,30,308365,Central Region,Novena
+REGENT PARK,26 Jalan Lempeng  #04-05 ,1,91,Strata,960000,-,10549,980,12-APR-2018,Condominium,99 Yrs From 01/12/1993,1997,Resale,Private,05,12,128805,West Region,Clementi
+BAYSHORE PARK,66 Bayshore Road  #28-03 ,1,208,Strata,2338888,-,11245,1045,12-APR-2018,Condominium,99 Yrs From 17/03/1982,1986,Resale,Private,16,46,469985,East Region,Bedok
+SENNETT RESIDENCE,35 Pheng Geck Avenue  #05-19 ,1,47,Strata,828888,-,17636,1638,12-APR-2018,Condominium,99 Yrs From 28/11/2011,2016,Resale,Private,13,34,348230,Central Region,Toa Payoh
+ONE DUSUN RESIDENCES,1 Jalan Dusun  #10-01 ,1,45,Strata,760000,-,16889,1569,12-APR-2018,Apartment,Freehold,2016,Resale,HDB,12,32,329363,Central Region,Novena
+THE MEYERISE,97 Meyer Road  #03-08 ,1,118,Strata,2350000,-,19915,1850,12-APR-2018,Condominium,Freehold,2014,Resale,Private,15,43,437918,Central Region,Marine Parade
+THE RICHMOND,7 St. Michael'S Road  #07-02 ,1,115,Strata,1300000,-,11304,1050,12-APR-2018,Apartment,Freehold,1999,Resale,Private,12,32,327950,Central Region,Kallang
+EIGHT RIVERSUITES,2 Whampoa East  #26-04 ,1,41,Strata,755000,-,18415,1711,12-APR-2018,Condominium,99 Yrs From 11/07/2011,2016,Resale,Private,12,33,338517,Central Region,Kallang
+N.A.,78B Eng Kong Place ,1,200,Land,2450000,-,12232,1136,12-APR-2018,Semi-Detached House,99 Yrs From 01/04/1992,1995,Resale,Private,21,59,599154,Central Region,Bukit Timah
+THE SUMMIT,457 Upper East Coast Road  #01-06 ,1,115,Strata,1600000,-,13913,1293,12-APR-2018,Condominium,Freehold,1992,Resale,Private,16,46,466503,East Region,Bedok
+MI CASA,321 Choa Chu Kang Avenue 3  #12-21 ,1,115,Strata,1010000,-,8783,816,12-APR-2018,Condominium,99 Yrs From 25/08/2008,2012,Resale,Private,23,68,689864,West Region,Choa Chu Kang
+NEWTON IMPERIAL,24 Newton Road  #11-02 ,1,180,Strata,3310000,-,18389,1708,12-APR-2018,Apartment,Freehold,2011,Resale,Private,11,30,307956,Central Region,Novena
+RIVER PLACE,62 Havelock Road  #01-21 ,1,69,Strata,1000000,-,14493,1346,12-APR-2018,Condominium,99 Yrs From 07/11/1995,1999,Resale,Private,03,16,169659,Central Region,Singapore River
+NINETEEN SHELFORD ROAD,19 Shelford Road  #03-25 ,1,88,Strata,1380000,-,15682,1457,12-APR-2018,Condominium,Freehold,1997,Resale,Private,11,28,288408,Central Region,Bukit Timah
+THE AMBRA,97A Lorong H Telok Kurau  #03-05 ,1,78,Strata,965000,-,12372,1149,12-APR-2018,Apartment,Freehold,2010,Resale,Private,15,42,426118,East Region,Bedok
+RHAPSODY ON MOUNT ELIZABETH,16 Mount Elizabeth  #17-02 ,1,236,Strata,4180800,-,17715,1646,12-APR-2018,Apartment,Freehold,2010,Resale,Private,09,22,228513,Central Region,Newton
+PALM GARDENS,2C Hong San Walk  #04-12 ,1,112,Strata,838000,-,7482,695,12-APR-2018,Condominium,99 Yrs From 12/08/1996,2000,Resale,HDB,23,68,689049,West Region,Choa Chu Kang
+THE LAKESHORE,31 Jurong West Street 41  #06-33 ,1,103,Strata,1130000,-,10971,1019,12-APR-2018,Condominium,99 Yrs From 22/11/2002,2007,Resale,HDB,22,64,649412,West Region,Jurong West
+AVANT RESIDENCES,10 Aljunied Road  #07-01 ,1,35,Strata,664800,-,18994,1765,12-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,Private,14,38,389799,Central Region,Geylang
+FONTANA HEIGHTS,39 Mount Sinai Rise  #10-01 ,1,321,Strata,4900000,-,15265,1418,12-APR-2018,Condominium,Freehold,1985,Resale,Private,10,27,276957,Central Region,Bukit Timah
+ONE AMBER,9 Amber Gardens  #03-23 ,1,89,Strata,1630000,-,18315,1701,12-APR-2018,Condominium,Freehold,2010,Resale,Private,15,43,439958,Central Region,Marine Parade
+THE SHORE RESIDENCES,85 Amber Road  #09-15 ,1,120,Strata,2000000,-,16667,1548,12-APR-2018,Condominium,103 Yrs From 18/08/2009,2014,Resale,Private,15,43,439895,Central Region,Marine Parade
+SPOTTISWOODE SUITES,16 Spottiswoode Park Road  #09-06 ,1,43,Strata,990000,-,23023,2139,12-APR-2018,Apartment,Freehold,2017,Resale,HDB,02,08,088661,Central Region,Bukit Merah
+SUNRISE VILLA,7 Sunrise Close ,1,159,Land,2788000,-,17524,1628,12-APR-2018,Terrace House,Freehold,1988,Resale,Private,28,80,806604,North East Region,Ang Mo Kio
+BOATHOUSE RESIDENCES,23 Upper Serangoon View  #07-02 ,1,85,Strata,905000,-,10647,989,12-APR-2018,Condominium,99 Yrs From 09/02/2011,2015,Resale,HDB,19,53,534047,North East Region,Hougang
+WAN THO LODGE,25A Wan Tho Avenue ,1,107,Strata,1225000,-,11449,1064,12-APR-2018,Apartment,Freehold,1966,Resale,HDB,13,34,347554,Central Region,Toa Payoh
+AVANT RESIDENCES,10 Aljunied Road  #05-03 ,1,49,Strata,800800,-,16343,1518,12-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,Private,14,38,389799,Central Region,Geylang
+MARINA ONE RESIDENCES,21 Marina Way  #27-15 ,1,142,Strata,4514220,-,31790,2953,12-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+CASA AERATA,9 Lorong 26 Geylang  #07-02 ,1,39,Strata,570000,-,14615,1358,12-APR-2018,Apartment,Freehold,2012,Resale,HDB,14,39,398484,Central Region,Geylang
+THE TERRACE,98 Edgedale Plains  #10-38 ,1,122,Strata,1198000,-,9820,912,12-APR-2018,Executive Condominium,99 Yrs From 30/10/2013,2017,Resale,HDB,19,82,828689,North East Region,Punggol
+EIGHT COURTYARDS,2 Canberra Drive  #07-02 ,1,42,Strata,540000,-,12857,1194,12-APR-2018,Condominium,99 Yrs From 20/09/2010,2014,Resale,HDB,27,76,768138,North Region,Yishun
+CHELSEA GROVE,2 Martaban Road  #04-01 ,1,89,Strata,1080000,-,12135,1127,12-APR-2018,Apartment,Freehold,2007,Resale,Private,12,32,328626,Central Region,Novena
+VIZ AT HOLLAND,221 Queensway  #04-12 ,1,80,Strata,1410000,-,17625,1637,12-APR-2018,Condominium,Freehold,2008,Resale,HDB,10,27,276750,Central Region,Bukit Timah
+THOMSON V TWO,11 Sin Ming Road  #04-15 ,1,69,Strata,925000,-,13406,1245,12-APR-2018,Apartment,Freehold,2012,Resale,Private,20,57,575629,Central Region,Bishan
+N.A.,35 Jalan Labu Ayer ,1,335,Land,3500000,-,10451,971,12-APR-2018,Semi-Detached House,Freehold,Unknown,Resale,Private,19,53,538047,North East Region,Serangoon
+NEW FUTURA,18 Leonie Hill Road  #10-05 ,1,102,Strata,3912000,-,38353,3563,12-APR-2018,Condominium,Freehold,2017,Resale,Private,09,23,239199,Central Region,River Valley
+AVANT RESIDENCES,10 Aljunied Road  #07-04 ,1,49,Strata,811300,-,16557,1538,12-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,Private,14,38,389799,Central Region,Geylang
+SKY HABITAT,7 Bishan Street 15  #01-06 ,1,164,Strata,2289900,-,13963,1297,12-APR-2018,Condominium,99 Yrs From 30/05/2011,2015,Resale,HDB,20,57,573908,Central Region,Bishan
+RIVERTREES RESIDENCES,27 Fernvale Close  #10-15 ,1,104,Strata,1290000,-,12404,1152,12-APR-2018,Apartment,99 Yrs From 28/08/2013,2017,Sub Sale,HDB,28,79,797463,North East Region,Sengkang
+THE CREST,103 Prince Charles Crescent  #15-09 ,1,123,Strata,2443000,-,19862,1845,12-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+WINDERMERE,32 Choa Chu Kang Street 64  #18-03 ,1,119,Strata,875000,-,7353,683,12-APR-2018,Executive Condominium,99 Yrs From 03/03/1997,1999,Resale,HDB,23,68,689099,West Region,Choa Chu Kang
+MARINA ONE RESIDENCES,21 Marina Way  #04-15 ,1,143,Strata,3558180,-,24882,2312,12-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+D'NEST,149 Pasir Ris Grove  #04-82 ,1,70,Strata,830000,-,11857,1102,12-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518139,East Region,Pasir Ris
+FREESIA WOODS,63 Sunset Way  #02-11 ,1,132,Strata,1800000,-,13636,1267,12-APR-2018,Condominium,Freehold,2003,Resale,HDB,21,59,597088,West Region,Clementi
+HILLVIEW GREEN,61 Hume Avenue  #03-03 ,1,150,Strata,1700000,-,11333,1053,12-APR-2018,Condominium,999 Yrs From 19/05/1883,1998,Resale,Private,21,59,598741,West Region,Bukit Batok
+TULIP GARDEN,1/3/7/9/11 ENBLOC Farrer Road  #02-02 ,164,35574,Strata,906889000,-,25493,2368,12-APR-2018,Condominium,Freehold,1985,Resale,Private,10,26,268817,Central Region,Bukit Timah
+THE BROOKS I,60 Springside Walk  #04-06 ,1,107,Strata,1221000,-,11411,1060,12-APR-2018,Apartment,Freehold,2016,Resale,Private,26,78,786020,North Region,Yishun
+THE INSPIRA,11 Arnasalam Chetty Road  #07-12 ,1,87,Strata,1750000,-,20115,1869,12-APR-2018,Condominium,Freehold,2009,Resale,Private,09,23,239949,Central Region,River Valley
+THE CREST,103 Prince Charles Crescent  #12-07 ,1,117,Strata,2544000,-,21744,2020,12-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+VILLE ROYALE,312 River Valley Road  #03-05 ,1,97,Strata,1720000,-,17732,1647,12-APR-2018,Condominium,Freehold,1993,Resale,Private,09,23,238352,Central Region,River Valley
+FORESQUE RESIDENCES,103 Petir Road  #19-06 ,1,115,Strata,1360000,-,11826,1099,12-APR-2018,Condominium,99 Yrs From 10/01/2011,2014,Resale,Private,23,67,678273,West Region,Bukit Panjang
+TRIBECA,60 Kim Seng Road  #09-02 ,1,164,Strata,3330000,-,20305,1886,12-APR-2018,Condominium,Freehold,2010,Resale,Private,09,23,239497,Central Region,Singapore River
+THE CENTRIS,87 Jurong West Central 3  #06-50 ,1,117,Strata,1380000,-,11795,1096,12-APR-2018,Apartment,99 Yrs From 21/06/2006,2009,Resale,HDB,22,64,648343,West Region,Jurong West
+SPOTTISWOODE 18,18 Spottiswoode Park Road  #22-03 ,1,36,Strata,862000,-,23944,2224,12-APR-2018,Apartment,Freehold,2014,Resale,Private,02,08,088642,Central Region,Bukit Merah
+THE SENSORIA,1 Jalan Ulu Sembawang  #03-07 ,1,100,Strata,948000,-,9480,881,12-APR-2018,Condominium,Freehold,2007,Resale,HDB,27,75,758930,North Region,Sembawang
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #13-03 ,1,108,Strata,2045000,-,18935,1759,12-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,14,40,409053,Central Region,Geylang
+THE CREST,103 Prince Charles Crescent  #20-09 ,1,86,Strata,1948000,-,22651,2104,12-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,Private,03,15,159018,Central Region,Bukit Merah
+SUITES@CHANGI,226 Changi Road  #05-08 ,1,41,Strata,608000,-,14829,1378,12-APR-2018,Apartment,Freehold,2012,Resale,HDB,14,41,419740,Central Region,Geylang
+HARBOUR VIEW GARDENS,223 Pasir Panjang Road  #05-13 ,1,91,Strata,1685000,-,18516,1720,12-APR-2018,Apartment,Freehold,Uncompleted,New Sale,HDB,05,11,118584,Central Region,Queenstown
+PARC VERA,10 Hougang Street 32  #13-23 ,1,73,Strata,815000,-,11164,1037,12-APR-2018,Condominium,99 Yrs From 20/12/2010,2014,Resale,HDB,19,53,534037,North East Region,Hougang
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #14-18 ,1,62,Strata,1430000,-,23065,2143,12-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409055,Central Region,Geylang
+WATERBANK AT DAKOTA,72 Dakota Crescent  #08-07 ,1,110,Strata,1868000,-,16982,1578,12-APR-2018,Condominium,99 Yrs From 07/12/2009,2013,Resale,Private,14,39,399942,Central Region,Geylang
+RIVER ISLES,52 Edgedale Plains  #09-01 ,1,70,Strata,750000,-,10714,995,12-APR-2018,Condominium,99 Yrs From 06/02/2012,2015,Resale,HDB,19,82,828820,North East Region,Punggol
+BISHAN LOFT,31 Bishan Street 11  #17-05 ,1,130,Strata,1558888,-,11991,1114,12-APR-2018,Executive Condominium,99 Yrs From 13/12/2000,2003,Resale,Private,20,57,579819,Central Region,Bishan
+SUNNY PALMS,65 Lorong G Telok Kurau  #05-12 ,1,339,Strata,2530000,-,7463,693,12-APR-2018,Condominium,Freehold,2004,Resale,Private,15,42,426323,East Region,Bedok
+KERRISDALE,36 Sturdee Road  #19-15 ,1,92,Strata,1150000,-,12500,1161,12-APR-2018,Condominium,99 Yrs From 02/04/1998,2005,Resale,Private,08,20,207855,Central Region,Kallang
+LIVIA,63 Pasir Ris Grove  #14-05 ,1,143,Strata,1400000,-,9790,910,12-APR-2018,Condominium,99 Yrs From 07/01/2008,2011,Resale,HDB,18,51,518216,East Region,Pasir Ris
+AVANT RESIDENCES,10 Aljunied Road  #07-06 ,1,50,Strata,838900,-,16778,1559,12-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,HDB,14,38,389799,Central Region,Geylang
+NEPTUNE COURT,1 Marine Vista  #13-83 ,1,152,Strata,1448000,-,9526,885,12-APR-2018,Apartment,99 Yrs From 01/11/1975,1975,Resale,Private,15,44,449025,East Region,Bedok
+SERANGOON GARDEN ESTATE,77 Bloxhome Drive ,1,260,Land,2950000,-,11342,1054,12-APR-2018,Terrace House,999 Yrs From 01/01/1955,Unknown,Resale,Private,19,55,559772,North East Region,Serangoon
+HORIZON GARDENS,511 Ang Mo Kio Avenue 2 ,1,270,Strata,1836000,-,6800,632,12-APR-2018,Terrace House,99 Yrs From 23/06/1995,2002,Resale,Private,20,56,567911,North East Region,Ang Mo Kio
+THE VISION,81 West Coast Crescent  #28-08 ,1,122,Strata,1680000,-,13770,1279,12-APR-2018,Condominium,99 Yrs From 25/06/2008,2014,Resale,HDB,05,12,126794,West Region,Clementi
+NORTHWAVE,109 Woodlands View  #05-18 ,1,93,Strata,810000,-,8710,809,12-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737712,North Region,Woodlands
+WHITEWATER,21 Pasir Ris Street 72  #12-02 ,1,106,Strata,820000,-,7736,719,12-APR-2018,Executive Condominium,99 Yrs From 23/07/2002,2005,Resale,Private,18,51,518764,East Region,Pasir Ris
+THE DEW,30 Bukit Batok Street 21  #02-07 ,1,122,Strata,1038000,-,8508,790,12-APR-2018,Executive Condominium,99 Yrs From 13/12/2000,2003,Resale,Private,23,65,659636,West Region,Bukit Batok
+THE SPRINGSIDE,67 Springside View ,1,187,Land,3030000,-,16238,1509,12-APR-2018,Terrace House,Freehold,2016,Resale,Private,26,78,786063,North Region,Yishun
+GUILIN VIEW,24 Bukit Batok Street 52  #05-02 ,1,119,Strata,950000,-,7983,742,12-APR-2018,Condominium,99 Yrs From 24/04/1996,2000,Resale,HDB,23,65,659246,West Region,Bukit Batok
+N.A.,25-5 Boundary Road ,1,157,Land,2460000,-,15649,1454,12-APR-2018,Terrace House,Freehold,Unknown,Resale,Private,19,54,549962,North East Region,Serangoon
+WATERTOWN,81 Punggol Central  #10-89 ,1,89,Strata,1330000,-,14944,1388,12-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,HDB,19,82,828760,North East Region,Punggol
+CENTRAL VIEW,52 Hougang Street 11  #08-07 ,1,112,Strata,1030000,-,9196,854,12-APR-2018,Condominium,99 Yrs From 20/03/1998,2002,Resale,HDB,19,53,538750,North East Region,Hougang
+VALVISTA,15 Chuan View ,1,161,Land,2100000,-,13027,1210,12-APR-2018,Terrace House,99 Yrs From 07/02/2001,2004,Resale,Private,19,55,554751,North East Region,Serangoon
+THE TAPESTRY,61 Tampines Street 86  #02-50 ,1,44,Strata,689310,-,15666,1455,11-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528510,East Region,Tampines
+BAODE BUILDING,8 Lorong 35 Geylang  #05-02 ,1,113,Strata,1330000,-,11770,1093,11-APR-2018,Apartment,Freehold,1991,Resale,Private,14,38,387940,Central Region,Geylang
+SELETAR HILLS ESTATE,32 Jalan Ketumbit ,1,201,Land,2950000,-,14699,1366,11-APR-2018,Terrace House,999 Yrs From 01/01/1879,Unknown,Resale,Private,28,80,808885,North East Region,Serangoon
+OLA RESIDENCES,839 Mountbatten Road  #01-04 ,1,144,Strata,2050000,-,14236,1323,11-APR-2018,Condominium,Freehold,2011,Resale,Private,15,43,437831,Central Region,Marine Parade
+N.A.,26 Lowland Road ,1,607,Land,5900000,-,9728,904,11-APR-2018,Semi-Detached House,Freehold,1983,Resale,Private,19,54,547416,North East Region,Hougang
+VERSILIA ON HAIG,33 Ipoh Lane  #10-09 ,1,105,Strata,1550000,-,14762,1371,11-APR-2018,Condominium,Freehold,2010,Resale,Private,15,43,438641,Central Region,Geylang
+EDELWEISS PARK CONDOMINIUM,98 Flora Road  #06-57 ,1,88,Strata,820000,-,9318,866,11-APR-2018,Condominium,Freehold,2006,Resale,HDB,17,50,507008,East Region,Pasir Ris
+EASTPOINT GREEN,3 Simei Street 3  #02-20 ,1,103,Strata,910000,-,8835,821,11-APR-2018,Condominium,99 Yrs From 24/04/1996,1999,Resale,HDB,18,52,529891,East Region,Tampines
+SELETAR SPRINGS CONDOMINIUM,110 Gerald Drive  #01-56 ,1,118,Strata,854800,-,7244,673,11-APR-2018,Condominium,99 Yrs From 12/08/1997,2000,Resale,Private,28,79,799036,North East Region,Hougang
+RIVEREDGE,21 Sampan Place  #16-03 ,1,156,Strata,2428000,-,15564,1446,11-APR-2018,Condominium,99 Yrs From 26/02/2004,2008,Resale,Private,15,43,436593,Central Region,Kallang
+THE INFLORA,59 Flora Drive  #05-27 ,1,43,Strata,556000,-,12930,1201,11-APR-2018,Condominium,99 Yrs From 25/05/2012,2016,Resale,Private,17,50,506846,East Region,Pasir Ris
+PARC BOTANNIA,16 Fernvale Street  #20-22 ,1,55,Strata,844000,-,15345,1426,11-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,HDB,28,79,797393,North East Region,Sengkang
+THE ORIENT,251 Pasir Panjang Road  #03-04 ,1,67,Strata,1385300,-,20676,1921,11-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+HEDGES PARK CONDOMINIUM,89 Flora Drive  #08-69 ,1,81,Strata,810000,-,10000,929,11-APR-2018,Condominium,99 Yrs From 28/07/2010,2015,Resale,Private,17,50,506890,East Region,Pasir Ris
+EAST COAST RESIDENCES,412 Upper East Coast Road  #02-11 ,1,81,Strata,1135000,-,14012,1302,11-APR-2018,Apartment,Freehold,2011,Resale,Private,16,46,466488,East Region,Bedok
+THE SEAWIND,80 Lorong M Telok Kurau  #04-36 ,1,85,Strata,1495888,-,17599,1635,11-APR-2018,Condominium,Freehold,2015,Resale,Private,15,42,425414,East Region,Bedok
+SILVERSCAPE,39 Lorong 32 Geylang  #02-03 ,1,38,Strata,565000,-,14868,1381,11-APR-2018,Apartment,Freehold,2015,Resale,HDB,14,39,398299,Central Region,Geylang
+THE BAYSHORE,26 Bayshore Road  #26-06 ,1,133,Strata,1506000,-,11323,1052,11-APR-2018,Condominium,99 Yrs From 31/05/1993,1996,Resale,Private,16,46,469972,East Region,Bedok
+THE SOUND,539 East Coast Road  #03-02 ,1,99,Strata,1680000,-,16970,1577,11-APR-2018,Condominium,Freehold,2013,Resale,Private,15,42,429069,East Region,Bedok
+THE SAIL @ MARINA BAY,2 Marina Boulevard  #27-09 ,1,83,Strata,1620000,-,19518,1813,11-APR-2018,Apartment,99 Yrs From 12/08/2002,2008,Resale,Private,01,01,018987,Central Region,Downtown Core
+PATERSON RESIDENCE,83 Paterson Road  #03-06 ,1,122,Strata,3000000,-,24590,2284,11-APR-2018,Condominium,Freehold,2008,Resale,Private,09,23,238549,Central Region,River Valley
+CAMELOT BY-THE-WATER,110 Tanjong Rhu Road  #05-05 ,1,267,Strata,4454700,-,16684,1550,11-APR-2018,Condominium,99 Yrs From 07/06/1996,2000,Resale,Private,15,43,436928,Central Region,Kallang
+KISMIS RESIDENCES,6 Eng Kong Terrace ,1,150,Land,4150000,-,27667,2570,11-APR-2018,Terrace House,Freehold,2018,New Sale,Private,21,59,598978,Central Region,Bukit Timah
+THE SAIL @ MARINA BAY,2 Marina Boulevard  #29-01 ,1,110,Strata,2500000,-,22727,2111,11-APR-2018,Apartment,99 Yrs From 12/08/2002,2008,Resale,Private,01,01,018987,Central Region,Downtown Core
+DEVONSHIRE 12,12 Devonshire Road  #06-01 ,1,95,Strata,1768888,-,18620,1730,11-APR-2018,Apartment,Freehold,2015,New Sale,HDB,09,23,239847,Central Region,River Valley
+COASTAL VIEW RESIDENCES,179 Jalan Loyang Besar  #02-08 ,1,108,Strata,1050000,-,9722,903,11-APR-2018,Apartment,999 Yrs From 01/06/1885,2009,Resale,HDB,17,50,506926,East Region,Pasir Ris
+KISMIS RESIDENCES,4 Upper Toh Tuck Terrace ,1,150,Land,4000000,-,26667,2477,11-APR-2018,Terrace House,Freehold,Uncompleted,New Sale,N.A,21,59,596456,Central Region,Bukit Timah
+THE TAPESTRY,57 Tampines Street 86  #01-27 ,1,133,Strata,1715580,-,12899,1198,11-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528542,East Region,Tampines
+91 MARSHALL,91 Marshall Road  #04-03 ,1,69,Strata,1100000,-,15942,1481,11-APR-2018,Apartment,Freehold,2014,Resale,HDB,15,42,424887,Central Region,Marine Parade
+CITY SUITES,235 Balestier Road  #14-01 ,1,49,Strata,967000,-,19735,1833,11-APR-2018,Apartment,Freehold,2017,New Sale,HDB,12,32,329699,Central Region,Novena
+SKY@ELEVEN,11 Thomson Lane  #38-09 ,1,172,Strata,3288888,-,19121,1776,11-APR-2018,Condominium,Freehold,2010,Resale,Private,11,29,297727,Central Region,Toa Payoh
+HARBOUR VIEW GARDENS,221 Pasir Panjang Road  #01-03 ,1,93,Strata,1741000,-,18720,1739,11-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,05,11,118582,Central Region,Queenstown
+BARTLEY RIDGE,30 Mount Vernon Road  #02-05 ,1,103,Strata,1445000,-,14029,1303,11-APR-2018,Condominium,99 Yrs From 16/04/2012,2016,Resale,Private,13,36,368055,Central Region,Toa Payoh
+HAZEL PARK CONDOMINIUM,21 Hazel Park Terrace  #09-08 ,1,124,Strata,1400000,-,11290,1049,11-APR-2018,Condominium,999 Yrs From 25/09/1882,2000,Resale,Private,23,67,678946,West Region,Bukit Panjang
+EN FU MANSIONS,31 Lorong 33 Geylang  #03-01 ,1,116,Strata,948000,-,8172,759,11-APR-2018,Apartment,Freehold,1995,Resale,HDB,14,38,387988,Central Region,Geylang
+NEPTUNE COURT,2 Marine Vista  #12-69 ,1,152,Strata,1480000,-,9737,905,11-APR-2018,Apartment,99 Yrs From 01/11/1975,1975,Resale,Private,15,44,449026,East Region,Bedok
+CASA CAMBIO,9 Lim Tua Tow Road  #03-14 ,1,45,Strata,708000,-,15733,1462,11-APR-2018,Condominium,Freehold,2014,Resale,HDB,19,54,547726,North East Region,Serangoon
+CONCOURSE SKYLINE,296 Beach Road  #24-07 ,1,104,Strata,2214420,-,21293,1978,11-APR-2018,Apartment,99 Yrs From 13/03/2008,2014,Resale,Private,07,19,199599,Central Region,Kallang
+THE INTERLACE,212 Depot Road  #07-64 ,1,98,Strata,1400000,-,14286,1327,11-APR-2018,Condominium,99 Yrs From 11/02/2009,2013,Resale,HDB,04,10,109700,Central Region,Bukit Merah
+N.A.,30 Bristol Road  #03-02 ,1,117,Strata,1448000,-,12376,1150,11-APR-2018,Apartment,Freehold,1997,Resale,Private,08,21,219860,Central Region,Kallang
+KOVAN MELODY,23 Kovan Road  #13-20 ,1,114,Strata,1338000,-,11737,1090,11-APR-2018,Condominium,99 Yrs From 20/01/2004,2006,Resale,Private,19,54,548193,North East Region,Hougang
+NICOLE GREEN,68 Guillemard Road  #12-02 ,1,207,Strata,1950000,-,9420,875,11-APR-2018,Apartment,Freehold,2002,Resale,Private,14,39,399710,Central Region,Geylang
+JANSEN 28,28 Jansen Road  #02-05 ,1,113,Strata,1265000,-,11195,1040,11-APR-2018,Apartment,999 Yrs From 01/09/1876,1999,Resale,Private,19,54,548431,North East Region,Hougang
+KISMIS RESIDENCES,22 Upper Toh Tuck Terrace ,1,150,Land,4150000,-,27667,2570,11-APR-2018,Terrace House,Freehold,2018,New Sale,Private,21,59,596465,Central Region,Bukit Timah
+THE TESSARINA,26 Wilby Road  #07-25 ,1,96,Strata,1800000,-,18750,1742,11-APR-2018,Condominium,Freehold,2003,Resale,Private,10,27,276308,Central Region,Bukit Timah
+SYMPHONY HEIGHTS,33 Hume Avenue  #01-10 ,1,119,Strata,1300000,-,10924,1015,11-APR-2018,Condominium,Freehold,1998,Resale,Private,21,59,598734,West Region,Bukit Batok
+N.A.,14 Lorong Sari ,1,447,Land,5180000,-,11583,1076,11-APR-2018,Detached House,Freehold,1994,Resale,Private,05,11,119097,Central Region,Queenstown
+WATERSCAPE AT CAVENAGH,65C Cavenagh Road  #06-23 ,1,122,Strata,2425000,-,19877,1847,11-APR-2018,Apartment,Freehold,2014,Resale,HDB,09,22,229631,Central Region,Newton
+D'NEST,135 Pasir Ris Grove  #06-31 ,1,87,Strata,1000000,-,11494,1068,11-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518132,East Region,Pasir Ris
+PARC BOTANNIA,12 Fernvale Street  #02-18 ,1,47,Strata,644000,-,13702,1273,11-APR-2018,Condominium,99 Yrs From 28/12/2016,Uncompleted,New Sale,N.A,28,79,797391,North East Region,Sengkang
+WATERCOVE,145 Wak Hassan Drive ,1,321,Strata,2820000,-,8785,816,11-APR-2018,Terrace House,Freehold,Uncompleted,New Sale,N.A,27,75,757586,North Region,Sembawang
+NORTHOAKS,26 Woodlands Crescent  #11-27 ,1,120,Strata,803800,-,6698,622,11-APR-2018,Executive Condominium,99 Yrs From 16/12/1997,2000,Resale,HDB,25,73,738084,North Region,Woodlands
+MARINA ONE RESIDENCES,21 Marina Way  #31-06 ,1,104,Strata,2880900,-,27701,2573,11-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+KINGSFORD WATERBAY,66 Upper Serangoon View  #02-13 ,1,64,Strata,1001000,-,15641,1453,11-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,HDB,19,53,533885,North East Region,Hougang
+TANGERINE GROVE,1 Paya Lebar Crescent  #03-06 ,1,110,Strata,1500000,-,13636,1267,11-APR-2018,Condominium,Freehold,2007,Resale,HDB,19,53,536019,North East Region,Hougang
+BEDOK RESIDENCES,24 Bedok North Drive  #07-31 ,1,55,Strata,850000,-,15455,1436,11-APR-2018,Apartment,99 Yrs From 21/11/2011,2015,Resale,Private,16,46,465498,East Region,Bedok
+KISMIS RESIDENCES,6 Upper Toh Tuck Terrace ,1,150,Land,4150000,-,27667,2570,11-APR-2018,Terrace House,Freehold,Uncompleted,New Sale,N.A,21,59,596457,Central Region,Bukit Timah
+THE LINCOLN RESIDENCES,28 Surrey Road  #09-01 ,1,171,Strata,3200000,-,18713,1739,11-APR-2018,Condominium,Freehold,2011,Resale,Private,11,30,307762,Central Region,Novena
+THE LINCOLN MODERN,20 Lincoln Road  #27-01 ,1,112,Strata,1900000,-,16964,1576,11-APR-2018,Apartment,Freehold,2003,Resale,Private,11,30,308353,Central Region,Novena
+LAKEHOLMZ,80 Corporation Road  #03-02 ,1,119,Strata,1168800,-,9822,912,11-APR-2018,Condominium,99 Yrs From 29/10/2001,2005,Resale,HDB,22,64,649819,West Region,Jurong West
+REFLECTIONS AT KEPPEL BAY,1 Keppel Bay View  #03-02 ,1,151,Strata,2961420,-,19612,1822,11-APR-2018,Condominium,99 Yrs From 15/03/2006,2011,Resale,Private,04,09,098402,Central Region,Bukit Merah
+THE BENCOOLEN,180A Bencoolen Street  #14-07 ,1,97,Strata,1378000,-,14206,1320,11-APR-2018,Apartment,99 Yrs From 24/06/1995,1999,Resale,HDB,07,18,189647,Central Region,Rochor
+BUCKLEY 18,18 Buckley Road  #04-01 ,1,98,Strata,2000000,-,20408,1896,11-APR-2018,Apartment,Freehold,2009,Resale,Private,11,30,309776,Central Region,Novena
+YUNNAN GARDENS,63 Yunnan Road ,1,237,Land,2500000,-,10553,980,11-APR-2018,Terrace House,Freehold,2000,Resale,HDB,22,63,637926,West Region,Jurong West
+THE PALETTE,103 Pasir Ris Grove  #13-07 ,1,108,Strata,1180000,-,10926,1015,11-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,HDB,18,51,518196,East Region,Pasir Ris
+BELLA CASITA,7 Ipoh Lane  #09-02 ,1,43,Strata,690000,-,16047,1491,11-APR-2018,Apartment,Freehold,2012,Resale,Private,15,43,438610,Central Region,Geylang
+CARISSA PARK CONDOMINIUM,6 Flora Drive  #05-69 ,1,121,Strata,1080000,-,8926,829,11-APR-2018,Condominium,Freehold,2001,Resale,Private,17,50,507027,East Region,Pasir Ris
+ESPADA,48 St. Thomas Walk  #25-02 ,1,35,Strata,960000,-,27429,2548,11-APR-2018,Apartment,Freehold,2013,Resale,HDB,09,23,238126,Central Region,River Valley
+STARLIGHT SUITES,11 River Valley Close  #19-04 ,1,52,Strata,1250000,-,24038,2233,11-APR-2018,Apartment,Freehold,2014,Resale,Private,09,23,238437,Central Region,River Valley
+PARK PLACE RESIDENCES AT PLQ,8 Paya Lebar Road  #15-23 ,1,45,Strata,1075000,-,23889,2219,11-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409056,Central Region,Geylang
+THE HILLSIDE,343 Upper Bukit Timah Road  #01-01 ,1,190,Strata,2000000,-,10526,978,11-APR-2018,Condominium,Freehold,2001,Resale,HDB,21,58,588196,West Region,Bukit Batok
+RAFFLESIA CONDOMINIUM,33 Bishan Street 21  #18-11 ,1,111,Strata,1400000,-,12613,1172,11-APR-2018,Condominium,99 Yrs From 18/07/1997,2003,Resale,Private,20,57,579801,Central Region,Bishan
+HOCK SWEE HILL,65 Begonia Drive ,1,406,Land,4379000,-,10778,1001,11-APR-2018,Semi-Detached House,Freehold,1979,Resale,Private,28,80,809923,North East Region,Serangoon
+THOMSON THREE,43 Bright Hill Drive  #11-08 ,1,138,Strata,2238000,-,16217,1507,11-APR-2018,Apartment,99 Yrs From 07/11/2012,2016,Resale,Private,20,57,573894,Central Region,Bishan
+ASTORIA PARK,34 Lorong Mydin  #06-02 ,1,111,Strata,1200000,-,10811,1004,11-APR-2018,Condominium,99 Yrs From 01/05/1993,1995,Resale,HDB,14,41,416827,East Region,Bedok
+OPTIMA @ TANAH MERAH,88 Tanah Merah Kechil Avenue  #04-20 ,1,79,Strata,1038000,-,13139,1221,11-APR-2018,Condominium,99 Yrs From 09/12/2008,2012,Resale,Private,16,46,465518,East Region,Bedok
+WATERTOWN,73 Punggol Central  #11-66 ,1,49,Strata,750000,-,15306,1422,11-APR-2018,Apartment,99 Yrs From 18/05/2011,2017,Sub Sale,Private,19,82,828756,North East Region,Punggol
+SEA ESTA,30 Pasir Ris Link  #10-27 ,1,102,Strata,1250000,-,12255,1139,11-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,HDB,18,51,518147,East Region,Pasir Ris
+LA FLEUR,8 Lorong 26 Geylang  #03-06 ,1,39,Strata,525000,-,13462,1251,11-APR-2018,Apartment,Freehold,2014,Resale,Private,14,39,398483,Central Region,Geylang
+DUCHESS CREST,58 Duchess Avenue  #02-04 ,1,125,Strata,1850000,-,14800,1375,11-APR-2018,Condominium,99 Yrs From 24/06/1995,1998,Resale,Private,10,26,269200,Central Region,Bukit Timah
+N.A.,13 Broadrick Road ,1,558,Land,12500000,-,22401,2081,11-APR-2018,Detached House,Freehold,2006,Resale,Private,15,43,439514,Central Region,Marine Parade
+THE BEVERLY,45 Toh Tuck Road  #02-10 ,1,104,Strata,1500000,-,14423,1340,11-APR-2018,Apartment,Freehold,2012,Resale,Private,21,59,596720,Central Region,Bukit Timah
+BIJOU,2 Jalan Mat Jambol  #02-18 ,1,53,Strata,1126193,-,21249,1974,10-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,119554,Central Region,Queenstown
+MACPHERSON GARDEN ESTATE,100 Jalan Setia ,1,82,Land,1600000,-,19465,1808,10-APR-2018,Terrace House,Freehold,Unknown,Resale,HDB,13,36,368518,Central Region,Toa Payoh
+THE NAVIAN,178 Jalan Eunos  #03-01 ,1,84,Strata,1444000,-,17190,1597,10-APR-2018,Apartment,Freehold,Uncompleted,New Sale,N.A,14,41,419530,East Region,Bedok
+A TREASURE TROVE,76 Punggol Walk  #06-54 ,1,72,Strata,860000,-,11944,1110,10-APR-2018,Condominium,99 Yrs From 09/03/2011,2015,Resale,HDB,19,82,828788,North East Region,Punggol
+PARK PLACE RESIDENCES AT PLQ,2 Paya Lebar Road  #12-04 ,1,63,Strata,1345000,-,21349,1983,10-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,Private,14,40,409053,Central Region,Geylang
+CENTURY WOODS,61 Woodgrove Walk ,1,235,Land,2100000,-,8932,830,10-APR-2018,Terrace House,99 Yrs From 04/12/1996,2001,Resale,Private,25,73,738202,North Region,Woodlands
+BAYSHORE PARK,60 Bayshore Road  #13-07 ,1,87,Strata,860000,-,9885,918,10-APR-2018,Condominium,99 Yrs From 17/03/1982,1986,Resale,Private,16,46,469982,East Region,Bedok
+REGENT HEIGHTS,56 Bukit Batok East Avenue 5  #26-02 ,1,139,Strata,1100000,-,7914,735,10-APR-2018,Condominium,99 Yrs From 07/11/1995,1999,Resale,HDB,23,65,659804,West Region,Bukit Batok
+PRESTO@UPPER SERANGOON,528 Upper Serangoon Road  #03-08 ,1,40,Strata,636000,-,15900,1477,10-APR-2018,Apartment,Freehold,2016,Resale,Private,19,53,534543,North East Region,Serangoon
+RIVER ISLES,58 Edgedale Plains  #04-13 ,1,88,Strata,848000,-,9636,895,10-APR-2018,Condominium,99 Yrs From 06/02/2012,2015,Resale,HDB,19,82,828823,North East Region,Punggol
+MARTIN PLACE RESIDENCES,6 Martin Place  #22-08 ,1,97,Strata,2290000,-,23608,2193,10-APR-2018,Condominium,Freehold,2011,Resale,Private,09,23,237990,Central Region,River Valley
+DOMAIN 21,23 Delta Road  #11-08 ,1,84,Strata,1335000,-,15893,1476,10-APR-2018,Condominium,99 Yrs From 02/07/2004,2007,Resale,HDB,03,16,169814,Central Region,Bukit Merah
+ARTRA,10 Alexandra View  #36-06 ,1,77,Strata,1682500,-,21851,2030,10-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,Private,03,15,158745,Central Region,Bukit Merah
+STURDEE RESIDENCES,10 Beatty Road  #04-08 ,1,121,Strata,1793000,-,14818,1377,10-APR-2018,Condominium,99 Yrs From 29/06/2015,Uncompleted,New Sale,N.A,08,20,209955,Central Region,Kallang
+MARINA ONE RESIDENCES,21 Marina Way  #14-07 ,1,143,Strata,3842760,-,26872,2497,10-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+EDELWEISS PARK CONDOMINIUM,92 Flora Road  #03-40 ,1,85,Strata,780000,-,9176,853,10-APR-2018,Condominium,Freehold,2006,Resale,Private,17,50,507005,East Region,Pasir Ris
+THE SPRINGBLOOM,145 Serangoon Avenue 3  #17-06 ,1,133,Strata,1600000,-,12030,1118,10-APR-2018,Condominium,99 Yrs From 01/03/1995,1999,Resale,Private,19,55,556122,North East Region,Serangoon
+THE PALETTE,113 Pasir Ris Grove  #06-33 ,1,83,Strata,920000,-,11084,1030,10-APR-2018,Condominium,99 Yrs From 20/10/2010,2015,Resale,HDB,18,51,518171,East Region,Pasir Ris
+THE METROPOLITAN CONDOMINIUM,6 Alexandra View  #33-01 ,1,73,Strata,1180000,-,16164,1502,10-APR-2018,Condominium,99 Yrs From 17/02/2006,2009,Resale,Private,03,15,158746,Central Region,Bukit Merah
+SKY VUE,3 Bishan Street 15  #21-15 ,1,63,Strata,1190000,-,18889,1755,10-APR-2018,Condominium,99 Yrs From 04/03/2013,2016,Resale,HDB,20,57,573911,Central Region,Bishan
+NIM COLLECTION,21 Nim Rise ,1,177,Land,2762000,-,15605,1450,10-APR-2018,Terrace House,99 Yrs From 13/10/2016,Uncompleted,New Sale,HDB,28,80,804430,North East Region,Serangoon
+BISHAN POINT,61 Bright Hill Drive  #26-04 ,1,87,Strata,1100000,-,12644,1175,10-APR-2018,Condominium,99 Yrs From 06/12/1997,2005,Resale,Private,20,57,579653,Central Region,Bishan
+CHANTILLY RISE,82 Hillview Avenue  #01-12 ,1,116,Strata,1215000,-,10474,973,10-APR-2018,Condominium,Freehold,1998,Resale,HDB,23,66,669581,West Region,Bukit Batok
+D'MIRA,31 Boon Teck Road  #13-01 ,1,140,Strata,1750000,-,12500,1161,10-APR-2018,Apartment,Freehold,2012,Resale,Private,12,32,329602,Central Region,Novena
+PARK PLACE RESIDENCES AT PLQ,6 Paya Lebar Road  #17-18 ,1,62,Strata,1430000,-,23065,2143,10-APR-2018,Apartment,99 Yrs From 29/06/2015,Uncompleted,New Sale,HDB,14,40,409055,Central Region,Geylang
+CHANGI RISE CONDOMINIUM,6 Simei Rise  #04-17 ,1,117,Strata,978000,-,8359,777,10-APR-2018,Condominium,99 Yrs From 29/11/2000,2004,Resale,HDB,18,52,528802,East Region,Tampines
+THE TAPESTRY,53 Tampines Street 86  #04-14 ,1,56,Strata,802400,-,14329,1331,10-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,HDB,18,52,528540,East Region,Tampines
+SEA ESTA,22 Pasir Ris Link  #04-16 ,1,104,Strata,1068000,-,10269,954,10-APR-2018,Condominium,99 Yrs From 09/01/2012,2015,Resale,HDB,18,51,518158,East Region,Pasir Ris
+MEADOWS @ PEIRCE,626 Upper Thomson Road  #04-22 ,1,85,Strata,1130000,-,13294,1235,10-APR-2018,Condominium,Freehold,2012,Resale,Private,26,78,787130,North East Region,Ang Mo Kio
+RIS GRANDEUR,25 Elias Road  #02-11 ,1,143,Strata,1350000,-,9441,877,10-APR-2018,Condominium,Freehold,2005,Resale,Private,18,51,519931,East Region,Pasir Ris
+WATER PLACE,173 Tanjong Rhu Road  #08-08 ,1,84,Strata,1220000,-,14524,1349,10-APR-2018,Condominium,99 Yrs From 02/03/1998,2004,Resale,Private,15,43,436932,Central Region,Kallang
+HELIOS RESIDENCES,17 Cairnhill Circle  #13-07 ,1,122,Strata,3050000,-,25000,2323,10-APR-2018,Apartment,Freehold,2011,Resale,Private,09,22,229816,Central Region,Newton
+KELLOCK LODGE,5 Kellock Road  #07-01 ,1,83,Strata,1280000,-,15422,1433,10-APR-2018,Apartment,Freehold,1997,Resale,Private,10,24,248902,Central Region,Tanglin
+MARINA ONE RESIDENCES,21 Marina Way  #05-18 ,1,141,Strata,3534000,-,25064,2328,10-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+BULLION PARK,170 Lentor Loop  #12-04 ,1,115,Strata,1350000,-,11739,1091,10-APR-2018,Condominium,Freehold,1993,Resale,HDB,26,78,789099,North East Region,Ang Mo Kio
+THE EDGEWATER,211 Jalan Loyang Besar  #02-08 ,1,93,Strata,828000,-,8903,827,10-APR-2018,Condominium,Freehold,2003,Resale,HDB,17,50,509504,East Region,Pasir Ris
+MY MANHATTAN,31 Simei Street 3  #08-18 ,1,80,Strata,1130000,-,14125,1312,10-APR-2018,Condominium,99 Yrs From 11/08/2010,2014,Resale,HDB,18,52,529902,East Region,Tampines
+SCOTTS SQUARE,8 Scotts Road  #42-09 ,1,88,Strata,2900000,-,32955,3062,10-APR-2018,Apartment,Freehold,2011,Resale,Private,09,22,228238,Central Region,Orchard
+THE BAYSHORE,26 Bayshore Road  #11-07 ,1,94,Strata,945000,-,10053,934,10-APR-2018,Condominium,99 Yrs From 31/05/1993,1996,Resale,Private,16,46,469972,East Region,Bedok
+BAYSHORE PARK,66 Bayshore Road  #26-05 ,1,204,Strata,2000000,-,9804,911,10-APR-2018,Condominium,99 Yrs From 17/03/1982,1986,Resale,HDB,16,46,469985,East Region,Bedok
+QUEENS PEAK,3 Dundee Road  #38-22 ,1,80,Strata,1652000,-,20650,1918,10-APR-2018,Condominium,99 Yrs From 28/09/2015,Uncompleted,New Sale,Private,03,14,149457,Central Region,Queenstown
+THE TAPESTRY,51 Tampines Street 86  #09-10 ,1,56,Strata,879660,-,15708,1459,10-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,N.A,18,52,528539,East Region,Tampines
+SOPHIA HILLS,25 Mount Sophia  #05-84 ,1,89,Strata,2214000,-,24876,2311,10-APR-2018,Condominium,99 Yrs From 10/12/2013,2018,New Sale,Private,09,22,228477,Central Region,Rochor
+THE TENNERY,5 Woodlands Road  #08-21 ,1,80,Strata,880880,-,11011,1023,10-APR-2018,Apartment,99 Yrs From 24/05/2010,2014,Resale,HDB,23,67,677903,West Region,Choa Chu Kang
+MARINA ONE RESIDENCES,21 Marina Way  #26-07 ,1,141,Strata,4462140,-,31646,2940,10-APR-2018,Apartment,99 Yrs From 01/07/2011,2017,New Sale,Private,01,01,018978,Central Region,Downtown Core
+KOVAN MELODY,21 Kovan Road  #02-13 ,1,83,Strata,985000,-,11867,1103,10-APR-2018,Condominium,99 Yrs From 20/01/2004,2006,Resale,Private,19,54,548192,North East Region,Hougang
+LA CASA,50 Woodlands Drive 16  #06-01 ,1,106,Strata,815000,-,7689,714,10-APR-2018,Executive Condominium,99 Yrs From 13/09/2004,2008,Resale,HDB,25,73,737901,North Region,Woodlands
+CITY SUITES,235 Balestier Road  #15-02 ,1,49,Strata,999000,-,20388,1894,10-APR-2018,Apartment,Freehold,2017,New Sale,Private,12,32,329699,Central Region,Novena
+1 KING ALBERT PARK,1 King Albert Park  #01-16 ,1,134,Strata,1700000,-,12687,1179,10-APR-2018,Condominium,Freehold,1997,Resale,Private,21,59,598326,Central Region,Bukit Timah
+THE MINTON,10C Hougang Street 11  #04-46 ,1,87,Strata,900000,-,10345,961,10-APR-2018,Condominium,99 Yrs From 27/07/2007,2013,Resale,Private,19,53,534077,North East Region,Hougang
+AVANT RESIDENCES,10 Aljunied Road  #07-02 ,1,39,Strata,689600,-,17682,1643,10-APR-2018,Apartment,99 Yrs From 22/03/2012,2012,Resale,Private,14,38,389799,Central Region,Geylang
+THE THOMSON DUPLEX,323B Thomson Road  #02-01 ,1,196,Strata,2730000,-,13929,1294,10-APR-2018,Apartment,Freehold,2010,Resale,Private,11,30,307668,Central Region,Novena
+PALAZZETTO,8C Tanjong Rhu Road  #15-01 ,1,76,Strata,1198000,-,15763,1464,10-APR-2018,Apartment,Freehold,2002,Resale,Private,15,43,436891,Central Region,Kallang
+THE BENCOOLEN,180A Bencoolen Street  #07-08 ,1,97,Strata,1350000,-,13918,1293,10-APR-2018,Apartment,99 Yrs From 24/06/1995,1999,Resale,HDB,07,18,189647,Central Region,Rochor
+QUINTERRA,359 Holland Road  #05-03 ,1,156,Strata,1980000,-,12692,1179,10-APR-2018,Apartment,99 Yrs From 08/03/2006,2009,Resale,Private,10,27,278636,Central Region,Bukit Timah
+THE BLOSSOMVALE,900 Dunearn Road  #06-01 ,1,119,Strata,1870000,-,15714,1460,10-APR-2018,Condominium,999 Yrs From 15/08/1884,1998,Resale,Private,21,58,589473,Central Region,Bukit Timah
+RIVERBANK @ FERNVALE,15 Fernvale Close  #03-24 ,1,46,Strata,580000,-,12609,1171,10-APR-2018,Condominium,99 Yrs From 10/07/2013,2017,Sub Sale,HDB,28,79,797477,North East Region,Sengkang
+LENTOR VILLAS,55 Lentor Street ,1,321,Land,3350000,-,10452,971,10-APR-2018,Semi-Detached House,Freehold,1997,Resale,Private,26,78,786777,North East Region,Ang Mo Kio
+NORTHWAVE,109 Woodlands View  #11-20 ,1,104,Strata,948000,-,9115,847,10-APR-2018,Executive Condominium,99 Yrs From 25/05/2015,Uncompleted,New Sale,HDB,25,73,737712,North Region,Woodlands
+ESTILO,71 Wilkie Road  #05-02 ,1,54,Strata,930000,-,17222,1600,10-APR-2018,Apartment,Freehold,2010,Resale,Private,09,22,228071,Central Region,Rochor
+THE CLIFT,21 Mccallum Street  #18-01 ,1,72,Strata,1310000,-,18194,1690,10-APR-2018,Apartment,99 Yrs From 28/04/2004,2011,Resale,Private,01,06,069047,Central Region,Downtown Core
+NORTHVALE,63 Choa Chu Kang Loop  #05-05 ,1,118,Strata,948000,-,8034,746,10-APR-2018,Apartment,99 Yrs From 01/03/1995,1998,Resale,HDB,23,68,689669,West Region,Choa Chu Kang
+CITY SUITES,235 Balestier Road  #11-01 ,1,49,Strata,949000,-,19367,1799,10-APR-2018,Apartment,Freehold,2017,New Sale,N.A,12,32,329699,Central Region,Novena
+BIJOU,2 Jalan Mat Jambol  #03-17 ,1,53,Strata,1100000,-,20755,1928,10-APR-2018,Apartment,Freehold,Uncompleted,New Sale,Private,05,11,119554,Central Region,Queenstown
+D'LEEDON,13 Leedon Heights  #07-49 ,1,96,Strata,1670000,-,17396,1616,10-APR-2018,Condominium,99 Yrs From 08/04/2010,2014,Resale,Private,10,26,266224,Central Region,Bukit Timah
+REGENTVILLE,10 Hougang Street 92  #10-02 ,1,100,Strata,850000,-,8500,790,10-APR-2018,Apartment,99 Yrs From 24/04/1996,1999,Resale,Private,19,53,538687,North East Region,Hougang
+RIVERSAILS,22 Upper Serangoon Crescent  #18-55 ,1,230,Strata,1943000,-,8448,785,10-APR-2018,Condominium,99 Yrs From 07/12/2011,2016,Resale,HDB,19,53,534025,North East Region,Hougang
+THE LAKEFRONT RESIDENCES,42 Lakeside Drive  #10-05 ,1,113,Strata,1390000,-,12301,1143,10-APR-2018,Condominium,99 Yrs From 03/08/2010,2014,Resale,HDB,22,64,648322,West Region,Jurong West
+ARCHIPELAGO,531 Bedok Reservoir Road  #05-109 ,1,77,Strata,1100000,-,14286,1327,10-APR-2018,Condominium,99 Yrs From 01/06/2011,2015,Resale,Private,16,47,479282,East Region,Bedok
+ESTE VILLA,15F Nim Road ,1,318,Strata,2400000,-,7547,701,10-APR-2018,Terrace House,Freehold,2013,Resale,HDB,28,80,804985,North East Region,Serangoon
+THE ORIENT,251 Pasir Panjang Road  #04-06 ,1,92,Strata,1844000,-,20043,1862,10-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+THE GALE,72 Flora Road  #08-27 ,1,126,Strata,1360000,-,10794,1003,10-APR-2018,Condominium,Freehold,2013,Resale,HDB,17,50,506915,East Region,Pasir Ris
+THE LUXURIE,11 Compassvale Road  #02-01 ,1,42,Strata,628000,-,14952,1389,10-APR-2018,Condominium,99 Yrs From 15/06/2011,2015,Resale,Private,19,54,544749,North East Region,Sengkang
+BISHAN POINT,61 Bright Hill Drive  #29-04 ,1,87,Strata,1100000,-,12644,1175,10-APR-2018,Condominium,99 Yrs From 06/12/1997,2005,Resale,Private,20,57,579653,Central Region,Bishan
+NV RESIDENCES,87 Pasir Ris Grove  #14-15 ,1,110,Strata,1030000,-,9364,870,10-APR-2018,Condominium,99 Yrs From 07/01/2008,2013,Resale,Private,18,51,518213,East Region,Pasir Ris
+D'NEST,127 Pasir Ris Grove  #05-02 ,1,70,Strata,820000,-,11714,1088,10-APR-2018,Condominium,99 Yrs From 20/10/2010,2017,Resale,HDB,18,51,518178,East Region,Pasir Ris
+WATERVIEW,91 Tampines Avenue 1  #07-37 ,1,105,Strata,1205000,-,11476,1066,10-APR-2018,Condominium,99 Yrs From 16/06/2010,2014,Resale,HDB,18,52,528690,East Region,Tampines
+THE TAPESTRY,57 Tampines Street 86  #06-27 ,1,133,Strata,1696950,-,12759,1185,10-APR-2018,Condominium,99 Yrs From 31/07/2017,Uncompleted,New Sale,Private,18,52,528542,East Region,Tampines
+CITY SUITES,235 Balestier Road  #13-01 ,1,49,Strata,959000,-,19571,1818,10-APR-2018,Apartment,Freehold,2017,New Sale,N.A,12,32,329699,Central Region,Novena
+MOUNT SOPHIA SUITES,95 Sophia Road  #03-08 ,1,46,Strata,860000,-,18696,1737,10-APR-2018,Apartment,Freehold,2010,Resale,Private,09,22,228163,Central Region,Rochor
+THE CREST,103 Prince Charles Crescent  #20-08 ,1,65,Strata,1463000,-,22508,2091,10-APR-2018,Condominium,99 Yrs From 21/12/2012,2017,Resale,HDB,03,15,159018,Central Region,Bukit Merah
+CITY SUITES,235 Balestier Road  #12-01 ,1,49,Strata,956000,-,19510,1813,10-APR-2018,Apartment,Freehold,2017,New Sale,Private,12,32,329699,Central Region,Novena
+THE SKYWOODS,9 Dairy Farm Heights  #05-22 ,1,125,Strata,1750000,-,14000,1301,10-APR-2018,Condominium,99 Yrs From 21/12/2012,2016,Sub Sale,Private,23,67,677670,West Region,Bukit Panjang
+SEAHILL,119 West Coast Crescent  #06-05 ,1,63,Strata,800000,-,12698,1180,10-APR-2018,Condominium,99 Yrs From 26/09/2011,2016,Resale,Private,05,12,126777,West Region,Clementi
+TRELLIS TOWERS,700 Lorong 1 Toa Payoh  #07-07 ,1,153,Strata,2030000,-,13268,1233,10-APR-2018,Condominium,Freehold,2000,Resale,HDB,12,31,319773,Central Region,Toa Payoh
+MARTIN MODERN,10 Martin Place  #15-10 ,1,71,Strata,2110300,-,29723,2761,10-APR-2018,Condominium,99 Yrs From 28/09/2016,Uncompleted,New Sale,N.A,09,23,237963,Central Region,River Valley
+ARTRA,10 Alexandra View  #18-01 ,1,131,Strata,2349500,-,17935,1666,10-APR-2018,Apartment,99 Yrs From 15/02/2016,Uncompleted,New Sale,HDB,03,15,158745,Central Region,Bukit Merah
+THE ORIENT,251 Pasir Panjang Road  #02-09 ,1,67,Strata,1370300,-,20452,1900,10-APR-2018,Apartment,Freehold,2017,Resale,Private,05,11,118610,Central Region,Queenstown
+THE SCALA,136 Serangoon Avenue 3  #14-21 ,1,84,Strata,1330000,-,15833,1471,10-APR-2018,Apartment,99 Yrs From 06/01/2010,2013,Resale,Private,19,55,554476,North East Region,Serangoon
+PARADISE ISLAND,8 Paradise Island ,1,802,Land,11200000,-,13965,1297,10-APR-2018,Detached House,99 Yrs From 07/11/2005,2009,Resale,Private,04,09,098473,Central Region,Southern Islands
+WHITEWATER,33 Pasir Ris Street 72  #05-26 ,1,106,Strata,815000,-,7689,714,10-APR-2018,Executive Condominium,99 Yrs From 23/07/2002,2005,Resale,HDB,18,51,518770,East Region,Pasir Ris
+DERBYSHIRE HEIGHTS,3 Derbyshire Road  #08-01 ,1,120,Strata,1750000,-,14583,1355,10-APR-2018,Apartment,Freehold,2004,Resale,Private,11,30,309459,Central Region,Novena
+ESPA,10 Cashew Road  #02-01 ,1,134,Strata,1730000,-,12910,1199,10-APR-2018,Condominium,999 Yrs From 25/09/1882,2009,Resale,HDB,23,67,679692,West Region,Bukit Panjang
+TAIPAN REGENCY,161 Haig Road  #02-01 ,1,111,Strata,1350000,-,12162,1130,10-APR-2018,Apartment,Freehold,2002,Resale,Private,15,43,438772,Central Region,Marine Parade
+ESPADA,48 St. Thomas Walk  #32-06 ,1,61,Strata,1498000,-,24557,2281,10-APR-2018,Apartment,Freehold,2013,Resale,Private,09,23,238126,Central Region,River Valley
+KINGSFORD WATERBAY,64 Upper Serangoon View  #09-06 ,1,79,Strata,1154000,-,14608,1357,10-APR-2018,Apartment,99 Yrs From 03/03/2014,Uncompleted,New Sale,Private,19,53,533886,North East Region,Hougang
+
